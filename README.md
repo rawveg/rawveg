@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Knowledge Virus](https://smarterarticles.co.uk/the-knowledge-virus?pk_campaign=rss-feed)
+- [The Reality Check: How the Deep Research Bench Exposes the Limits of AI Research Agents](https://smarterarticles.co.uk/the-reality-check-how-the-deep-research-bench-exposes-the-limits-of-ai?pk_campaign=rss-feed)
+- [The Open-Source AI Revolution](https://dev.to/rawveg/the-open-source-ai-revolution-5ah3)
+- [The Underground Internet: How Fungal Networks Are Redefining Intelligence in the Age of AI](https://smarterarticles.co.uk/the-underground-internet-how-fungal-networks-are-redefining-intelligence-in?pk_campaign=rss-feed)
+- [The AI Revolution in Education: How Intelligent Agents Are Rewriting the Rules of Learning](https://smarterarticles.co.uk/the-ai-revolution-in-education-how-intelligent-agents-are-rewriting-the-rules?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
