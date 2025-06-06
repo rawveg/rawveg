@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Algorithmic Influence](https://dev.to/rawveg/the-algorithmic-influence-18mb)
 - [The Knowledge Virus](https://smarterarticles.co.uk/the-knowledge-virus?pk_campaign=rss-feed)
 - [The Reality Check: How the Deep Research Bench Exposes the Limits of AI Research Agents](https://smarterarticles.co.uk/the-reality-check-how-the-deep-research-bench-exposes-the-limits-of-ai?pk_campaign=rss-feed)
 - [The Open-Source AI Revolution](https://dev.to/rawveg/the-open-source-ai-revolution-5ah3)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Command Line Renaissance](https://dev.to/rawveg/command-line-renaissance-377a)
 - [Real-Time Hacker News Context for Your LLMs, Agents, and Apps](https://dev.to/rawveg/real-time-hacker-news-context-for-your-llms-agents-and-apps-ldg)
 - [AI&#39;s Human Horizon](https://dev.to/rawveg/ais-human-horizon-b58)
-- [Automation and Humanity](https://dev.to/rawveg/automation-and-humanity-3jf8)
 <!-- BLOG-POST-LIST:END -->
