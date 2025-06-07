@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Training Imperative: How Britain&#39;s Workforce Can Bridge the AI Readiness Chasm](https://smarterarticles.co.uk/the-training-imperative-how-britains-workforce-can-bridge-the-ai-readiness?pk_campaign=rss-feed)
 - [The Knowledge Virus](https://dev.to/rawveg/the-knowledge-virus-4pk2)
 - [The Algorithmic Influence](https://dev.to/rawveg/the-algorithmic-influence-18mb)
 - [The Knowledge Virus](https://smarterarticles.co.uk/the-knowledge-virus?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Guarding the Gates](https://dev.to/rawveg/guarding-the-gates-fd1)
 - [Making AI Less of a Black Box: The Basics of Explainable AI](https://dev.to/rawveg/making-ai-less-of-a-black-box-the-basics-of-explainable-ai-4lnh)
 - [Command Line Renaissance](https://dev.to/rawveg/command-line-renaissance-377a)
-- [Real-Time Hacker News Context for Your LLMs, Agents, and Apps](https://dev.to/rawveg/real-time-hacker-news-context-for-your-llms-agents-and-apps-ldg)
 <!-- BLOG-POST-LIST:END -->
