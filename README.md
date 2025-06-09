@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Legal Revolution: How Agentic AI is Rewriting the Rules of Law—and Why Lawyers Are Getting It Dangerously Wrong](https://smarterarticles.co.uk/the-legal-revolution-how-agentic-ai-is-rewriting-the-rules-of-law-and-why?pk_campaign=rss-feed)
 - [The Algorithmic Muse](https://dev.to/rawveg/the-algorithmic-muse-4jo8)
 - [The Training Imperative: How Britain&#39;s Workforce Can Bridge the AI Readiness Chasm](https://smarterarticles.co.uk/the-training-imperative-how-britains-workforce-can-bridge-the-ai-readiness?pk_campaign=rss-feed)
 - [The Knowledge Virus](https://dev.to/rawveg/the-knowledge-virus-4pk2)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [OpenAI&#39;s Identity Crisis: From Nonprofit Saviour to Corporate Giant](https://smarterarticles.co.uk/openais-identity-crisis-from-nonprofit-saviour-to-corporate-giant?pk_campaign=rss-feed)
 - [The Great AI Capability Illusion: Why Human Coders Still Hold the Crown](https://smarterarticles.co.uk/the-great-ai-capability-illusion-why-human-coders-still-hold-the-crown?pk_campaign=rss-feed)
 - [The Foundations of AI Ethics](https://smarterarticles.co.uk/the-foundations-of-ai-ethics?pk_campaign=rss-feed)
-- [When AI Needs to Show Its Working: Why Your Digital Decisions Deserve Explanations](https://smarterarticles.co.uk/when-ai-needs-to-show-its-working-why-your-digital-decisions-deserve?pk_campaign=rss-feed)
 - [The Algorithmic Faustian Bargain](https://dev.to/rawveg/the-algorithmic-faustian-bargain-2cpl)
 - [Beyond Averages](https://dev.to/rawveg/beyond-averages-blm)
 - [The AI Revolution at Our Tables](https://dev.to/rawveg/the-ai-revolution-at-our-tables-1hc4)
