@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI for All Senses, Innovation for All](https://dev.to/rawveg/ai-for-all-senses-innovation-for-all-3cj4)
 - [Unlocking AI&#39;s Mysteries](https://dev.to/rawveg/unlocking-ais-mysteries-2k9e)
 - [The Legal Revolution: How Agentic AI is Rewriting the Rules of Law—and Why Lawyers Are Getting It Dangerously Wrong](https://smarterarticles.co.uk/the-legal-revolution-how-agentic-ai-is-rewriting-the-rules-of-law-and-why?pk_campaign=rss-feed)
 - [The Algorithmic Muse](https://dev.to/rawveg/the-algorithmic-muse-4jo8)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Algorithmic Faustian Bargain](https://dev.to/rawveg/the-algorithmic-faustian-bargain-2cpl)
 - [Beyond Averages](https://dev.to/rawveg/beyond-averages-blm)
 - [The AI Revolution at Our Tables](https://dev.to/rawveg/the-ai-revolution-at-our-tables-1hc4)
-- [Guarding the Gates](https://dev.to/rawveg/guarding-the-gates-fd1)
 <!-- BLOG-POST-LIST:END -->
