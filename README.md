@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Molecular Alchemists: How AI is Rewriting the Rules of Drug Discovery](https://smarterarticles.co.uk/the-molecular-alchemists-how-ai-is-rewriting-the-rules-of-drug-discovery?pk_campaign=rss-feed)
 - [AI for All Senses, Innovation for All](https://dev.to/rawveg/ai-for-all-senses-innovation-for-all-3cj4)
 - [Unlocking AI&#39;s Mysteries](https://dev.to/rawveg/unlocking-ais-mysteries-2k9e)
 - [The Legal Revolution: How Agentic AI is Rewriting the Rules of Law—and Why Lawyers Are Getting It Dangerously Wrong](https://smarterarticles.co.uk/the-legal-revolution-how-agentic-ai-is-rewriting-the-rules-of-law-and-why?pk_campaign=rss-feed)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [The Darwin Machine Dilemma: When AI Starts Rewriting Itself](https://smarterarticles.co.uk/the-darwin-machine-dilemma-when-ai-starts-rewriting-itself?pk_campaign=rss-feed)
 - [OpenAI&#39;s Identity Crisis: From Nonprofit Saviour to Corporate Giant](https://smarterarticles.co.uk/openais-identity-crisis-from-nonprofit-saviour-to-corporate-giant?pk_campaign=rss-feed)
 - [The Great AI Capability Illusion: Why Human Coders Still Hold the Crown](https://smarterarticles.co.uk/the-great-ai-capability-illusion-why-human-coders-still-hold-the-crown?pk_campaign=rss-feed)
-- [The Foundations of AI Ethics](https://smarterarticles.co.uk/the-foundations-of-ai-ethics?pk_campaign=rss-feed)
 - [The Algorithmic Faustian Bargain](https://dev.to/rawveg/the-algorithmic-faustian-bargain-2cpl)
 - [Beyond Averages](https://dev.to/rawveg/beyond-averages-blm)
 - [The AI Revolution at Our Tables](https://dev.to/rawveg/the-ai-revolution-at-our-tables-1hc4)
