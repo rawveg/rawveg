@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Voice Assistants Unveiled](https://dev.to/rawveg/voice-assistants-unveiled-2bf2)
 - [When the Heart Goes Digital](https://dev.to/rawveg/when-the-heart-goes-digital-2ol1)
 - [AI in Our Sacred Spaces](https://dev.to/rawveg/ai-in-our-sacred-spaces-3953)
 - [The Decimal Point Dilemma: How MIT Cracked the Code on Computing Ethics](https://smarterarticles.co.uk/the-decimal-point-dilemma-how-mit-cracked-the-code-on-computing-ethics?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Ghost in the Machine](https://dev.to/rawveg/the-ghost-in-the-machine-4m3i)
 - [The Darwin Machine Dilemma: When AI Starts Rewriting Itself](https://smarterarticles.co.uk/the-darwin-machine-dilemma-when-ai-starts-rewriting-itself?pk_campaign=rss-feed)
 - [OpenAI&#39;s Identity Crisis: From Nonprofit Saviour to Corporate Giant](https://smarterarticles.co.uk/openais-identity-crisis-from-nonprofit-saviour-to-corporate-giant?pk_campaign=rss-feed)
-- [The Algorithmic Faustian Bargain](https://dev.to/rawveg/the-algorithmic-faustian-bargain-2cpl)
 <!-- BLOG-POST-LIST:END -->
