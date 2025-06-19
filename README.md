@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Synthetic Data](https://dev.to/rawveg/synthetic-data-2mmf)
+- [The End of Learning as We Know It: How MIT&#39;s Caitlin Morris Is Hacking Human Connection in the Age of AI](https://smarterarticles.co.uk/the-end-of-learning-as-we-know-it-how-mits-caitlin-morris-is-hacking-human?pk_campaign=rss-feed)
 - [Voice Assistants Unveiled](https://dev.to/rawveg/voice-assistants-unveiled-2bf2)
 - [When the Heart Goes Digital](https://dev.to/rawveg/when-the-heart-goes-digital-2ol1)
 - [AI in Our Sacred Spaces](https://dev.to/rawveg/ai-in-our-sacred-spaces-3953)
@@ -33,6 +35,4 @@ Here are some ideas to get you started:
 - [The Underground Internet: How Fungal Networks Are Redefining Intelligence in the Age of AI](https://smarterarticles.co.uk/the-underground-internet-how-fungal-networks-are-redefining-intelligence-in?pk_campaign=rss-feed)
 - [The AI Revolution in Education: How Intelligent Agents Are Rewriting the Rules of Learning](https://smarterarticles.co.uk/the-ai-revolution-in-education-how-intelligent-agents-are-rewriting-the-rules?pk_campaign=rss-feed)
 - [The Ghost in the Machine](https://dev.to/rawveg/the-ghost-in-the-machine-4m3i)
-- [The Darwin Machine Dilemma: When AI Starts Rewriting Itself](https://smarterarticles.co.uk/the-darwin-machine-dilemma-when-ai-starts-rewriting-itself?pk_campaign=rss-feed)
-- [OpenAI&#39;s Identity Crisis: From Nonprofit Saviour to Corporate Giant](https://smarterarticles.co.uk/openais-identity-crisis-from-nonprofit-saviour-to-corporate-giant?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
