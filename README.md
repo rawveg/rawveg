@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Great Automotive Safety Reckoning: When Silicon Valley Meets Steel and Blood](https://smarterarticles.co.uk/the-great-automotive-safety-reckoning-when-silicon-valley-meets-steel-and-blood?pk_campaign=rss-feed)
 - [Synthetic Data](https://dev.to/rawveg/synthetic-data-2mmf)
 - [The End of Learning as We Know It: How MIT&#39;s Caitlin Morris Is Hacking Human Connection in the Age of AI](https://smarterarticles.co.uk/the-end-of-learning-as-we-know-it-how-mits-caitlin-morris-is-hacking-human?pk_campaign=rss-feed)
 - [Voice Assistants Unveiled](https://dev.to/rawveg/voice-assistants-unveiled-2bf2)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Open-Source AI Revolution](https://dev.to/rawveg/the-open-source-ai-revolution-5ah3)
 - [The Underground Internet: How Fungal Networks Are Redefining Intelligence in the Age of AI](https://smarterarticles.co.uk/the-underground-internet-how-fungal-networks-are-redefining-intelligence-in?pk_campaign=rss-feed)
 - [The AI Revolution in Education: How Intelligent Agents Are Rewriting the Rules of Learning](https://smarterarticles.co.uk/the-ai-revolution-in-education-how-intelligent-agents-are-rewriting-the-rules?pk_campaign=rss-feed)
-- [The Ghost in the Machine](https://dev.to/rawveg/the-ghost-in-the-machine-4m3i)
 <!-- BLOG-POST-LIST:END -->
