@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Invisible Revolution: How Embodied AI is Quietly Transforming Chinese Streets](https://smarterarticles.co.uk/the-invisible-revolution-how-embodied-ai-is-quietly-transforming-chinese?pk_campaign=rss-feed)
 - [The Quantum Imperative](https://dev.to/rawveg/the-quantum-imperative-2pp6)
 - [The Algorithmic Apostles: How AI Influencers Are Manufacturing Authenticity at Scale](https://smarterarticles.co.uk/the-algorithmic-apostles-how-ai-influencers-are-manufacturing-authenticity-at?pk_campaign=rss-feed)
 - [Artificial Remembrance: Ethical Boundaries in Creating Digital Legacies](https://smarterarticles.co.uk/artificial-remembrance-ethical-boundaries-in-creating-digital-legacies?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Knowledge Virus](https://dev.to/rawveg/the-knowledge-virus-4pk2)
 - [The Algorithmic Influence](https://dev.to/rawveg/the-algorithmic-influence-18mb)
 - [The Knowledge Virus](https://smarterarticles.co.uk/the-knowledge-virus?pk_campaign=rss-feed)
-- [The Reality Check: How the Deep Research Bench Exposes the Limits of AI Research Agents](https://smarterarticles.co.uk/the-reality-check-how-the-deep-research-bench-exposes-the-limits-of-ai?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
