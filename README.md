@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The New Data Barons: How Web Scraping Companies Are Redefining Ethical AI Training](https://smarterarticles.co.uk/the-new-data-barons-how-web-scraping-companies-are-redefining-ethical-ai?pk_campaign=rss-feed)
 - [The Invisible Revolution: How Embodied AI is Quietly Transforming Chinese Streets](https://smarterarticles.co.uk/the-invisible-revolution-how-embodied-ai-is-quietly-transforming-chinese?pk_campaign=rss-feed)
 - [The Quantum Imperative](https://dev.to/rawveg/the-quantum-imperative-2pp6)
 - [The Algorithmic Apostles: How AI Influencers Are Manufacturing Authenticity at Scale](https://smarterarticles.co.uk/the-algorithmic-apostles-how-ai-influencers-are-manufacturing-authenticity-at?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Training Imperative: How Britain&#39;s Workforce Can Bridge the AI Readiness Chasm](https://smarterarticles.co.uk/the-training-imperative-how-britains-workforce-can-bridge-the-ai-readiness?pk_campaign=rss-feed)
 - [The Knowledge Virus](https://dev.to/rawveg/the-knowledge-virus-4pk2)
 - [The Algorithmic Influence](https://dev.to/rawveg/the-algorithmic-influence-18mb)
-- [The Knowledge Virus](https://smarterarticles.co.uk/the-knowledge-virus?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
