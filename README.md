@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Double-Edged Algorithm: How AI Simultaneously Powers Business Growth and Criminal Innovation](https://smarterarticles.co.uk/the-double-edged-algorithm-how-ai-simultaneously-powers-business-growth-and?pk_campaign=rss-feed)
 - [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
 - [AI Empowerment or Dependency: Crafting the Balance](https://smarterarticles.co.uk/ai-empowerment-or-dependency-crafting-the-balance?pk_campaign=rss-feed)
 - [The Shadow of Progress: How AI-Powered Marketing is Rewiring Our Reality](https://smarterarticles.co.uk/the-shadow-of-progress-how-ai-powered-marketing-is-rewiring-our-reality?pk_campaign=rss-feed)
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 - [When the Heart Goes Digital](https://dev.to/rawveg/when-the-heart-goes-digital-2ol1)
 - [AI in Our Sacred Spaces](https://dev.to/rawveg/ai-in-our-sacred-spaces-3953)
 - [The Decimal Point Dilemma: How MIT Cracked the Code on Computing Ethics](https://smarterarticles.co.uk/the-decimal-point-dilemma-how-mit-cracked-the-code-on-computing-ethics?pk_campaign=rss-feed)
-- [The Molecular Alchemists: How AI is Rewriting the Rules of Drug Discovery](https://smarterarticles.co.uk/the-molecular-alchemists-how-ai-is-rewriting-the-rules-of-drug-discovery?pk_campaign=rss-feed)
 - [AI for All Senses, Innovation for All](https://dev.to/rawveg/ai-for-all-senses-innovation-for-all-3cj4)
 - [Unlocking AI&#39;s Mysteries](https://dev.to/rawveg/unlocking-ais-mysteries-2k9e)
 - [The Algorithmic Muse](https://dev.to/rawveg/the-algorithmic-muse-4jo8)
