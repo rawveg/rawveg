@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Shadow of Progress: How AI-Powered Marketing is Rewiring Our Reality](https://smarterarticles.co.uk/the-shadow-of-progress-how-ai-powered-marketing-is-rewiring-our-reality?pk_campaign=rss-feed)
 - [The New Data Barons: How Web Scraping Companies Are Redefining Ethical AI Training](https://smarterarticles.co.uk/the-new-data-barons-how-web-scraping-companies-are-redefining-ethical-ai?pk_campaign=rss-feed)
 - [The Invisible Revolution: How Embodied AI is Quietly Transforming Chinese Streets](https://smarterarticles.co.uk/the-invisible-revolution-how-embodied-ai-is-quietly-transforming-chinese?pk_campaign=rss-feed)
 - [The Quantum Imperative](https://dev.to/rawveg/the-quantum-imperative-2pp6)
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
 - [Unlocking AI&#39;s Mysteries](https://dev.to/rawveg/unlocking-ais-mysteries-2k9e)
 - [The Legal Revolution: How Agentic AI is Rewriting the Rules of Law—and Why Lawyers Are Getting It Dangerously Wrong](https://smarterarticles.co.uk/the-legal-revolution-how-agentic-ai-is-rewriting-the-rules-of-law-and-why?pk_campaign=rss-feed)
 - [The Algorithmic Muse](https://dev.to/rawveg/the-algorithmic-muse-4jo8)
-- [The Training Imperative: How Britain&#39;s Workforce Can Bridge the AI Readiness Chasm](https://smarterarticles.co.uk/the-training-imperative-how-britains-workforce-can-bridge-the-ai-readiness?pk_campaign=rss-feed)
 - [The Knowledge Virus](https://dev.to/rawveg/the-knowledge-virus-4pk2)
 - [The Algorithmic Influence](https://dev.to/rawveg/the-algorithmic-influence-18mb)
 <!-- BLOG-POST-LIST:END -->
