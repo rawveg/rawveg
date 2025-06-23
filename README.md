@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
 - [The Shadow of Progress: How AI-Powered Marketing is Rewiring Our Reality](https://smarterarticles.co.uk/the-shadow-of-progress-how-ai-powered-marketing-is-rewiring-our-reality?pk_campaign=rss-feed)
 - [The New Data Barons: How Web Scraping Companies Are Redefining Ethical AI Training](https://smarterarticles.co.uk/the-new-data-barons-how-web-scraping-companies-are-redefining-ethical-ai?pk_campaign=rss-feed)
 - [The Invisible Revolution: How Embodied AI is Quietly Transforming Chinese Streets](https://smarterarticles.co.uk/the-invisible-revolution-how-embodied-ai-is-quietly-transforming-chinese?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Legal Revolution: How Agentic AI is Rewriting the Rules of Law—and Why Lawyers Are Getting It Dangerously Wrong](https://smarterarticles.co.uk/the-legal-revolution-how-agentic-ai-is-rewriting-the-rules-of-law-and-why?pk_campaign=rss-feed)
 - [The Algorithmic Muse](https://dev.to/rawveg/the-algorithmic-muse-4jo8)
 - [The Knowledge Virus](https://dev.to/rawveg/the-knowledge-virus-4pk2)
-- [The Algorithmic Influence](https://dev.to/rawveg/the-algorithmic-influence-18mb)
 <!-- BLOG-POST-LIST:END -->
