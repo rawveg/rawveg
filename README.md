@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Hollow Echo: How AI Is Creating a Generation of Academic Ghosts](https://smarterarticles.co.uk/the-hollow-echo-how-ai-is-creating-a-generation-of-academic-ghosts?pk_campaign=rss-feed)
 - [The Double-Edged Algorithm: How AI Simultaneously Powers Business Growth and Criminal Innovation](https://smarterarticles.co.uk/the-double-edged-algorithm-how-ai-simultaneously-powers-business-growth-and?pk_campaign=rss-feed)
 - [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
 - [AI Empowerment or Dependency: Crafting the Balance](https://smarterarticles.co.uk/ai-empowerment-or-dependency-crafting-the-balance?pk_campaign=rss-feed)
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 - [Voice Assistants Unveiled](https://dev.to/rawveg/voice-assistants-unveiled-2bf2)
 - [When the Heart Goes Digital](https://dev.to/rawveg/when-the-heart-goes-digital-2ol1)
 - [AI in Our Sacred Spaces](https://dev.to/rawveg/ai-in-our-sacred-spaces-3953)
-- [The Decimal Point Dilemma: How MIT Cracked the Code on Computing Ethics](https://smarterarticles.co.uk/the-decimal-point-dilemma-how-mit-cracked-the-code-on-computing-ethics?pk_campaign=rss-feed)
 - [AI for All Senses, Innovation for All](https://dev.to/rawveg/ai-for-all-senses-innovation-for-all-3cj4)
 - [Unlocking AI&#39;s Mysteries](https://dev.to/rawveg/unlocking-ais-mysteries-2k9e)
 - [The Algorithmic Muse](https://dev.to/rawveg/the-algorithmic-muse-4jo8)
