@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Terms of Intimacy](https://dev.to/rawveg/terms-of-intimacy-3ang)
 - [The Hollow Echo: How AI Is Creating a Generation of Academic Ghosts](https://smarterarticles.co.uk/the-hollow-echo-how-ai-is-creating-a-generation-of-academic-ghosts?pk_campaign=rss-feed)
 - [The Double-Edged Algorithm: How AI Simultaneously Powers Business Growth and Criminal Innovation](https://smarterarticles.co.uk/the-double-edged-algorithm-how-ai-simultaneously-powers-business-growth-and?pk_campaign=rss-feed)
 - [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI for All Senses, Innovation for All](https://dev.to/rawveg/ai-for-all-senses-innovation-for-all-3cj4)
 - [Unlocking AI&#39;s Mysteries](https://dev.to/rawveg/unlocking-ais-mysteries-2k9e)
 - [The Algorithmic Muse](https://dev.to/rawveg/the-algorithmic-muse-4jo8)
-- [The Knowledge Virus](https://dev.to/rawveg/the-knowledge-virus-4pk2)
 <!-- BLOG-POST-LIST:END -->
