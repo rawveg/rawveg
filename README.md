@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Care Without a Pulse](https://dev.to/rawveg/care-without-a-pulse-4nid)
 - [Terms of Intimacy](https://dev.to/rawveg/terms-of-intimacy-3ang)
 - [The Plateau Problem: When Silicon Valley&#39;s AI Golden Age Hits Reality](https://smarterarticles.co.uk/the-plateau-problem-when-silicon-valleys-ai-golden-age-hits-reality?pk_campaign=rss-feed)
 - [The Great AI Subsidy Squeeze: When Free Becomes a Luxury](https://smarterarticles.co.uk/the-great-ai-subsidy-squeeze-when-free-becomes-a-luxury?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI in Our Sacred Spaces](https://dev.to/rawveg/ai-in-our-sacred-spaces-3953)
 - [AI for All Senses, Innovation for All](https://dev.to/rawveg/ai-for-all-senses-innovation-for-all-3cj4)
 - [Unlocking AI&#39;s Mysteries](https://dev.to/rawveg/unlocking-ais-mysteries-2k9e)
-- [The Algorithmic Muse](https://dev.to/rawveg/the-algorithmic-muse-4jo8)
 <!-- BLOG-POST-LIST:END -->
