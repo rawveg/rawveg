@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Shifting Sands of Online Trust](https://dev.to/rawveg/the-shifting-sands-of-online-trust-omg)
 - [The Unseen World](https://dev.to/rawveg/the-unseen-world-4gj6)
 - [The Great AI Deception: How Marketing Myths Are Reshaping Our Reality](https://smarterarticles.co.uk/the-great-ai-deception-how-marketing-myths-are-reshaping-our-reality?pk_campaign=rss-feed)
 - [Care Without a Pulse](https://dev.to/rawveg/care-without-a-pulse-4nid)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Voice Assistants Unveiled](https://dev.to/rawveg/voice-assistants-unveiled-2bf2)
 - [When the Heart Goes Digital](https://dev.to/rawveg/when-the-heart-goes-digital-2ol1)
 - [AI in Our Sacred Spaces](https://dev.to/rawveg/ai-in-our-sacred-spaces-3953)
-- [AI for All Senses, Innovation for All](https://dev.to/rawveg/ai-for-all-senses-innovation-for-all-3cj4)
 <!-- BLOG-POST-LIST:END -->
