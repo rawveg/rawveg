@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [The Echo of Existence](https://dev.to/rawveg/the-echo-of-existence-4kb)
+- [The Silent Epidemic: How Digital Manipulation Is Rewiring Our Minds](https://smarterarticles.co.uk/the-silent-epidemic-how-digital-manipulation-is-rewiring-our-minds?pk_campaign=rss-feed)
 - [The Shifting Sands of Online Trust](https://dev.to/rawveg/the-shifting-sands-of-online-trust-omg)
 - [The Unseen World](https://dev.to/rawveg/the-unseen-world-4gj6)
 - [Before the Ouroboros Bites Down: AI’s Synthetic Feedback Problem](https://smarterarticles.co.uk/before-the-ouroboros-bites-down-ais-synthetic-feedback-problem?pk_campaign=rss-feed)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [The Plateau Problem: When Silicon Valley&#39;s AI Golden Age Hits Reality](https://smarterarticles.co.uk/the-plateau-problem-when-silicon-valleys-ai-golden-age-hits-reality?pk_campaign=rss-feed)
 - [The Great AI Subsidy Squeeze: When Free Becomes a Luxury](https://smarterarticles.co.uk/the-great-ai-subsidy-squeeze-when-free-becomes-a-luxury?pk_campaign=rss-feed)
 - [The Hollow Echo: How AI Is Creating a Generation of Academic Ghosts](https://smarterarticles.co.uk/the-hollow-echo-how-ai-is-creating-a-generation-of-academic-ghosts?pk_campaign=rss-feed)
-- [The Double-Edged Algorithm: How AI Simultaneously Powers Business Growth and Criminal Innovation](https://smarterarticles.co.uk/the-double-edged-algorithm-how-ai-simultaneously-powers-business-growth-and?pk_campaign=rss-feed)
 - [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
 - [The Quantum Imperative](https://dev.to/rawveg/the-quantum-imperative-2pp6)
 - [Synthetic Data](https://dev.to/rawveg/synthetic-data-2mmf)
