@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Unlocking AI&#39;s Long-Term Memory](https://dev.to/rawveg/unlocking-ais-long-term-memory-636)
+- [Sony Music&#39;s Legal Offensive Against AI: Reshaping Copyright for the Machine Learning Era](https://smarterarticles.co.uk/sony-musics-legal-offensive-against-ai-reshaping-copyright-for-the-machine?pk_campaign=rss-feed)
 - [The Echo of Existence](https://dev.to/rawveg/the-echo-of-existence-4kb)
 - [MIT LOBSTgER: When Artificial Intelligence Meets Ocean Conservation](https://smarterarticles.co.uk/mit-lobstger-when-artificial-intelligence-meets-ocean-conservation-storytelling?pk_campaign=rss-feed)
 - [The Silent Epidemic: How Digital Manipulation Is Rewiring Our Minds](https://smarterarticles.co.uk/the-silent-epidemic-how-digital-manipulation-is-rewiring-our-minds?pk_campaign=rss-feed)
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 - [The Irony Trap: When Artificial Intelligence Can&#39;t Take a Joke](https://smarterarticles.co.uk/the-irony-trap-when-artificial-intelligence-cant-take-a-joke?pk_campaign=rss-feed)
 - [When the Music Stops: The Coming AI Reckoning That Could Eclipse the Dot-Com Crash](https://smarterarticles.co.uk/when-the-music-stops-the-coming-ai-reckoning-that-could-eclipse-the-dot-com?pk_campaign=rss-feed)
 - [The Plateau Problem: When Silicon Valley&#39;s AI Golden Age Hits Reality](https://smarterarticles.co.uk/the-plateau-problem-when-silicon-valleys-ai-golden-age-hits-reality?pk_campaign=rss-feed)
-- [The Great AI Subsidy Squeeze: When Free Becomes a Luxury](https://smarterarticles.co.uk/the-great-ai-subsidy-squeeze-when-free-becomes-a-luxury?pk_campaign=rss-feed)
 - [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
 - [The Quantum Imperative](https://dev.to/rawveg/the-quantum-imperative-2pp6)
 - [Synthetic Data](https://dev.to/rawveg/synthetic-data-2mmf)
