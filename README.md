@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [The Looming Intelligence](https://dev.to/rawveg/the-looming-intelligence-2nce)
 - [Unlocking AI&#39;s Long-Term Memory](https://dev.to/rawveg/unlocking-ais-long-term-memory-636)
+- [How AI is Transforming Scientific Discovery: From Tool to Research Partner](https://smarterarticles.co.uk/how-ai-is-transforming-scientific-discovery-from-tool-to-research-partner?pk_campaign=rss-feed)
 - [The AI Energy Paradox: How Machine Intelligence Could Save or Doom Our Climate Future](https://smarterarticles.co.uk/the-ai-energy-paradox-how-machine-intelligence-could-save-or-doom-our-climate?pk_campaign=rss-feed)
 - [Sony Music&#39;s Legal Offensive Against AI: Reshaping Copyright for the Machine Learning Era](https://smarterarticles.co.uk/sony-musics-legal-offensive-against-ai-reshaping-copyright-for-the-machine?pk_campaign=rss-feed)
 - [The Echo of Existence](https://dev.to/rawveg/the-echo-of-existence-4kb)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [Terms of Intimacy](https://dev.to/rawveg/terms-of-intimacy-3ang)
 - [When Your Voice Becomes Someone Else&#39;s Property: The Battle for Digital Identity in the Age of AI](https://smarterarticles.co.uk/when-your-voice-becomes-someone-elses-property-the-battle-for-digital?pk_campaign=rss-feed)
 - [The Irony Trap: When Artificial Intelligence Can&#39;t Take a Joke](https://smarterarticles.co.uk/the-irony-trap-when-artificial-intelligence-cant-take-a-joke?pk_campaign=rss-feed)
-- [When the Music Stops: The Coming AI Reckoning That Could Eclipse the Dot-Com Crash](https://smarterarticles.co.uk/when-the-music-stops-the-coming-ai-reckoning-that-could-eclipse-the-dot-com?pk_campaign=rss-feed)
 - [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
 - [The Quantum Imperative](https://dev.to/rawveg/the-quantum-imperative-2pp6)
 - [Synthetic Data](https://dev.to/rawveg/synthetic-data-2mmf)
