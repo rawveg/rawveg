@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Security in 2025](https://dev.to/rawveg/ai-security-in-2025-3e8b)
 - [The Looming Intelligence](https://dev.to/rawveg/the-looming-intelligence-2nce)
 - [Unlocking AI&#39;s Long-Term Memory](https://dev.to/rawveg/unlocking-ais-long-term-memory-636)
 - [The Ego Problem: Why Scientific Arrogance Needs a Reality Check](https://smarterarticles.co.uk/the-ego-problem-why-scientific-arrogance-needs-a-reality-check?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Your Voice Becomes Someone Else&#39;s Property: The Battle for Digital Identity in the Age of AI](https://smarterarticles.co.uk/when-your-voice-becomes-someone-elses-property-the-battle-for-digital?pk_campaign=rss-feed)
 - [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
 - [The Quantum Imperative](https://dev.to/rawveg/the-quantum-imperative-2pp6)
-- [Synthetic Data](https://dev.to/rawveg/synthetic-data-2mmf)
 <!-- BLOG-POST-LIST:END -->
