@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [AI Security in 2025](https://dev.to/rawveg/ai-security-in-2025-3e8b)
+- [The Great Efficiency Theatre: How Corporate AI Narratives Mask the Real Transformation of Work](https://smarterarticles.co.uk/the-great-efficiency-theatre-how-corporate-ai-narratives-mask-the-real?pk_campaign=rss-feed)
 - [The Looming Intelligence](https://dev.to/rawveg/the-looming-intelligence-2nce)
 - [Unlocking AI&#39;s Long-Term Memory](https://dev.to/rawveg/unlocking-ais-long-term-memory-636)
 - [The Ego Problem: Why Scientific Arrogance Needs a Reality Check](https://smarterarticles.co.uk/the-ego-problem-why-scientific-arrogance-needs-a-reality-check?pk_campaign=rss-feed)
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
 - [The Great AI Deception: How Marketing Myths Are Reshaping Our Reality](https://smarterarticles.co.uk/the-great-ai-deception-how-marketing-myths-are-reshaping-our-reality?pk_campaign=rss-feed)
 - [Care Without a Pulse](https://dev.to/rawveg/care-without-a-pulse-4nid)
 - [Terms of Intimacy](https://dev.to/rawveg/terms-of-intimacy-3ang)
-- [When Your Voice Becomes Someone Else&#39;s Property: The Battle for Digital Identity in the Age of AI](https://smarterarticles.co.uk/when-your-voice-becomes-someone-elses-property-the-battle-for-digital?pk_campaign=rss-feed)
 - [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
 - [The Quantum Imperative](https://dev.to/rawveg/the-quantum-imperative-2pp6)
 <!-- BLOG-POST-LIST:END -->
