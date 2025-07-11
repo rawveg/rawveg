@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [AI Security in 2025](https://dev.to/rawveg/ai-security-in-2025-3e8b)
+- [The Great Divide: On-Device Intelligence Versus Cloud-Based AI Systems](https://smarterarticles.co.uk/the-great-divide-on-device-intelligence-versus-cloud-based-ai-systems?pk_campaign=rss-feed)
 - [The Great Efficiency Theatre: How Corporate AI Narratives Mask the Real Transformation of Work](https://smarterarticles.co.uk/the-great-efficiency-theatre-how-corporate-ai-narratives-mask-the-real?pk_campaign=rss-feed)
 - [The Looming Intelligence](https://dev.to/rawveg/the-looming-intelligence-2nce)
 - [Unlocking AI&#39;s Long-Term Memory](https://dev.to/rawveg/unlocking-ais-long-term-memory-636)
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 - [The Unseen World](https://dev.to/rawveg/the-unseen-world-4gj6)
 - [Before the Ouroboros Bites Down: AI’s Synthetic Feedback Problem](https://smarterarticles.co.uk/before-the-ouroboros-bites-down-ais-synthetic-feedback-problem?pk_campaign=rss-feed)
 - [The Silent Watchers: How AI Surveillance Has Quietly Colonised Your Digital Life](https://smarterarticles.co.uk/the-silent-watchers-how-ai-surveillance-has-quietly-colonised-your-digital-life?pk_campaign=rss-feed)
-- [The Great AI Deception: How Marketing Myths Are Reshaping Our Reality](https://smarterarticles.co.uk/the-great-ai-deception-how-marketing-myths-are-reshaping-our-reality?pk_campaign=rss-feed)
 - [Care Without a Pulse](https://dev.to/rawveg/care-without-a-pulse-4nid)
 - [Terms of Intimacy](https://dev.to/rawveg/terms-of-intimacy-3ang)
 - [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
