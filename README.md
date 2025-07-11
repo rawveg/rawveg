@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Why We Trust Ratings More Than People](https://dev.to/rawveg/why-we-trust-ratings-more-than-people-3p71)
 - [AI Security in 2025](https://dev.to/rawveg/ai-security-in-2025-3e8b)
 - [The Great Divide: On-Device Intelligence Versus Cloud-Based AI Systems](https://smarterarticles.co.uk/the-great-divide-on-device-intelligence-versus-cloud-based-ai-systems?pk_campaign=rss-feed)
 - [The Great Efficiency Theatre: How Corporate AI Narratives Mask the Real Transformation of Work](https://smarterarticles.co.uk/the-great-efficiency-theatre-how-corporate-ai-narratives-mask-the-real?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Care Without a Pulse](https://dev.to/rawveg/care-without-a-pulse-4nid)
 - [Terms of Intimacy](https://dev.to/rawveg/terms-of-intimacy-3ang)
 - [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
-- [The Quantum Imperative](https://dev.to/rawveg/the-quantum-imperative-2pp6)
 <!-- BLOG-POST-LIST:END -->
