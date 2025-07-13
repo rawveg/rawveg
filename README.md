@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Why We Trust Ratings More Than People](https://dev.to/rawveg/why-we-trust-ratings-more-than-people-3p71)
 - [AI Security in 2025](https://dev.to/rawveg/ai-security-in-2025-3e8b)
+- [The Silicon Battlefield: How Global Power Struggles Are Rewriting the Rules of AI Warfare](https://smarterarticles.co.uk/the-silicon-battlefield-how-global-power-struggles-are-rewriting-the-rules-of?pk_campaign=rss-feed)
 - [When Machines Learn to Discriminate: The Hidden Cost of AI Bias on Society&#39;s Most Vulnerable](https://smarterarticles.co.uk/when-machines-learn-to-discriminate-the-hidden-cost-of-ai-bias-on-societys?pk_campaign=rss-feed)
 - [The Great Divide: On-Device Intelligence Versus Cloud-Based AI Systems](https://smarterarticles.co.uk/the-great-divide-on-device-intelligence-versus-cloud-based-ai-systems?pk_campaign=rss-feed)
 - [The Great Efficiency Theatre: How Corporate AI Narratives Mask the Real Transformation of Work](https://smarterarticles.co.uk/the-great-efficiency-theatre-how-corporate-ai-narratives-mask-the-real?pk_campaign=rss-feed)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [The Silent Epidemic: How Digital Manipulation Is Rewiring Our Minds](https://smarterarticles.co.uk/the-silent-epidemic-how-digital-manipulation-is-rewiring-our-minds?pk_campaign=rss-feed)
 - [The Shifting Sands of Online Trust](https://dev.to/rawveg/the-shifting-sands-of-online-trust-omg)
 - [The Unseen World](https://dev.to/rawveg/the-unseen-world-4gj6)
-- [Before the Ouroboros Bites Down: AI’s Synthetic Feedback Problem](https://smarterarticles.co.uk/before-the-ouroboros-bites-down-ais-synthetic-feedback-problem?pk_campaign=rss-feed)
 - [Care Without a Pulse](https://dev.to/rawveg/care-without-a-pulse-4nid)
 - [Terms of Intimacy](https://dev.to/rawveg/terms-of-intimacy-3ang)
 - [The Algorithmic Classroom](https://dev.to/rawveg/the-algorithmic-classroom-nfh)
