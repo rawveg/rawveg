@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [The Gamification of Truth in Digital Spaces](https://dev.to/rawveg/the-gamification-of-truth-in-digital-spaces-55b9)
 - [Why We Trust Ratings More Than People](https://dev.to/rawveg/why-we-trust-ratings-more-than-people-3p71)
+- [When AI Learns to Think: How Test-Time Training is Redefining Machine Intelligence](https://smarterarticles.co.uk/when-ai-learns-to-think-how-test-time-training-is-redefining-machine?pk_campaign=rss-feed)
 - [The Meaningfulness Gap in AI Ethics: Why Good Intentions Aren&#39;t Enough](https://smarterarticles.co.uk/the-meaningfulness-gap-in-ai-ethics-why-good-intentions-arent-enough?pk_campaign=rss-feed)
 - [AI Security in 2025](https://dev.to/rawveg/ai-security-in-2025-3e8b)
 - [The Silicon Battlefield: How Global Power Struggles Are Rewriting the Rules of AI Warfare](https://smarterarticles.co.uk/the-silicon-battlefield-how-global-power-struggles-are-rewriting-the-rules-of?pk_campaign=rss-feed)
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 - [The AI Energy Paradox: How Machine Intelligence Could Save or Doom Our Climate Future](https://smarterarticles.co.uk/the-ai-energy-paradox-how-machine-intelligence-could-save-or-doom-our-climate?pk_campaign=rss-feed)
 - [Sony Music&#39;s Legal Offensive Against AI: Reshaping Copyright for the Machine Learning Era](https://smarterarticles.co.uk/sony-musics-legal-offensive-against-ai-reshaping-copyright-for-the-machine?pk_campaign=rss-feed)
 - [The Echo of Existence](https://dev.to/rawveg/the-echo-of-existence-4kb)
-- [MIT LOBSTgER: When Artificial Intelligence Meets Ocean Conservation](https://smarterarticles.co.uk/mit-lobstger-when-artificial-intelligence-meets-ocean-conservation-storytelling?pk_campaign=rss-feed)
 - [The Shifting Sands of Online Trust](https://dev.to/rawveg/the-shifting-sands-of-online-trust-omg)
 - [The Unseen World](https://dev.to/rawveg/the-unseen-world-4gj6)
 - [Care Without a Pulse](https://dev.to/rawveg/care-without-a-pulse-4nid)
