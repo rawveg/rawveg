@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Open-Source AI&#39;s Great Accessibility Illusion](https://dev.to/rawveg/open-source-ais-great-accessibility-illusion-4p8h)
 - [The Gamification of Truth in Digital Spaces](https://dev.to/rawveg/the-gamification-of-truth-in-digital-spaces-55b9)
 - [Why We Trust Ratings More Than People](https://dev.to/rawveg/why-we-trust-ratings-more-than-people-3p71)
 - [When AI Learns to Think: How Test-Time Training is Redefining Machine Intelligence](https://smarterarticles.co.uk/when-ai-learns-to-think-how-test-time-training-is-redefining-machine?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Shifting Sands of Online Trust](https://dev.to/rawveg/the-shifting-sands-of-online-trust-omg)
 - [The Unseen World](https://dev.to/rawveg/the-unseen-world-4gj6)
 - [Care Without a Pulse](https://dev.to/rawveg/care-without-a-pulse-4nid)
-- [Terms of Intimacy](https://dev.to/rawveg/terms-of-intimacy-3ang)
 <!-- BLOG-POST-LIST:END -->
