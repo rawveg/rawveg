@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [From Keyboard to Code Co-Pilot](https://dev.to/rawveg/from-keyboard-to-code-co-pilot-1ped)
 - [Introducing OpenAPI Directory MCP: Your Ultimate Hub for Reliable Web APIs!](https://dev.to/rawveg/introducing-openapi-directory-mcp-your-ultimate-hub-for-reliable-web-apis-amo)
+- [The EU&#39;s AI Code of Practice: Your Digital Future Under Brussels&#39; Microscope](https://smarterarticles.co.uk/the-eus-ai-code-of-practice-your-digital-future-under-brussels-microscope?pk_campaign=rss-feed)
 - [Open-Source AI&#39;s Great Accessibility Illusion](https://dev.to/rawveg/open-source-ais-great-accessibility-illusion-4p8h)
 - [The Mind&#39;s Mirror: How Hybrid Intelligence Is Making AI Powerful and Transparent](https://smarterarticles.co.uk/the-minds-mirror-how-hybrid-intelligence-is-making-ai-powerful-and-transparent?pk_campaign=rss-feed)
 - [The Gamification of Truth in Digital Spaces](https://dev.to/rawveg/the-gamification-of-truth-in-digital-spaces-55b9)
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
 - [The Looming Intelligence](https://dev.to/rawveg/the-looming-intelligence-2nce)
 - [Unlocking AI&#39;s Long-Term Memory](https://dev.to/rawveg/unlocking-ais-long-term-memory-636)
 - [The Ego Problem: Why Scientific Arrogance Needs a Reality Check](https://smarterarticles.co.uk/the-ego-problem-why-scientific-arrogance-needs-a-reality-check?pk_campaign=rss-feed)
-- [How AI is Transforming Scientific Discovery: From Tool to Research Partner](https://smarterarticles.co.uk/how-ai-is-transforming-scientific-discovery-from-tool-to-research-partner?pk_campaign=rss-feed)
 - [The Echo of Existence](https://dev.to/rawveg/the-echo-of-existence-4kb)
 - [The Shifting Sands of Online Trust](https://dev.to/rawveg/the-shifting-sands-of-online-trust-omg)
 <!-- BLOG-POST-LIST:END -->
