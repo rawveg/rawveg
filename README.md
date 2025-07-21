@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [How Vision-Language Models Miss What Isn&#39;t There](https://dev.to/rawveg/how-vision-language-models-miss-what-isnt-there-2i7l)
+- [The Thinking Machine&#39;s Apprentice: How AI Can Help Us Reclaim the Power to Reason](https://smarterarticles.co.uk/the-thinking-machines-apprentice-how-ai-can-help-us-reclaim-the-power-to?pk_campaign=rss-feed)
 - [Truth as Ammunition: The Coming Age of Strategic Explainability](https://smarterarticles.co.uk/truth-as-ammunition-the-coming-age-of-strategic-explainability?pk_campaign=rss-feed)
 - [The Art of Conversation: Why AI Needs to Learn How to Debate](https://smarterarticles.co.uk/the-art-of-conversation-why-ai-needs-to-learn-how-to-debate?pk_campaign=rss-feed)
 - [From Keyboard to Code Co-Pilot](https://dev.to/rawveg/from-keyboard-to-code-co-pilot-1ped)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [AI Security in 2025](https://dev.to/rawveg/ai-security-in-2025-3e8b)
 - [The Silicon Battlefield: How Global Power Struggles Are Rewriting the Rules of AI Warfare](https://smarterarticles.co.uk/the-silicon-battlefield-how-global-power-struggles-are-rewriting-the-rules-of?pk_campaign=rss-feed)
 - [When Machines Learn to Discriminate: The Hidden Cost of AI Bias on Society&#39;s Most Vulnerable](https://smarterarticles.co.uk/when-machines-learn-to-discriminate-the-hidden-cost-of-ai-bias-on-societys?pk_campaign=rss-feed)
-- [The Great Divide: On-Device Intelligence Versus Cloud-Based AI Systems](https://smarterarticles.co.uk/the-great-divide-on-device-intelligence-versus-cloud-based-ai-systems?pk_campaign=rss-feed)
 - [The Looming Intelligence](https://dev.to/rawveg/the-looming-intelligence-2nce)
 - [Unlocking AI&#39;s Long-Term Memory](https://dev.to/rawveg/unlocking-ais-long-term-memory-636)
 - [The Echo of Existence](https://dev.to/rawveg/the-echo-of-existence-4kb)
