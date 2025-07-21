@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Does My AI Dream of Electric Sheep?](https://dev.to/rawveg/does-my-ai-dream-of-electric-sheep-468l)
 - [How Vision-Language Models Miss What Isn&#39;t There](https://dev.to/rawveg/how-vision-language-models-miss-what-isnt-there-2i7l)
 - [The Thinking Machine&#39;s Apprentice: How AI Can Help Us Reclaim the Power to Reason](https://smarterarticles.co.uk/the-thinking-machines-apprentice-how-ai-can-help-us-reclaim-the-power-to?pk_campaign=rss-feed)
 - [Truth as Ammunition: The Coming Age of Strategic Explainability](https://smarterarticles.co.uk/truth-as-ammunition-the-coming-age-of-strategic-explainability?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Machines Learn to Discriminate: The Hidden Cost of AI Bias on Society&#39;s Most Vulnerable](https://smarterarticles.co.uk/when-machines-learn-to-discriminate-the-hidden-cost-of-ai-bias-on-societys?pk_campaign=rss-feed)
 - [The Looming Intelligence](https://dev.to/rawveg/the-looming-intelligence-2nce)
 - [Unlocking AI&#39;s Long-Term Memory](https://dev.to/rawveg/unlocking-ais-long-term-memory-636)
-- [The Echo of Existence](https://dev.to/rawveg/the-echo-of-existence-4kb)
 <!-- BLOG-POST-LIST:END -->
