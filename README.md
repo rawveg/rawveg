@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Empathy Engineered](https://dev.to/rawveg/empathy-engineered-1b88)
 - [Does My AI Dream of Electric Sheep?](https://dev.to/rawveg/does-my-ai-dream-of-electric-sheep-468l)
 - [Texas Rewrites the AI Rulebook: Government Accountability Wins Over Corporate Mandates](https://smarterarticles.co.uk/texas-rewrites-the-ai-rulebook-government-accountability-wins-over-corporate?pk_campaign=rss-feed)
 - [The Fragile Window: How AI&#39;s Chain of Thought Could Be Our Last Chance to See Inside the Machine](https://smarterarticles.co.uk/the-fragile-window-how-ais-chain-of-thought-could-be-our-last-chance-to-see?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Meaningfulness Gap in AI Ethics: Why Good Intentions Aren&#39;t Enough](https://smarterarticles.co.uk/the-meaningfulness-gap-in-ai-ethics-why-good-intentions-arent-enough?pk_campaign=rss-feed)
 - [AI Security in 2025](https://dev.to/rawveg/ai-security-in-2025-3e8b)
 - [The Looming Intelligence](https://dev.to/rawveg/the-looming-intelligence-2nce)
-- [Unlocking AI&#39;s Long-Term Memory](https://dev.to/rawveg/unlocking-ais-long-term-memory-636)
 <!-- BLOG-POST-LIST:END -->
