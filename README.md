@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Empathy Engineered](https://dev.to/rawveg/empathy-engineered-1b88)
+- [The Great Cognitive Surrender: How AI May Be Making Us Stupid](https://smarterarticles.co.uk/the-great-cognitive-surrender-how-ai-may-be-making-us-stupid?pk_campaign=rss-feed)
 - [Does My AI Dream of Electric Sheep?](https://dev.to/rawveg/does-my-ai-dream-of-electric-sheep-468l)
 - [Texas Rewrites the AI Rulebook: Government Accountability Wins Over Corporate Mandates](https://smarterarticles.co.uk/texas-rewrites-the-ai-rulebook-government-accountability-wins-over-corporate?pk_campaign=rss-feed)
 - [The Fragile Window: How AI&#39;s Chain of Thought Could Be Our Last Chance to See Inside the Machine](https://smarterarticles.co.uk/the-fragile-window-how-ais-chain-of-thought-could-be-our-last-chance-to-see?pk_campaign=rss-feed)
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
 - [Why We Trust Ratings More Than People](https://dev.to/rawveg/why-we-trust-ratings-more-than-people-3p71)
 - [Thinking Machines, Thoughtful Makers: The Human Imperative in AI Ethics](https://smarterarticles.co.uk/thinking-machines-thoughtful-makers-the-human-imperative-in-ai-ethics?pk_campaign=rss-feed)
 - [When AI Learns to Think: How Test-Time Training is Redefining Machine Intelligence](https://smarterarticles.co.uk/when-ai-learns-to-think-how-test-time-training-is-redefining-machine?pk_campaign=rss-feed)
-- [The Meaningfulness Gap in AI Ethics: Why Good Intentions Aren&#39;t Enough](https://smarterarticles.co.uk/the-meaningfulness-gap-in-ai-ethics-why-good-intentions-arent-enough?pk_campaign=rss-feed)
 - [AI Security in 2025](https://dev.to/rawveg/ai-security-in-2025-3e8b)
 - [The Looming Intelligence](https://dev.to/rawveg/the-looming-intelligence-2nce)
 <!-- BLOG-POST-LIST:END -->
