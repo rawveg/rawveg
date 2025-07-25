@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [When Companions Gaslight](https://dev.to/rawveg/when-companions-gaslight-218n)
+- [The Mind Game: When Machines Learn to Push Our Buttons](https://smarterarticles.co.uk/the-mind-game-when-machines-learn-to-push-our-buttons?pk_campaign=rss-feed)
 - [The Watchers: Why the Future of AI Demands Global Governance](https://smarterarticles.co.uk/the-watchers-why-the-future-of-ai-demands-global-governance?pk_campaign=rss-feed)
 - [Empathy Engineered](https://dev.to/rawveg/empathy-engineered-1b88)
 - [The Great Cognitive Surrender: How AI May Be Making Us Stupid](https://smarterarticles.co.uk/the-great-cognitive-surrender-how-ai-may-be-making-us-stupid?pk_campaign=rss-feed)
@@ -33,6 +34,5 @@ Here are some ideas to get you started:
 - [The Mind&#39;s Mirror: How Hybrid Intelligence Is Making AI Powerful and Transparent](https://smarterarticles.co.uk/the-minds-mirror-how-hybrid-intelligence-is-making-ai-powerful-and-transparent?pk_campaign=rss-feed)
 - [The Gamification of Truth in Digital Spaces](https://dev.to/rawveg/the-gamification-of-truth-in-digital-spaces-55b9)
 - [Why We Trust Ratings More Than People](https://dev.to/rawveg/why-we-trust-ratings-more-than-people-3p71)
-- [Thinking Machines, Thoughtful Makers: The Human Imperative in AI Ethics](https://smarterarticles.co.uk/thinking-machines-thoughtful-makers-the-human-imperative-in-ai-ethics?pk_campaign=rss-feed)
 - [AI Security in 2025](https://dev.to/rawveg/ai-security-in-2025-3e8b)
 <!-- BLOG-POST-LIST:END -->
