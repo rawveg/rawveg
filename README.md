@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
+- [The Ethics Engine: Building Moral Intelligence Into AI From Day One](https://smarterarticles.co.uk/the-ethics-engine-building-moral-intelligence-into-ai-from-day-one?pk_campaign=rss-feed)
 - [The Deregulation Dilemma: When American AI Policy Risks Breaking the World It Built](https://smarterarticles.co.uk/the-deregulation-dilemma-when-american-ai-policy-risks-breaking-the-world-it?pk_campaign=rss-feed)
 - [When Companions Gaslight](https://dev.to/rawveg/when-companions-gaslight-218n)
 - [The Mind Game: When Machines Learn to Push Our Buttons](https://smarterarticles.co.uk/the-mind-game-when-machines-learn-to-push-our-buttons?pk_campaign=rss-feed)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [The Art of Conversation: Why AI Needs to Learn How to Debate](https://smarterarticles.co.uk/the-art-of-conversation-why-ai-needs-to-learn-how-to-debate?pk_campaign=rss-feed)
 - [From Keyboard to Code Co-Pilot](https://dev.to/rawveg/from-keyboard-to-code-co-pilot-1ped)
 - [Introducing OpenAPI Directory MCP: Your Ultimate Hub for Reliable Web APIs!](https://dev.to/rawveg/introducing-openapi-directory-mcp-your-ultimate-hub-for-reliable-web-apis-amo)
-- [The EU&#39;s AI Code of Practice: Your Digital Future Under Brussels&#39; Microscope](https://smarterarticles.co.uk/the-eus-ai-code-of-practice-your-digital-future-under-brussels-microscope?pk_campaign=rss-feed)
 - [Open-Source AI&#39;s Great Accessibility Illusion](https://dev.to/rawveg/open-source-ais-great-accessibility-illusion-4p8h)
 - [The Gamification of Truth in Digital Spaces](https://dev.to/rawveg/the-gamification-of-truth-in-digital-spaces-55b9)
 - [Why We Trust Ratings More Than People](https://dev.to/rawveg/why-we-trust-ratings-more-than-people-3p71)
