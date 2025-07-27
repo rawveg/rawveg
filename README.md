@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
 - [The Deregulation Dilemma: When American AI Policy Risks Breaking the World It Built](https://smarterarticles.co.uk/the-deregulation-dilemma-when-american-ai-policy-risks-breaking-the-world-it?pk_campaign=rss-feed)
 - [When Companions Gaslight](https://dev.to/rawveg/when-companions-gaslight-218n)
 - [The Mind Game: When Machines Learn to Push Our Buttons](https://smarterarticles.co.uk/the-mind-game-when-machines-learn-to-push-our-buttons?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Open-Source AI&#39;s Great Accessibility Illusion](https://dev.to/rawveg/open-source-ais-great-accessibility-illusion-4p8h)
 - [The Gamification of Truth in Digital Spaces](https://dev.to/rawveg/the-gamification-of-truth-in-digital-spaces-55b9)
 - [Why We Trust Ratings More Than People](https://dev.to/rawveg/why-we-trust-ratings-more-than-people-3p71)
-- [AI Security in 2025](https://dev.to/rawveg/ai-security-in-2025-3e8b)
 <!-- BLOG-POST-LIST:END -->
