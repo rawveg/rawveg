@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The AI Revolution Reshaping Music](https://dev.to/rawveg/the-ai-revolution-reshaping-music-b47)
 - [The Moral Minefield: Six Ethical Crises Redefining Global Order](https://smarterarticles.co.uk/the-moral-minefield-six-ethical-crises-redefining-global-order?pk_campaign=rss-feed)
 - [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
 - [The Ethics Engine: Building Moral Intelligence Into AI From Day One](https://smarterarticles.co.uk/the-ethics-engine-building-moral-intelligence-into-ai-from-day-one?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Introducing OpenAPI Directory MCP: Your Ultimate Hub for Reliable Web APIs!](https://dev.to/rawveg/introducing-openapi-directory-mcp-your-ultimate-hub-for-reliable-web-apis-amo)
 - [Open-Source AI&#39;s Great Accessibility Illusion](https://dev.to/rawveg/open-source-ais-great-accessibility-illusion-4p8h)
 - [The Gamification of Truth in Digital Spaces](https://dev.to/rawveg/the-gamification-of-truth-in-digital-spaces-55b9)
-- [Why We Trust Ratings More Than People](https://dev.to/rawveg/why-we-trust-ratings-more-than-people-3p71)
 <!-- BLOG-POST-LIST:END -->
