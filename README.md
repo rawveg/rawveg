@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [The AI Revolution Reshaping Music](https://dev.to/rawveg/the-ai-revolution-reshaping-music-b47)
+- [The Black Box Brigade: Why Current AI Explanations Fall Short in Multi-Agent Systems](https://smarterarticles.co.uk/the-black-box-brigade-why-current-ai-explanations-fall-short-in-multi-agent?pk_campaign=rss-feed)
 - [The Moral Minefield: Six Ethical Crises Redefining Global Order](https://smarterarticles.co.uk/the-moral-minefield-six-ethical-crises-redefining-global-order?pk_campaign=rss-feed)
 - [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
 - [The Ethics Engine: Building Moral Intelligence Into AI From Day One](https://smarterarticles.co.uk/the-ethics-engine-building-moral-intelligence-into-ai-from-day-one?pk_campaign=rss-feed)
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 - [The Fragile Window: How AI&#39;s Chain of Thought Could Be Our Last Chance to See Inside the Machine](https://smarterarticles.co.uk/the-fragile-window-how-ais-chain-of-thought-could-be-our-last-chance-to-see?pk_campaign=rss-feed)
 - [How Vision-Language Models Miss What Isn&#39;t There](https://dev.to/rawveg/how-vision-language-models-miss-what-isnt-there-2i7l)
 - [The Thinking Machine&#39;s Apprentice: How AI Can Help Us Reclaim the Power to Reason](https://smarterarticles.co.uk/the-thinking-machines-apprentice-how-ai-can-help-us-reclaim-the-power-to?pk_campaign=rss-feed)
-- [Truth as Ammunition: The Coming Age of Strategic Explainability](https://smarterarticles.co.uk/truth-as-ammunition-the-coming-age-of-strategic-explainability?pk_campaign=rss-feed)
 - [From Keyboard to Code Co-Pilot](https://dev.to/rawveg/from-keyboard-to-code-co-pilot-1ped)
 - [Introducing OpenAPI Directory MCP: Your Ultimate Hub for Reliable Web APIs!](https://dev.to/rawveg/introducing-openapi-directory-mcp-your-ultimate-hub-for-reliable-web-apis-amo)
 - [Open-Source AI&#39;s Great Accessibility Illusion](https://dev.to/rawveg/open-source-ais-great-accessibility-illusion-4p8h)
