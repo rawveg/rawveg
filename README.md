@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
 - [China&#39;s AI Diplomacy: Reshaping Global Tech Governance](https://smarterarticles.co.uk/chinas-ai-diplomacy-reshaping-global-tech-governance?pk_campaign=rss-feed)
 - [The AI Revolution Reshaping Music](https://dev.to/rawveg/the-ai-revolution-reshaping-music-b47)
 - [The Black Box Brigade: Why Current AI Explanations Fall Short in Multi-Agent Systems](https://smarterarticles.co.uk/the-black-box-brigade-why-current-ai-explanations-fall-short-in-multi-agent?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [From Keyboard to Code Co-Pilot](https://dev.to/rawveg/from-keyboard-to-code-co-pilot-1ped)
 - [Introducing OpenAPI Directory MCP: Your Ultimate Hub for Reliable Web APIs!](https://dev.to/rawveg/introducing-openapi-directory-mcp-your-ultimate-hub-for-reliable-web-apis-amo)
 - [Open-Source AI&#39;s Great Accessibility Illusion](https://dev.to/rawveg/open-source-ais-great-accessibility-illusion-4p8h)
-- [The Gamification of Truth in Digital Spaces](https://dev.to/rawveg/the-gamification-of-truth-in-digital-spaces-55b9)
 <!-- BLOG-POST-LIST:END -->
