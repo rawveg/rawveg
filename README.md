@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
 - [Symmetry as a Superpower: The Hidden Mathematics Behind AI&#39;s Next Leap](https://smarterarticles.co.uk/symmetry-as-a-superpower-the-hidden-mathematics-behind-ais-next-leap?pk_campaign=rss-feed)
 - [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
 - [The Double-Edged Revolution: How AI&#39;s Promise Meets Reality&#39;s Complex Challenges](https://smarterarticles.co.uk/the-double-edged-revolution-how-ais-promise-meets-realitys-complex-challenges?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [How Vision-Language Models Miss What Isn&#39;t There](https://dev.to/rawveg/how-vision-language-models-miss-what-isnt-there-2i7l)
 - [From Keyboard to Code Co-Pilot](https://dev.to/rawveg/from-keyboard-to-code-co-pilot-1ped)
 - [Introducing OpenAPI Directory MCP: Your Ultimate Hub for Reliable Web APIs!](https://dev.to/rawveg/introducing-openapi-directory-mcp-your-ultimate-hub-for-reliable-web-apis-amo)
-- [Open-Source AI&#39;s Great Accessibility Illusion](https://dev.to/rawveg/open-source-ais-great-accessibility-illusion-4p8h)
 <!-- BLOG-POST-LIST:END -->
