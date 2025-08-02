@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Through the Eyes of Janus: The Future of AI in a Fractured World](https://smarterarticles.co.uk/through-the-eyes-of-janus-the-future-of-ai-in-a-fractured-world?pk_campaign=rss-feed)
 - [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
 - [Symmetry as a Superpower: The Hidden Mathematics Behind AI&#39;s Next Leap](https://smarterarticles.co.uk/symmetry-as-a-superpower-the-hidden-mathematics-behind-ais-next-leap?pk_campaign=rss-feed)
 - [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 - [The Mind Game: When Machines Learn to Push Our Buttons](https://smarterarticles.co.uk/the-mind-game-when-machines-learn-to-push-our-buttons?pk_campaign=rss-feed)
 - [The Watchers: Why the Future of AI Demands Global Governance](https://smarterarticles.co.uk/the-watchers-why-the-future-of-ai-demands-global-governance?pk_campaign=rss-feed)
 - [Empathy Engineered](https://dev.to/rawveg/empathy-engineered-1b88)
-- [The Great Cognitive Surrender: How AI May Be Making Us Stupid](https://smarterarticles.co.uk/the-great-cognitive-surrender-how-ai-may-be-making-us-stupid?pk_campaign=rss-feed)
 - [Does My AI Dream of Electric Sheep?](https://dev.to/rawveg/does-my-ai-dream-of-electric-sheep-468l)
 - [How Vision-Language Models Miss What Isn&#39;t There](https://dev.to/rawveg/how-vision-language-models-miss-what-isnt-there-2i7l)
 - [From Keyboard to Code Co-Pilot](https://dev.to/rawveg/from-keyboard-to-code-co-pilot-1ped)
