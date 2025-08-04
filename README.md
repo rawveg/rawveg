@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Silicon Surgeon](https://dev.to/rawveg/the-silicon-surgeon-1hoh)
 - [Beyond the App: The AI Agent Revolution You&#39;re Already Living](https://smarterarticles.co.uk/beyond-the-app-the-ai-agent-revolution-youre-already-living?pk_campaign=rss-feed)
 - [Through the Eyes of Janus: The Future of AI in a Fractured World](https://smarterarticles.co.uk/through-the-eyes-of-janus-the-future-of-ai-in-a-fractured-world?pk_campaign=rss-feed)
 - [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Does My AI Dream of Electric Sheep?](https://dev.to/rawveg/does-my-ai-dream-of-electric-sheep-468l)
 - [How Vision-Language Models Miss What Isn&#39;t There](https://dev.to/rawveg/how-vision-language-models-miss-what-isnt-there-2i7l)
 - [From Keyboard to Code Co-Pilot](https://dev.to/rawveg/from-keyboard-to-code-co-pilot-1ped)
-- [Introducing OpenAPI Directory MCP: Your Ultimate Hub for Reliable Web APIs!](https://dev.to/rawveg/introducing-openapi-directory-mcp-your-ultimate-hub-for-reliable-web-apis-amo)
 <!-- BLOG-POST-LIST:END -->
