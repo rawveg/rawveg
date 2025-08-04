@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the App: The AI Agent Revolution You&#39;re Already Living](https://smarterarticles.co.uk/beyond-the-app-the-ai-agent-revolution-youre-already-living?pk_campaign=rss-feed)
 - [Through the Eyes of Janus: The Future of AI in a Fractured World](https://smarterarticles.co.uk/through-the-eyes-of-janus-the-future-of-ai-in-a-fractured-world?pk_campaign=rss-feed)
 - [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
 - [Symmetry as a Superpower: The Hidden Mathematics Behind AI&#39;s Next Leap](https://smarterarticles.co.uk/symmetry-as-a-superpower-the-hidden-mathematics-behind-ais-next-leap?pk_campaign=rss-feed)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [The Deregulation Dilemma: When American AI Policy Risks Breaking the World It Built](https://smarterarticles.co.uk/the-deregulation-dilemma-when-american-ai-policy-risks-breaking-the-world-it?pk_campaign=rss-feed)
 - [When Companions Gaslight](https://dev.to/rawveg/when-companions-gaslight-218n)
 - [The Mind Game: When Machines Learn to Push Our Buttons](https://smarterarticles.co.uk/the-mind-game-when-machines-learn-to-push-our-buttons?pk_campaign=rss-feed)
-- [The Watchers: Why the Future of AI Demands Global Governance](https://smarterarticles.co.uk/the-watchers-why-the-future-of-ai-demands-global-governance?pk_campaign=rss-feed)
 - [Empathy Engineered](https://dev.to/rawveg/empathy-engineered-1b88)
 - [Does My AI Dream of Electric Sheep?](https://dev.to/rawveg/does-my-ai-dream-of-electric-sheep-468l)
 - [How Vision-Language Models Miss What Isn&#39;t There](https://dev.to/rawveg/how-vision-language-models-miss-what-isnt-there-2i7l)
