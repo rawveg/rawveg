@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
 - [The Sacred Code: When AI Sermons Confront Religious Leadership](https://smarterarticles.co.uk/the-sacred-code-when-ai-sermons-confront-religious-leadership?pk_campaign=rss-feed)
 - [The Human Margin: Generative AI, Daily Life, and the Road Ahead](https://smarterarticles.co.uk/the-human-margin-generative-ai-daily-life-and-the-road-ahead?pk_campaign=rss-feed)
 - [The Silicon Surgeon](https://dev.to/rawveg/the-silicon-surgeon-1hoh)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Empathy Engineered](https://dev.to/rawveg/empathy-engineered-1b88)
 - [Does My AI Dream of Electric Sheep?](https://dev.to/rawveg/does-my-ai-dream-of-electric-sheep-468l)
 - [How Vision-Language Models Miss What Isn&#39;t There](https://dev.to/rawveg/how-vision-language-models-miss-what-isnt-there-2i7l)
-- [From Keyboard to Code Co-Pilot](https://dev.to/rawveg/from-keyboard-to-code-co-pilot-1ped)
 <!-- BLOG-POST-LIST:END -->
