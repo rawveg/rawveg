@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Robot That Learned to See: How Vision-Only Control Is Rewriting Robotics](https://smarterarticles.co.uk/the-robot-that-learned-to-see-how-vision-only-control-is-rewriting-robotics?pk_campaign=rss-feed)
 - [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
 - [The Sacred Code: When AI Sermons Confront Religious Leadership](https://smarterarticles.co.uk/the-sacred-code-when-ai-sermons-confront-religious-leadership?pk_campaign=rss-feed)
 - [The Human Margin: Generative AI, Daily Life, and the Road Ahead](https://smarterarticles.co.uk/the-human-margin-generative-ai-daily-life-and-the-road-ahead?pk_campaign=rss-feed)
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 - [The Black Box Brigade: Why Current AI Explanations Fall Short in Multi-Agent Systems](https://smarterarticles.co.uk/the-black-box-brigade-why-current-ai-explanations-fall-short-in-multi-agent?pk_campaign=rss-feed)
 - [The Moral Minefield: Six Ethical Crises Redefining Global Order](https://smarterarticles.co.uk/the-moral-minefield-six-ethical-crises-redefining-global-order?pk_campaign=rss-feed)
 - [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
-- [The Ethics Engine: Building Moral Intelligence Into AI From Day One](https://smarterarticles.co.uk/the-ethics-engine-building-moral-intelligence-into-ai-from-day-one?pk_campaign=rss-feed)
 - [When Companions Gaslight](https://dev.to/rawveg/when-companions-gaslight-218n)
 - [Empathy Engineered](https://dev.to/rawveg/empathy-engineered-1b88)
 - [Does My AI Dream of Electric Sheep?](https://dev.to/rawveg/does-my-ai-dream-of-electric-sheep-468l)
