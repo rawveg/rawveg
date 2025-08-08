@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Perfect Sims, Imperfect Worlds: Why Retail AI Still Isn&#39;t Ready](https://smarterarticles.co.uk/perfect-sims-imperfect-worlds-why-retail-ai-still-isnt-ready?pk_campaign=rss-feed)
 - [The Robot That Learned to See: How Vision-Only Control Is Rewriting Robotics](https://smarterarticles.co.uk/the-robot-that-learned-to-see-how-vision-only-control-is-rewriting-robotics?pk_campaign=rss-feed)
 - [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
 - [The Sacred Code: When AI Sermons Confront Religious Leadership](https://smarterarticles.co.uk/the-sacred-code-when-ai-sermons-confront-religious-leadership?pk_campaign=rss-feed)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [China&#39;s AI Diplomacy: Reshaping Global Tech Governance](https://smarterarticles.co.uk/chinas-ai-diplomacy-reshaping-global-tech-governance?pk_campaign=rss-feed)
 - [The AI Revolution Reshaping Music](https://dev.to/rawveg/the-ai-revolution-reshaping-music-b47)
 - [The Black Box Brigade: Why Current AI Explanations Fall Short in Multi-Agent Systems](https://smarterarticles.co.uk/the-black-box-brigade-why-current-ai-explanations-fall-short-in-multi-agent?pk_campaign=rss-feed)
-- [The Moral Minefield: Six Ethical Crises Redefining Global Order](https://smarterarticles.co.uk/the-moral-minefield-six-ethical-crises-redefining-global-order?pk_campaign=rss-feed)
 - [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
 - [When Companions Gaslight](https://dev.to/rawveg/when-companions-gaslight-218n)
 - [Empathy Engineered](https://dev.to/rawveg/empathy-engineered-1b88)
