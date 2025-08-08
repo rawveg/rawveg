@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
 - [Perfect Sims, Imperfect Worlds: Why Retail AI Still Isn&#39;t Ready](https://smarterarticles.co.uk/perfect-sims-imperfect-worlds-why-retail-ai-still-isnt-ready?pk_campaign=rss-feed)
 - [The Robot That Learned to See: How Vision-Only Control Is Rewriting Robotics](https://smarterarticles.co.uk/the-robot-that-learned-to-see-how-vision-only-control-is-rewriting-robotics?pk_campaign=rss-feed)
 - [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Companions Gaslight](https://dev.to/rawveg/when-companions-gaslight-218n)
 - [Empathy Engineered](https://dev.to/rawveg/empathy-engineered-1b88)
 - [Does My AI Dream of Electric Sheep?](https://dev.to/rawveg/does-my-ai-dream-of-electric-sheep-468l)
-- [How Vision-Language Models Miss What Isn&#39;t There](https://dev.to/rawveg/how-vision-language-models-miss-what-isnt-there-2i7l)
 <!-- BLOG-POST-LIST:END -->
