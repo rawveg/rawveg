@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Voice Revolution: AI Assistants, Smart Homes, and the Price of Convenience](https://smarterarticles.co.uk/the-voice-revolution-ai-assistants-smart-homes-and-the-price-of-convenience?pk_campaign=rss-feed)
 - [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
 - [When AI Outpaces the Rulebook: Closing the Governance Gap](https://smarterarticles.co.uk/when-ai-outpaces-the-rulebook-closing-the-governance-gap?pk_campaign=rss-feed)
 - [The Ghost Workers: The Truth Behind &#39;Autonomous&#39; AI](https://smarterarticles.co.uk/the-ghost-workers-the-truth-behind-autonomous-ai?pk_campaign=rss-feed)
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 - [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
 - [Symmetry as a Superpower: The Hidden Mathematics Behind AI&#39;s Next Leap](https://smarterarticles.co.uk/symmetry-as-a-superpower-the-hidden-mathematics-behind-ais-next-leap?pk_campaign=rss-feed)
 - [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
-- [The Double-Edged Revolution: How AI&#39;s Promise Meets Reality&#39;s Complex Challenges](https://smarterarticles.co.uk/the-double-edged-revolution-how-ais-promise-meets-realitys-complex-challenges?pk_campaign=rss-feed)
 - [The AI Revolution Reshaping Music](https://dev.to/rawveg/the-ai-revolution-reshaping-music-b47)
 - [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
 - [When Companions Gaslight](https://dev.to/rawveg/when-companions-gaslight-218n)
