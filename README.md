@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
 - [When AI Outpaces the Rulebook: Closing the Governance Gap](https://smarterarticles.co.uk/when-ai-outpaces-the-rulebook-closing-the-governance-gap?pk_campaign=rss-feed)
 - [The Ghost Workers: The Truth Behind &#39;Autonomous&#39; AI](https://smarterarticles.co.uk/the-ghost-workers-the-truth-behind-autonomous-ai?pk_campaign=rss-feed)
 - [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
 - [When Companions Gaslight](https://dev.to/rawveg/when-companions-gaslight-218n)
 - [Empathy Engineered](https://dev.to/rawveg/empathy-engineered-1b88)
-- [Does My AI Dream of Electric Sheep?](https://dev.to/rawveg/does-my-ai-dream-of-electric-sheep-468l)
 <!-- BLOG-POST-LIST:END -->
