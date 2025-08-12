@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
 - [The Digital Catwalk: When Silicon Meets Silk](https://smarterarticles.co.uk/the-digital-catwalk-when-silicon-meets-silk?pk_campaign=rss-feed)
 - [The Voice Revolution: AI Assistants, Smart Homes, and the Price of Convenience](https://smarterarticles.co.uk/the-voice-revolution-ai-assistants-smart-homes-and-the-price-of-convenience?pk_campaign=rss-feed)
 - [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The AI Revolution Reshaping Music](https://dev.to/rawveg/the-ai-revolution-reshaping-music-b47)
 - [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
 - [When Companions Gaslight](https://dev.to/rawveg/when-companions-gaslight-218n)
-- [Empathy Engineered](https://dev.to/rawveg/empathy-engineered-1b88)
 <!-- BLOG-POST-LIST:END -->
