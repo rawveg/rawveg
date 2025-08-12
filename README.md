@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Digital Catwalk: When Silicon Meets Silk](https://smarterarticles.co.uk/the-digital-catwalk-when-silicon-meets-silk?pk_campaign=rss-feed)
 - [The Voice Revolution: AI Assistants, Smart Homes, and the Price of Convenience](https://smarterarticles.co.uk/the-voice-revolution-ai-assistants-smart-homes-and-the-price-of-convenience?pk_campaign=rss-feed)
 - [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
 - [When AI Outpaces the Rulebook: Closing the Governance Gap](https://smarterarticles.co.uk/when-ai-outpaces-the-rulebook-closing-the-governance-gap?pk_campaign=rss-feed)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [Beyond the App: The AI Agent Revolution You&#39;re Already Living](https://smarterarticles.co.uk/beyond-the-app-the-ai-agent-revolution-youre-already-living?pk_campaign=rss-feed)
 - [Through the Eyes of Janus: The Future of AI in a Fractured World](https://smarterarticles.co.uk/through-the-eyes-of-janus-the-future-of-ai-in-a-fractured-world?pk_campaign=rss-feed)
 - [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
-- [Symmetry as a Superpower: The Hidden Mathematics Behind AI&#39;s Next Leap](https://smarterarticles.co.uk/symmetry-as-a-superpower-the-hidden-mathematics-behind-ais-next-leap?pk_campaign=rss-feed)
 - [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
 - [The AI Revolution Reshaping Music](https://dev.to/rawveg/the-ai-revolution-reshaping-music-b47)
 - [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
