@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Smart Signal Revolution: Turning Red Lights Green for the Planet](https://smarterarticles.co.uk/the-smart-signal-revolution-turning-red-lights-green-for-the-planet?pk_campaign=rss-feed)
 - [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
 - [The Digital Catwalk: When Silicon Meets Silk](https://smarterarticles.co.uk/the-digital-catwalk-when-silicon-meets-silk?pk_campaign=rss-feed)
 - [The Voice Revolution: AI Assistants, Smart Homes, and the Price of Convenience](https://smarterarticles.co.uk/the-voice-revolution-ai-assistants-smart-homes-and-the-price-of-convenience?pk_campaign=rss-feed)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [The Human Margin: Generative AI, Daily Life, and the Road Ahead](https://smarterarticles.co.uk/the-human-margin-generative-ai-daily-life-and-the-road-ahead?pk_campaign=rss-feed)
 - [The Silicon Surgeon](https://dev.to/rawveg/the-silicon-surgeon-1hoh)
 - [Beyond the App: The AI Agent Revolution You&#39;re Already Living](https://smarterarticles.co.uk/beyond-the-app-the-ai-agent-revolution-youre-already-living?pk_campaign=rss-feed)
-- [Through the Eyes of Janus: The Future of AI in a Fractured World](https://smarterarticles.co.uk/through-the-eyes-of-janus-the-future-of-ai-in-a-fractured-world?pk_campaign=rss-feed)
 - [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
 - [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
 - [The AI Revolution Reshaping Music](https://dev.to/rawveg/the-ai-revolution-reshaping-music-b47)
