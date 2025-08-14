@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
 - [The Crystal Ball Dilemma: When AI Can See Your Child&#39;s Future](https://smarterarticles.co.uk/the-crystal-ball-dilemma-when-ai-can-see-your-childs-future?pk_campaign=rss-feed)
 - [The Smart Signal Revolution: Turning Red Lights Green for the Planet](https://smarterarticles.co.uk/the-smart-signal-revolution-turning-red-lights-green-for-the-planet?pk_campaign=rss-feed)
 - [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
 - [The AI Revolution Reshaping Music](https://dev.to/rawveg/the-ai-revolution-reshaping-music-b47)
 - [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
-- [When Companions Gaslight](https://dev.to/rawveg/when-companions-gaslight-218n)
 <!-- BLOG-POST-LIST:END -->
