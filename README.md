@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
+- [Who Hired the Machine?: The Rise of AI Teammates](https://smarterarticles.co.uk/who-hired-the-machine-the-rise-of-ai-teammates?pk_campaign=rss-feed)
 - [The Crystal Ball Dilemma: When AI Can See Your Child&#39;s Future](https://smarterarticles.co.uk/the-crystal-ball-dilemma-when-ai-can-see-your-childs-future?pk_campaign=rss-feed)
 - [The Smart Signal Revolution: Turning Red Lights Green for the Planet](https://smarterarticles.co.uk/the-smart-signal-revolution-turning-red-lights-green-for-the-planet?pk_campaign=rss-feed)
 - [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [The Robot That Learned to See: How Vision-Only Control Is Rewriting Robotics](https://smarterarticles.co.uk/the-robot-that-learned-to-see-how-vision-only-control-is-rewriting-robotics?pk_campaign=rss-feed)
 - [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
 - [The Sacred Code: When AI Sermons Confront Religious Leadership](https://smarterarticles.co.uk/the-sacred-code-when-ai-sermons-confront-religious-leadership?pk_campaign=rss-feed)
-- [The Human Margin: Generative AI, Daily Life, and the Road Ahead](https://smarterarticles.co.uk/the-human-margin-generative-ai-daily-life-and-the-road-ahead?pk_campaign=rss-feed)
 - [The Silicon Surgeon](https://dev.to/rawveg/the-silicon-surgeon-1hoh)
 - [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
 - [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
