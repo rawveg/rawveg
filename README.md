@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
 - [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
 - [Black Box No More: How AI Must Learn to Explain Itself](https://smarterarticles.co.uk/black-box-no-more-how-ai-must-learn-to-explain-itself?pk_campaign=rss-feed)
 - [Who Hired the Machine?: The Rise of AI Teammates](https://smarterarticles.co.uk/who-hired-the-machine-the-rise-of-ai-teammates?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
 - [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
 - [The AI Revolution Reshaping Music](https://dev.to/rawveg/the-ai-revolution-reshaping-music-b47)
-- [Who Protects the Lonely Child from a Lying AI?](https://dev.to/rawveg/who-protects-the-lonely-child-from-a-lying-ai-li6)
 <!-- BLOG-POST-LIST:END -->
