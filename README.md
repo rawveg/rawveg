@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
+- [Black Box No More: How AI Must Learn to Explain Itself](https://smarterarticles.co.uk/black-box-no-more-how-ai-must-learn-to-explain-itself?pk_campaign=rss-feed)
 - [Who Hired the Machine?: The Rise of AI Teammates](https://smarterarticles.co.uk/who-hired-the-machine-the-rise-of-ai-teammates?pk_campaign=rss-feed)
 - [The Crystal Ball Dilemma: When AI Can See Your Child&#39;s Future](https://smarterarticles.co.uk/the-crystal-ball-dilemma-when-ai-can-see-your-childs-future?pk_campaign=rss-feed)
 - [The Smart Signal Revolution: Turning Red Lights Green for the Planet](https://smarterarticles.co.uk/the-smart-signal-revolution-turning-red-lights-green-for-the-planet?pk_campaign=rss-feed)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [Perfect Sims, Imperfect Worlds: Why Retail AI Still Isn&#39;t Ready](https://smarterarticles.co.uk/perfect-sims-imperfect-worlds-why-retail-ai-still-isnt-ready?pk_campaign=rss-feed)
 - [The Robot That Learned to See: How Vision-Only Control Is Rewriting Robotics](https://smarterarticles.co.uk/the-robot-that-learned-to-see-how-vision-only-control-is-rewriting-robotics?pk_campaign=rss-feed)
 - [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
-- [The Sacred Code: When AI Sermons Confront Religious Leadership](https://smarterarticles.co.uk/the-sacred-code-when-ai-sermons-confront-religious-leadership?pk_campaign=rss-feed)
 - [The Silicon Surgeon](https://dev.to/rawveg/the-silicon-surgeon-1hoh)
 - [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
 - [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
