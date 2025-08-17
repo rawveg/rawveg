@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
+- [When Machines Make the Call: How AI Agents Are Redefining Workplace Responsibility](https://smarterarticles.co.uk/when-machines-make-the-call-how-ai-agents-are-redefining-workplace?pk_campaign=rss-feed)
 - [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
 - [The Great Skill Shift: How AI Agents Are Rewriting the Rules of Work](https://smarterarticles.co.uk/the-great-skill-shift-how-ai-agents-are-rewriting-the-rules-of-work?pk_campaign=rss-feed)
 - [Black Box No More: How AI Must Learn to Explain Itself](https://smarterarticles.co.uk/black-box-no-more-how-ai-must-learn-to-explain-itself?pk_campaign=rss-feed)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [When AI Outpaces the Rulebook: Closing the Governance Gap](https://smarterarticles.co.uk/when-ai-outpaces-the-rulebook-closing-the-governance-gap?pk_campaign=rss-feed)
 - [The Ghost Workers: The Truth Behind &#39;Autonomous&#39; AI](https://smarterarticles.co.uk/the-ghost-workers-the-truth-behind-autonomous-ai?pk_campaign=rss-feed)
 - [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
-- [Perfect Sims, Imperfect Worlds: Why Retail AI Still Isn&#39;t Ready](https://smarterarticles.co.uk/perfect-sims-imperfect-worlds-why-retail-ai-still-isnt-ready?pk_campaign=rss-feed)
 - [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
 - [The Silicon Surgeon](https://dev.to/rawveg/the-silicon-surgeon-1hoh)
 - [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
