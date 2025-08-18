@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
 - [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
 - [When Machines Make the Call: How AI Agents Are Redefining Workplace Responsibility](https://smarterarticles.co.uk/when-machines-make-the-call-how-ai-agents-are-redefining-workplace?pk_campaign=rss-feed)
 - [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Silicon Surgeon](https://dev.to/rawveg/the-silicon-surgeon-1hoh)
 - [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
 - [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
-- [The AI Revolution Reshaping Music](https://dev.to/rawveg/the-ai-revolution-reshaping-music-b47)
 <!-- BLOG-POST-LIST:END -->
