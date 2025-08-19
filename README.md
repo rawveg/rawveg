@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
+- [The New Digital Empire: How AI Governance Could Reshape Global Power](https://smarterarticles.co.uk/the-new-digital-empire-how-ai-governance-could-reshape-global-power?pk_campaign=rss-feed)
 - [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
 - [When Machines Make the Call: How AI Agents Are Redefining Workplace Responsibility](https://smarterarticles.co.uk/when-machines-make-the-call-how-ai-agents-are-redefining-workplace?pk_campaign=rss-feed)
 - [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [The Voice Revolution: AI Assistants, Smart Homes, and the Price of Convenience](https://smarterarticles.co.uk/the-voice-revolution-ai-assistants-smart-homes-and-the-price-of-convenience?pk_campaign=rss-feed)
 - [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
 - [When AI Outpaces the Rulebook: Closing the Governance Gap](https://smarterarticles.co.uk/when-ai-outpaces-the-rulebook-closing-the-governance-gap?pk_campaign=rss-feed)
-- [The Ghost Workers: The Truth Behind &#39;Autonomous&#39; AI](https://smarterarticles.co.uk/the-ghost-workers-the-truth-behind-autonomous-ai?pk_campaign=rss-feed)
 - [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
 - [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
 - [The Silicon Surgeon](https://dev.to/rawveg/the-silicon-surgeon-1hoh)
