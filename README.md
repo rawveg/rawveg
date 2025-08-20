@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Great AI Capability Illusion](https://dev.to/rawveg/the-great-ai-capability-illusion-3p6i)
 - [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
 - [The Rebirth of the Artist: How AI is Redefining Creative Authenticity](https://smarterarticles.co.uk/the-rebirth-of-the-artist-how-ai-is-redefining-creative-authenticity?pk_campaign=rss-feed)
 - [The New Digital Empire: How AI Governance Could Reshape Global Power](https://smarterarticles.co.uk/the-new-digital-empire-how-ai-governance-could-reshape-global-power?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
 - [The Silicon Surgeon](https://dev.to/rawveg/the-silicon-surgeon-1hoh)
 - [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
-- [Digital Archaeologists](https://dev.to/rawveg/digital-archaeologists-2me2)
 <!-- BLOG-POST-LIST:END -->
