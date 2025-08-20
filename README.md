@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [The Great AI Capability Illusion](https://dev.to/rawveg/the-great-ai-capability-illusion-3p6i)
 - [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
+- [The Smart Home Uprising: When AI Decides Your Dishwasher&#39;s Bedtime](https://smarterarticles.co.uk/the-smart-home-uprising-when-ai-decides-your-dishwashers-bedtime?pk_campaign=rss-feed)
 - [The Rebirth of the Artist: How AI is Redefining Creative Authenticity](https://smarterarticles.co.uk/the-rebirth-of-the-artist-how-ai-is-redefining-creative-authenticity?pk_campaign=rss-feed)
 - [The New Digital Empire: How AI Governance Could Reshape Global Power](https://smarterarticles.co.uk/the-new-digital-empire-how-ai-governance-could-reshape-global-power?pk_campaign=rss-feed)
 - [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [The Smart Signal Revolution: Turning Red Lights Green for the Planet](https://smarterarticles.co.uk/the-smart-signal-revolution-turning-red-lights-green-for-the-planet?pk_campaign=rss-feed)
 - [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
 - [The Digital Catwalk: When Silicon Meets Silk](https://smarterarticles.co.uk/the-digital-catwalk-when-silicon-meets-silk?pk_campaign=rss-feed)
-- [The Voice Revolution: AI Assistants, Smart Homes, and the Price of Convenience](https://smarterarticles.co.uk/the-voice-revolution-ai-assistants-smart-homes-and-the-price-of-convenience?pk_campaign=rss-feed)
 - [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
 - [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
 - [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
