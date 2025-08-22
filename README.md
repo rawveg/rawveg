@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Darwin Machine Dilemma](https://dev.to/rawveg/the-darwin-machine-dilemma-115o)
 - [The Innovation Paradox: How AI Governance Could Make or Break the Future](https://smarterarticles.co.uk/the-innovation-paradox-how-ai-governance-could-make-or-break-the-future?pk_campaign=rss-feed)
 - [The Great AI Capability Illusion](https://dev.to/rawveg/the-great-ai-capability-illusion-3p6i)
 - [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
 - [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
 - [The Silicon Surgeon](https://dev.to/rawveg/the-silicon-surgeon-1hoh)
-- [AlphaEvolve](https://dev.to/rawveg/alphaevolve-399g)
 <!-- BLOG-POST-LIST:END -->
