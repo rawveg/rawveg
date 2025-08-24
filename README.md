@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI&#39;s Identity Crisis](https://dev.to/rawveg/openais-identity-crisis-3g83)
 - [Curated Desires: How AI Is Quietly Rewriting Your Choices](https://smarterarticles.co.uk/curated-desires-how-ai-is-quietly-rewriting-your-choices?pk_campaign=rss-feed)
 - [The Consent Paradox: When Privacy Becomes a Performance](https://smarterarticles.co.uk/the-consent-paradox-when-privacy-becomes-a-performance?pk_campaign=rss-feed)
 - [The Darwin Machine Dilemma](https://dev.to/rawveg/the-darwin-machine-dilemma-115o)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
 - [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
 - [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
-- [The Silicon Surgeon](https://dev.to/rawveg/the-silicon-surgeon-1hoh)
 <!-- BLOG-POST-LIST:END -->
