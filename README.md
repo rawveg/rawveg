@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [OpenAI&#39;s Identity Crisis](https://dev.to/rawveg/openais-identity-crisis-3g83)
+- [The New Literacy Divide: How AI Education Could Reshape Class in Britain](https://smarterarticles.co.uk/the-new-literacy-divide-how-ai-education-could-reshape-class-in-britain?pk_campaign=rss-feed)
 - [The Great Retraining: Testing the Social Imagination in the Age of AI](https://smarterarticles.co.uk/the-great-retraining-testing-the-social-imagination-in-the-age-of-ai?pk_campaign=rss-feed)
 - [Curated Desires: How AI Is Quietly Rewriting Your Choices](https://smarterarticles.co.uk/curated-desires-how-ai-is-quietly-rewriting-your-choices?pk_campaign=rss-feed)
 - [The Consent Paradox: When Privacy Becomes a Performance](https://smarterarticles.co.uk/the-consent-paradox-when-privacy-becomes-a-performance?pk_campaign=rss-feed)
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 - [When Machines Make the Call: How AI Agents Are Redefining Workplace Responsibility](https://smarterarticles.co.uk/when-machines-make-the-call-how-ai-agents-are-redefining-workplace?pk_campaign=rss-feed)
 - [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
 - [The Great Skill Shift: How AI Agents Are Rewriting the Rules of Work](https://smarterarticles.co.uk/the-great-skill-shift-how-ai-agents-are-rewriting-the-rules-of-work?pk_campaign=rss-feed)
-- [Black Box No More: How AI Must Learn to Explain Itself](https://smarterarticles.co.uk/black-box-no-more-how-ai-must-learn-to-explain-itself?pk_campaign=rss-feed)
 - [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
 - [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
 - [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
