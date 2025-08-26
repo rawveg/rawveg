@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
 - [OpenAI&#39;s Identity Crisis](https://dev.to/rawveg/openais-identity-crisis-3g83)
 - [The New Literacy Divide: How AI Education Could Reshape Class in Britain](https://smarterarticles.co.uk/the-new-literacy-divide-how-ai-education-could-reshape-class-in-britain?pk_campaign=rss-feed)
 - [The Great Retraining: Testing the Social Imagination in the Age of AI](https://smarterarticles.co.uk/the-great-retraining-testing-the-social-imagination-in-the-age-of-ai?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
 - [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
 - [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
-- [The Hidden Cost of Intelligence](https://dev.to/rawveg/the-hidden-cost-of-intelligence-54b7)
 <!-- BLOG-POST-LIST:END -->
