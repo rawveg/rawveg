@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Foundations of AI Ethics](https://dev.to/rawveg/the-foundations-of-ai-ethics-35an)
 - [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
 - [The Privacy Paradox: How AI&#39;s Hunger for Data Challenges Our Digital Autonomy](https://smarterarticles.co.uk/the-privacy-paradox-how-ais-hunger-for-data-challenges-our-digital-autonomy?pk_campaign=rss-feed)
 - [OpenAI&#39;s Identity Crisis](https://dev.to/rawveg/openais-identity-crisis-3g83)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
 - [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
 - [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
-- [The Future of AI in Real Estate and Rentals](https://dev.to/rawveg/the-future-of-ai-in-real-estate-and-rentals-4cp8)
 <!-- BLOG-POST-LIST:END -->
