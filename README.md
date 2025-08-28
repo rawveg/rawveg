@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [The Foundations of AI Ethics](https://dev.to/rawveg/the-foundations-of-ai-ethics-35an)
 - [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
+- [The Great Equaliser: How AI Is Rewriting the Rules of Business](https://smarterarticles.co.uk/the-great-equaliser-how-ai-is-rewriting-the-rules-of-business?pk_campaign=rss-feed)
 - [The Privacy Paradox: How AI&#39;s Hunger for Data Challenges Our Digital Autonomy](https://smarterarticles.co.uk/the-privacy-paradox-how-ais-hunger-for-data-challenges-our-digital-autonomy?pk_campaign=rss-feed)
 - [OpenAI&#39;s Identity Crisis](https://dev.to/rawveg/openais-identity-crisis-3g83)
 - [The New Literacy Divide: How AI Education Could Reshape Class in Britain](https://smarterarticles.co.uk/the-new-literacy-divide-how-ai-education-could-reshape-class-in-britain?pk_campaign=rss-feed)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [The Rebirth of the Artist: How AI is Redefining Creative Authenticity](https://smarterarticles.co.uk/the-rebirth-of-the-artist-how-ai-is-redefining-creative-authenticity?pk_campaign=rss-feed)
 - [The New Digital Empire: How AI Governance Could Reshape Global Power](https://smarterarticles.co.uk/the-new-digital-empire-how-ai-governance-could-reshape-global-power?pk_campaign=rss-feed)
 - [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
-- [When Machines Make the Call: How AI Agents Are Redefining Workplace Responsibility](https://smarterarticles.co.uk/when-machines-make-the-call-how-ai-agents-are-redefining-workplace?pk_campaign=rss-feed)
 - [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
 - [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
 - [The New Fortress](https://dev.to/rawveg/the-new-fortress-3b6a)
