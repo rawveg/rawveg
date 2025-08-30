@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
+- [Code That Writes Itself: When AI Agents Add What You Didn&#39;t Ask For](https://smarterarticles.co.uk/code-that-writes-itself-when-ai-agents-add-what-you-didnt-ask-for?pk_campaign=rss-feed)
 - [The Foundations of AI Ethics](https://dev.to/rawveg/the-foundations-of-ai-ethics-35an)
 - [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
 - [Synthetic Stories, Real Results: The Rise of AI‑Driven Election Wins](https://smarterarticles.co.uk/synthetic-stories-real-results-the-rise-of-ai-driven-election-wins?pk_campaign=rss-feed)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [The Innovation Paradox: How AI Governance Could Make or Break the Future](https://smarterarticles.co.uk/the-innovation-paradox-how-ai-governance-could-make-or-break-the-future?pk_campaign=rss-feed)
 - [The Great AI Capability Illusion](https://dev.to/rawveg/the-great-ai-capability-illusion-3p6i)
 - [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
-- [The Smart Home Uprising: When AI Decides Your Dishwasher&#39;s Bedtime](https://smarterarticles.co.uk/the-smart-home-uprising-when-ai-decides-your-dishwashers-bedtime?pk_campaign=rss-feed)
 - [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
 - [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
 - [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
