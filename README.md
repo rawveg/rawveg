@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Climate Oracle: When Your Phone Becomes Your Environmental Conscience](https://smarterarticles.co.uk/the-climate-oracle-when-your-phone-becomes-your-environmental-conscience?pk_campaign=rss-feed)
 - [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
 - [Code That Writes Itself: When AI Agents Add What You Didn&#39;t Ask For](https://smarterarticles.co.uk/code-that-writes-itself-when-ai-agents-add-what-you-didnt-ask-for?pk_campaign=rss-feed)
 - [The Foundations of AI Ethics](https://dev.to/rawveg/the-foundations-of-ai-ethics-35an)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [Curated Desires: How AI Is Quietly Rewriting Your Choices](https://smarterarticles.co.uk/curated-desires-how-ai-is-quietly-rewriting-your-choices?pk_campaign=rss-feed)
 - [The Consent Paradox: When Privacy Becomes a Performance](https://smarterarticles.co.uk/the-consent-paradox-when-privacy-becomes-a-performance?pk_campaign=rss-feed)
 - [The Darwin Machine Dilemma](https://dev.to/rawveg/the-darwin-machine-dilemma-115o)
-- [The Innovation Paradox: How AI Governance Could Make or Break the Future](https://smarterarticles.co.uk/the-innovation-paradox-how-ai-governance-could-make-or-break-the-future?pk_campaign=rss-feed)
 - [The Great AI Capability Illusion](https://dev.to/rawveg/the-great-ai-capability-illusion-3p6i)
 - [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
 - [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
