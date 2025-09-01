@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Invisible Exchange: How AI Rewrites Digital Privacy](https://smarterarticles.co.uk/the-invisible-exchange-how-ai-rewrites-digital-privacy?pk_campaign=rss-feed)
 - [The Reality Check](https://dev.to/rawveg/the-reality-check-3jc5)
 - [The Climate Oracle: When Your Phone Becomes Your Environmental Conscience](https://smarterarticles.co.uk/the-climate-oracle-when-your-phone-becomes-your-environmental-conscience?pk_campaign=rss-feed)
 - [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [The New Literacy Divide: How AI Education Could Reshape Class in Britain](https://smarterarticles.co.uk/the-new-literacy-divide-how-ai-education-could-reshape-class-in-britain?pk_campaign=rss-feed)
 - [The Great Retraining: Testing the Social Imagination in the Age of AI](https://smarterarticles.co.uk/the-great-retraining-testing-the-social-imagination-in-the-age-of-ai?pk_campaign=rss-feed)
 - [Curated Desires: How AI Is Quietly Rewriting Your Choices](https://smarterarticles.co.uk/curated-desires-how-ai-is-quietly-rewriting-your-choices?pk_campaign=rss-feed)
-- [The Consent Paradox: When Privacy Becomes a Performance](https://smarterarticles.co.uk/the-consent-paradox-when-privacy-becomes-a-performance?pk_campaign=rss-feed)
 - [The Darwin Machine Dilemma](https://dev.to/rawveg/the-darwin-machine-dilemma-115o)
 - [The Great AI Capability Illusion](https://dev.to/rawveg/the-great-ai-capability-illusion-3p6i)
 - [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
