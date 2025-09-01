@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Reality Check](https://dev.to/rawveg/the-reality-check-3jc5)
 - [The Climate Oracle: When Your Phone Becomes Your Environmental Conscience](https://smarterarticles.co.uk/the-climate-oracle-when-your-phone-becomes-your-environmental-conscience?pk_campaign=rss-feed)
 - [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
 - [Code That Writes Itself: When AI Agents Add What You Didn&#39;t Ask For](https://smarterarticles.co.uk/code-that-writes-itself-when-ai-agents-add-what-you-didnt-ask-for?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
 - [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
 - [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
-- [When Silicon Valley&#39;s Promise Meets Reality](https://dev.to/rawveg/when-silicon-valleys-promise-meets-reality-5568)
 <!-- BLOG-POST-LIST:END -->
