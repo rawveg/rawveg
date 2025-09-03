@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Training Imperative](https://dev.to/rawveg/the-training-imperative-4nih)
 - [The Open Source Dilemma: When AI&#39;s Greatest Strength Becomes Its Greatest Risk](https://smarterarticles.co.uk/the-open-source-dilemma-when-ais-greatest-strength-becomes-its-greatest-risk?pk_campaign=rss-feed)
 - [The Invisible Exchange: How AI Rewrites Digital Privacy](https://smarterarticles.co.uk/the-invisible-exchange-how-ai-rewrites-digital-privacy?pk_campaign=rss-feed)
 - [The Reality Check](https://dev.to/rawveg/the-reality-check-3jc5)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Great AI Capability Illusion](https://dev.to/rawveg/the-great-ai-capability-illusion-3p6i)
 - [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
 - [The Molecular Scalpel](https://dev.to/rawveg/the-molecular-scalpel-id4)
-- [The Shadow Machines](https://dev.to/rawveg/the-shadow-machines-3ml0)
 <!-- BLOG-POST-LIST:END -->
