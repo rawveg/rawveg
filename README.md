@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Intimate Algorithm: When AI Knows You Better Than Family](https://smarterarticles.co.uk/the-intimate-algorithm-when-ai-knows-you-better-than-family?pk_campaign=rss-feed)
 - [The Training Imperative](https://dev.to/rawveg/the-training-imperative-4nih)
 - [The Democracy Dilemma: How Big Tech&#39;s Political Spending Threatens AI Governance](https://smarterarticles.co.uk/the-democracy-dilemma-how-big-techs-political-spending-threatens-ai-governance?pk_campaign=rss-feed)
 - [The Open Source Dilemma: When AI&#39;s Greatest Strength Becomes Its Greatest Risk](https://smarterarticles.co.uk/the-open-source-dilemma-when-ais-greatest-strength-becomes-its-greatest-risk?pk_campaign=rss-feed)
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 - [The Great Equaliser: How AI Is Rewriting the Rules of Business](https://smarterarticles.co.uk/the-great-equaliser-how-ai-is-rewriting-the-rules-of-business?pk_campaign=rss-feed)
 - [The Privacy Paradox: How AI&#39;s Hunger for Data Challenges Our Digital Autonomy](https://smarterarticles.co.uk/the-privacy-paradox-how-ais-hunger-for-data-challenges-our-digital-autonomy?pk_campaign=rss-feed)
 - [OpenAI&#39;s Identity Crisis](https://dev.to/rawveg/openais-identity-crisis-3g83)
-- [The New Literacy Divide: How AI Education Could Reshape Class in Britain](https://smarterarticles.co.uk/the-new-literacy-divide-how-ai-education-could-reshape-class-in-britain?pk_campaign=rss-feed)
 - [The Darwin Machine Dilemma](https://dev.to/rawveg/the-darwin-machine-dilemma-115o)
 - [The Great AI Capability Illusion](https://dev.to/rawveg/the-great-ai-capability-illusion-3p6i)
 - [When AI Needs to Show Its Working](https://dev.to/rawveg/when-ai-needs-to-show-its-working-34ff)
