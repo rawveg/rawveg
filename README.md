@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [The Molecular Alchemists](https://dev.to/rawveg/the-molecular-alchemists-dkj)
+- [The Invisible Jury: Why Your Future Depends on AI You&#39;ll Never See](https://smarterarticles.co.uk/the-invisible-jury-why-your-future-depends-on-ai-youll-never-see?pk_campaign=rss-feed)
 - [The Intimacy Engine: Why AI Personalisation Leaves Us Feeling More Alone Than Ever](https://smarterarticles.co.uk/the-intimacy-engine-why-ai-personalisation-leaves-us-feeling-more-alone-than?pk_campaign=rss-feed)
 - [The Human Advantage: Why Your Next Promotion Depends on Skills No AI Can Master](https://smarterarticles.co.uk/the-human-advantage-why-your-next-promotion-depends-on-skills-no-ai-can-master?pk_campaign=rss-feed)
 - [The Code Behind the Story](https://dev.to/rawveg/the-code-behind-the-story-1b5k)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [The Foundations of AI Ethics](https://dev.to/rawveg/the-foundations-of-ai-ethics-35an)
 - [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
 - [Synthetic Stories, Real Results: The Rise of AI‑Driven Election Wins](https://smarterarticles.co.uk/synthetic-stories-real-results-the-rise-of-ai-driven-election-wins?pk_campaign=rss-feed)
-- [The Hidden Hands: The Labour That Exposes AI&#39;s Ethical Contradictions](https://smarterarticles.co.uk/the-hidden-hands-the-labour-that-exposes-ais-ethical-contradictions?pk_campaign=rss-feed)
 - [OpenAI&#39;s Identity Crisis](https://dev.to/rawveg/openais-identity-crisis-3g83)
 - [The Darwin Machine Dilemma](https://dev.to/rawveg/the-darwin-machine-dilemma-115o)
 - [The Great AI Capability Illusion](https://dev.to/rawveg/the-great-ai-capability-illusion-3p6i)
