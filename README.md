@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [The Decimal Point Dilemma](https://dev.to/rawveg/the-decimal-point-dilemma-3l4l)
 - [The Molecular Alchemists](https://dev.to/rawveg/the-molecular-alchemists-dkj)
+- [The Privacy Revolution in Your Pocket: How Edge AI Is Reshaping Digital Trust](https://smarterarticles.co.uk/the-privacy-revolution-in-your-pocket-how-edge-ai-is-reshaping-digital-trust?pk_campaign=rss-feed)
 - [The End of Shopping as We Know It: How AI&#39;s See-It-Buy-It Is Rewiring Consumer Brains](https://smarterarticles.co.uk/the-end-of-shopping-as-we-know-it-how-ais-see-it-buy-it-is-rewiring?pk_campaign=rss-feed)
 - [The Invisible Jury: Why Your Future Depends on AI You&#39;ll Never See](https://smarterarticles.co.uk/the-invisible-jury-why-your-future-depends-on-ai-youll-never-see?pk_campaign=rss-feed)
 - [The Intimacy Engine: Why AI Personalisation Leaves Us Feeling More Alone Than Ever](https://smarterarticles.co.uk/the-intimacy-engine-why-ai-personalisation-leaves-us-feeling-more-alone-than?pk_campaign=rss-feed)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [The Open Source Dilemma: When AI&#39;s Greatest Strength Becomes Its Greatest Risk](https://smarterarticles.co.uk/the-open-source-dilemma-when-ais-greatest-strength-becomes-its-greatest-risk?pk_campaign=rss-feed)
 - [The Invisible Exchange: How AI Rewrites Digital Privacy](https://smarterarticles.co.uk/the-invisible-exchange-how-ai-rewrites-digital-privacy?pk_campaign=rss-feed)
 - [The Reality Check](https://dev.to/rawveg/the-reality-check-3jc5)
-- [The Climate Oracle: When Your Phone Becomes Your Environmental Conscience](https://smarterarticles.co.uk/the-climate-oracle-when-your-phone-becomes-your-environmental-conscience?pk_campaign=rss-feed)
 - [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
 - [The Foundations of AI Ethics](https://dev.to/rawveg/the-foundations-of-ai-ethics-35an)
 - [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
