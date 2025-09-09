@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Decimal Point Dilemma](https://dev.to/rawveg/the-decimal-point-dilemma-3l4l)
 - [The Molecular Alchemists](https://dev.to/rawveg/the-molecular-alchemists-dkj)
 - [The End of Shopping as We Know It: How AI&#39;s See-It-Buy-It Is Rewiring Consumer Brains](https://smarterarticles.co.uk/the-end-of-shopping-as-we-know-it-how-ais-see-it-buy-it-is-rewiring?pk_campaign=rss-feed)
 - [The Invisible Jury: Why Your Future Depends on AI You&#39;ll Never See](https://smarterarticles.co.uk/the-invisible-jury-why-your-future-depends-on-ai-youll-never-see?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
 - [OpenAI&#39;s Identity Crisis](https://dev.to/rawveg/openais-identity-crisis-3g83)
 - [The Darwin Machine Dilemma](https://dev.to/rawveg/the-darwin-machine-dilemma-115o)
-- [The Great AI Capability Illusion](https://dev.to/rawveg/the-great-ai-capability-illusion-3p6i)
 <!-- BLOG-POST-LIST:END -->
