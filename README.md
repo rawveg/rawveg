@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [The Molecular Alchemists](https://dev.to/rawveg/the-molecular-alchemists-dkj)
+- [The End of Shopping as We Know It: How AI&#39;s See-It-Buy-It Is Rewiring Consumer Brains](https://smarterarticles.co.uk/the-end-of-shopping-as-we-know-it-how-ais-see-it-buy-it-is-rewiring?pk_campaign=rss-feed)
 - [The Invisible Jury: Why Your Future Depends on AI You&#39;ll Never See](https://smarterarticles.co.uk/the-invisible-jury-why-your-future-depends-on-ai-youll-never-see?pk_campaign=rss-feed)
 - [The Intimacy Engine: Why AI Personalisation Leaves Us Feeling More Alone Than Ever](https://smarterarticles.co.uk/the-intimacy-engine-why-ai-personalisation-leaves-us-feeling-more-alone-than?pk_campaign=rss-feed)
 - [The Human Advantage: Why Your Next Promotion Depends on Skills No AI Can Master](https://smarterarticles.co.uk/the-human-advantage-why-your-next-promotion-depends-on-skills-no-ai-can-master?pk_campaign=rss-feed)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [The Reality Check](https://dev.to/rawveg/the-reality-check-3jc5)
 - [The Climate Oracle: When Your Phone Becomes Your Environmental Conscience](https://smarterarticles.co.uk/the-climate-oracle-when-your-phone-becomes-your-environmental-conscience?pk_campaign=rss-feed)
 - [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
-- [Code That Writes Itself: When AI Agents Add What You Didn&#39;t Ask For](https://smarterarticles.co.uk/code-that-writes-itself-when-ai-agents-add-what-you-didnt-ask-for?pk_campaign=rss-feed)
 - [The Foundations of AI Ethics](https://dev.to/rawveg/the-foundations-of-ai-ethics-35an)
 - [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
 - [OpenAI&#39;s Identity Crisis](https://dev.to/rawveg/openais-identity-crisis-3g83)
