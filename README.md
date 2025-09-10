@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [The Great Reckoning](https://dev.to/rawveg/the-great-reckoning-18nc)
 - [The Decimal Point Dilemma](https://dev.to/rawveg/the-decimal-point-dilemma-3l4l)
+- [When Robots Care: The Quest for Digital Empathy in Eldercare](https://smarterarticles.co.uk/when-robots-care-the-quest-for-digital-empathy-in-eldercare?pk_campaign=rss-feed)
 - [The Molecular Alchemists](https://dev.to/rawveg/the-molecular-alchemists-dkj)
 - [The Privacy Revolution in Your Pocket: How Edge AI Is Reshaping Digital Trust](https://smarterarticles.co.uk/the-privacy-revolution-in-your-pocket-how-edge-ai-is-reshaping-digital-trust?pk_campaign=rss-feed)
 - [The End of Shopping as We Know It: How AI&#39;s See-It-Buy-It Is Rewiring Consumer Brains](https://smarterarticles.co.uk/the-end-of-shopping-as-we-know-it-how-ais-see-it-buy-it-is-rewiring?pk_campaign=rss-feed)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [The Training Imperative](https://dev.to/rawveg/the-training-imperative-4nih)
 - [The Democracy Dilemma: How Big Tech&#39;s Political Spending Threatens AI Governance](https://smarterarticles.co.uk/the-democracy-dilemma-how-big-techs-political-spending-threatens-ai-governance?pk_campaign=rss-feed)
 - [The Open Source Dilemma: When AI&#39;s Greatest Strength Becomes Its Greatest Risk](https://smarterarticles.co.uk/the-open-source-dilemma-when-ais-greatest-strength-becomes-its-greatest-risk?pk_campaign=rss-feed)
-- [The Invisible Exchange: How AI Rewrites Digital Privacy](https://smarterarticles.co.uk/the-invisible-exchange-how-ai-rewrites-digital-privacy?pk_campaign=rss-feed)
 - [The Reality Check](https://dev.to/rawveg/the-reality-check-3jc5)
 - [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
 - [The Foundations of AI Ethics](https://dev.to/rawveg/the-foundations-of-ai-ethics-35an)
