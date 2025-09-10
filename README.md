@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Great Reckoning](https://dev.to/rawveg/the-great-reckoning-18nc)
 - [The Decimal Point Dilemma](https://dev.to/rawveg/the-decimal-point-dilemma-3l4l)
 - [The Molecular Alchemists](https://dev.to/rawveg/the-molecular-alchemists-dkj)
 - [The Privacy Revolution in Your Pocket: How Edge AI Is Reshaping Digital Trust](https://smarterarticles.co.uk/the-privacy-revolution-in-your-pocket-how-edge-ai-is-reshaping-digital-trust?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Foundations of AI Ethics](https://dev.to/rawveg/the-foundations-of-ai-ethics-35an)
 - [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
 - [OpenAI&#39;s Identity Crisis](https://dev.to/rawveg/openais-identity-crisis-3g83)
-- [The Darwin Machine Dilemma](https://dev.to/rawveg/the-darwin-machine-dilemma-115o)
 <!-- BLOG-POST-LIST:END -->
