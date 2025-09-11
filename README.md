@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Wearables](https://dev.to/rawveg/beyond-wearables-20aj)
 - [The Great Reckoning](https://dev.to/rawveg/the-great-reckoning-18nc)
 - [The Decimal Point Dilemma](https://dev.to/rawveg/the-decimal-point-dilemma-3l4l)
 - [When Robots Care: The Quest for Digital Empathy in Eldercare](https://smarterarticles.co.uk/when-robots-care-the-quest-for-digital-empathy-in-eldercare?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
 - [The Foundations of AI Ethics](https://dev.to/rawveg/the-foundations-of-ai-ethics-35an)
 - [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
-- [OpenAI&#39;s Identity Crisis](https://dev.to/rawveg/openais-identity-crisis-3g83)
 <!-- BLOG-POST-LIST:END -->
