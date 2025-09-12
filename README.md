@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Ethics: From Academic Curiosity to Existential Imperative](https://dev.to/rawveg/ai-ethics-from-academic-curiosity-to-existential-imperative-1nd1)
 - [Beyond Wearables](https://dev.to/rawveg/beyond-wearables-20aj)
 - [The Great Reckoning](https://dev.to/rawveg/the-great-reckoning-18nc)
 - [The Decimal Point Dilemma](https://dev.to/rawveg/the-decimal-point-dilemma-3l4l)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Reality Check](https://dev.to/rawveg/the-reality-check-3jc5)
 - [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
 - [The Foundations of AI Ethics](https://dev.to/rawveg/the-foundations-of-ai-ethics-35an)
-- [The AI Revolution in Education](https://dev.to/rawveg/the-ai-revolution-in-education-5d6b)
 <!-- BLOG-POST-LIST:END -->
