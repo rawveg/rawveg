@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - [Beyond Wearables](https://dev.to/rawveg/beyond-wearables-20aj)
 - [The Great Reckoning](https://dev.to/rawveg/the-great-reckoning-18nc)
 - [The Decimal Point Dilemma](https://dev.to/rawveg/the-decimal-point-dilemma-3l4l)
+- [Financial Warfare: How AI Is Hacking Trust and Bankrupting Reality](https://smarterarticles.co.uk/financial-warfare-how-ai-is-hacking-trust-and-bankrupting-reality?pk_campaign=rss-feed)
 - [When AI Learns to Hack: Your Digital Survival Guide](https://smarterarticles.co.uk/when-ai-learns-to-hack-your-digital-survival-guide?pk_campaign=rss-feed)
 - [The Kids Aren&#39;t Alright: Teen Suicide Cases Spark Industry Reckoning](https://smarterarticles.co.uk/the-kids-arent-alright-teen-suicide-cases-spark-industry-reckoning?pk_campaign=rss-feed)
 - [The Last Rung: When AI Skips the First Step and Leaves a Generation Behind](https://smarterarticles.co.uk/the-last-rung-when-ai-skips-the-first-step-and-leaves-a-generation-behind?pk_campaign=rss-feed)
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
 - [The Intimacy Engine: Why AI Personalisation Leaves Us Feeling More Alone Than Ever](https://smarterarticles.co.uk/the-intimacy-engine-why-ai-personalisation-leaves-us-feeling-more-alone-than?pk_campaign=rss-feed)
 - [The Human Advantage: Why Your Next Promotion Depends on Skills No AI Can Master](https://smarterarticles.co.uk/the-human-advantage-why-your-next-promotion-depends-on-skills-no-ai-can-master?pk_campaign=rss-feed)
 - [The Code Behind the Story](https://dev.to/rawveg/the-code-behind-the-story-1b5k)
-- [The Intimate Algorithm: When AI Knows You Better Than Family](https://smarterarticles.co.uk/the-intimate-algorithm-when-ai-knows-you-better-than-family?pk_campaign=rss-feed)
 - [The Training Imperative](https://dev.to/rawveg/the-training-imperative-4nih)
 - [The Reality Check](https://dev.to/rawveg/the-reality-check-3jc5)
 <!-- BLOG-POST-LIST:END -->
