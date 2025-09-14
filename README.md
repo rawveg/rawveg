@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The End of Learning as We Know It](https://dev.to/rawveg/the-end-of-learning-as-we-know-it-1h1k)
 - [AI Empowerment or Dependency](https://dev.to/rawveg/ai-empowerment-or-dependency-1355)
 - [AI Ethics: From Academic Curiosity to Existential Imperative](https://dev.to/rawveg/ai-ethics-from-academic-curiosity-to-existential-imperative-1nd1)
 - [Beyond Wearables](https://dev.to/rawveg/beyond-wearables-20aj)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Intimate Algorithm: When AI Knows You Better Than Family](https://smarterarticles.co.uk/the-intimate-algorithm-when-ai-knows-you-better-than-family?pk_campaign=rss-feed)
 - [The Training Imperative](https://dev.to/rawveg/the-training-imperative-4nih)
 - [The Reality Check](https://dev.to/rawveg/the-reality-check-3jc5)
-- [The Underground Internet](https://dev.to/rawveg/the-underground-internet-217o)
 <!-- BLOG-POST-LIST:END -->
