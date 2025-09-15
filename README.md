@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Great Automotive Safety Reckoning](https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7)
 - [The End of Learning as We Know It](https://dev.to/rawveg/the-end-of-learning-as-we-know-it-1h1k)
 - [AI Empowerment or Dependency](https://dev.to/rawveg/ai-empowerment-or-dependency-1355)
 - [AI Ethics: From Academic Curiosity to Existential Imperative](https://dev.to/rawveg/ai-ethics-from-academic-curiosity-to-existential-imperative-1nd1)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Human Advantage: Why Your Next Promotion Depends on Skills No AI Can Master](https://smarterarticles.co.uk/the-human-advantage-why-your-next-promotion-depends-on-skills-no-ai-can-master?pk_campaign=rss-feed)
 - [The Code Behind the Story](https://dev.to/rawveg/the-code-behind-the-story-1b5k)
 - [The Training Imperative](https://dev.to/rawveg/the-training-imperative-4nih)
-- [The Reality Check](https://dev.to/rawveg/the-reality-check-3jc5)
 <!-- BLOG-POST-LIST:END -->
