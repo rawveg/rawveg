@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Artificial Remembrance](https://dev.to/rawveg/artificial-remembrance-3e4)
 - [The Great Automotive Safety Reckoning](https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7)
 - [The End of Learning as We Know It](https://dev.to/rawveg/the-end-of-learning-as-we-know-it-1h1k)
 - [AI Empowerment or Dependency](https://dev.to/rawveg/ai-empowerment-or-dependency-1355)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Invisible Jury: Why Your Future Depends on AI You&#39;ll Never See](https://smarterarticles.co.uk/the-invisible-jury-why-your-future-depends-on-ai-youll-never-see?pk_campaign=rss-feed)
 - [The Intimacy Engine: Why AI Personalisation Leaves Us Feeling More Alone Than Ever](https://smarterarticles.co.uk/the-intimacy-engine-why-ai-personalisation-leaves-us-feeling-more-alone-than?pk_campaign=rss-feed)
 - [The Code Behind the Story](https://dev.to/rawveg/the-code-behind-the-story-1b5k)
-- [The Training Imperative](https://dev.to/rawveg/the-training-imperative-4nih)
 <!-- BLOG-POST-LIST:END -->
