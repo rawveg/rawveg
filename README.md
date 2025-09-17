@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - [AI Ethics: From Academic Curiosity to Existential Imperative](https://dev.to/rawveg/ai-ethics-from-academic-curiosity-to-existential-imperative-1nd1)
 - [Beyond Wearables](https://dev.to/rawveg/beyond-wearables-20aj)
 - [The Great Reckoning](https://dev.to/rawveg/the-great-reckoning-18nc)
+- [When Reality Dissolves: How AI’s Instant Worlds Challenge What It Means To Be Real](https://smarterarticles.co.uk/when-reality-dissolves-how-ais-instant-worlds-challenge-what-it-means-to-be?pk_campaign=rss-feed)
 - [The Impossible Promise: Why AI Can&#39;t Truly Forget Your Data](https://smarterarticles.co.uk/the-impossible-promise-why-ai-cant-truly-forget-your-data?pk_campaign=rss-feed)
 - [The Decimal Point Dilemma](https://dev.to/rawveg/the-decimal-point-dilemma-3l4l)
 - [Financial Warfare: How AI Is Hacking Trust and Bankrupting Reality](https://smarterarticles.co.uk/financial-warfare-how-ai-is-hacking-trust-and-bankrupting-reality?pk_campaign=rss-feed)
@@ -33,6 +34,5 @@ Here are some ideas to get you started:
 - [The Privacy Revolution in Your Pocket: How Edge AI Is Reshaping Digital Trust](https://smarterarticles.co.uk/the-privacy-revolution-in-your-pocket-how-edge-ai-is-reshaping-digital-trust?pk_campaign=rss-feed)
 - [The End of Shopping as We Know It: How AI&#39;s See-It-Buy-It Is Rewiring Consumer Brains](https://smarterarticles.co.uk/the-end-of-shopping-as-we-know-it-how-ais-see-it-buy-it-is-rewiring?pk_campaign=rss-feed)
 - [The Invisible Jury: Why Your Future Depends on AI You&#39;ll Never See](https://smarterarticles.co.uk/the-invisible-jury-why-your-future-depends-on-ai-youll-never-see?pk_campaign=rss-feed)
-- [The Intimacy Engine: Why AI Personalisation Leaves Us Feeling More Alone Than Ever](https://smarterarticles.co.uk/the-intimacy-engine-why-ai-personalisation-leaves-us-feeling-more-alone-than?pk_campaign=rss-feed)
 - [The Code Behind the Story](https://dev.to/rawveg/the-code-behind-the-story-1b5k)
 <!-- BLOG-POST-LIST:END -->
