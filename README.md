@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Algorithmic Apostles](https://dev.to/rawveg/the-algorithmic-apostles-55ff)
 - [Artificial Remembrance](https://dev.to/rawveg/artificial-remembrance-3e4)
 - [The Great Automotive Safety Reckoning](https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7)
 - [The End of Learning as We Know It](https://dev.to/rawveg/the-end-of-learning-as-we-know-it-1h1k)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Privacy Revolution in Your Pocket: How Edge AI Is Reshaping Digital Trust](https://smarterarticles.co.uk/the-privacy-revolution-in-your-pocket-how-edge-ai-is-reshaping-digital-trust?pk_campaign=rss-feed)
 - [The End of Shopping as We Know It: How AI&#39;s See-It-Buy-It Is Rewiring Consumer Brains](https://smarterarticles.co.uk/the-end-of-shopping-as-we-know-it-how-ais-see-it-buy-it-is-rewiring?pk_campaign=rss-feed)
 - [The Invisible Jury: Why Your Future Depends on AI You&#39;ll Never See](https://smarterarticles.co.uk/the-invisible-jury-why-your-future-depends-on-ai-youll-never-see?pk_campaign=rss-feed)
-- [The Code Behind the Story](https://dev.to/rawveg/the-code-behind-the-story-1b5k)
 <!-- BLOG-POST-LIST:END -->
