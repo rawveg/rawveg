@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - [The End of Learning as We Know It](https://dev.to/rawveg/the-end-of-learning-as-we-know-it-1h1k)
 - [AI Empowerment or Dependency](https://dev.to/rawveg/ai-empowerment-or-dependency-1355)
 - [AI Ethics: From Academic Curiosity to Existential Imperative](https://dev.to/rawveg/ai-ethics-from-academic-curiosity-to-existential-imperative-1nd1)
+- [The Watchers: How AI Surveillance Rewrites Safety and Privacy](https://smarterarticles.co.uk/the-watchers-how-ai-surveillance-rewrites-safety-and-privacy?pk_campaign=rss-feed)
 - [Beyond Wearables](https://dev.to/rawveg/beyond-wearables-20aj)
 - [The Great Reckoning](https://dev.to/rawveg/the-great-reckoning-18nc)
 - [When Reality Dissolves: How AI’s Instant Worlds Challenge What It Means To Be Real](https://smarterarticles.co.uk/when-reality-dissolves-how-ais-instant-worlds-challenge-what-it-means-to-be?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Molecular Alchemists](https://dev.to/rawveg/the-molecular-alchemists-dkj)
 - [The Privacy Revolution in Your Pocket: How Edge AI Is Reshaping Digital Trust](https://smarterarticles.co.uk/the-privacy-revolution-in-your-pocket-how-edge-ai-is-reshaping-digital-trust?pk_campaign=rss-feed)
 - [The End of Shopping as We Know It: How AI&#39;s See-It-Buy-It Is Rewiring Consumer Brains](https://smarterarticles.co.uk/the-end-of-shopping-as-we-know-it-how-ais-see-it-buy-it-is-rewiring?pk_campaign=rss-feed)
-- [The Invisible Jury: Why Your Future Depends on AI You&#39;ll Never See](https://smarterarticles.co.uk/the-invisible-jury-why-your-future-depends-on-ai-youll-never-see?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
