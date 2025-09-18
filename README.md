@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - [The Great Automotive Safety Reckoning](https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7)
 - [The End of Learning as We Know It](https://dev.to/rawveg/the-end-of-learning-as-we-know-it-1h1k)
 - [AI Empowerment or Dependency](https://dev.to/rawveg/ai-empowerment-or-dependency-1355)
+- [The $100 Billion Gamble: A New Power Structure for AI](https://smarterarticles.co.uk/the-100-billion-gamble-a-new-power-structure-for-ai?pk_campaign=rss-feed)
 - [AI Ethics: From Academic Curiosity to Existential Imperative](https://dev.to/rawveg/ai-ethics-from-academic-curiosity-to-existential-imperative-1nd1)
 - [The Watchers: How AI Surveillance Rewrites Safety and Privacy](https://smarterarticles.co.uk/the-watchers-how-ai-surveillance-rewrites-safety-and-privacy?pk_campaign=rss-feed)
 - [Beyond Wearables](https://dev.to/rawveg/beyond-wearables-20aj)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Last Rung: When AI Skips the First Step and Leaves a Generation Behind](https://smarterarticles.co.uk/the-last-rung-when-ai-skips-the-first-step-and-leaves-a-generation-behind?pk_campaign=rss-feed)
 - [When Robots Care: The Quest for Digital Empathy in Eldercare](https://smarterarticles.co.uk/when-robots-care-the-quest-for-digital-empathy-in-eldercare?pk_campaign=rss-feed)
 - [The Molecular Alchemists](https://dev.to/rawveg/the-molecular-alchemists-dkj)
-- [The Privacy Revolution in Your Pocket: How Edge AI Is Reshaping Digital Trust](https://smarterarticles.co.uk/the-privacy-revolution-in-your-pocket-how-edge-ai-is-reshaping-digital-trust?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
