@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Invisible Revolution](https://dev.to/rawveg/the-invisible-revolution-5bpa)
 - [The Algorithmic Apostles](https://dev.to/rawveg/the-algorithmic-apostles-55ff)
 - [Artificial Remembrance](https://dev.to/rawveg/artificial-remembrance-3e4)
 - [The Great Automotive Safety Reckoning](https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Robots Care: The Quest for Digital Empathy in Eldercare](https://smarterarticles.co.uk/when-robots-care-the-quest-for-digital-empathy-in-eldercare?pk_campaign=rss-feed)
 - [The Molecular Alchemists](https://dev.to/rawveg/the-molecular-alchemists-dkj)
 - [The Privacy Revolution in Your Pocket: How Edge AI Is Reshaping Digital Trust](https://smarterarticles.co.uk/the-privacy-revolution-in-your-pocket-how-edge-ai-is-reshaping-digital-trust?pk_campaign=rss-feed)
-- [The End of Shopping as We Know It: How AI&#39;s See-It-Buy-It Is Rewiring Consumer Brains](https://smarterarticles.co.uk/the-end-of-shopping-as-we-know-it-how-ais-see-it-buy-it-is-rewiring?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
