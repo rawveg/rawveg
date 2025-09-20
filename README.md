@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Shadow of Progress](https://dev.to/rawveg/the-shadow-of-progress-be6)
 - [The Crystal That Broke Time](https://dev.to/rawveg/the-crystal-that-broke-time-f4m)
 - [How AI IDEs Are Splitting the Programming Mind](https://dev.to/rawveg/how-ai-ides-are-splitting-the-programming-mind-2537)
 - [Why Most Independent Artists Will Never Get Paid](https://dev.to/rawveg/why-most-independent-artists-will-never-get-paid-4edj)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [The $100 Billion Gamble: A New Power Structure for AI](https://smarterarticles.co.uk/the-100-billion-gamble-a-new-power-structure-for-ai?pk_campaign=rss-feed)
 - [AI Ethics: From Academic Curiosity to Existential Imperative](https://dev.to/rawveg/ai-ethics-from-academic-curiosity-to-existential-imperative-1nd1)
 - [The Watchers: How AI Surveillance Rewrites Safety and Privacy](https://smarterarticles.co.uk/the-watchers-how-ai-surveillance-rewrites-safety-and-privacy?pk_campaign=rss-feed)
-- [Beyond Wearables](https://dev.to/rawveg/beyond-wearables-20aj)
 - [When Reality Dissolves: How AI’s Instant Worlds Challenge What It Means To Be Real](https://smarterarticles.co.uk/when-reality-dissolves-how-ais-instant-worlds-challenge-what-it-means-to-be?pk_campaign=rss-feed)
 - [The Impossible Promise: Why AI Can&#39;t Truly Forget Your Data](https://smarterarticles.co.uk/the-impossible-promise-why-ai-cant-truly-forget-your-data?pk_campaign=rss-feed)
 - [Financial Warfare: How AI Is Hacking Trust and Bankrupting Reality](https://smarterarticles.co.uk/financial-warfare-how-ai-is-hacking-trust-and-bankrupting-reality?pk_campaign=rss-feed)
