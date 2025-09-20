@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Why Most Independent Artists Will Never Get Paid](https://dev.to/rawveg/why-most-independent-artists-will-never-get-paid-4edj)
 - [The New Data Barons](https://dev.to/rawveg/the-new-data-barons-5bfj)
 - [The Invisible Revolution](https://dev.to/rawveg/the-invisible-revolution-5bpa)
 - [The Algorithmic Apostles](https://dev.to/rawveg/the-algorithmic-apostles-55ff)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When AI Learns to Hack: Your Digital Survival Guide](https://smarterarticles.co.uk/when-ai-learns-to-hack-your-digital-survival-guide?pk_campaign=rss-feed)
 - [The Kids Aren&#39;t Alright: Teen Suicide Cases Spark Industry Reckoning](https://smarterarticles.co.uk/the-kids-arent-alright-teen-suicide-cases-spark-industry-reckoning?pk_campaign=rss-feed)
 - [The Last Rung: When AI Skips the First Step and Leaves a Generation Behind](https://smarterarticles.co.uk/the-last-rung-when-ai-skips-the-first-step-and-leaves-a-generation-behind?pk_campaign=rss-feed)
-- [When Robots Care: The Quest for Digital Empathy in Eldercare](https://smarterarticles.co.uk/when-robots-care-the-quest-for-digital-empathy-in-eldercare?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
