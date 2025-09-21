@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - [The Great Automotive Safety Reckoning](https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7)
 - [The End of Learning as We Know It](https://dev.to/rawveg/the-end-of-learning-as-we-know-it-1h1k)
 - [AI Empowerment or Dependency](https://dev.to/rawveg/ai-empowerment-or-dependency-1355)
+- [The Digital Nanny: Who Should Watch Over Our Children&#39;s AI Friends?](https://smarterarticles.co.uk/the-digital-nanny-who-should-watch-over-our-childrens-ai-friends?pk_campaign=rss-feed)
 - [The Great Cloud Escape: Why New Rules in the EU Won&#39;t Free SMEs](https://smarterarticles.co.uk/the-great-cloud-escape-why-new-rules-in-the-eu-wont-free-smes?pk_campaign=rss-feed)
 - [The $100 Billion Gamble: A New Power Structure for AI](https://smarterarticles.co.uk/the-100-billion-gamble-a-new-power-structure-for-ai?pk_campaign=rss-feed)
 - [AI Ethics: From Academic Curiosity to Existential Imperative](https://dev.to/rawveg/ai-ethics-from-academic-curiosity-to-existential-imperative-1nd1)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Impossible Promise: Why AI Can&#39;t Truly Forget Your Data](https://smarterarticles.co.uk/the-impossible-promise-why-ai-cant-truly-forget-your-data?pk_campaign=rss-feed)
 - [Financial Warfare: How AI Is Hacking Trust and Bankrupting Reality](https://smarterarticles.co.uk/financial-warfare-how-ai-is-hacking-trust-and-bankrupting-reality?pk_campaign=rss-feed)
 - [When AI Learns to Hack: Your Digital Survival Guide](https://smarterarticles.co.uk/when-ai-learns-to-hack-your-digital-survival-guide?pk_campaign=rss-feed)
-- [The Kids Aren&#39;t Alright: Teen Suicide Cases Spark Industry Reckoning](https://smarterarticles.co.uk/the-kids-arent-alright-teen-suicide-cases-spark-industry-reckoning?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
