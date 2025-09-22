@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - [Artificial Remembrance](https://dev.to/rawveg/artificial-remembrance-3e4)
 - [The Great Automotive Safety Reckoning](https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7)
 - [The End of Learning as We Know It](https://dev.to/rawveg/the-end-of-learning-as-we-know-it-1h1k)
+- [The Struggle Paradox: How AI Tutors Rewrite the Rules of Academic Resilience](https://smarterarticles.co.uk/the-struggle-paradox-how-ai-tutors-rewrite-the-rules-of-academic-resilience?pk_campaign=rss-feed)
 - [The Last Human Frontier: Cultivating What AI Cannot Touch](https://smarterarticles.co.uk/the-last-human-frontier-cultivating-what-ai-cannot-touch?pk_campaign=rss-feed)
 - [The Digital Nanny: Who Should Watch Over Our Children&#39;s AI Friends?](https://smarterarticles.co.uk/the-digital-nanny-who-should-watch-over-our-childrens-ai-friends?pk_campaign=rss-feed)
 - [The Great Cloud Escape: Why New Rules in the EU Won&#39;t Free SMEs](https://smarterarticles.co.uk/the-great-cloud-escape-why-new-rules-in-the-eu-wont-free-smes?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Watchers: How AI Surveillance Rewrites Safety and Privacy](https://smarterarticles.co.uk/the-watchers-how-ai-surveillance-rewrites-safety-and-privacy?pk_campaign=rss-feed)
 - [When Reality Dissolves: How AI’s Instant Worlds Challenge What It Means To Be Real](https://smarterarticles.co.uk/when-reality-dissolves-how-ais-instant-worlds-challenge-what-it-means-to-be?pk_campaign=rss-feed)
 - [The Impossible Promise: Why AI Can&#39;t Truly Forget Your Data](https://smarterarticles.co.uk/the-impossible-promise-why-ai-cant-truly-forget-your-data?pk_campaign=rss-feed)
-- [Financial Warfare: How AI Is Hacking Trust and Bankrupting Reality](https://smarterarticles.co.uk/financial-warfare-how-ai-is-hacking-trust-and-bankrupting-reality?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
