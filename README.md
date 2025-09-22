@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Hollow Echo](https://dev.to/rawveg/the-hollow-echo-1897)
 - [The Double-Edged Algorithm](https://dev.to/rawveg/the-double-edged-algorithm-ebh)
 - [The Shadow of Progress](https://dev.to/rawveg/the-shadow-of-progress-be6)
 - [The Crystal That Broke Time](https://dev.to/rawveg/the-crystal-that-broke-time-f4m)
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 - [Artificial Remembrance](https://dev.to/rawveg/artificial-remembrance-3e4)
 - [The Great Automotive Safety Reckoning](https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7)
 - [The End of Learning as We Know It](https://dev.to/rawveg/the-end-of-learning-as-we-know-it-1h1k)
-- [AI Empowerment or Dependency](https://dev.to/rawveg/ai-empowerment-or-dependency-1355)
 - [The Last Human Frontier: Cultivating What AI Cannot Touch](https://smarterarticles.co.uk/the-last-human-frontier-cultivating-what-ai-cannot-touch?pk_campaign=rss-feed)
 - [The Digital Nanny: Who Should Watch Over Our Children&#39;s AI Friends?](https://smarterarticles.co.uk/the-digital-nanny-who-should-watch-over-our-childrens-ai-friends?pk_campaign=rss-feed)
 - [The Great Cloud Escape: Why New Rules in the EU Won&#39;t Free SMEs](https://smarterarticles.co.uk/the-great-cloud-escape-why-new-rules-in-the-eu-wont-free-smes?pk_campaign=rss-feed)
