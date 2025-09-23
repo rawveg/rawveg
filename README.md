@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Great AI Subsidy Squeeze](https://dev.to/rawveg/the-great-ai-subsidy-squeeze-4pjf)
 - [The Hollow Echo](https://dev.to/rawveg/the-hollow-echo-1897)
 - [The Double-Edged Algorithm](https://dev.to/rawveg/the-double-edged-algorithm-ebh)
 - [The Shadow of Progress](https://dev.to/rawveg/the-shadow-of-progress-be6)
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 - [The Algorithmic Apostles](https://dev.to/rawveg/the-algorithmic-apostles-55ff)
 - [Artificial Remembrance](https://dev.to/rawveg/artificial-remembrance-3e4)
 - [The Great Automotive Safety Reckoning](https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7)
-- [The End of Learning as We Know It](https://dev.to/rawveg/the-end-of-learning-as-we-know-it-1h1k)
 - [The Struggle Paradox: How AI Tutors Rewrite the Rules of Academic Resilience](https://smarterarticles.co.uk/the-struggle-paradox-how-ai-tutors-rewrite-the-rules-of-academic-resilience?pk_campaign=rss-feed)
 - [The Last Human Frontier: Cultivating What AI Cannot Touch](https://smarterarticles.co.uk/the-last-human-frontier-cultivating-what-ai-cannot-touch?pk_campaign=rss-feed)
 - [The Digital Nanny: Who Should Watch Over Our Children&#39;s AI Friends?](https://smarterarticles.co.uk/the-digital-nanny-who-should-watch-over-our-childrens-ai-friends?pk_campaign=rss-feed)
