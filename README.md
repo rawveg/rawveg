@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - [The Algorithmic Apostles](https://dev.to/rawveg/the-algorithmic-apostles-55ff)
 - [Artificial Remembrance](https://dev.to/rawveg/artificial-remembrance-3e4)
 - [The Great Automotive Safety Reckoning](https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7)
+- [The Robot Revolution: Inside the Coming Domestic Disruption](https://smarterarticles.co.uk/the-robot-revolution-inside-the-coming-domestic-disruption?pk_campaign=rss-feed)
 - [The Struggle Paradox: How AI Tutors Rewrite the Rules of Academic Resilience](https://smarterarticles.co.uk/the-struggle-paradox-how-ai-tutors-rewrite-the-rules-of-academic-resilience?pk_campaign=rss-feed)
 - [The Last Human Frontier: Cultivating What AI Cannot Touch](https://smarterarticles.co.uk/the-last-human-frontier-cultivating-what-ai-cannot-touch?pk_campaign=rss-feed)
 - [The Digital Nanny: Who Should Watch Over Our Children&#39;s AI Friends?](https://smarterarticles.co.uk/the-digital-nanny-who-should-watch-over-our-childrens-ai-friends?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The $100 Billion Gamble: A New Power Structure for AI](https://smarterarticles.co.uk/the-100-billion-gamble-a-new-power-structure-for-ai?pk_campaign=rss-feed)
 - [The Watchers: How AI Surveillance Rewrites Safety and Privacy](https://smarterarticles.co.uk/the-watchers-how-ai-surveillance-rewrites-safety-and-privacy?pk_campaign=rss-feed)
 - [When Reality Dissolves: How AI’s Instant Worlds Challenge What It Means To Be Real](https://smarterarticles.co.uk/when-reality-dissolves-how-ais-instant-worlds-challenge-what-it-means-to-be?pk_campaign=rss-feed)
-- [The Impossible Promise: Why AI Can&#39;t Truly Forget Your Data](https://smarterarticles.co.uk/the-impossible-promise-why-ai-cant-truly-forget-your-data?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
