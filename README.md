@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - [The Invisible Revolution](https://dev.to/rawveg/the-invisible-revolution-5bpa)
 - [The Algorithmic Apostles](https://dev.to/rawveg/the-algorithmic-apostles-55ff)
 - [Artificial Remembrance](https://dev.to/rawveg/artificial-remembrance-3e4)
+- [When the Machine Lies: Building Defences Against AI&#39;s Most Dangerous Flaw](https://smarterarticles.co.uk/when-the-machine-lies-building-defences-against-ais-most-dangerous-flaw?pk_campaign=rss-feed)
 - [The Robot Revolution: Inside the Coming Domestic Disruption](https://smarterarticles.co.uk/the-robot-revolution-inside-the-coming-domestic-disruption?pk_campaign=rss-feed)
 - [The Struggle Paradox: How AI Tutors Rewrite the Rules of Academic Resilience](https://smarterarticles.co.uk/the-struggle-paradox-how-ai-tutors-rewrite-the-rules-of-academic-resilience?pk_campaign=rss-feed)
 - [The Last Human Frontier: Cultivating What AI Cannot Touch](https://smarterarticles.co.uk/the-last-human-frontier-cultivating-what-ai-cannot-touch?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Great Cloud Escape: Why New Rules in the EU Won&#39;t Free SMEs](https://smarterarticles.co.uk/the-great-cloud-escape-why-new-rules-in-the-eu-wont-free-smes?pk_campaign=rss-feed)
 - [The $100 Billion Gamble: A New Power Structure for AI](https://smarterarticles.co.uk/the-100-billion-gamble-a-new-power-structure-for-ai?pk_campaign=rss-feed)
 - [The Watchers: How AI Surveillance Rewrites Safety and Privacy](https://smarterarticles.co.uk/the-watchers-how-ai-surveillance-rewrites-safety-and-privacy?pk_campaign=rss-feed)
-- [When Reality Dissolves: How AI’s Instant Worlds Challenge What It Means To Be Real](https://smarterarticles.co.uk/when-reality-dissolves-how-ais-instant-worlds-challenge-what-it-means-to-be?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
