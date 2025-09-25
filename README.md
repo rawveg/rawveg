@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When the Music Stops](https://dev.to/rawveg/when-the-music-stops-4bf0)
 - [The Plateau Problem](https://dev.to/rawveg/the-plateau-problem-5gmc)
 - [The Great AI Subsidy Squeeze](https://dev.to/rawveg/the-great-ai-subsidy-squeeze-4pjf)
 - [The Hollow Echo](https://dev.to/rawveg/the-hollow-echo-1897)
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 - [The New Data Barons](https://dev.to/rawveg/the-new-data-barons-5bfj)
 - [The Invisible Revolution](https://dev.to/rawveg/the-invisible-revolution-5bpa)
 - [The Algorithmic Apostles](https://dev.to/rawveg/the-algorithmic-apostles-55ff)
-- [Artificial Remembrance](https://dev.to/rawveg/artificial-remembrance-3e4)
 - [When the Machine Lies: Building Defences Against AI&#39;s Most Dangerous Flaw](https://smarterarticles.co.uk/when-the-machine-lies-building-defences-against-ais-most-dangerous-flaw?pk_campaign=rss-feed)
 - [The Robot Revolution: Inside the Coming Domestic Disruption](https://smarterarticles.co.uk/the-robot-revolution-inside-the-coming-domestic-disruption?pk_campaign=rss-feed)
 - [The Struggle Paradox: How AI Tutors Rewrite the Rules of Academic Resilience](https://smarterarticles.co.uk/the-struggle-paradox-how-ai-tutors-rewrite-the-rules-of-academic-resilience?pk_campaign=rss-feed)
