@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Silent Epidemic](https://dev.to/rawveg/the-silent-epidemic-5cip)
 - [Before the Ouroboros Bites Down](https://dev.to/rawveg/before-the-ouroboros-bites-down-1n86)
 - [The Silent Watchers](https://dev.to/rawveg/the-silent-watchers-43mn)
 - [When the Music Stops](https://dev.to/rawveg/when-the-music-stops-4bf0)
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 - [The Crystal That Broke Time](https://dev.to/rawveg/the-crystal-that-broke-time-f4m)
 - [How AI IDEs Are Splitting the Programming Mind](https://dev.to/rawveg/how-ai-ides-are-splitting-the-programming-mind-2537)
 - [Why Most Independent Artists Will Never Get Paid](https://dev.to/rawveg/why-most-independent-artists-will-never-get-paid-4edj)
-- [The New Data Barons](https://dev.to/rawveg/the-new-data-barons-5bfj)
 - [AI Shot The Analyst: But It Did Not Shoot The Plumber](https://smarterarticles.co.uk/ai-shot-the-analyst-but-it-did-not-shoot-the-plumber?pk_campaign=rss-feed)
 - [Building for Everyone: How AI Can Honour Cultural Diversity](https://smarterarticles.co.uk/building-for-everyone-how-ai-can-honour-cultural-diversity?pk_campaign=rss-feed)
 - [When the Machine Lies: Building Defences Against AI&#39;s Most Dangerous Flaw](https://smarterarticles.co.uk/when-the-machine-lies-building-defences-against-ais-most-dangerous-flaw?pk_campaign=rss-feed)
