@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [MIT LOBSTgER](https://dev.to/rawveg/mit-lobstger-2015)
 - [The Silent Epidemic](https://dev.to/rawveg/the-silent-epidemic-5cip)
 - [Before the Ouroboros Bites Down](https://dev.to/rawveg/before-the-ouroboros-bites-down-1n86)
 - [The Silent Watchers](https://dev.to/rawveg/the-silent-watchers-43mn)
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 - [The Shadow of Progress](https://dev.to/rawveg/the-shadow-of-progress-be6)
 - [The Crystal That Broke Time](https://dev.to/rawveg/the-crystal-that-broke-time-f4m)
 - [How AI IDEs Are Splitting the Programming Mind](https://dev.to/rawveg/how-ai-ides-are-splitting-the-programming-mind-2537)
-- [Why Most Independent Artists Will Never Get Paid](https://dev.to/rawveg/why-most-independent-artists-will-never-get-paid-4edj)
 - [The Learning Panopticon: Teaching Children to Smile for the System](https://smarterarticles.co.uk/the-learning-panopticon-teaching-children-to-smile-for-the-system?pk_campaign=rss-feed)
 - [The Great AI Paradox: Why the Rich Want Partners While the Poor Want Robots](https://smarterarticles.co.uk/the-great-ai-paradox-why-the-rich-want-partners-while-the-poor-want-robots?pk_campaign=rss-feed)
 - [AI Shot The Analyst: But It Did Not Shoot The Plumber](https://smarterarticles.co.uk/ai-shot-the-analyst-but-it-did-not-shoot-the-plumber?pk_campaign=rss-feed)
