@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - [The Double-Edged Algorithm](https://dev.to/rawveg/the-double-edged-algorithm-ebh)
 - [The Shadow of Progress](https://dev.to/rawveg/the-shadow-of-progress-be6)
 - [The Crystal That Broke Time](https://dev.to/rawveg/the-crystal-that-broke-time-f4m)
+- [The Forty Percent Problem: How Education is Rewriting Itself](https://smarterarticles.co.uk/the-forty-percent-problem-how-education-is-rewriting-itself?pk_campaign=rss-feed)
 - [The Clickless Future: Muscle, Mind &amp; Meta’s Power Play](https://smarterarticles.co.uk/the-clickless-future-muscle-mind-and-metas-power-play?pk_campaign=rss-feed)
 - [The Learning Panopticon: Teaching Children to Smile for the System](https://smarterarticles.co.uk/the-learning-panopticon-teaching-children-to-smile-for-the-system?pk_campaign=rss-feed)
 - [The Great AI Paradox: Why the Rich Want Partners While the Poor Want Robots](https://smarterarticles.co.uk/the-great-ai-paradox-why-the-rich-want-partners-while-the-poor-want-robots?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Building for Everyone: How AI Can Honour Cultural Diversity](https://smarterarticles.co.uk/building-for-everyone-how-ai-can-honour-cultural-diversity?pk_campaign=rss-feed)
 - [When the Machine Lies: Building Defences Against AI&#39;s Most Dangerous Flaw](https://smarterarticles.co.uk/when-the-machine-lies-building-defences-against-ais-most-dangerous-flaw?pk_campaign=rss-feed)
 - [The Robot Revolution: Inside the Coming Domestic Disruption](https://smarterarticles.co.uk/the-robot-revolution-inside-the-coming-domestic-disruption?pk_campaign=rss-feed)
-- [The Struggle Paradox: How AI Tutors Rewrite the Rules of Academic Resilience](https://smarterarticles.co.uk/the-struggle-paradox-how-ai-tutors-rewrite-the-rules-of-academic-resilience?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
