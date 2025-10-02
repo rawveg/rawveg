@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [The AI Energy Paradox](https://dev.to/rawveg/the-ai-energy-paradox-5a1d)
+- [Racing Against the Algorithm: Can Democracy Keep Pace with AI?](https://smarterarticles.co.uk/racing-against-the-algorithm-can-democracy-keep-pace-with-ai?pk_campaign=rss-feed)
 - [Sony Music&#39;s Legal Offensive Against AI](https://dev.to/rawveg/sony-musics-legal-offensive-against-ai-4nd7)
 - [MIT LOBSTgER](https://dev.to/rawveg/mit-lobstger-2015)
 - [The Silent Epidemic](https://dev.to/rawveg/the-silent-epidemic-5cip)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Shot The Analyst: But It Did Not Shoot The Plumber](https://smarterarticles.co.uk/ai-shot-the-analyst-but-it-did-not-shoot-the-plumber?pk_campaign=rss-feed)
 - [Building for Everyone: How AI Can Honour Cultural Diversity](https://smarterarticles.co.uk/building-for-everyone-how-ai-can-honour-cultural-diversity?pk_campaign=rss-feed)
 - [When the Machine Lies: Building Defences Against AI&#39;s Most Dangerous Flaw](https://smarterarticles.co.uk/when-the-machine-lies-building-defences-against-ais-most-dangerous-flaw?pk_campaign=rss-feed)
-- [The Robot Revolution: Inside the Coming Domestic Disruption](https://smarterarticles.co.uk/the-robot-revolution-inside-the-coming-domestic-disruption?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
