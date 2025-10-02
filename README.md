@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [How AI is Transforming Scientific Discovery](https://dev.to/rawveg/how-ai-is-transforming-scientific-discovery-20jh)
 - [The AI Energy Paradox](https://dev.to/rawveg/the-ai-energy-paradox-5a1d)
+- [The Great Contradiction: Why We Simultaneously Crave and Fear AI](https://smarterarticles.co.uk/the-great-contradiction-why-we-simultaneously-crave-and-fear-ai?pk_campaign=rss-feed)
 - [Racing Against the Algorithm: Can Democracy Keep Pace with AI?](https://smarterarticles.co.uk/racing-against-the-algorithm-can-democracy-keep-pace-with-ai?pk_campaign=rss-feed)
 - [Sony Music&#39;s Legal Offensive Against AI](https://dev.to/rawveg/sony-musics-legal-offensive-against-ai-4nd7)
 - [MIT LOBSTgER](https://dev.to/rawveg/mit-lobstger-2015)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Great AI Paradox: Why the Rich Want Partners While the Poor Want Robots](https://smarterarticles.co.uk/the-great-ai-paradox-why-the-rich-want-partners-while-the-poor-want-robots?pk_campaign=rss-feed)
 - [AI Shot The Analyst: But It Did Not Shoot The Plumber](https://smarterarticles.co.uk/ai-shot-the-analyst-but-it-did-not-shoot-the-plumber?pk_campaign=rss-feed)
 - [Building for Everyone: How AI Can Honour Cultural Diversity](https://smarterarticles.co.uk/building-for-everyone-how-ai-can-honour-cultural-diversity?pk_campaign=rss-feed)
-- [When the Machine Lies: Building Defences Against AI&#39;s Most Dangerous Flaw](https://smarterarticles.co.uk/when-the-machine-lies-building-defences-against-ais-most-dangerous-flaw?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
