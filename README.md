@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Great Efficiency Theatre](https://dev.to/rawveg/the-great-efficiency-theatre-4dan)
 - [The Ego Problem](https://dev.to/rawveg/the-ego-problem-2jin)
 - [How AI is Transforming Scientific Discovery](https://dev.to/rawveg/how-ai-is-transforming-scientific-discovery-20jh)
 - [The Vibe of History: When AI Rediscovers the Amanuensis](https://smarterarticles.co.uk/the-vibe-of-history-when-ai-rediscovers-the-amanuensis?pk_campaign=rss-feed)
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
 - [When the Music Stops](https://dev.to/rawveg/when-the-music-stops-4bf0)
 - [The Plateau Problem](https://dev.to/rawveg/the-plateau-problem-5gmc)
 - [The Great AI Subsidy Squeeze](https://dev.to/rawveg/the-great-ai-subsidy-squeeze-4pjf)
-- [The Hollow Echo](https://dev.to/rawveg/the-hollow-echo-1897)
 - [The Forty Percent Problem: How Education is Rewriting Itself](https://smarterarticles.co.uk/the-forty-percent-problem-how-education-is-rewriting-itself?pk_campaign=rss-feed)
 - [The Clickless Future: Muscle, Mind &amp; Meta’s Power Play](https://smarterarticles.co.uk/the-clickless-future-muscle-mind-and-metas-power-play?pk_campaign=rss-feed)
 - [The Learning Panopticon: Teaching Children to Smile for the System](https://smarterarticles.co.uk/the-learning-panopticon-teaching-children-to-smile-for-the-system?pk_campaign=rss-feed)
