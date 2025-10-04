@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [The Great Efficiency Theatre](https://dev.to/rawveg/the-great-efficiency-theatre-4dan)
+- [When AI Remembers Everything: The Real Risks of Model Reverse-Engineering](https://smarterarticles.co.uk/when-ai-remembers-everything-the-real-risks-of-model-reverse-engineering?pk_campaign=rss-feed)
 - [The Ego Problem](https://dev.to/rawveg/the-ego-problem-2jin)
 - [How AI is Transforming Scientific Discovery](https://dev.to/rawveg/how-ai-is-transforming-scientific-discovery-20jh)
 - [The Vibe of History: When AI Rediscovers the Amanuensis](https://smarterarticles.co.uk/the-vibe-of-history-when-ai-rediscovers-the-amanuensis?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Clickless Future: Muscle, Mind &amp; Meta’s Power Play](https://smarterarticles.co.uk/the-clickless-future-muscle-mind-and-metas-power-play?pk_campaign=rss-feed)
 - [The Learning Panopticon: Teaching Children to Smile for the System](https://smarterarticles.co.uk/the-learning-panopticon-teaching-children-to-smile-for-the-system?pk_campaign=rss-feed)
 - [The Great AI Paradox: Why the Rich Want Partners While the Poor Want Robots](https://smarterarticles.co.uk/the-great-ai-paradox-why-the-rich-want-partners-while-the-poor-want-robots?pk_campaign=rss-feed)
-- [AI Shot The Analyst: But It Did Not Shoot The Plumber](https://smarterarticles.co.uk/ai-shot-the-analyst-but-it-did-not-shoot-the-plumber?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
