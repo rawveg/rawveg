@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When Machines Learn to Discriminate](https://dev.to/rawveg/when-machines-learn-to-discriminate-3dfg)
 - [The Great Divide](https://dev.to/rawveg/the-great-divide-3ljh)
 - [The Great Efficiency Theatre](https://dev.to/rawveg/the-great-efficiency-theatre-4dan)
 - [The New Reality: Critical Thinking in an AI-Saturated World](https://smarterarticles.co.uk/the-new-reality-critical-thinking-in-an-ai-saturated-world?pk_campaign=rss-feed)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [Before the Ouroboros Bites Down](https://dev.to/rawveg/before-the-ouroboros-bites-down-1n86)
 - [The Silent Watchers](https://dev.to/rawveg/the-silent-watchers-43mn)
 - [When the Music Stops](https://dev.to/rawveg/when-the-music-stops-4bf0)
-- [The Plateau Problem](https://dev.to/rawveg/the-plateau-problem-5gmc)
 - [The Forty Percent Problem: How Education is Rewriting Itself](https://smarterarticles.co.uk/the-forty-percent-problem-how-education-is-rewriting-itself?pk_campaign=rss-feed)
 - [The Clickless Future: Muscle, Mind &amp; Meta’s Power Play](https://smarterarticles.co.uk/the-clickless-future-muscle-mind-and-metas-power-play?pk_campaign=rss-feed)
 - [The Learning Panopticon: Teaching Children to Smile for the System](https://smarterarticles.co.uk/the-learning-panopticon-teaching-children-to-smile-for-the-system?pk_campaign=rss-feed)
