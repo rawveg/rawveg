@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Silicon Battlefield](https://dev.to/rawveg/the-silicon-battlefield-2j16)
 - [When Machines Learn to Discriminate](https://dev.to/rawveg/when-machines-learn-to-discriminate-3dfg)
 - [The Great Divide](https://dev.to/rawveg/the-great-divide-3ljh)
 - [When Your Address Becomes Data: The Financial Compliance Privacy Paradox](https://smarterarticles.co.uk/when-your-address-becomes-data-the-financial-compliance-privacy-paradox?pk_campaign=rss-feed)
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
 - [The Silent Epidemic](https://dev.to/rawveg/the-silent-epidemic-5cip)
 - [Before the Ouroboros Bites Down](https://dev.to/rawveg/before-the-ouroboros-bites-down-1n86)
 - [The Silent Watchers](https://dev.to/rawveg/the-silent-watchers-43mn)
-- [When the Music Stops](https://dev.to/rawveg/when-the-music-stops-4bf0)
 - [The Forty Percent Problem: How Education is Rewriting Itself](https://smarterarticles.co.uk/the-forty-percent-problem-how-education-is-rewriting-itself?pk_campaign=rss-feed)
 - [The Clickless Future: Muscle, Mind &amp; Meta’s Power Play](https://smarterarticles.co.uk/the-clickless-future-muscle-mind-and-metas-power-play?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
