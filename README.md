@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Meaningfulness Gap in AI Ethics](https://dev.to/rawveg/the-meaningfulness-gap-in-ai-ethics-2d7b)
 - [The Silicon Battlefield](https://dev.to/rawveg/the-silicon-battlefield-2j16)
 - [When Machines Learn to Discriminate](https://dev.to/rawveg/when-machines-learn-to-discriminate-3dfg)
 - [The Great Divide](https://dev.to/rawveg/the-great-divide-3ljh)
-- [The Right To Vanish: When Your Digital Self Refuses to Die](https://smarterarticles.co.uk/the-right-to-vanish-when-your-digital-self-refuses-to-die?pk_campaign=rss-feed)
 - [The Invisible Hand: How to Detect If AI Tools Are Discriminating Against You](https://smarterarticles.co.uk/the-invisible-hand-how-to-detect-if-ai-tools-are-discriminating-against-you?pk_campaign=rss-feed)
 - [When Your Address Becomes Data: The Financial Compliance Privacy Paradox](https://smarterarticles.co.uk/when-your-address-becomes-data-the-financial-compliance-privacy-paradox?pk_campaign=rss-feed)
 - [The Great Efficiency Theatre](https://dev.to/rawveg/the-great-efficiency-theatre-4dan)
@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 - [MIT LOBSTgER](https://dev.to/rawveg/mit-lobstger-2015)
 - [The Silent Epidemic](https://dev.to/rawveg/the-silent-epidemic-5cip)
 - [Before the Ouroboros Bites Down](https://dev.to/rawveg/before-the-ouroboros-bites-down-1n86)
-- [The Silent Watchers](https://dev.to/rawveg/the-silent-watchers-43mn)
+- [The Forty Percent Problem: How Education is Rewriting Itself](https://smarterarticles.co.uk/the-forty-percent-problem-how-education-is-rewriting-itself?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
