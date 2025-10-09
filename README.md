@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When AI Learns to Think](https://dev.to/rawveg/when-ai-learns-to-think-4oe0)
 - [The Meaningfulness Gap in AI Ethics](https://dev.to/rawveg/the-meaningfulness-gap-in-ai-ethics-2d7b)
 - [The Silicon Battlefield](https://dev.to/rawveg/the-silicon-battlefield-2j16)
 - [When Machines Learn to Discriminate](https://dev.to/rawveg/when-machines-learn-to-discriminate-3dfg)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Racing Against the Algorithm: Can Democracy Keep Pace with AI?](https://smarterarticles.co.uk/racing-against-the-algorithm-can-democracy-keep-pace-with-ai?pk_campaign=rss-feed)
 - [Sony Music&#39;s Legal Offensive Against AI](https://dev.to/rawveg/sony-musics-legal-offensive-against-ai-4nd7)
 - [MIT LOBSTgER](https://dev.to/rawveg/mit-lobstger-2015)
-- [The Silent Epidemic](https://dev.to/rawveg/the-silent-epidemic-5cip)
 <!-- BLOG-POST-LIST:END -->
