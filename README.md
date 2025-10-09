@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - [The Silicon Battlefield](https://dev.to/rawveg/the-silicon-battlefield-2j16)
 - [When Machines Learn to Discriminate](https://dev.to/rawveg/when-machines-learn-to-discriminate-3dfg)
 - [The Great Divide](https://dev.to/rawveg/the-great-divide-3ljh)
+- [The Machine Will Feed You Now: When AI Takes the Wheel in Agriculture](https://smarterarticles.co.uk/the-machine-will-feed-you-now-when-ai-takes-the-wheel-in-agriculture?pk_campaign=rss-feed)
 - [The Right To Vanish: When Your Digital Self Refuses to Die](https://smarterarticles.co.uk/the-right-to-vanish-when-your-digital-self-refuses-to-die?pk_campaign=rss-feed)
 - [The Invisible Hand: How to Detect If AI Tools Are Discriminating Against You](https://smarterarticles.co.uk/the-invisible-hand-how-to-detect-if-ai-tools-are-discriminating-against-you?pk_campaign=rss-feed)
 - [When Your Address Becomes Data: The Financial Compliance Privacy Paradox](https://smarterarticles.co.uk/when-your-address-becomes-data-the-financial-compliance-privacy-paradox?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Sony Music&#39;s Legal Offensive Against AI](https://dev.to/rawveg/sony-musics-legal-offensive-against-ai-4nd7)
 - [MIT LOBSTgER](https://dev.to/rawveg/mit-lobstger-2015)
 - [The Silent Epidemic](https://dev.to/rawveg/the-silent-epidemic-5cip)
-- [Before the Ouroboros Bites Down](https://dev.to/rawveg/before-the-ouroboros-bites-down-1n86)
 <!-- BLOG-POST-LIST:END -->
