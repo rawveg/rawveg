@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - [The Silicon Battlefield](https://dev.to/rawveg/the-silicon-battlefield-2j16)
 - [When Machines Learn to Discriminate](https://dev.to/rawveg/when-machines-learn-to-discriminate-3dfg)
 - [The Great Divide](https://dev.to/rawveg/the-great-divide-3ljh)
+- [Driving Moral Debate: The Impossible Ethics of Autonomous Vehicles](https://smarterarticles.co.uk/driving-moral-debate-the-impossible-ethics-of-autonomous-vehicles?pk_campaign=rss-feed)
 - [The Machine Will Feed You Now: When AI Takes the Wheel in Agriculture](https://smarterarticles.co.uk/the-machine-will-feed-you-now-when-ai-takes-the-wheel-in-agriculture?pk_campaign=rss-feed)
 - [The Right To Vanish: When Your Digital Self Refuses to Die](https://smarterarticles.co.uk/the-right-to-vanish-when-your-digital-self-refuses-to-die?pk_campaign=rss-feed)
 - [The Invisible Hand: How to Detect If AI Tools Are Discriminating Against You](https://smarterarticles.co.uk/the-invisible-hand-how-to-detect-if-ai-tools-are-discriminating-against-you?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Great Contradiction: Why We Simultaneously Crave and Fear AI](https://smarterarticles.co.uk/the-great-contradiction-why-we-simultaneously-crave-and-fear-ai?pk_campaign=rss-feed)
 - [Racing Against the Algorithm: Can Democracy Keep Pace with AI?](https://smarterarticles.co.uk/racing-against-the-algorithm-can-democracy-keep-pace-with-ai?pk_campaign=rss-feed)
 - [Sony Music&#39;s Legal Offensive Against AI](https://dev.to/rawveg/sony-musics-legal-offensive-against-ai-4nd7)
-- [MIT LOBSTgER](https://dev.to/rawveg/mit-lobstger-2015)
 <!-- BLOG-POST-LIST:END -->
