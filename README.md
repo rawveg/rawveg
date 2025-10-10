@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Thinking Machines, Thoughtful Makers](https://dev.to/rawveg/thinking-machines-thoughtful-makers-3mi)
 - [When AI Learns to Think](https://dev.to/rawveg/when-ai-learns-to-think-4oe0)
 - [The Meaningfulness Gap in AI Ethics](https://dev.to/rawveg/the-meaningfulness-gap-in-ai-ethics-2d7b)
 - [The Silicon Battlefield](https://dev.to/rawveg/the-silicon-battlefield-2j16)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The AI Energy Paradox](https://dev.to/rawveg/the-ai-energy-paradox-5a1d)
 - [The Great Contradiction: Why We Simultaneously Crave and Fear AI](https://smarterarticles.co.uk/the-great-contradiction-why-we-simultaneously-crave-and-fear-ai?pk_campaign=rss-feed)
 - [Racing Against the Algorithm: Can Democracy Keep Pace with AI?](https://smarterarticles.co.uk/racing-against-the-algorithm-can-democracy-keep-pace-with-ai?pk_campaign=rss-feed)
-- [Sony Music&#39;s Legal Offensive Against AI](https://dev.to/rawveg/sony-musics-legal-offensive-against-ai-4nd7)
 <!-- BLOG-POST-LIST:END -->
