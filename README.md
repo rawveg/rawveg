@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - [The Silicon Battlefield](https://dev.to/rawveg/the-silicon-battlefield-2j16)
 - [When Machines Learn to Discriminate](https://dev.to/rawveg/when-machines-learn-to-discriminate-3dfg)
 - [The Great Divide](https://dev.to/rawveg/the-great-divide-3ljh)
+- [The Real Cost of Vibe Coding: When AI Over-Delivers on Your Dime](https://smarterarticles.co.uk/the-real-cost-of-vibe-coding-when-ai-over-delivers-on-your-dime?pk_campaign=rss-feed)
 - [Driving Moral Debate: The Impossible Ethics of Autonomous Vehicles](https://smarterarticles.co.uk/driving-moral-debate-the-impossible-ethics-of-autonomous-vehicles?pk_campaign=rss-feed)
 - [The Machine Will Feed You Now: When AI Takes the Wheel in Agriculture](https://smarterarticles.co.uk/the-machine-will-feed-you-now-when-ai-takes-the-wheel-in-agriculture?pk_campaign=rss-feed)
 - [The Right To Vanish: When Your Digital Self Refuses to Die](https://smarterarticles.co.uk/the-right-to-vanish-when-your-digital-self-refuses-to-die?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Vibe of History: When AI Rediscovers the Amanuensis](https://smarterarticles.co.uk/the-vibe-of-history-when-ai-rediscovers-the-amanuensis?pk_campaign=rss-feed)
 - [The AI Energy Paradox](https://dev.to/rawveg/the-ai-energy-paradox-5a1d)
 - [The Great Contradiction: Why We Simultaneously Crave and Fear AI](https://smarterarticles.co.uk/the-great-contradiction-why-we-simultaneously-crave-and-fear-ai?pk_campaign=rss-feed)
-- [Racing Against the Algorithm: Can Democracy Keep Pace with AI?](https://smarterarticles.co.uk/racing-against-the-algorithm-can-democracy-keep-pace-with-ai?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
