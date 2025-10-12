@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
 - [The Mind&#39;s Mirror](https://dev.to/rawveg/the-minds-mirror-1n0c)
 - [Thinking Machines, Thoughtful Makers](https://dev.to/rawveg/thinking-machines-thoughtful-makers-3mi)
 - [When AI Learns to Think](https://dev.to/rawveg/when-ai-learns-to-think-4oe0)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When AI Remembers Everything: The Real Risks of Model Reverse-Engineering](https://smarterarticles.co.uk/when-ai-remembers-everything-the-real-risks-of-model-reverse-engineering?pk_campaign=rss-feed)
 - [The Ego Problem](https://dev.to/rawveg/the-ego-problem-2jin)
 - [How AI is Transforming Scientific Discovery](https://dev.to/rawveg/how-ai-is-transforming-scientific-discovery-20jh)
-- [The Vibe of History: When AI Rediscovers the Amanuensis](https://smarterarticles.co.uk/the-vibe-of-history-when-ai-rediscovers-the-amanuensis?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
