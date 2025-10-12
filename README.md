@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - [The Meaningfulness Gap in AI Ethics](https://dev.to/rawveg/the-meaningfulness-gap-in-ai-ethics-2d7b)
 - [The Silicon Battlefield](https://dev.to/rawveg/the-silicon-battlefield-2j16)
 - [When Machines Learn to Discriminate](https://dev.to/rawveg/when-machines-learn-to-discriminate-3dfg)
+- [The Collective Canvas: Shared Dreams, Synthetic Hands](https://smarterarticles.co.uk/the-collective-canvas-shared-dreams-synthetic-hands?pk_campaign=rss-feed)
 - [The Great Divide](https://dev.to/rawveg/the-great-divide-3ljh)
 - [The Real Cost of Vibe Coding: When AI Over-Delivers on Your Dime](https://smarterarticles.co.uk/the-real-cost-of-vibe-coding-when-ai-over-delivers-on-your-dime?pk_campaign=rss-feed)
 - [Driving Moral Debate: The Impossible Ethics of Autonomous Vehicles](https://smarterarticles.co.uk/driving-moral-debate-the-impossible-ethics-of-autonomous-vehicles?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Ego Problem](https://dev.to/rawveg/the-ego-problem-2jin)
 - [How AI is Transforming Scientific Discovery](https://dev.to/rawveg/how-ai-is-transforming-scientific-discovery-20jh)
 - [The Vibe of History: When AI Rediscovers the Amanuensis](https://smarterarticles.co.uk/the-vibe-of-history-when-ai-rediscovers-the-amanuensis?pk_campaign=rss-feed)
-- [The AI Energy Paradox](https://dev.to/rawveg/the-ai-energy-paradox-5a1d)
 <!-- BLOG-POST-LIST:END -->
