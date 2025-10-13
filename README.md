@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Conversation](https://dev.to/rawveg/the-art-of-conversation-20h3)
 - [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
 - [The Mind&#39;s Mirror](https://dev.to/rawveg/the-minds-mirror-1n0c)
 - [Thinking Machines, Thoughtful Makers](https://dev.to/rawveg/thinking-machines-thoughtful-makers-3mi)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Great Efficiency Theatre](https://dev.to/rawveg/the-great-efficiency-theatre-4dan)
 - [The New Reality: Critical Thinking in an AI-Saturated World](https://smarterarticles.co.uk/the-new-reality-critical-thinking-in-an-ai-saturated-world?pk_campaign=rss-feed)
 - [When AI Remembers Everything: The Real Risks of Model Reverse-Engineering](https://smarterarticles.co.uk/when-ai-remembers-everything-the-real-risks-of-model-reverse-engineering?pk_campaign=rss-feed)
-- [The Ego Problem](https://dev.to/rawveg/the-ego-problem-2jin)
 <!-- BLOG-POST-LIST:END -->
