@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - [When AI Learns to Think](https://dev.to/rawveg/when-ai-learns-to-think-4oe0)
 - [The Meaningfulness Gap in AI Ethics](https://dev.to/rawveg/the-meaningfulness-gap-in-ai-ethics-2d7b)
 - [The Silicon Battlefield](https://dev.to/rawveg/the-silicon-battlefield-2j16)
+- [The Memory Problem: When AI Systems Remember What They Should Forget](https://smarterarticles.co.uk/the-memory-problem-when-ai-systems-remember-what-they-should-forget?pk_campaign=rss-feed)
 - [When Machines Learn to Discriminate](https://dev.to/rawveg/when-machines-learn-to-discriminate-3dfg)
 - [The Collective Canvas: Shared Dreams, Synthetic Hands](https://smarterarticles.co.uk/the-collective-canvas-shared-dreams-synthetic-hands?pk_campaign=rss-feed)
 - [The Great Divide](https://dev.to/rawveg/the-great-divide-3ljh)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The New Reality: Critical Thinking in an AI-Saturated World](https://smarterarticles.co.uk/the-new-reality-critical-thinking-in-an-ai-saturated-world?pk_campaign=rss-feed)
 - [When AI Remembers Everything: The Real Risks of Model Reverse-Engineering](https://smarterarticles.co.uk/when-ai-remembers-everything-the-real-risks-of-model-reverse-engineering?pk_campaign=rss-feed)
 - [The Ego Problem](https://dev.to/rawveg/the-ego-problem-2jin)
-- [How AI is Transforming Scientific Discovery](https://dev.to/rawveg/how-ai-is-transforming-scientific-discovery-20jh)
 <!-- BLOG-POST-LIST:END -->
