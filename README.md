@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - [Thinking Machines, Thoughtful Makers](https://dev.to/rawveg/thinking-machines-thoughtful-makers-3mi)
 - [When AI Learns to Think](https://dev.to/rawveg/when-ai-learns-to-think-4oe0)
 - [The Meaningfulness Gap in AI Ethics](https://dev.to/rawveg/the-meaningfulness-gap-in-ai-ethics-2d7b)
+- [The Cosmic Junkyard: How AI Can Solve The Problem Above Our Heads](https://smarterarticles.co.uk/the-cosmic-junkyard-how-ai-can-solve-the-problem-above-our-heads?pk_campaign=rss-feed)
 - [The Silicon Battlefield](https://dev.to/rawveg/the-silicon-battlefield-2j16)
 - [The Memory Problem: When AI Systems Remember What They Should Forget](https://smarterarticles.co.uk/the-memory-problem-when-ai-systems-remember-what-they-should-forget?pk_campaign=rss-feed)
 - [When Machines Learn to Discriminate](https://dev.to/rawveg/when-machines-learn-to-discriminate-3dfg)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Your Address Becomes Data: The Financial Compliance Privacy Paradox](https://smarterarticles.co.uk/when-your-address-becomes-data-the-financial-compliance-privacy-paradox?pk_campaign=rss-feed)
 - [The Great Efficiency Theatre](https://dev.to/rawveg/the-great-efficiency-theatre-4dan)
 - [The New Reality: Critical Thinking in an AI-Saturated World](https://smarterarticles.co.uk/the-new-reality-critical-thinking-in-an-ai-saturated-world?pk_campaign=rss-feed)
-- [When AI Remembers Everything: The Real Risks of Model Reverse-Engineering](https://smarterarticles.co.uk/when-ai-remembers-everything-the-real-risks-of-model-reverse-engineering?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
