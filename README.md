@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Thinking Machine&#39;s Apprentice](https://dev.to/rawveg/the-thinking-machines-apprentice-f3o)
 - [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
 - [The Art of Conversation](https://dev.to/rawveg/the-art-of-conversation-20h3)
 - [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Machine Will Feed You Now: When AI Takes the Wheel in Agriculture](https://smarterarticles.co.uk/the-machine-will-feed-you-now-when-ai-takes-the-wheel-in-agriculture?pk_campaign=rss-feed)
 - [The Right To Vanish: When Your Digital Self Refuses to Die](https://smarterarticles.co.uk/the-right-to-vanish-when-your-digital-self-refuses-to-die?pk_campaign=rss-feed)
 - [The Invisible Hand: How to Detect If AI Tools Are Discriminating Against You](https://smarterarticles.co.uk/the-invisible-hand-how-to-detect-if-ai-tools-are-discriminating-against-you?pk_campaign=rss-feed)
-- [When Your Address Becomes Data: The Financial Compliance Privacy Paradox](https://smarterarticles.co.uk/when-your-address-becomes-data-the-financial-compliance-privacy-paradox?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
