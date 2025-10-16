@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
 - [The Art of Conversation](https://dev.to/rawveg/the-art-of-conversation-20h3)
 - [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
+- [The Workslop Deluge: How AI&#39;s Productivity Promise Became a Quality Crisis](https://smarterarticles.co.uk/the-workslop-deluge-how-ais-productivity-promise-became-a-quality-crisis?pk_campaign=rss-feed)
 - [The Invisible Housemate: How AI Agents Are Rewriting the Rules of Home](https://smarterarticles.co.uk/the-invisible-housemate-how-ai-agents-are-rewriting-the-rules-of-home?pk_campaign=rss-feed)
 - [The Mind&#39;s Mirror](https://dev.to/rawveg/the-minds-mirror-1n0c)
 - [Thinking Machines, Thoughtful Makers](https://dev.to/rawveg/thinking-machines-thoughtful-makers-3mi)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Driving Moral Debate: The Impossible Ethics of Autonomous Vehicles](https://smarterarticles.co.uk/driving-moral-debate-the-impossible-ethics-of-autonomous-vehicles?pk_campaign=rss-feed)
 - [The Machine Will Feed You Now: When AI Takes the Wheel in Agriculture](https://smarterarticles.co.uk/the-machine-will-feed-you-now-when-ai-takes-the-wheel-in-agriculture?pk_campaign=rss-feed)
 - [The Right To Vanish: When Your Digital Self Refuses to Die](https://smarterarticles.co.uk/the-right-to-vanish-when-your-digital-self-refuses-to-die?pk_campaign=rss-feed)
-- [The Invisible Hand: How to Detect If AI Tools Are Discriminating Against You](https://smarterarticles.co.uk/the-invisible-hand-how-to-detect-if-ai-tools-are-discriminating-against-you?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
