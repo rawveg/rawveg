@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Fragile Window](https://dev.to/rawveg/the-fragile-window-4ghe)
 - [The Thinking Machine&#39;s Apprentice](https://dev.to/rawveg/the-thinking-machines-apprentice-f3o)
 - [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
 - [The Art of Conversation](https://dev.to/rawveg/the-art-of-conversation-20h3)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Real Cost of Vibe Coding: When AI Over-Delivers on Your Dime](https://smarterarticles.co.uk/the-real-cost-of-vibe-coding-when-ai-over-delivers-on-your-dime?pk_campaign=rss-feed)
 - [Driving Moral Debate: The Impossible Ethics of Autonomous Vehicles](https://smarterarticles.co.uk/driving-moral-debate-the-impossible-ethics-of-autonomous-vehicles?pk_campaign=rss-feed)
 - [The Machine Will Feed You Now: When AI Takes the Wheel in Agriculture](https://smarterarticles.co.uk/the-machine-will-feed-you-now-when-ai-takes-the-wheel-in-agriculture?pk_campaign=rss-feed)
-- [The Right To Vanish: When Your Digital Self Refuses to Die](https://smarterarticles.co.uk/the-right-to-vanish-when-your-digital-self-refuses-to-die?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
