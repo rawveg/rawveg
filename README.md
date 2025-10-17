@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [The Fragile Window](https://dev.to/rawveg/the-fragile-window-4ghe)
 - [The Thinking Machine&#39;s Apprentice](https://dev.to/rawveg/the-thinking-machines-apprentice-f3o)
+- [The Last Privacy Frontier: How to Protect The Contents of Your Brain](https://smarterarticles.co.uk/the-last-privacy-frontier-how-to-protect-the-contents-of-your-brain?pk_campaign=rss-feed)
 - [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
 - [The Art of Conversation](https://dev.to/rawveg/the-art-of-conversation-20h3)
 - [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Great Divide](https://dev.to/rawveg/the-great-divide-3ljh)
 - [The Real Cost of Vibe Coding: When AI Over-Delivers on Your Dime](https://smarterarticles.co.uk/the-real-cost-of-vibe-coding-when-ai-over-delivers-on-your-dime?pk_campaign=rss-feed)
 - [Driving Moral Debate: The Impossible Ethics of Autonomous Vehicles](https://smarterarticles.co.uk/driving-moral-debate-the-impossible-ethics-of-autonomous-vehicles?pk_campaign=rss-feed)
-- [The Machine Will Feed You Now: When AI Takes the Wheel in Agriculture](https://smarterarticles.co.uk/the-machine-will-feed-you-now-when-ai-takes-the-wheel-in-agriculture?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
