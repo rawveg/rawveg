@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Great Cognitive Surrender](https://dev.to/rawveg/the-great-cognitive-surrender-2bim)
 - [Texas Rewrites the AI Rulebook](https://dev.to/rawveg/texas-rewrites-the-ai-rulebook-213n)
 - [The Fragile Window](https://dev.to/rawveg/the-fragile-window-4ghe)
 - [The Thinking Machine&#39;s Apprentice](https://dev.to/rawveg/the-thinking-machines-apprentice-f3o)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [The Cosmic Junkyard: How AI Can Solve The Problem Above Our Heads](https://smarterarticles.co.uk/the-cosmic-junkyard-how-ai-can-solve-the-problem-above-our-heads?pk_campaign=rss-feed)
 - [The Silicon Battlefield](https://dev.to/rawveg/the-silicon-battlefield-2j16)
 - [The Memory Problem: When AI Systems Remember What They Should Forget](https://smarterarticles.co.uk/the-memory-problem-when-ai-systems-remember-what-they-should-forget?pk_campaign=rss-feed)
-- [When Machines Learn to Discriminate](https://dev.to/rawveg/when-machines-learn-to-discriminate-3dfg)
 - [The Collective Canvas: Shared Dreams, Synthetic Hands](https://smarterarticles.co.uk/the-collective-canvas-shared-dreams-synthetic-hands?pk_campaign=rss-feed)
 - [The Real Cost of Vibe Coding: When AI Over-Delivers on Your Dime](https://smarterarticles.co.uk/the-real-cost-of-vibe-coding-when-ai-over-delivers-on-your-dime?pk_campaign=rss-feed)
 - [Driving Moral Debate: The Impossible Ethics of Autonomous Vehicles](https://smarterarticles.co.uk/driving-moral-debate-the-impossible-ethics-of-autonomous-vehicles?pk_campaign=rss-feed)
