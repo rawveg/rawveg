@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - [Texas Rewrites the AI Rulebook](https://dev.to/rawveg/texas-rewrites-the-ai-rulebook-213n)
 - [The Fragile Window](https://dev.to/rawveg/the-fragile-window-4ghe)
 - [The Thinking Machine&#39;s Apprentice](https://dev.to/rawveg/the-thinking-machines-apprentice-f3o)
+- [The Tiny Revolution: The Moment AI Didn&#39;t See Coming](https://smarterarticles.co.uk/the-tiny-revolution-the-moment-ai-didnt-see-coming?pk_campaign=rss-feed)
 - [The AI Smart Home Dilemma: Evaluating Security Before They Enter Your Life](https://smarterarticles.co.uk/the-ai-smart-home-dilemma-evaluating-security-before-they-enter-your-life?pk_campaign=rss-feed)
 - [The Last Privacy Frontier: How to Protect The Contents of Your Brain](https://smarterarticles.co.uk/the-last-privacy-frontier-how-to-protect-the-contents-of-your-brain?pk_campaign=rss-feed)
 - [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Silicon Battlefield](https://dev.to/rawveg/the-silicon-battlefield-2j16)
 - [The Memory Problem: When AI Systems Remember What They Should Forget](https://smarterarticles.co.uk/the-memory-problem-when-ai-systems-remember-what-they-should-forget?pk_campaign=rss-feed)
 - [The Collective Canvas: Shared Dreams, Synthetic Hands](https://smarterarticles.co.uk/the-collective-canvas-shared-dreams-synthetic-hands?pk_campaign=rss-feed)
-- [The Real Cost of Vibe Coding: When AI Over-Delivers on Your Dime](https://smarterarticles.co.uk/the-real-cost-of-vibe-coding-when-ai-over-delivers-on-your-dime?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
