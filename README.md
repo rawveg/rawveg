@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Mind Game](https://dev.to/rawveg/the-mind-game-5762)
 - [The Watchers](https://dev.to/rawveg/the-watchers-3lmj)
 - [The Great Cognitive Surrender](https://dev.to/rawveg/the-great-cognitive-surrender-2bim)
 - [Texas Rewrites the AI Rulebook](https://dev.to/rawveg/texas-rewrites-the-ai-rulebook-213n)
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
 - [The Mind&#39;s Mirror](https://dev.to/rawveg/the-minds-mirror-1n0c)
 - [Thinking Machines, Thoughtful Makers](https://dev.to/rawveg/thinking-machines-thoughtful-makers-3mi)
 - [When AI Learns to Think](https://dev.to/rawveg/when-ai-learns-to-think-4oe0)
-- [The Meaningfulness Gap in AI Ethics](https://dev.to/rawveg/the-meaningfulness-gap-in-ai-ethics-2d7b)
 - [The Cosmic Junkyard: How AI Can Solve The Problem Above Our Heads](https://smarterarticles.co.uk/the-cosmic-junkyard-how-ai-can-solve-the-problem-above-our-heads?pk_campaign=rss-feed)
 - [The Memory Problem: When AI Systems Remember What They Should Forget](https://smarterarticles.co.uk/the-memory-problem-when-ai-systems-remember-what-they-should-forget?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
