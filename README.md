@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - [Texas Rewrites the AI Rulebook](https://dev.to/rawveg/texas-rewrites-the-ai-rulebook-213n)
 - [The Fragile Window](https://dev.to/rawveg/the-fragile-window-4ghe)
 - [The Thinking Machine&#39;s Apprentice](https://dev.to/rawveg/the-thinking-machines-apprentice-f3o)
+- [AI Travel Convenience: The Algorithm Knows Where You Will Go Next](https://smarterarticles.co.uk/ai-travel-convenience-the-algorithm-knows-where-you-will-go-next?pk_campaign=rss-feed)
 - [The Microservice Mind: Why AI&#39;s Future Isn&#39;t Monolithic](https://smarterarticles.co.uk/the-microservice-mind-why-ais-future-isnt-monolithic?pk_campaign=rss-feed)
 - [The Tiny Revolution: The Moment AI Didn&#39;t See Coming](https://smarterarticles.co.uk/the-tiny-revolution-the-moment-ai-didnt-see-coming?pk_campaign=rss-feed)
 - [The AI Smart Home Dilemma: Evaluating Security Before They Enter Your Life](https://smarterarticles.co.uk/the-ai-smart-home-dilemma-evaluating-security-before-they-enter-your-life?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Thinking Machines, Thoughtful Makers](https://dev.to/rawveg/thinking-machines-thoughtful-makers-3mi)
 - [When AI Learns to Think](https://dev.to/rawveg/when-ai-learns-to-think-4oe0)
 - [The Cosmic Junkyard: How AI Can Solve The Problem Above Our Heads](https://smarterarticles.co.uk/the-cosmic-junkyard-how-ai-can-solve-the-problem-above-our-heads?pk_campaign=rss-feed)
-- [The Memory Problem: When AI Systems Remember What They Should Forget](https://smarterarticles.co.uk/the-memory-problem-when-ai-systems-remember-what-they-should-forget?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
