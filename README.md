@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Deregulation Dilemma](https://dev.to/rawveg/the-deregulation-dilemma-2363)
 - [The Mind Game](https://dev.to/rawveg/the-mind-game-5762)
 - [The Watchers](https://dev.to/rawveg/the-watchers-3lmj)
 - [The Great Cognitive Surrender](https://dev.to/rawveg/the-great-cognitive-surrender-2bim)
@@ -33,6 +34,5 @@ Here are some ideas to get you started:
 - [The Invisible Housemate: How AI Agents Are Rewriting the Rules of Home](https://smarterarticles.co.uk/the-invisible-housemate-how-ai-agents-are-rewriting-the-rules-of-home?pk_campaign=rss-feed)
 - [The Mind&#39;s Mirror](https://dev.to/rawveg/the-minds-mirror-1n0c)
 - [Thinking Machines, Thoughtful Makers](https://dev.to/rawveg/thinking-machines-thoughtful-makers-3mi)
-- [When AI Learns to Think](https://dev.to/rawveg/when-ai-learns-to-think-4oe0)
 - [The Cosmic Junkyard: How AI Can Solve The Problem Above Our Heads](https://smarterarticles.co.uk/the-cosmic-junkyard-how-ai-can-solve-the-problem-above-our-heads?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
