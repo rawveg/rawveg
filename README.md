@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - [The Great Cognitive Surrender](https://dev.to/rawveg/the-great-cognitive-surrender-2bim)
 - [Texas Rewrites the AI Rulebook](https://dev.to/rawveg/texas-rewrites-the-ai-rulebook-213n)
 - [The Fragile Window](https://dev.to/rawveg/the-fragile-window-4ghe)
+- [Digital Agent Frameworks: For When AI Become More Than Just a Colleague](https://smarterarticles.co.uk/digital-agent-frameworks-for-when-ai-become-more-than-just-a-colleague?pk_campaign=rss-feed)
 - [The Thinking Machine&#39;s Apprentice](https://dev.to/rawveg/the-thinking-machines-apprentice-f3o)
 - [AI Travel Convenience: The Algorithm Knows Where You Will Go Next](https://smarterarticles.co.uk/ai-travel-convenience-the-algorithm-knows-where-you-will-go-next?pk_campaign=rss-feed)
 - [The Microservice Mind: Why AI&#39;s Future Isn&#39;t Monolithic](https://smarterarticles.co.uk/the-microservice-mind-why-ais-future-isnt-monolithic?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Invisible Housemate: How AI Agents Are Rewriting the Rules of Home](https://smarterarticles.co.uk/the-invisible-housemate-how-ai-agents-are-rewriting-the-rules-of-home?pk_campaign=rss-feed)
 - [The Mind&#39;s Mirror](https://dev.to/rawveg/the-minds-mirror-1n0c)
 - [Thinking Machines, Thoughtful Makers](https://dev.to/rawveg/thinking-machines-thoughtful-makers-3mi)
-- [The Cosmic Junkyard: How AI Can Solve The Problem Above Our Heads](https://smarterarticles.co.uk/the-cosmic-junkyard-how-ai-can-solve-the-problem-above-our-heads?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
