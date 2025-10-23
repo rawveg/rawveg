@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Hidden Hands](https://dev.to/rawveg/the-hidden-hands-4b72)
 - [The Ethics Engine](https://dev.to/rawveg/the-ethics-engine-4ki2)
 - [The Deregulation Dilemma](https://dev.to/rawveg/the-deregulation-dilemma-2363)
 - [The Mind Game](https://dev.to/rawveg/the-mind-game-5762)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Art of Conversation](https://dev.to/rawveg/the-art-of-conversation-20h3)
 - [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
 - [The Workslop Deluge: How AI&#39;s Productivity Promise Became a Quality Crisis](https://smarterarticles.co.uk/the-workslop-deluge-how-ais-productivity-promise-became-a-quality-crisis?pk_campaign=rss-feed)
-- [The Invisible Housemate: How AI Agents Are Rewriting the Rules of Home](https://smarterarticles.co.uk/the-invisible-housemate-how-ai-agents-are-rewriting-the-rules-of-home?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
