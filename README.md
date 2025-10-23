@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - [The Deregulation Dilemma](https://dev.to/rawveg/the-deregulation-dilemma-2363)
 - [The Mind Game](https://dev.to/rawveg/the-mind-game-5762)
 - [The Watchers](https://dev.to/rawveg/the-watchers-3lmj)
+- [The Default Human: Why AI Should Force You to Choose](https://smarterarticles.co.uk/the-default-human-why-ai-should-force-you-to-choose?pk_campaign=rss-feed)
 - [The Great Cognitive Surrender](https://dev.to/rawveg/the-great-cognitive-surrender-2bim)
 - [Texas Rewrites the AI Rulebook](https://dev.to/rawveg/texas-rewrites-the-ai-rulebook-213n)
 - [The Fragile Window](https://dev.to/rawveg/the-fragile-window-4ghe)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
 - [The Workslop Deluge: How AI&#39;s Productivity Promise Became a Quality Crisis](https://smarterarticles.co.uk/the-workslop-deluge-how-ais-productivity-promise-became-a-quality-crisis?pk_campaign=rss-feed)
 - [The Invisible Housemate: How AI Agents Are Rewriting the Rules of Home](https://smarterarticles.co.uk/the-invisible-housemate-how-ai-agents-are-rewriting-the-rules-of-home?pk_campaign=rss-feed)
-- [The Mind&#39;s Mirror](https://dev.to/rawveg/the-minds-mirror-1n0c)
 <!-- BLOG-POST-LIST:END -->
