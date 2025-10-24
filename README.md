@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Synthetic Stories, Real Results](https://dev.to/rawveg/synthetic-stories-real-results-11c5)
 - [The Hidden Hands](https://dev.to/rawveg/the-hidden-hands-4b72)
 - [The Ethics Engine](https://dev.to/rawveg/the-ethics-engine-4ki2)
 - [The Deregulation Dilemma](https://dev.to/rawveg/the-deregulation-dilemma-2363)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Last Privacy Frontier: How to Protect The Contents of Your Brain](https://smarterarticles.co.uk/the-last-privacy-frontier-how-to-protect-the-contents-of-your-brain?pk_campaign=rss-feed)
 - [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
 - [The Art of Conversation](https://dev.to/rawveg/the-art-of-conversation-20h3)
-- [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
 <!-- BLOG-POST-LIST:END -->
