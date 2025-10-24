@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - [The Ethics Engine](https://dev.to/rawveg/the-ethics-engine-4ki2)
 - [The Deregulation Dilemma](https://dev.to/rawveg/the-deregulation-dilemma-2363)
 - [The Mind Game](https://dev.to/rawveg/the-mind-game-5762)
+- [When AI Composes Your Calm: The Ethics of Generated Therapeutic Music](https://smarterarticles.co.uk/when-ai-composes-your-calm-the-ethics-of-generated-therapeutic-music?pk_campaign=rss-feed)
 - [The Watchers](https://dev.to/rawveg/the-watchers-3lmj)
 - [The Default Human: Why AI Should Force You to Choose](https://smarterarticles.co.uk/the-default-human-why-ai-should-force-you-to-choose?pk_campaign=rss-feed)
 - [The Great Cognitive Surrender](https://dev.to/rawveg/the-great-cognitive-surrender-2bim)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
 - [The Art of Conversation](https://dev.to/rawveg/the-art-of-conversation-20h3)
 - [The EU&#39;s AI Code of Practice](https://dev.to/rawveg/the-eus-ai-code-of-practice-11pj)
-- [The Workslop Deluge: How AI&#39;s Productivity Promise Became a Quality Crisis](https://smarterarticles.co.uk/the-workslop-deluge-how-ais-productivity-promise-became-a-quality-crisis?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
