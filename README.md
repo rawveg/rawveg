@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - [The Hidden Hands](https://dev.to/rawveg/the-hidden-hands-4b72)
 - [The Ethics Engine](https://dev.to/rawveg/the-ethics-engine-4ki2)
 - [The Deregulation Dilemma](https://dev.to/rawveg/the-deregulation-dilemma-2363)
+- [The One-Word Catastrophe: How a Single Character Can Bring AI Down](https://smarterarticles.co.uk/the-one-word-catastrophe-how-a-single-character-can-bring-ai-down?pk_campaign=rss-feed)
 - [The Mind Game](https://dev.to/rawveg/the-mind-game-5762)
 - [When AI Composes Your Calm: The Ethics of Generated Therapeutic Music](https://smarterarticles.co.uk/when-ai-composes-your-calm-the-ethics-of-generated-therapeutic-music?pk_campaign=rss-feed)
 - [The Watchers](https://dev.to/rawveg/the-watchers-3lmj)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The AI Smart Home Dilemma: Evaluating Security Before They Enter Your Life](https://smarterarticles.co.uk/the-ai-smart-home-dilemma-evaluating-security-before-they-enter-your-life?pk_campaign=rss-feed)
 - [The Last Privacy Frontier: How to Protect The Contents of Your Brain](https://smarterarticles.co.uk/the-last-privacy-frontier-how-to-protect-the-contents-of-your-brain?pk_campaign=rss-feed)
 - [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
-- [The Art of Conversation](https://dev.to/rawveg/the-art-of-conversation-20h3)
 <!-- BLOG-POST-LIST:END -->
