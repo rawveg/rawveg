@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Code That Writes Itself](https://dev.to/rawveg/code-that-writes-itself-3pbc)
 - [Synthetic Stories, Real Results](https://dev.to/rawveg/synthetic-stories-real-results-11c5)
 - [The Hidden Hands](https://dev.to/rawveg/the-hidden-hands-4b72)
 - [The Ethics Engine](https://dev.to/rawveg/the-ethics-engine-4ki2)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Tiny Revolution: The Moment AI Didn&#39;t See Coming](https://smarterarticles.co.uk/the-tiny-revolution-the-moment-ai-didnt-see-coming?pk_campaign=rss-feed)
 - [The AI Smart Home Dilemma: Evaluating Security Before They Enter Your Life](https://smarterarticles.co.uk/the-ai-smart-home-dilemma-evaluating-security-before-they-enter-your-life?pk_campaign=rss-feed)
 - [The Last Privacy Frontier: How to Protect The Contents of Your Brain](https://smarterarticles.co.uk/the-last-privacy-frontier-how-to-protect-the-contents-of-your-brain?pk_campaign=rss-feed)
-- [Truth as Ammunition](https://dev.to/rawveg/truth-as-ammunition-5311)
 <!-- BLOG-POST-LIST:END -->
