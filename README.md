@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - [Synthetic Stories, Real Results](https://dev.to/rawveg/synthetic-stories-real-results-11c5)
 - [The Hidden Hands](https://dev.to/rawveg/the-hidden-hands-4b72)
 - [The Ethics Engine](https://dev.to/rawveg/the-ethics-engine-4ki2)
+- [The Gaslighting Machine: How AI Language Models Learn to Manipulate](https://smarterarticles.co.uk/the-gaslighting-machine-how-ai-language-models-learn-to-manipulate?pk_campaign=rss-feed)
 - [The Deregulation Dilemma](https://dev.to/rawveg/the-deregulation-dilemma-2363)
 - [The One-Word Catastrophe: How a Single Character Can Bring AI Down](https://smarterarticles.co.uk/the-one-word-catastrophe-how-a-single-character-can-bring-ai-down?pk_campaign=rss-feed)
 - [The Mind Game](https://dev.to/rawveg/the-mind-game-5762)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Microservice Mind: Why AI&#39;s Future Isn&#39;t Monolithic](https://smarterarticles.co.uk/the-microservice-mind-why-ais-future-isnt-monolithic?pk_campaign=rss-feed)
 - [The Tiny Revolution: The Moment AI Didn&#39;t See Coming](https://smarterarticles.co.uk/the-tiny-revolution-the-moment-ai-didnt-see-coming?pk_campaign=rss-feed)
 - [The AI Smart Home Dilemma: Evaluating Security Before They Enter Your Life](https://smarterarticles.co.uk/the-ai-smart-home-dilemma-evaluating-security-before-they-enter-your-life?pk_campaign=rss-feed)
-- [The Last Privacy Frontier: How to Protect The Contents of Your Brain](https://smarterarticles.co.uk/the-last-privacy-frontier-how-to-protect-the-contents-of-your-brain?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
