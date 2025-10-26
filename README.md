@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your Infrastructure Will Never Be Idempotent &lpar;and That&#39;s OK&rpar;](https://dev.to/rawveg/your-infrastructure-will-never-be-idempotent-and-thats-ok-3k6h)
 - [Code That Writes Itself](https://dev.to/rawveg/code-that-writes-itself-3pbc)
 - [Synthetic Stories, Real Results](https://dev.to/rawveg/synthetic-stories-real-results-11c5)
 - [The Hidden Hands](https://dev.to/rawveg/the-hidden-hands-4b72)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Travel Convenience: The Algorithm Knows Where You Will Go Next](https://smarterarticles.co.uk/ai-travel-convenience-the-algorithm-knows-where-you-will-go-next?pk_campaign=rss-feed)
 - [The Microservice Mind: Why AI&#39;s Future Isn&#39;t Monolithic](https://smarterarticles.co.uk/the-microservice-mind-why-ais-future-isnt-monolithic?pk_campaign=rss-feed)
 - [The Tiny Revolution: The Moment AI Didn&#39;t See Coming](https://smarterarticles.co.uk/the-tiny-revolution-the-moment-ai-didnt-see-coming?pk_campaign=rss-feed)
-- [The AI Smart Home Dilemma: Evaluating Security Before They Enter Your Life](https://smarterarticles.co.uk/the-ai-smart-home-dilemma-evaluating-security-before-they-enter-your-life?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
