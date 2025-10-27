@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - [Code That Writes Itself](https://dev.to/rawveg/code-that-writes-itself-3pbc)
 - [Synthetic Stories, Real Results](https://dev.to/rawveg/synthetic-stories-real-results-11c5)
 - [The Hidden Hands](https://dev.to/rawveg/the-hidden-hands-4b72)
+- [The Babysitter Club: Supervising as AI Exhausts the Workforce](https://smarterarticles.co.uk/the-babysitter-club-supervising-as-ai-exhausts-the-workforce?pk_campaign=rss-feed)
 - [The Ethics Engine](https://dev.to/rawveg/the-ethics-engine-4ki2)
 - [The Gaslighting Machine: How AI Language Models Learn to Manipulate](https://smarterarticles.co.uk/the-gaslighting-machine-how-ai-language-models-learn-to-manipulate?pk_campaign=rss-feed)
 - [The Deregulation Dilemma](https://dev.to/rawveg/the-deregulation-dilemma-2363)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Digital Agent Frameworks: For When AI Become More Than Just a Colleague](https://smarterarticles.co.uk/digital-agent-frameworks-for-when-ai-become-more-than-just-a-colleague?pk_campaign=rss-feed)
 - [AI Travel Convenience: The Algorithm Knows Where You Will Go Next](https://smarterarticles.co.uk/ai-travel-convenience-the-algorithm-knows-where-you-will-go-next?pk_campaign=rss-feed)
 - [The Microservice Mind: Why AI&#39;s Future Isn&#39;t Monolithic](https://smarterarticles.co.uk/the-microservice-mind-why-ais-future-isnt-monolithic?pk_campaign=rss-feed)
-- [The Tiny Revolution: The Moment AI Didn&#39;t See Coming](https://smarterarticles.co.uk/the-tiny-revolution-the-moment-ai-didnt-see-coming?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
