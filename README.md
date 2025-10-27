@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Invisible Exchange](https://dev.to/rawveg/the-invisible-exchange-16gf)
 - [The Climate Oracle](https://dev.to/rawveg/the-climate-oracle-26ch)
 - [Your Infrastructure Will Never Be Idempotent &lpar;and That&#39;s OK&rpar;](https://dev.to/rawveg/your-infrastructure-will-never-be-idempotent-and-thats-ok-3k6h)
 - [Code That Writes Itself](https://dev.to/rawveg/code-that-writes-itself-3pbc)
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 - [The Default Human: Why AI Should Force You to Choose](https://smarterarticles.co.uk/the-default-human-why-ai-should-force-you-to-choose?pk_campaign=rss-feed)
 - [The Great Cognitive Surrender](https://dev.to/rawveg/the-great-cognitive-surrender-2bim)
 - [Texas Rewrites the AI Rulebook](https://dev.to/rawveg/texas-rewrites-the-ai-rulebook-213n)
-- [The Fragile Window](https://dev.to/rawveg/the-fragile-window-4ghe)
 - [Digital Agent Frameworks: For When AI Become More Than Just a Colleague](https://smarterarticles.co.uk/digital-agent-frameworks-for-when-ai-become-more-than-just-a-colleague?pk_campaign=rss-feed)
 - [AI Travel Convenience: The Algorithm Knows Where You Will Go Next](https://smarterarticles.co.uk/ai-travel-convenience-the-algorithm-knows-where-you-will-go-next?pk_campaign=rss-feed)
 - [The Microservice Mind: Why AI&#39;s Future Isn&#39;t Monolithic](https://smarterarticles.co.uk/the-microservice-mind-why-ais-future-isnt-monolithic?pk_campaign=rss-feed)
