@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Open Source Dilemma](https://dev.to/rawveg/the-open-source-dilemma-3lab)
 - [The Invisible Exchange](https://dev.to/rawveg/the-invisible-exchange-16gf)
 - [The Climate Oracle](https://dev.to/rawveg/the-climate-oracle-26ch)
 - [Your Infrastructure Will Never Be Idempotent &lpar;and That&#39;s OK&rpar;](https://dev.to/rawveg/your-infrastructure-will-never-be-idempotent-and-thats-ok-3k6h)
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
 - [The Watchers](https://dev.to/rawveg/the-watchers-3lmj)
 - [The Default Human: Why AI Should Force You to Choose](https://smarterarticles.co.uk/the-default-human-why-ai-should-force-you-to-choose?pk_campaign=rss-feed)
 - [The Great Cognitive Surrender](https://dev.to/rawveg/the-great-cognitive-surrender-2bim)
-- [Texas Rewrites the AI Rulebook](https://dev.to/rawveg/texas-rewrites-the-ai-rulebook-213n)
 - [Digital Agent Frameworks: For When AI Become More Than Just a Colleague](https://smarterarticles.co.uk/digital-agent-frameworks-for-when-ai-become-more-than-just-a-colleague?pk_campaign=rss-feed)
 - [AI Travel Convenience: The Algorithm Knows Where You Will Go Next](https://smarterarticles.co.uk/ai-travel-convenience-the-algorithm-knows-where-you-will-go-next?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
