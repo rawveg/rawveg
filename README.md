@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Democracy Dilemma](https://dev.to/rawveg/the-democracy-dilemma-265k)
 - [The Open Source Dilemma](https://dev.to/rawveg/the-open-source-dilemma-3lab)
 - [The Invisible Exchange](https://dev.to/rawveg/the-invisible-exchange-16gf)
 - [The Climate Oracle](https://dev.to/rawveg/the-climate-oracle-26ch)
@@ -33,6 +34,5 @@ Here are some ideas to get you started:
 - [When AI Composes Your Calm: The Ethics of Generated Therapeutic Music](https://smarterarticles.co.uk/when-ai-composes-your-calm-the-ethics-of-generated-therapeutic-music?pk_campaign=rss-feed)
 - [The Watchers](https://dev.to/rawveg/the-watchers-3lmj)
 - [The Default Human: Why AI Should Force You to Choose](https://smarterarticles.co.uk/the-default-human-why-ai-should-force-you-to-choose?pk_campaign=rss-feed)
-- [The Great Cognitive Surrender](https://dev.to/rawveg/the-great-cognitive-surrender-2bim)
 - [Digital Agent Frameworks: For When AI Become More Than Just a Colleague](https://smarterarticles.co.uk/digital-agent-frameworks-for-when-ai-become-more-than-just-a-colleague?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
