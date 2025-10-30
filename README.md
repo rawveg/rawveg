@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Intimate Algorithm](https://dev.to/rawveg/the-intimate-algorithm-4nek)
 - [The Democracy Dilemma](https://dev.to/rawveg/the-democracy-dilemma-265k)
 - [The Open Source Dilemma](https://dev.to/rawveg/the-open-source-dilemma-3lab)
 - [The Invisible Exchange](https://dev.to/rawveg/the-invisible-exchange-16gf)
@@ -33,6 +34,5 @@ Here are some ideas to get you started:
 - [The One-Word Catastrophe: How a Single Character Can Bring AI Down](https://smarterarticles.co.uk/the-one-word-catastrophe-how-a-single-character-can-bring-ai-down?pk_campaign=rss-feed)
 - [The Mind Game](https://dev.to/rawveg/the-mind-game-5762)
 - [When AI Composes Your Calm: The Ethics of Generated Therapeutic Music](https://smarterarticles.co.uk/when-ai-composes-your-calm-the-ethics-of-generated-therapeutic-music?pk_campaign=rss-feed)
-- [The Watchers](https://dev.to/rawveg/the-watchers-3lmj)
 - [The Default Human: Why AI Should Force You to Choose](https://smarterarticles.co.uk/the-default-human-why-ai-should-force-you-to-choose?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
