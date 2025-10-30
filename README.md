@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - [The Invisible Exchange](https://dev.to/rawveg/the-invisible-exchange-16gf)
 - [The Climate Oracle](https://dev.to/rawveg/the-climate-oracle-26ch)
 - [Your Infrastructure Will Never Be Idempotent &lpar;and That&#39;s OK&rpar;](https://dev.to/rawveg/your-infrastructure-will-never-be-idempotent-and-thats-ok-3k6h)
+- [The Artist and the AI: Navigating the Creative Revolution in Animation](https://smarterarticles.co.uk/the-artist-and-the-ai-navigating-the-creative-revolution-in-animation?pk_campaign=rss-feed)
 - [Code That Writes Itself](https://dev.to/rawveg/code-that-writes-itself-3pbc)
 - [Synthetic Stories, Real Results](https://dev.to/rawveg/synthetic-stories-real-results-11c5)
 - [AI Changes Every Job: Your Career Roadmap for Adaptation](https://smarterarticles.co.uk/ai-changes-every-job-your-career-roadmap-for-adaptation?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When AI Composes Your Calm: The Ethics of Generated Therapeutic Music](https://smarterarticles.co.uk/when-ai-composes-your-calm-the-ethics-of-generated-therapeutic-music?pk_campaign=rss-feed)
 - [The Watchers](https://dev.to/rawveg/the-watchers-3lmj)
 - [The Default Human: Why AI Should Force You to Choose](https://smarterarticles.co.uk/the-default-human-why-ai-should-force-you-to-choose?pk_campaign=rss-feed)
-- [Digital Agent Frameworks: For When AI Become More Than Just a Colleague](https://smarterarticles.co.uk/digital-agent-frameworks-for-when-ai-become-more-than-just-a-colleague?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
