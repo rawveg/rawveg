@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - [The Invisible Exchange](https://dev.to/rawveg/the-invisible-exchange-16gf)
 - [The Climate Oracle](https://dev.to/rawveg/the-climate-oracle-26ch)
 - [Your Infrastructure Will Never Be Idempotent &lpar;and That&#39;s OK&rpar;](https://dev.to/rawveg/your-infrastructure-will-never-be-idempotent-and-thats-ok-3k6h)
+- [When AI Knows You&#39;re Breaking: The Future of Mental Health Prediction](https://smarterarticles.co.uk/when-ai-knows-youre-breaking-the-future-of-mental-health-prediction?pk_campaign=rss-feed)
 - [The Artist and the AI: Navigating the Creative Revolution in Animation](https://smarterarticles.co.uk/the-artist-and-the-ai-navigating-the-creative-revolution-in-animation?pk_campaign=rss-feed)
 - [Code That Writes Itself](https://dev.to/rawveg/code-that-writes-itself-3pbc)
 - [Synthetic Stories, Real Results](https://dev.to/rawveg/synthetic-stories-real-results-11c5)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The One-Word Catastrophe: How a Single Character Can Bring AI Down](https://smarterarticles.co.uk/the-one-word-catastrophe-how-a-single-character-can-bring-ai-down?pk_campaign=rss-feed)
 - [The Mind Game](https://dev.to/rawveg/the-mind-game-5762)
 - [When AI Composes Your Calm: The Ethics of Generated Therapeutic Music](https://smarterarticles.co.uk/when-ai-composes-your-calm-the-ethics-of-generated-therapeutic-music?pk_campaign=rss-feed)
-- [The Default Human: Why AI Should Force You to Choose](https://smarterarticles.co.uk/the-default-human-why-ai-should-force-you-to-choose?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
