@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Consent Cannot Be Optional: The Uncomfortable Truth About AI Freedom](https://smarterarticles.co.uk/consent-cannot-be-optional-the-uncomfortable-truth-about-ai-freedom?pk_campaign=rss-feed)
 - [The Moral Minefield](https://dev.to/rawveg/the-moral-minefield-3jm1)
 - [Millennials Beat Gen Z at AI: How They Redrew Corporate Maps](https://smarterarticles.co.uk/millennials-beat-gen-z-at-ai-how-they-redrew-corporate-maps?pk_campaign=rss-feed)
 - [The Intimacy Engine](https://dev.to/rawveg/the-intimacy-engine-4ff7)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Hidden Hands](https://dev.to/rawveg/the-hidden-hands-4b72)
 - [Seeing Isn&#39;t Believing: The Right to Know](https://smarterarticles.co.uk/seeing-isnt-believing-the-right-to-know?pk_campaign=rss-feed)
 - [The Babysitter Club: Supervising as AI Exhausts the Workforce](https://smarterarticles.co.uk/the-babysitter-club-supervising-as-ai-exhausts-the-workforce?pk_campaign=rss-feed)
-- [The Gaslighting Machine: How AI Language Models Learn to Manipulate](https://smarterarticles.co.uk/the-gaslighting-machine-how-ai-language-models-learn-to-manipulate?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
