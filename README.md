@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Open Source AI&#39;s Democratic Promise: Navigating the Ethics Paradox](https://smarterarticles.co.uk/open-source-ais-democratic-promise-navigating-the-ethics-paradox?pk_campaign=rss-feed)
 - [The Black Box Brigade](https://dev.to/rawveg/the-black-box-brigade-3ef0)
 - [Consent Cannot Be Optional: The Uncomfortable Truth About AI Freedom](https://smarterarticles.co.uk/consent-cannot-be-optional-the-uncomfortable-truth-about-ai-freedom?pk_campaign=rss-feed)
 - [The Moral Minefield](https://dev.to/rawveg/the-moral-minefield-3jm1)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Synthetic Stories, Real Results](https://dev.to/rawveg/synthetic-stories-real-results-11c5)
 - [AI Changes Every Job: Your Career Roadmap for Adaptation](https://smarterarticles.co.uk/ai-changes-every-job-your-career-roadmap-for-adaptation?pk_campaign=rss-feed)
 - [Seeing Isn&#39;t Believing: The Right to Know](https://smarterarticles.co.uk/seeing-isnt-believing-the-right-to-know?pk_campaign=rss-feed)
-- [The Babysitter Club: Supervising as AI Exhausts the Workforce](https://smarterarticles.co.uk/the-babysitter-club-supervising-as-ai-exhausts-the-workforce?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
