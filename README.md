@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Mind in the Machine: Can We Think for Ourselves in the Age of AI?](https://smarterarticles.co.uk/the-mind-in-the-machine-can-we-think-for-ourselves-in-the-age-of-ai?pk_campaign=rss-feed)
 - [China&#39;s AI Diplomacy](https://dev.to/rawveg/chinas-ai-diplomacy-2hf9)
 - [Open Source AI&#39;s Democratic Promise: Navigating the Ethics Paradox](https://smarterarticles.co.uk/open-source-ais-democratic-promise-navigating-the-ethics-paradox?pk_campaign=rss-feed)
 - [The Black Box Brigade](https://dev.to/rawveg/the-black-box-brigade-3ef0)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Artist and the AI: Navigating the Creative Revolution in Animation](https://smarterarticles.co.uk/the-artist-and-the-ai-navigating-the-creative-revolution-in-animation?pk_campaign=rss-feed)
 - [Code That Writes Itself](https://dev.to/rawveg/code-that-writes-itself-3pbc)
 - [AI Changes Every Job: Your Career Roadmap for Adaptation](https://smarterarticles.co.uk/ai-changes-every-job-your-career-roadmap-for-adaptation?pk_campaign=rss-feed)
-- [Seeing Isn&#39;t Believing: The Right to Know](https://smarterarticles.co.uk/seeing-isnt-believing-the-right-to-know?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
