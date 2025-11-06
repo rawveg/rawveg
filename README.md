@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Symmetry as a Superpower](https://dev.to/rawveg/symmetry-as-a-superpower-2flp)
 - [When Safety Becomes Control: The Hidden Psychology of AI Guardrails](https://smarterarticles.co.uk/when-safety-becomes-control-the-hidden-psychology-of-ai-guardrails?pk_campaign=rss-feed)
 - [The Double-Edged Revolution](https://dev.to/rawveg/the-double-edged-revolution-ajj)
 - [The Mind in the Machine: Can We Think for Ourselves in the Age of AI?](https://smarterarticles.co.uk/the-mind-in-the-machine-can-we-think-for-ourselves-in-the-age-of-ai?pk_campaign=rss-feed)
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
 - [The Open Source Dilemma](https://dev.to/rawveg/the-open-source-dilemma-3lab)
 - [The Invisible Exchange](https://dev.to/rawveg/the-invisible-exchange-16gf)
 - [The Climate Oracle](https://dev.to/rawveg/the-climate-oracle-26ch)
-- [Your Infrastructure Will Never Be Idempotent &lpar;and That&#39;s OK&rpar;](https://dev.to/rawveg/your-infrastructure-will-never-be-idempotent-and-thats-ok-3k6h)
 - [When AI Knows You&#39;re Breaking: The Future of Mental Health Prediction](https://smarterarticles.co.uk/when-ai-knows-youre-breaking-the-future-of-mental-health-prediction?pk_campaign=rss-feed)
 - [The Artist and the AI: Navigating the Creative Revolution in Animation](https://smarterarticles.co.uk/the-artist-and-the-ai-navigating-the-creative-revolution-in-animation?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
