@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Through the Eyes of Janus](https://dev.to/rawveg/through-the-eyes-of-janus-45j)
 - [Dead Performers and Machine Creations: The Battle for Authentic Entertainment](https://smarterarticles.co.uk/dead-performers-and-machine-creations-the-battle-for-authentic-entertainment?pk_campaign=rss-feed)
 - [Symmetry as a Superpower](https://dev.to/rawveg/symmetry-as-a-superpower-2flp)
 - [When Safety Becomes Control: The Hidden Psychology of AI Guardrails](https://smarterarticles.co.uk/when-safety-becomes-control-the-hidden-psychology-of-ai-guardrails?pk_campaign=rss-feed)
@@ -33,6 +34,5 @@ Here are some ideas to get you started:
 - [The Democracy Dilemma](https://dev.to/rawveg/the-democracy-dilemma-265k)
 - [The Open Source Dilemma](https://dev.to/rawveg/the-open-source-dilemma-3lab)
 - [The Invisible Exchange](https://dev.to/rawveg/the-invisible-exchange-16gf)
-- [The Climate Oracle](https://dev.to/rawveg/the-climate-oracle-26ch)
 - [When AI Knows You&#39;re Breaking: The Future of Mental Health Prediction](https://smarterarticles.co.uk/when-ai-knows-youre-breaking-the-future-of-mental-health-prediction?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
