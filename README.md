@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the App](https://dev.to/rawveg/beyond-the-app-1mme)
 - [The Paradox of Progress: The Oligarchic Reality of AI](https://smarterarticles.co.uk/the-paradox-of-progress-the-oligarchic-reality-of-ai?pk_campaign=rss-feed)
 - [Through the Eyes of Janus](https://dev.to/rawveg/through-the-eyes-of-janus-45j)
 - [Dead Performers and Machine Creations: The Battle for Authentic Entertainment](https://smarterarticles.co.uk/dead-performers-and-machine-creations-the-battle-for-authentic-entertainment?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Intimate Algorithm](https://dev.to/rawveg/the-intimate-algorithm-4nek)
 - [The Democracy Dilemma](https://dev.to/rawveg/the-democracy-dilemma-265k)
 - [The Open Source Dilemma](https://dev.to/rawveg/the-open-source-dilemma-3lab)
-- [The Invisible Exchange](https://dev.to/rawveg/the-invisible-exchange-16gf)
 <!-- BLOG-POST-LIST:END -->
