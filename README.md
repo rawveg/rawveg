@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Human Margin](https://dev.to/rawveg/the-human-margin-409h)
 - [The Browser Wars Are Back: AI Rewrites the Rules of Digital Literacy](https://smarterarticles.co.uk/the-browser-wars-are-back-ai-rewrites-the-rules-of-digital-literacy?pk_campaign=rss-feed)
 - [Beyond the App](https://dev.to/rawveg/beyond-the-app-1mme)
 - [The Paradox of Progress: The Oligarchic Reality of AI](https://smarterarticles.co.uk/the-paradox-of-progress-the-oligarchic-reality-of-ai?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Medical AI Fails Minorities: The Data Representation Crisis](https://smarterarticles.co.uk/medical-ai-fails-minorities-the-data-representation-crisis?pk_campaign=rss-feed)
 - [The Human Advantage](https://dev.to/rawveg/the-human-advantage-5e6e)
 - [The Intimate Algorithm](https://dev.to/rawveg/the-intimate-algorithm-4nek)
-- [The Democracy Dilemma](https://dev.to/rawveg/the-democracy-dilemma-265k)
 <!-- BLOG-POST-LIST:END -->
