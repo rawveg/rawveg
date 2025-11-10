@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Sacred Code](https://dev.to/rawveg/the-sacred-code-8b0)
 - [The Algorithm Will See You Now: Malaysia Bets on AI-Powered Banking](https://smarterarticles.co.uk/the-algorithm-will-see-you-now-malaysia-bets-on-ai-powered-banking?pk_campaign=rss-feed)
 - [The Human Margin](https://dev.to/rawveg/the-human-margin-409h)
 - [The Browser Wars Are Back: AI Rewrites the Rules of Digital Literacy](https://smarterarticles.co.uk/the-browser-wars-are-back-ai-rewrites-the-rules-of-digital-literacy?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Millennials Beat Gen Z at AI: How They Redrew Corporate Maps](https://smarterarticles.co.uk/millennials-beat-gen-z-at-ai-how-they-redrew-corporate-maps?pk_campaign=rss-feed)
 - [The Intimacy Engine](https://dev.to/rawveg/the-intimacy-engine-4ff7)
 - [Medical AI Fails Minorities: The Data Representation Crisis](https://smarterarticles.co.uk/medical-ai-fails-minorities-the-data-representation-crisis?pk_campaign=rss-feed)
-- [The Human Advantage](https://dev.to/rawveg/the-human-advantage-5e6e)
 <!-- BLOG-POST-LIST:END -->
