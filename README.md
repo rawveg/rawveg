@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Digital Tools, Analogue Barriers: How Open Physics AI Preserves Inequality](https://smarterarticles.co.uk/digital-tools-analogue-barriers-how-open-physics-ai-preserves-inequality?pk_campaign=rss-feed)
 - [The Robot That Learned to See](https://dev.to/rawveg/the-robot-that-learned-to-see-3bck)
 - [The Guardrails We Need: How Vibe Coding Threatens Software Security](https://smarterarticles.co.uk/the-guardrails-we-need-how-vibe-coding-threatens-software-security?pk_campaign=rss-feed)
 - [The Sacred Code](https://dev.to/rawveg/the-sacred-code-8b0)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Black Box Brigade](https://dev.to/rawveg/the-black-box-brigade-3ef0)
 - [Consent Cannot Be Optional: The Uncomfortable Truth About AI Freedom](https://smarterarticles.co.uk/consent-cannot-be-optional-the-uncomfortable-truth-about-ai-freedom?pk_campaign=rss-feed)
 - [The Moral Minefield](https://dev.to/rawveg/the-moral-minefield-3jm1)
-- [Millennials Beat Gen Z at AI: How They Redrew Corporate Maps](https://smarterarticles.co.uk/millennials-beat-gen-z-at-ai-how-they-redrew-corporate-maps?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
