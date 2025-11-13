@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Elevation Thesis: Why Democratising Code Will Not Kill Craft](https://smarterarticles.co.uk/the-elevation-thesis-why-democratising-code-will-not-kill-craft?pk_campaign=rss-feed)
 - [Perfect Sims, Imperfect Worlds](https://dev.to/rawveg/perfect-sims-imperfect-worlds-1d7n)
 - [Digital Tools, Analogue Barriers: How Open Physics AI Preserves Inequality](https://smarterarticles.co.uk/digital-tools-analogue-barriers-how-open-physics-ai-preserves-inequality?pk_campaign=rss-feed)
 - [The Robot That Learned to See](https://dev.to/rawveg/the-robot-that-learned-to-see-3bck)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [China&#39;s AI Diplomacy](https://dev.to/rawveg/chinas-ai-diplomacy-2hf9)
 - [Open Source AI&#39;s Democratic Promise: Navigating the Ethics Paradox](https://smarterarticles.co.uk/open-source-ais-democratic-promise-navigating-the-ethics-paradox?pk_campaign=rss-feed)
 - [The Black Box Brigade](https://dev.to/rawveg/the-black-box-brigade-3ef0)
-- [Consent Cannot Be Optional: The Uncomfortable Truth About AI Freedom](https://smarterarticles.co.uk/consent-cannot-be-optional-the-uncomfortable-truth-about-ai-freedom?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
