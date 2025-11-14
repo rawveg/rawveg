@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When AI Outpaces the Rulebook](https://dev.to/rawveg/when-ai-outpaces-the-rulebook-2hib)
 - [The Ghost Workers](https://dev.to/rawveg/the-ghost-workers-60m)
 - [The Elevation Thesis: Why Democratising Code Will Not Kill Craft](https://smarterarticles.co.uk/the-elevation-thesis-why-democratising-code-will-not-kill-craft?pk_campaign=rss-feed)
 - [Perfect Sims, Imperfect Worlds](https://dev.to/rawveg/perfect-sims-imperfect-worlds-1d7n)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Double-Edged Revolution](https://dev.to/rawveg/the-double-edged-revolution-ajj)
 - [The Mind in the Machine: Can We Think for Ourselves in the Age of AI?](https://smarterarticles.co.uk/the-mind-in-the-machine-can-we-think-for-ourselves-in-the-age-of-ai?pk_campaign=rss-feed)
 - [China&#39;s AI Diplomacy](https://dev.to/rawveg/chinas-ai-diplomacy-2hf9)
-- [Open Source AI&#39;s Democratic Promise: Navigating the Ethics Paradox](https://smarterarticles.co.uk/open-source-ais-democratic-promise-navigating-the-ethics-paradox?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
