@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Voice Revolution](https://dev.to/rawveg/the-voice-revolution-498)
 - [Stop Making AI Learn From Us: Why Preference Training Backfires](https://smarterarticles.co.uk/stop-making-ai-learn-from-us-why-preference-training-backfires?pk_campaign=rss-feed)
 - [The Retail AI Illusion: Your Shopping Choices Are Choreographed](https://smarterarticles.co.uk/the-retail-ai-illusion-your-shopping-choices-are-choreographed?pk_campaign=rss-feed)
 - [When AI Outpaces the Rulebook](https://dev.to/rawveg/when-ai-outpaces-the-rulebook-2hib)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Dead Performers and Machine Creations: The Battle for Authentic Entertainment](https://smarterarticles.co.uk/dead-performers-and-machine-creations-the-battle-for-authentic-entertainment?pk_campaign=rss-feed)
 - [Symmetry as a Superpower](https://dev.to/rawveg/symmetry-as-a-superpower-2flp)
 - [When Safety Becomes Control: The Hidden Psychology of AI Guardrails](https://smarterarticles.co.uk/when-safety-becomes-control-the-hidden-psychology-of-ai-guardrails?pk_campaign=rss-feed)
-- [The Double-Edged Revolution](https://dev.to/rawveg/the-double-edged-revolution-ajj)
 <!-- BLOG-POST-LIST:END -->
