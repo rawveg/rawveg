@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Stop Making AI Learn From Us: Why Preference Training Backfires](https://smarterarticles.co.uk/stop-making-ai-learn-from-us-why-preference-training-backfires?pk_campaign=rss-feed)
 - [The Retail AI Illusion: Your Shopping Choices Are Choreographed](https://smarterarticles.co.uk/the-retail-ai-illusion-your-shopping-choices-are-choreographed?pk_campaign=rss-feed)
 - [When AI Outpaces the Rulebook](https://dev.to/rawveg/when-ai-outpaces-the-rulebook-2hib)
 - [The Ghost Workers](https://dev.to/rawveg/the-ghost-workers-60m)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Symmetry as a Superpower](https://dev.to/rawveg/symmetry-as-a-superpower-2flp)
 - [When Safety Becomes Control: The Hidden Psychology of AI Guardrails](https://smarterarticles.co.uk/when-safety-becomes-control-the-hidden-psychology-of-ai-guardrails?pk_campaign=rss-feed)
 - [The Double-Edged Revolution](https://dev.to/rawveg/the-double-edged-revolution-ajj)
-- [The Mind in the Machine: Can We Think for Ourselves in the Age of AI?](https://smarterarticles.co.uk/the-mind-in-the-machine-can-we-think-for-ourselves-in-the-age-of-ai?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
