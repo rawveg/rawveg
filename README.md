@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Digital Catwalk](https://dev.to/rawveg/the-digital-catwalk-5dfi)
 - [The Invisible Workforce: When Employees Become Their Own IT Department](https://smarterarticles.co.uk/the-invisible-workforce-when-employees-become-their-own-it-department?pk_campaign=rss-feed)
 - [The Voice Revolution](https://dev.to/rawveg/the-voice-revolution-498)
 - [Stop Making AI Learn From Us: Why Preference Training Backfires](https://smarterarticles.co.uk/stop-making-ai-learn-from-us-why-preference-training-backfires?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Paradox of Progress: The Oligarchic Reality of AI](https://smarterarticles.co.uk/the-paradox-of-progress-the-oligarchic-reality-of-ai?pk_campaign=rss-feed)
 - [Through the Eyes of Janus](https://dev.to/rawveg/through-the-eyes-of-janus-45j)
 - [Dead Performers and Machine Creations: The Battle for Authentic Entertainment](https://smarterarticles.co.uk/dead-performers-and-machine-creations-the-battle-for-authentic-entertainment?pk_campaign=rss-feed)
-- [Symmetry as a Superpower](https://dev.to/rawveg/symmetry-as-a-superpower-2flp)
 <!-- BLOG-POST-LIST:END -->
