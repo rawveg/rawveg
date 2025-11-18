@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Crystal Ball Dilemma](https://dev.to/rawveg/the-crystal-ball-dilemma-1e96)
 - [The AI Value Paradox: When Breakthroughs Don&#39;t Translate to Progress](https://smarterarticles.co.uk/the-ai-value-paradox-when-breakthroughs-dont-translate-to-progress?pk_campaign=rss-feed)
 - [The Smart Signal Revolution](https://dev.to/rawveg/the-smart-signal-revolution-ch5)
 - [When 20 Watts Beats 20 Megawatts: Rethinking Computer Design](https://smarterarticles.co.uk/when-20-watts-beats-20-megawatts-rethinking-computer-design?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Algorithm Will See You Now: Malaysia Bets on AI-Powered Banking](https://smarterarticles.co.uk/the-algorithm-will-see-you-now-malaysia-bets-on-ai-powered-banking?pk_campaign=rss-feed)
 - [The Human Margin](https://dev.to/rawveg/the-human-margin-409h)
 - [The Browser Wars Are Back: AI Rewrites the Rules of Digital Literacy](https://smarterarticles.co.uk/the-browser-wars-are-back-ai-rewrites-the-rules-of-digital-literacy?pk_campaign=rss-feed)
-- [Beyond the App](https://dev.to/rawveg/beyond-the-app-1mme)
 <!-- BLOG-POST-LIST:END -->
