@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Surveillance Fails: Innocent People Pay the Price](https://smarterarticles.co.uk/ai-surveillance-fails-innocent-people-pay-the-price?pk_campaign=rss-feed)
 - [The Crystal Ball Dilemma](https://dev.to/rawveg/the-crystal-ball-dilemma-1e96)
 - [The AI Value Paradox: When Breakthroughs Don&#39;t Translate to Progress](https://smarterarticles.co.uk/the-ai-value-paradox-when-breakthroughs-dont-translate-to-progress?pk_campaign=rss-feed)
 - [The Smart Signal Revolution](https://dev.to/rawveg/the-smart-signal-revolution-ch5)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Sacred Code](https://dev.to/rawveg/the-sacred-code-8b0)
 - [The Algorithm Will See You Now: Malaysia Bets on AI-Powered Banking](https://smarterarticles.co.uk/the-algorithm-will-see-you-now-malaysia-bets-on-ai-powered-banking?pk_campaign=rss-feed)
 - [The Human Margin](https://dev.to/rawveg/the-human-margin-409h)
-- [The Browser Wars Are Back: AI Rewrites the Rules of Digital Literacy](https://smarterarticles.co.uk/the-browser-wars-are-back-ai-rewrites-the-rules-of-digital-literacy?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
