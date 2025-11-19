@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Who Hired the Machine?](https://dev.to/rawveg/who-hired-the-machine-33ae)
 - [AI Surveillance Fails: Innocent People Pay the Price](https://smarterarticles.co.uk/ai-surveillance-fails-innocent-people-pay-the-price?pk_campaign=rss-feed)
 - [The Crystal Ball Dilemma](https://dev.to/rawveg/the-crystal-ball-dilemma-1e96)
 - [The AI Value Paradox: When Breakthroughs Don&#39;t Translate to Progress](https://smarterarticles.co.uk/the-ai-value-paradox-when-breakthroughs-dont-translate-to-progress?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Guardrails We Need: How Vibe Coding Threatens Software Security](https://smarterarticles.co.uk/the-guardrails-we-need-how-vibe-coding-threatens-software-security?pk_campaign=rss-feed)
 - [The Sacred Code](https://dev.to/rawveg/the-sacred-code-8b0)
 - [The Algorithm Will See You Now: Malaysia Bets on AI-Powered Banking](https://smarterarticles.co.uk/the-algorithm-will-see-you-now-malaysia-bets-on-ai-powered-banking?pk_campaign=rss-feed)
-- [The Human Margin](https://dev.to/rawveg/the-human-margin-409h)
 <!-- BLOG-POST-LIST:END -->
