@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Black Box No More](https://dev.to/rawveg/black-box-no-more-4jmk)
 - [Your Cloud Is Drying My River: The Real Cost of AI](https://smarterarticles.co.uk/your-cloud-is-drying-my-river-the-real-cost-of-ai?pk_campaign=rss-feed)
 - [Who Hired the Machine?](https://dev.to/rawveg/who-hired-the-machine-33ae)
 - [AI Surveillance Fails: Innocent People Pay the Price](https://smarterarticles.co.uk/ai-surveillance-fails-innocent-people-pay-the-price?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Digital Tools, Analogue Barriers: How Open Physics AI Preserves Inequality](https://smarterarticles.co.uk/digital-tools-analogue-barriers-how-open-physics-ai-preserves-inequality?pk_campaign=rss-feed)
 - [The Robot That Learned to See](https://dev.to/rawveg/the-robot-that-learned-to-see-3bck)
 - [The Guardrails We Need: How Vibe Coding Threatens Software Security](https://smarterarticles.co.uk/the-guardrails-we-need-how-vibe-coding-threatens-software-security?pk_campaign=rss-feed)
-- [The Sacred Code](https://dev.to/rawveg/the-sacred-code-8b0)
 <!-- BLOG-POST-LIST:END -->
