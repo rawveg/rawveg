@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Great Skill Shift](https://dev.to/rawveg/the-great-skill-shift-2e7k)
 - [When AI Says No: The Rise of Shutdown-Resistant Systems](https://smarterarticles.co.uk/when-ai-says-no-the-rise-of-shutdown-resistant-systems?pk_campaign=rss-feed)
 - [Black Box No More](https://dev.to/rawveg/black-box-no-more-4jmk)
 - [Your Cloud Is Drying My River: The Real Cost of AI](https://smarterarticles.co.uk/your-cloud-is-drying-my-river-the-real-cost-of-ai?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Elevation Thesis: Why Democratising Code Will Not Kill Craft](https://smarterarticles.co.uk/the-elevation-thesis-why-democratising-code-will-not-kill-craft?pk_campaign=rss-feed)
 - [Perfect Sims, Imperfect Worlds](https://dev.to/rawveg/perfect-sims-imperfect-worlds-1d7n)
 - [Digital Tools, Analogue Barriers: How Open Physics AI Preserves Inequality](https://smarterarticles.co.uk/digital-tools-analogue-barriers-how-open-physics-ai-preserves-inequality?pk_campaign=rss-feed)
-- [The Robot That Learned to See](https://dev.to/rawveg/the-robot-that-learned-to-see-3bck)
 <!-- BLOG-POST-LIST:END -->
