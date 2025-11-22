@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When Machines Make the Call](https://dev.to/rawveg/when-machines-make-the-call-48ip)
 - [When Investment Becomes Revenue: The Closed Loop AI Economy](https://smarterarticles.co.uk/when-investment-becomes-revenue-the-closed-loop-ai-economy?pk_campaign=rss-feed)
 - [The Great Skill Shift](https://dev.to/rawveg/the-great-skill-shift-2e7k)
 - [When AI Says No: The Rise of Shutdown-Resistant Systems](https://smarterarticles.co.uk/when-ai-says-no-the-rise-of-shutdown-resistant-systems?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When AI Outpaces the Rulebook](https://dev.to/rawveg/when-ai-outpaces-the-rulebook-2hib)
 - [The Ghost Workers](https://dev.to/rawveg/the-ghost-workers-60m)
 - [The Elevation Thesis: Why Democratising Code Will Not Kill Craft](https://smarterarticles.co.uk/the-elevation-thesis-why-democratising-code-will-not-kill-craft?pk_campaign=rss-feed)
-- [Perfect Sims, Imperfect Worlds](https://dev.to/rawveg/perfect-sims-imperfect-worlds-1d7n)
 <!-- BLOG-POST-LIST:END -->
