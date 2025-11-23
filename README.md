@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Video AI Hate Problem: Why Safety Takes Backseat to Speed](https://smarterarticles.co.uk/the-video-ai-hate-problem-why-safety-takes-backseat-to-speed?pk_campaign=rss-feed)
 - [When Machines Make the Call](https://dev.to/rawveg/when-machines-make-the-call-48ip)
 - [When Investment Becomes Revenue: The Closed Loop AI Economy](https://smarterarticles.co.uk/when-investment-becomes-revenue-the-closed-loop-ai-economy?pk_campaign=rss-feed)
 - [The Great Skill Shift](https://dev.to/rawveg/the-great-skill-shift-2e7k)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Retail AI Illusion: Your Shopping Choices Are Choreographed](https://smarterarticles.co.uk/the-retail-ai-illusion-your-shopping-choices-are-choreographed?pk_campaign=rss-feed)
 - [When AI Outpaces the Rulebook](https://dev.to/rawveg/when-ai-outpaces-the-rulebook-2hib)
 - [The Ghost Workers](https://dev.to/rawveg/the-ghost-workers-60m)
-- [The Elevation Thesis: Why Democratising Code Will Not Kill Craft](https://smarterarticles.co.uk/the-elevation-thesis-why-democratising-code-will-not-kill-craft?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
