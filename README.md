@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When Tech Hubs Fail Ethics: How Shillong Built Accountable AI](https://smarterarticles.co.uk/when-tech-hubs-fail-ethics-how-shillong-built-accountable-ai?pk_campaign=rss-feed)
 - [The Rebirth of the Artist](https://dev.to/rawveg/the-rebirth-of-the-artist-213b)
 - [When Machines Write: Can We Trust AI-Generated Content](https://smarterarticles.co.uk/when-machines-write-can-we-trust-ai-generated-content?pk_campaign=rss-feed)
 - [The New Digital Empire](https://dev.to/rawveg/the-new-digital-empire-3lnm)
@@ -33,6 +34,5 @@ Here are some ideas to get you started:
 - [The Digital Catwalk](https://dev.to/rawveg/the-digital-catwalk-5dfi)
 - [The Invisible Workforce: When Employees Become Their Own IT Department](https://smarterarticles.co.uk/the-invisible-workforce-when-employees-become-their-own-it-department?pk_campaign=rss-feed)
 - [The Voice Revolution](https://dev.to/rawveg/the-voice-revolution-498)
-- [Stop Making AI Learn From Us: Why Preference Training Backfires](https://smarterarticles.co.uk/stop-making-ai-learn-from-us-why-preference-training-backfires?pk_campaign=rss-feed)
 - [When AI Outpaces the Rulebook](https://dev.to/rawveg/when-ai-outpaces-the-rulebook-2hib)
 <!-- BLOG-POST-LIST:END -->
