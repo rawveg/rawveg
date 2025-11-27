@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Hiring for AI Ethics: What Creative Teams Need Now](https://smarterarticles.co.uk/hiring-for-ai-ethics-what-creative-teams-need-now?pk_campaign=rss-feed)
 - [The Innovation Paradox](https://dev.to/rawveg/the-innovation-paradox-46op)
 - [The Adoption Problem: Why Watermarks and Signatures Will Not Save Us](https://smarterarticles.co.uk/the-adoption-problem-why-watermarks-and-signatures-will-not-save-us?pk_campaign=rss-feed)
 - [The Smart Home Uprising](https://dev.to/rawveg/the-smart-home-uprising-2gna)
@@ -33,6 +34,5 @@ Here are some ideas to get you started:
 - [The Crystal Ball Dilemma](https://dev.to/rawveg/the-crystal-ball-dilemma-1e96)
 - [The AI Value Paradox: When Breakthroughs Don&#39;t Translate to Progress](https://smarterarticles.co.uk/the-ai-value-paradox-when-breakthroughs-dont-translate-to-progress?pk_campaign=rss-feed)
 - [The Smart Signal Revolution](https://dev.to/rawveg/the-smart-signal-revolution-ch5)
-- [When 20 Watts Beats 20 Megawatts: Rethinking Computer Design](https://smarterarticles.co.uk/when-20-watts-beats-20-megawatts-rethinking-computer-design?pk_campaign=rss-feed)
 - [The Digital Catwalk](https://dev.to/rawveg/the-digital-catwalk-5dfi)
 <!-- BLOG-POST-LIST:END -->
