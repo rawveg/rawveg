@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Curated Desires](https://dev.to/rawveg/curated-desires-5e96)
 - [AI Lies in Court: Can Lawyers Verify What Systems Invent](https://smarterarticles.co.uk/ai-lies-in-court-can-lawyers-verify-what-systems-invent?pk_campaign=rss-feed)
 - [The Consent Paradox](https://dev.to/rawveg/the-consent-paradox-2oh7)
 - [Hiring for AI Ethics: What Creative Teams Need Now](https://smarterarticles.co.uk/hiring-for-ai-ethics-what-creative-teams-need-now?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Who Hired the Machine?](https://dev.to/rawveg/who-hired-the-machine-33ae)
 - [AI Surveillance Fails: Innocent People Pay the Price](https://smarterarticles.co.uk/ai-surveillance-fails-innocent-people-pay-the-price?pk_campaign=rss-feed)
 - [The Crystal Ball Dilemma](https://dev.to/rawveg/the-crystal-ball-dilemma-1e96)
-- [The Smart Signal Revolution](https://dev.to/rawveg/the-smart-signal-revolution-ch5)
 <!-- BLOG-POST-LIST:END -->
