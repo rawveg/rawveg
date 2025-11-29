@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When AI Devours the News: Who Pays for Truth](https://smarterarticles.co.uk/when-ai-devours-the-news-who-pays-for-truth?pk_campaign=rss-feed)
 - [Curated Desires](https://dev.to/rawveg/curated-desires-5e96)
 - [AI Lies in Court: Can Lawyers Verify What Systems Invent](https://smarterarticles.co.uk/ai-lies-in-court-can-lawyers-verify-what-systems-invent?pk_campaign=rss-feed)
 - [The Consent Paradox](https://dev.to/rawveg/the-consent-paradox-2oh7)
@@ -33,6 +34,5 @@ Here are some ideas to get you started:
 - [When AI Says No: The Rise of Shutdown-Resistant Systems](https://smarterarticles.co.uk/when-ai-says-no-the-rise-of-shutdown-resistant-systems?pk_campaign=rss-feed)
 - [Your Cloud Is Drying My River: The Real Cost of AI](https://smarterarticles.co.uk/your-cloud-is-drying-my-river-the-real-cost-of-ai?pk_campaign=rss-feed)
 - [Who Hired the Machine?](https://dev.to/rawveg/who-hired-the-machine-33ae)
-- [AI Surveillance Fails: Innocent People Pay the Price](https://smarterarticles.co.uk/ai-surveillance-fails-innocent-people-pay-the-price?pk_campaign=rss-feed)
 - [The Crystal Ball Dilemma](https://dev.to/rawveg/the-crystal-ball-dilemma-1e96)
 <!-- BLOG-POST-LIST:END -->
