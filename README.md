@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The New Literacy Divide](https://dev.to/rawveg/the-new-literacy-divide-1m9o)
 - [AI Presenters Fool Everyone: The End of Seeing Is Believing](https://smarterarticles.co.uk/ai-presenters-fool-everyone-the-end-of-seeing-is-believing?pk_campaign=rss-feed)
 - [The Great Retraining](https://dev.to/rawveg/the-great-retraining-jp)
 - [When AI Devours the News: Who Pays for Truth](https://smarterarticles.co.uk/when-ai-devours-the-news-who-pays-for-truth?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Investment Becomes Revenue: The Closed Loop AI Economy](https://smarterarticles.co.uk/when-investment-becomes-revenue-the-closed-loop-ai-economy?pk_campaign=rss-feed)
 - [The Great Skill Shift](https://dev.to/rawveg/the-great-skill-shift-2e7k)
 - [When AI Says No: The Rise of Shutdown-Resistant Systems](https://smarterarticles.co.uk/when-ai-says-no-the-rise-of-shutdown-resistant-systems?pk_campaign=rss-feed)
-- [Who Hired the Machine?](https://dev.to/rawveg/who-hired-the-machine-33ae)
 <!-- BLOG-POST-LIST:END -->
