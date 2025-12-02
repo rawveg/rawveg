@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Great Equaliser](https://dev.to/rawveg/the-great-equaliser-20em)
 - [Sovereignty Costs Trillions: The True Price of AI Independence](https://smarterarticles.co.uk/sovereignty-costs-trillions-the-true-price-of-ai-independence?pk_campaign=rss-feed)
 - [The Privacy Paradox](https://dev.to/rawveg/the-privacy-paradox-1nk7)
 - [The Self-Priming Problem in AI: Language Models Rehearsing While They Reason](https://smarterarticles.co.uk/the-self-priming-problem-in-ai-language-models-rehearsing-while-they-reason?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Machines Write: Can We Trust AI-Generated Content](https://smarterarticles.co.uk/when-machines-write-can-we-trust-ai-generated-content?pk_campaign=rss-feed)
 - [The New Digital Empire](https://dev.to/rawveg/the-new-digital-empire-3lnm)
 - [The Video AI Hate Problem: Why Safety Takes Backseat to Speed](https://smarterarticles.co.uk/the-video-ai-hate-problem-why-safety-takes-backseat-to-speed?pk_campaign=rss-feed)
-- [When Machines Make the Call](https://dev.to/rawveg/when-machines-make-the-call-48ip)
 <!-- BLOG-POST-LIST:END -->
