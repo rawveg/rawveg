@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Will Buy Your Groceries: But Someone Else Profits](https://smarterarticles.co.uk/ai-will-buy-your-groceries-but-someone-else-profits?pk_campaign=rss-feed)
 - [The Invisible Jury](https://dev.to/rawveg/the-invisible-jury-4bml)
 - [The Compulsive Mind: Inside the Emerging Crisis of AI-Use Addiction](https://smarterarticles.co.uk/the-compulsive-mind-inside-the-emerging-crisis-of-ai-use-addiction?pk_campaign=rss-feed)
 - [The Great Equaliser](https://dev.to/rawveg/the-great-equaliser-20em)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Smart Home Uprising](https://dev.to/rawveg/the-smart-home-uprising-2gna)
 - [When Tech Hubs Fail Ethics: How Shillong Built Accountable AI](https://smarterarticles.co.uk/when-tech-hubs-fail-ethics-how-shillong-built-accountable-ai?pk_campaign=rss-feed)
 - [The Rebirth of the Artist](https://dev.to/rawveg/the-rebirth-of-the-artist-213b)
-- [When Machines Write: Can We Trust AI-Generated Content](https://smarterarticles.co.uk/when-machines-write-can-we-trust-ai-generated-content?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
