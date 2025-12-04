@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The State&#39;s New Silicon Gambit](https://dev.to/rawveg/the-states-new-silicon-gambit-1jbe)
 - [AI Will Buy Your Groceries: But Someone Else Profits](https://smarterarticles.co.uk/ai-will-buy-your-groceries-but-someone-else-profits?pk_campaign=rss-feed)
 - [The Invisible Jury](https://dev.to/rawveg/the-invisible-jury-4bml)
 - [The Compulsive Mind: Inside the Emerging Crisis of AI-Use Addiction](https://smarterarticles.co.uk/the-compulsive-mind-inside-the-emerging-crisis-of-ai-use-addiction?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Adoption Problem: Why Watermarks and Signatures Will Not Save Us](https://smarterarticles.co.uk/the-adoption-problem-why-watermarks-and-signatures-will-not-save-us?pk_campaign=rss-feed)
 - [The Smart Home Uprising](https://dev.to/rawveg/the-smart-home-uprising-2gna)
 - [When Tech Hubs Fail Ethics: How Shillong Built Accountable AI](https://smarterarticles.co.uk/when-tech-hubs-fail-ethics-how-shillong-built-accountable-ai?pk_campaign=rss-feed)
-- [The Rebirth of the Artist](https://dev.to/rawveg/the-rebirth-of-the-artist-213b)
 <!-- BLOG-POST-LIST:END -->
