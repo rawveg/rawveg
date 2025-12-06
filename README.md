@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Cannot Replace Drug Researchers: But It Changes Everything](https://smarterarticles.co.uk/ai-cannot-replace-drug-researchers-but-it-changes-everything?pk_campaign=rss-feed)
 - [The End of Shopping as We Know It](https://dev.to/rawveg/the-end-of-shopping-as-we-know-it-4ck4)
 - [The £20 Billion Handshake: Backend Deals Reshaping Your Search Bar](https://smarterarticles.co.uk/the-ps20-billion-handshake-backend-deals-reshaping-your-search-bar?pk_campaign=rss-feed)
 - [The State&#39;s New Silicon Gambit](https://dev.to/rawveg/the-states-new-silicon-gambit-1jbe)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Consent Paradox](https://dev.to/rawveg/the-consent-paradox-2oh7)
 - [Hiring for AI Ethics: What Creative Teams Need Now](https://smarterarticles.co.uk/hiring-for-ai-ethics-what-creative-teams-need-now?pk_campaign=rss-feed)
 - [The Innovation Paradox](https://dev.to/rawveg/the-innovation-paradox-46op)
-- [The Adoption Problem: Why Watermarks and Signatures Will Not Save Us](https://smarterarticles.co.uk/the-adoption-problem-why-watermarks-and-signatures-will-not-save-us?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
