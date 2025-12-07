@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Surveillance Crisis: Dating Apps That Mine Your Photos](https://smarterarticles.co.uk/the-surveillance-crisis-dating-apps-that-mine-your-photos?pk_campaign=rss-feed)
 - [The Privacy Revolution in Your Pocket](https://dev.to/rawveg/the-privacy-revolution-in-your-pocket-47go)
 - [AI Cannot Replace Drug Researchers: But It Changes Everything](https://smarterarticles.co.uk/ai-cannot-replace-drug-researchers-but-it-changes-everything?pk_campaign=rss-feed)
 - [The End of Shopping as We Know It](https://dev.to/rawveg/the-end-of-shopping-as-we-know-it-4ck4)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Curated Desires](https://dev.to/rawveg/curated-desires-5e96)
 - [AI Lies in Court: Can Lawyers Verify What Systems Invent](https://smarterarticles.co.uk/ai-lies-in-court-can-lawyers-verify-what-systems-invent?pk_campaign=rss-feed)
 - [The Consent Paradox](https://dev.to/rawveg/the-consent-paradox-2oh7)
-- [Hiring for AI Ethics: What Creative Teams Need Now](https://smarterarticles.co.uk/hiring-for-ai-ethics-what-creative-teams-need-now?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
