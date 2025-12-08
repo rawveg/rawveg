@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [You Can Download AI for Free: But Running It Costs Thousands](https://smarterarticles.co.uk/you-can-download-ai-for-free-but-running-it-costs-thousands?pk_campaign=rss-feed)
 - [When Robots Care](https://dev.to/rawveg/when-robots-care-1o5g)
 - [The Surveillance Crisis: Dating Apps That Mine Your Photos](https://smarterarticles.co.uk/the-surveillance-crisis-dating-apps-that-mine-your-photos?pk_campaign=rss-feed)
 - [The Privacy Revolution in Your Pocket](https://dev.to/rawveg/the-privacy-revolution-in-your-pocket-47go)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Great Retraining](https://dev.to/rawveg/the-great-retraining-jp)
 - [When AI Devours the News: Who Pays for Truth](https://smarterarticles.co.uk/when-ai-devours-the-news-who-pays-for-truth?pk_campaign=rss-feed)
 - [Curated Desires](https://dev.to/rawveg/curated-desires-5e96)
-- [AI Lies in Court: Can Lawyers Verify What Systems Invent](https://smarterarticles.co.uk/ai-lies-in-court-can-lawyers-verify-what-systems-invent?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
