@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Kids Aren&#39;t Alright](https://dev.to/rawveg/the-kids-arent-alright-3kh7)
 - [Personalisation Kills Choice: Why AI Knows You Too Well](https://smarterarticles.co.uk/personalisation-kills-choice-why-ai-knows-you-too-well?pk_campaign=rss-feed)
 - [The Last Rung](https://dev.to/rawveg/the-last-rung-4jl4)
 - [You Can Download AI for Free: But Running It Costs Thousands](https://smarterarticles.co.uk/you-can-download-ai-for-free-but-running-it-costs-thousands?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Self-Priming Problem in AI: Language Models Rehearsing While They Reason](https://smarterarticles.co.uk/the-self-priming-problem-in-ai-language-models-rehearsing-while-they-reason?pk_campaign=rss-feed)
 - [The New Literacy Divide](https://dev.to/rawveg/the-new-literacy-divide-1m9o)
 - [AI Presenters Fool Everyone: The End of Seeing Is Believing](https://smarterarticles.co.uk/ai-presenters-fool-everyone-the-end-of-seeing-is-believing?pk_campaign=rss-feed)
-- [The Great Retraining](https://dev.to/rawveg/the-great-retraining-jp)
 <!-- BLOG-POST-LIST:END -->
