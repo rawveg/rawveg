@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Hidden Cost of Ad-Free: When Premium Subscriptions Still Sell You Something](https://smarterarticles.co.uk/the-hidden-cost-of-ad-free-when-premium-subscriptions-still-sell-you-something?pk_campaign=rss-feed)
 - [The Kids Aren&#39;t Alright](https://dev.to/rawveg/the-kids-arent-alright-3kh7)
 - [Personalisation Kills Choice: Why AI Knows You Too Well](https://smarterarticles.co.uk/personalisation-kills-choice-why-ai-knows-you-too-well?pk_campaign=rss-feed)
 - [The Last Rung](https://dev.to/rawveg/the-last-rung-4jl4)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Privacy Paradox](https://dev.to/rawveg/the-privacy-paradox-1nk7)
 - [The Self-Priming Problem in AI: Language Models Rehearsing While They Reason](https://smarterarticles.co.uk/the-self-priming-problem-in-ai-language-models-rehearsing-while-they-reason?pk_campaign=rss-feed)
 - [The New Literacy Divide](https://dev.to/rawveg/the-new-literacy-divide-1m9o)
-- [AI Presenters Fool Everyone: The End of Seeing Is Believing](https://smarterarticles.co.uk/ai-presenters-fool-everyone-the-end-of-seeing-is-believing?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
