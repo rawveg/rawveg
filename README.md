@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Trust Hack That Bankrupts Reality](https://dev.to/rawveg/the-trust-hack-that-bankrupts-reality-nn)
 - [When Simplicity Starves the Soul](https://dev.to/rawveg/when-simplicity-starves-the-soul-465c)
 - [Tech Hiring and Neurodiversity: Escaping AI Bias Into Human Prejudice](https://smarterarticles.co.uk/tech-hiring-and-neurodiversity-escaping-ai-bias-into-human-prejudice?pk_campaign=rss-feed)
 - [When AI Learns to Hack](https://dev.to/rawveg/when-ai-learns-to-hack-14eg)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Invisible Jury](https://dev.to/rawveg/the-invisible-jury-4bml)
 - [The Compulsive Mind: Inside the Emerging Crisis of AI-Use Addiction](https://smarterarticles.co.uk/the-compulsive-mind-inside-the-emerging-crisis-of-ai-use-addiction?pk_campaign=rss-feed)
 - [The Great Equaliser](https://dev.to/rawveg/the-great-equaliser-20em)
-- [Sovereignty Costs Trillions: The True Price of AI Independence](https://smarterarticles.co.uk/sovereignty-costs-trillions-the-true-price-of-ai-independence?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
