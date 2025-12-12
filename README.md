@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Courts Split on AI Training Rights](https://dev.to/rawveg/courts-split-on-ai-training-rights-4g71)
 - [Autonomous AI in Legal Limbo: The Race to Write New Rules](https://smarterarticles.co.uk/autonomous-ai-in-legal-limbo-the-race-to-write-new-rules?pk_campaign=rss-feed)
 - [The Trust Hack That Bankrupts Reality](https://dev.to/rawveg/the-trust-hack-that-bankrupts-reality-nn)
 - [When Simplicity Starves the Soul](https://dev.to/rawveg/when-simplicity-starves-the-soul-465c)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The State&#39;s New Silicon Gambit](https://dev.to/rawveg/the-states-new-silicon-gambit-1jbe)
 - [AI Will Buy Your Groceries: But Someone Else Profits](https://smarterarticles.co.uk/ai-will-buy-your-groceries-but-someone-else-profits?pk_campaign=rss-feed)
 - [The Invisible Jury](https://dev.to/rawveg/the-invisible-jury-4bml)
-- [The Compulsive Mind: Inside the Emerging Crisis of AI-Use Addiction](https://smarterarticles.co.uk/the-compulsive-mind-inside-the-emerging-crisis-of-ai-use-addiction?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
