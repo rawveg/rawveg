@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Artist Rebellion: Glaze, Lawsuits, and the Fight for Creative Control](https://smarterarticles.co.uk/the-artist-rebellion-glaze-lawsuits-and-the-fight-for-creative-control?pk_campaign=rss-feed)
 - [The Impossible Promise](https://dev.to/rawveg/the-impossible-promise-dc1)
 - [Courts Split on AI Training Rights](https://dev.to/rawveg/courts-split-on-ai-training-rights-4g71)
 - [Autonomous AI in Legal Limbo: The Race to Write New Rules](https://smarterarticles.co.uk/autonomous-ai-in-legal-limbo-the-race-to-write-new-rules?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The End of Shopping as We Know It](https://dev.to/rawveg/the-end-of-shopping-as-we-know-it-4ck4)
 - [The £20 Billion Handshake: Backend Deals Reshaping Your Search Bar](https://smarterarticles.co.uk/the-ps20-billion-handshake-backend-deals-reshaping-your-search-bar?pk_campaign=rss-feed)
 - [The State&#39;s New Silicon Gambit](https://dev.to/rawveg/the-states-new-silicon-gambit-1jbe)
-- [AI Will Buy Your Groceries: But Someone Else Profits](https://smarterarticles.co.uk/ai-will-buy-your-groceries-but-someone-else-profits?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
