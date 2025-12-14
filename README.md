@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [The Artist Rebellion: Glaze, Lawsuits, and the Fight for Creative Control](https://smarterarticles.co.uk/the-artist-rebellion-glaze-lawsuits-and-the-fight-for-creative-control-g3jc?pk_campaign=rss-feed)
+- [Event-Driven Volatility: When Autonomy Tech Days Move Markets](https://smarterarticles.co.uk/event-driven-volatility-when-autonomy-tech-days-move-markets?pk_campaign=rss-feed)
 - [When Reality Dissolves](https://dev.to/rawveg/when-reality-dissolves-5b2m)
 - [The Artist Rebellion: Glaze, Lawsuits, and the Fight for Creative Control](https://smarterarticles.co.uk/the-artist-rebellion-glaze-lawsuits-and-the-fight-for-creative-control?pk_campaign=rss-feed)
 - [The Impossible Promise](https://dev.to/rawveg/the-impossible-promise-dc1)
