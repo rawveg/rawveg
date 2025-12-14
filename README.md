@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Evolution of AI Surveillance](https://dev.to/rawveg/the-evolution-of-ai-surveillance-54ja)
 - [Event-Driven Volatility: When Autonomy Tech Days Move Markets](https://smarterarticles.co.uk/event-driven-volatility-when-autonomy-tech-days-move-markets?pk_campaign=rss-feed)
 - [When Reality Dissolves](https://dev.to/rawveg/when-reality-dissolves-5b2m)
 - [The Artist Rebellion: Glaze, Lawsuits, and the Fight for Creative Control](https://smarterarticles.co.uk/the-artist-rebellion-glaze-lawsuits-and-the-fight-for-creative-control?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Surveillance Crisis: Dating Apps That Mine Your Photos](https://smarterarticles.co.uk/the-surveillance-crisis-dating-apps-that-mine-your-photos?pk_campaign=rss-feed)
 - [The Privacy Revolution in Your Pocket](https://dev.to/rawveg/the-privacy-revolution-in-your-pocket-47go)
 - [AI Cannot Replace Drug Researchers: But It Changes Everything](https://smarterarticles.co.uk/ai-cannot-replace-drug-researchers-but-it-changes-everything?pk_campaign=rss-feed)
-- [The End of Shopping as We Know It](https://dev.to/rawveg/the-end-of-shopping-as-we-know-it-4ck4)
 <!-- BLOG-POST-LIST:END -->
