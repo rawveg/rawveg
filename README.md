@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Quiet Exodus: How AI Automation Is Hollowing Out Canadian Service Work](https://smarterarticles.co.uk/the-quiet-exodus-how-ai-automation-is-hollowing-out-canadian-service-work?pk_campaign=rss-feed)
 - [The $100 Billion Gamble](https://dev.to/rawveg/the-100-billion-gamble-50k2)
 - [Hype Versus Reality: The Uncomfortable Truth About AI Training](https://smarterarticles.co.uk/hype-versus-reality-the-uncomfortable-truth-about-ai-training?pk_campaign=rss-feed)
 - [The Evolution of AI Surveillance](https://dev.to/rawveg/the-evolution-of-ai-surveillance-54ja)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Last Rung](https://dev.to/rawveg/the-last-rung-4jl4)
 - [You Can Download AI for Free: But Running It Costs Thousands](https://smarterarticles.co.uk/you-can-download-ai-for-free-but-running-it-costs-thousands?pk_campaign=rss-feed)
 - [When Robots Care](https://dev.to/rawveg/when-robots-care-1o5g)
-- [The Surveillance Crisis: Dating Apps That Mine Your Photos](https://smarterarticles.co.uk/the-surveillance-crisis-dating-apps-that-mine-your-photos?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
