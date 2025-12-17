@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Google vs Google: How One Ecosystem Punishes Its Own Users](https://smarterarticles.co.uk/google-vs-google-how-one-ecosystem-punishes-its-own-users?pk_campaign=rss-feed)
 - [The Great Cloud Escape](https://dev.to/rawveg/the-great-cloud-escape-p41)
 - [The Quiet Exodus: How AI Automation Is Hollowing Out Canadian Service Work](https://smarterarticles.co.uk/the-quiet-exodus-how-ai-automation-is-hollowing-out-canadian-service-work?pk_campaign=rss-feed)
 - [The $100 Billion Gamble](https://dev.to/rawveg/the-100-billion-gamble-50k2)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Kids Aren&#39;t Alright](https://dev.to/rawveg/the-kids-arent-alright-3kh7)
 - [Personalisation Kills Choice: Why AI Knows You Too Well](https://smarterarticles.co.uk/personalisation-kills-choice-why-ai-knows-you-too-well?pk_campaign=rss-feed)
 - [The Last Rung](https://dev.to/rawveg/the-last-rung-4jl4)
-- [You Can Download AI for Free: But Running It Costs Thousands](https://smarterarticles.co.uk/you-can-download-ai-for-free-but-running-it-costs-thousands?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
