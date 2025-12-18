@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Last Human Frontier](https://dev.to/rawveg/the-last-human-frontier-2cn)
 - [The Future of Food: Smart Farms and Who Gets Left Behind](https://smarterarticles.co.uk/the-future-of-food-smart-farms-and-who-gets-left-behind?pk_campaign=rss-feed)
 - [The Digital Nanny](https://dev.to/rawveg/the-digital-nanny-20ib)
 - [Google vs Google: How One Ecosystem Punishes Its Own Users](https://smarterarticles.co.uk/google-vs-google-how-one-ecosystem-punishes-its-own-users?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Tech Hiring and Neurodiversity: Escaping AI Bias Into Human Prejudice](https://smarterarticles.co.uk/tech-hiring-and-neurodiversity-escaping-ai-bias-into-human-prejudice?pk_campaign=rss-feed)
 - [When AI Learns to Hack](https://dev.to/rawveg/when-ai-learns-to-hack-14eg)
 - [The Hidden Cost of Ad-Free: When Premium Subscriptions Still Sell You Something](https://smarterarticles.co.uk/the-hidden-cost-of-ad-free-when-premium-subscriptions-still-sell-you-something?pk_campaign=rss-feed)
-- [The Kids Aren&#39;t Alright](https://dev.to/rawveg/the-kids-arent-alright-3kh7)
 <!-- BLOG-POST-LIST:END -->
