@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Decoding Musk Timelines: Why Grok Ships Monthly and Cybertruck Took Years](https://smarterarticles.co.uk/decoding-musk-timelines-why-grok-ships-monthly-and-cybertruck-took-years?pk_campaign=rss-feed)
 - [The Struggle Paradox](https://dev.to/rawveg/the-struggle-paradox-5968)
 - [AI Trains on Your Art: Three Models That Could Pay You Back](https://smarterarticles.co.uk/ai-trains-on-your-art-three-models-that-could-pay-you-back?pk_campaign=rss-feed)
 - [The Last Human Frontier](https://dev.to/rawveg/the-last-human-frontier-2cn)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Autonomous AI in Legal Limbo: The Race to Write New Rules](https://smarterarticles.co.uk/autonomous-ai-in-legal-limbo-the-race-to-write-new-rules?pk_campaign=rss-feed)
 - [The Trust Hack That Bankrupts Reality](https://dev.to/rawveg/the-trust-hack-that-bankrupts-reality-nn)
 - [When Simplicity Starves the Soul](https://dev.to/rawveg/when-simplicity-starves-the-soul-465c)
-- [Tech Hiring and Neurodiversity: Escaping AI Bias Into Human Prejudice](https://smarterarticles.co.uk/tech-hiring-and-neurodiversity-escaping-ai-bias-into-human-prejudice?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
