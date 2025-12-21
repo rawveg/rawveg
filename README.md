@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When the Machine Lies](https://dev.to/rawveg/when-the-machine-lies-2fok)
 - [Creative Studios and AI: Solving the Speed vs Soul Dilemma](https://smarterarticles.co.uk/creative-studios-and-ai-solving-the-speed-vs-soul-dilemma?pk_campaign=rss-feed)
 - [The Robot Revolution](https://dev.to/rawveg/the-robot-revolution-39lf)
 - [Decoding Musk Timelines: Why Grok Ships Monthly and Cybertruck Took Years](https://smarterarticles.co.uk/decoding-musk-timelines-why-grok-ships-monthly-and-cybertruck-took-years?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Artist Rebellion: Glaze, Lawsuits, and the Fight for Creative Control](https://smarterarticles.co.uk/the-artist-rebellion-glaze-lawsuits-and-the-fight-for-creative-control?pk_campaign=rss-feed)
 - [The Impossible Promise](https://dev.to/rawveg/the-impossible-promise-dc1)
 - [Courts Split on AI Training Rights](https://dev.to/rawveg/courts-split-on-ai-training-rights-4g71)
-- [Autonomous AI in Legal Limbo: The Race to Write New Rules](https://smarterarticles.co.uk/autonomous-ai-in-legal-limbo-the-race-to-write-new-rules?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
