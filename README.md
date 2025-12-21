@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Creative Studios and AI: Solving the Speed vs Soul Dilemma](https://smarterarticles.co.uk/creative-studios-and-ai-solving-the-speed-vs-soul-dilemma?pk_campaign=rss-feed)
 - [The Robot Revolution](https://dev.to/rawveg/the-robot-revolution-39lf)
 - [Decoding Musk Timelines: Why Grok Ships Monthly and Cybertruck Took Years](https://smarterarticles.co.uk/decoding-musk-timelines-why-grok-ships-monthly-and-cybertruck-took-years?pk_campaign=rss-feed)
 - [The Struggle Paradox](https://dev.to/rawveg/the-struggle-paradox-5968)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Impossible Promise](https://dev.to/rawveg/the-impossible-promise-dc1)
 - [Courts Split on AI Training Rights](https://dev.to/rawveg/courts-split-on-ai-training-rights-4g71)
 - [Autonomous AI in Legal Limbo: The Race to Write New Rules](https://smarterarticles.co.uk/autonomous-ai-in-legal-limbo-the-race-to-write-new-rules?pk_campaign=rss-feed)
-- [The Trust Hack That Bankrupts Reality](https://dev.to/rawveg/the-trust-hack-that-bankrupts-reality-nn)
 <!-- BLOG-POST-LIST:END -->
