@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Creative Education Crisis: When AI Makes Tests Obsolete](https://smarterarticles.co.uk/the-creative-education-crisis-when-ai-makes-tests-obsolete?pk_campaign=rss-feed)
 - [When the Machine Lies](https://dev.to/rawveg/when-the-machine-lies-2fok)
 - [Creative Studios and AI: Solving the Speed vs Soul Dilemma](https://smarterarticles.co.uk/creative-studios-and-ai-solving-the-speed-vs-soul-dilemma?pk_campaign=rss-feed)
 - [The Robot Revolution](https://dev.to/rawveg/the-robot-revolution-39lf)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Reality Dissolves](https://dev.to/rawveg/when-reality-dissolves-5b2m)
 - [The Artist Rebellion: Glaze, Lawsuits, and the Fight for Creative Control](https://smarterarticles.co.uk/the-artist-rebellion-glaze-lawsuits-and-the-fight-for-creative-control?pk_campaign=rss-feed)
 - [The Impossible Promise](https://dev.to/rawveg/the-impossible-promise-dc1)
-- [Courts Split on AI Training Rights](https://dev.to/rawveg/courts-split-on-ai-training-rights-4g71)
 <!-- BLOG-POST-LIST:END -->
