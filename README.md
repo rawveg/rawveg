@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The New Power Brokers: How Political Capital Is Reshaping AI](https://smarterarticles.co.uk/the-new-power-brokers-how-political-capital-is-reshaping-ai?pk_campaign=rss-feed)
 - [Building for Everyone](https://dev.to/rawveg/building-for-everyone-55b8)
 - [The Creative Education Crisis: When AI Makes Tests Obsolete](https://smarterarticles.co.uk/the-creative-education-crisis-when-ai-makes-tests-obsolete?pk_campaign=rss-feed)
 - [When the Machine Lies](https://dev.to/rawveg/when-the-machine-lies-2fok)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Evolution of AI Surveillance](https://dev.to/rawveg/the-evolution-of-ai-surveillance-54ja)
 - [Event-Driven Volatility: When Autonomy Tech Days Move Markets](https://smarterarticles.co.uk/event-driven-volatility-when-autonomy-tech-days-move-markets?pk_campaign=rss-feed)
 - [When Reality Dissolves](https://dev.to/rawveg/when-reality-dissolves-5b2m)
-- [The Artist Rebellion: Glaze, Lawsuits, and the Fight for Creative Control](https://smarterarticles.co.uk/the-artist-rebellion-glaze-lawsuits-and-the-fight-for-creative-control?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
