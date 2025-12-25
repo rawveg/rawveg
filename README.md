@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Learning Panopticon](https://dev.to/rawveg/the-learning-panopticon-kkn)
 - [The Grassroots Revolution: Local AI Meetups Rewriting the Rules](https://smarterarticles.co.uk/the-grassroots-revolution-local-ai-meetups-rewriting-the-rules?pk_campaign=rss-feed)
 - [The Great AI Paradox](https://dev.to/rawveg/the-great-ai-paradox-2igl)
 - [Power Hungry Machines: How to Cut AI Energy Costs Without Losing Capability](https://smarterarticles.co.uk/power-hungry-machines-how-to-cut-ai-energy-costs-without-losing-capability?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Google vs Google: How One Ecosystem Punishes Its Own Users](https://smarterarticles.co.uk/google-vs-google-how-one-ecosystem-punishes-its-own-users?pk_campaign=rss-feed)
 - [The Great Cloud Escape](https://dev.to/rawveg/the-great-cloud-escape-p41)
 - [The Quiet Exodus: How AI Automation Is Hollowing Out Canadian Service Work](https://smarterarticles.co.uk/the-quiet-exodus-how-ai-automation-is-hollowing-out-canadian-service-work?pk_campaign=rss-feed)
-- [The $100 Billion Gamble](https://dev.to/rawveg/the-100-billion-gamble-50k2)
 <!-- BLOG-POST-LIST:END -->
