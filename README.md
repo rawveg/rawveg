@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Grassroots Revolution: Local AI Meetups Rewriting the Rules](https://smarterarticles.co.uk/the-grassroots-revolution-local-ai-meetups-rewriting-the-rules?pk_campaign=rss-feed)
 - [The Great AI Paradox](https://dev.to/rawveg/the-great-ai-paradox-2igl)
 - [Power Hungry Machines: How to Cut AI Energy Costs Without Losing Capability](https://smarterarticles.co.uk/power-hungry-machines-how-to-cut-ai-energy-costs-without-losing-capability?pk_campaign=rss-feed)
 - [AI Shot The Analyst &lpar;But He Did Not Shoot The Plumber&rpar;](https://dev.to/rawveg/ai-shot-the-analyst-but-he-did-not-shoot-the-plumber-24cm)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Great Cloud Escape](https://dev.to/rawveg/the-great-cloud-escape-p41)
 - [The Quiet Exodus: How AI Automation Is Hollowing Out Canadian Service Work](https://smarterarticles.co.uk/the-quiet-exodus-how-ai-automation-is-hollowing-out-canadian-service-work?pk_campaign=rss-feed)
 - [The $100 Billion Gamble](https://dev.to/rawveg/the-100-billion-gamble-50k2)
-- [Hype Versus Reality: The Uncomfortable Truth About AI Training](https://smarterarticles.co.uk/hype-versus-reality-the-uncomfortable-truth-about-ai-training?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
