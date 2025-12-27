@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Forty Percent Problem](https://dev.to/rawveg/the-forty-percent-problem-5bk0)
 - [When AI Divides Generations: Practical Strategies That Unite Teams](https://smarterarticles.co.uk/when-ai-divides-generations-practical-strategies-that-unite-teams?pk_campaign=rss-feed)
 - [The Clickless Future](https://dev.to/rawveg/the-clickless-future-29o2)
 - [Productivity Up, Expertise Down: The Uncomfortable Truth About AI Copilots](https://smarterarticles.co.uk/productivity-up-expertise-down-the-uncomfortable-truth-about-ai-copilots?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Trains on Your Art: Three Models That Could Pay You Back](https://smarterarticles.co.uk/ai-trains-on-your-art-three-models-that-could-pay-you-back?pk_campaign=rss-feed)
 - [The Last Human Frontier](https://dev.to/rawveg/the-last-human-frontier-2cn)
 - [The Future of Food: Smart Farms and Who Gets Left Behind](https://smarterarticles.co.uk/the-future-of-food-smart-farms-and-who-gets-left-behind?pk_campaign=rss-feed)
-- [The Digital Nanny](https://dev.to/rawveg/the-digital-nanny-20ib)
 <!-- BLOG-POST-LIST:END -->
