@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When AI Divides Generations: Practical Strategies That Unite Teams](https://smarterarticles.co.uk/when-ai-divides-generations-practical-strategies-that-unite-teams?pk_campaign=rss-feed)
 - [The Clickless Future](https://dev.to/rawveg/the-clickless-future-29o2)
 - [Productivity Up, Expertise Down: The Uncomfortable Truth About AI Copilots](https://smarterarticles.co.uk/productivity-up-expertise-down-the-uncomfortable-truth-about-ai-copilots?pk_campaign=rss-feed)
 - [The Learning Panopticon](https://dev.to/rawveg/the-learning-panopticon-kkn)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Last Human Frontier](https://dev.to/rawveg/the-last-human-frontier-2cn)
 - [The Future of Food: Smart Farms and Who Gets Left Behind](https://smarterarticles.co.uk/the-future-of-food-smart-farms-and-who-gets-left-behind?pk_campaign=rss-feed)
 - [The Digital Nanny](https://dev.to/rawveg/the-digital-nanny-20ib)
-- [Google vs Google: How One Ecosystem Punishes Its Own Users](https://smarterarticles.co.uk/google-vs-google-how-one-ecosystem-punishes-its-own-users?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
