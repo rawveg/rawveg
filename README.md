@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Great Contradiction](https://dev.to/rawveg/the-great-contradiction-4ba8)
 - [The AI Update Trap: Faster Models Mean Slower Business Progress](https://smarterarticles.co.uk/the-ai-update-trap-faster-models-mean-slower-business-progress?pk_campaign=rss-feed)
 - [Racing Against the Algorithm](https://dev.to/rawveg/racing-against-the-algorithm-57p1)
 - [Vibe Engineering: When Intuition Meets Discipline in Software Development](https://smarterarticles.co.uk/vibe-engineering-when-intuition-meets-discipline-in-software-development?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Creative Studios and AI: Solving the Speed vs Soul Dilemma](https://smarterarticles.co.uk/creative-studios-and-ai-solving-the-speed-vs-soul-dilemma?pk_campaign=rss-feed)
 - [The Robot Revolution](https://dev.to/rawveg/the-robot-revolution-39lf)
 - [Decoding Musk Timelines: Why Grok Ships Monthly and Cybertruck Took Years](https://smarterarticles.co.uk/decoding-musk-timelines-why-grok-ships-monthly-and-cybertruck-took-years?pk_campaign=rss-feed)
-- [The Struggle Paradox](https://dev.to/rawveg/the-struggle-paradox-5968)
 <!-- BLOG-POST-LIST:END -->
