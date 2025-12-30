@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Vibe of History](https://dev.to/rawveg/the-vibe-of-history-lm4)
 - [No Consent, No Credit, No Pay: The AI Art Governance Failure](https://smarterarticles.co.uk/no-consent-no-credit-no-pay-the-ai-art-governance-failure?pk_campaign=rss-feed)
 - [The Great Contradiction](https://dev.to/rawveg/the-great-contradiction-4ba8)
 - [The AI Update Trap: Faster Models Mean Slower Business Progress](https://smarterarticles.co.uk/the-ai-update-trap-faster-models-mean-slower-business-progress?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Creative Education Crisis: When AI Makes Tests Obsolete](https://smarterarticles.co.uk/the-creative-education-crisis-when-ai-makes-tests-obsolete?pk_campaign=rss-feed)
 - [When the Machine Lies](https://dev.to/rawveg/when-the-machine-lies-2fok)
 - [Creative Studios and AI: Solving the Speed vs Soul Dilemma](https://smarterarticles.co.uk/creative-studios-and-ai-solving-the-speed-vs-soul-dilemma?pk_campaign=rss-feed)
-- [The Robot Revolution](https://dev.to/rawveg/the-robot-revolution-39lf)
 <!-- BLOG-POST-LIST:END -->
