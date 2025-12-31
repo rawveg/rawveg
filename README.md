@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When AI Remembers Everything](https://dev.to/rawveg/when-ai-remembers-everything-4pkl)
 - [AI Trades Your Money: What Retail Investors Need to Know Now](https://smarterarticles.co.uk/ai-trades-your-money-what-retail-investors-need-to-know-now?pk_campaign=rss-feed)
 - [The Vibe of History](https://dev.to/rawveg/the-vibe-of-history-lm4)
 - [No Consent, No Credit, No Pay: The AI Art Governance Failure](https://smarterarticles.co.uk/no-consent-no-credit-no-pay-the-ai-art-governance-failure?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The New Power Brokers: How Political Capital Is Reshaping AI](https://smarterarticles.co.uk/the-new-power-brokers-how-political-capital-is-reshaping-ai?pk_campaign=rss-feed)
 - [Building for Everyone](https://dev.to/rawveg/building-for-everyone-55b8)
 - [The Creative Education Crisis: When AI Makes Tests Obsolete](https://smarterarticles.co.uk/the-creative-education-crisis-when-ai-makes-tests-obsolete?pk_campaign=rss-feed)
-- [When the Machine Lies](https://dev.to/rawveg/when-the-machine-lies-2fok)
 <!-- BLOG-POST-LIST:END -->
