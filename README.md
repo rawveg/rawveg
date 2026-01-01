@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The New Reality](https://dev.to/rawveg/the-new-reality-4icn)
 - [Enterprise AI Without Guardrails: How Organizations Improvise Governance](https://smarterarticles.co.uk/enterprise-ai-without-guardrails-how-organizations-improvise-governance?pk_campaign=rss-feed)
 - [When AI Remembers Everything](https://dev.to/rawveg/when-ai-remembers-everything-4pkl)
 - [AI Trades Your Money: What Retail Investors Need to Know Now](https://smarterarticles.co.uk/ai-trades-your-money-what-retail-investors-need-to-know-now?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Power Hungry Machines: How to Cut AI Energy Costs Without Losing Capability](https://smarterarticles.co.uk/power-hungry-machines-how-to-cut-ai-energy-costs-without-losing-capability?pk_campaign=rss-feed)
 - [AI Shot The Analyst &lpar;But He Did Not Shoot The Plumber&rpar;](https://dev.to/rawveg/ai-shot-the-analyst-but-he-did-not-shoot-the-plumber-24cm)
 - [The New Power Brokers: How Political Capital Is Reshaping AI](https://smarterarticles.co.uk/the-new-power-brokers-how-political-capital-is-reshaping-ai?pk_campaign=rss-feed)
-- [Building for Everyone](https://dev.to/rawveg/building-for-everyone-55b8)
 <!-- BLOG-POST-LIST:END -->
