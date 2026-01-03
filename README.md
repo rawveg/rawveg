@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Fake Faces We Trust More: The Celebrity Deepfake Crisis](https://smarterarticles.co.uk/fake-faces-we-trust-more-the-celebrity-deepfake-crisis?pk_campaign=rss-feed)
 - [When Your Address Becomes Data](https://dev.to/rawveg/when-your-address-becomes-data-2o4d)
 - [AI Hallucinations in Enterprise: How Confession Signals Reduce Compliance Risk](https://smarterarticles.co.uk/ai-hallucinations-in-enterprise-how-confession-signals-reduce-compliance-risk?pk_campaign=rss-feed)
 - [The New Reality](https://dev.to/rawveg/the-new-reality-4icn)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Learning Panopticon](https://dev.to/rawveg/the-learning-panopticon-kkn)
 - [The Grassroots Revolution: Local AI Meetups Rewriting the Rules](https://smarterarticles.co.uk/the-grassroots-revolution-local-ai-meetups-rewriting-the-rules?pk_campaign=rss-feed)
 - [The Great AI Paradox](https://dev.to/rawveg/the-great-ai-paradox-2igl)
-- [Power Hungry Machines: How to Cut AI Energy Costs Without Losing Capability](https://smarterarticles.co.uk/power-hungry-machines-how-to-cut-ai-energy-costs-without-losing-capability?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
