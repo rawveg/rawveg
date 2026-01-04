@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Right To Vanish](https://dev.to/rawveg/the-right-to-vanish-5d62)
 - [AI Personalisation Reshapes Fashion: Why Trust Becomes the Deciding Factor](https://smarterarticles.co.uk/ai-personalisation-reshapes-fashion-why-trust-becomes-the-deciding-factor?pk_campaign=rss-feed)
 - [The Invisible Hand](https://dev.to/rawveg/the-invisible-hand-4pdc)
 - [Fake Faces We Trust More: The Celebrity Deepfake Crisis](https://smarterarticles.co.uk/fake-faces-we-trust-more-the-celebrity-deepfake-crisis?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When AI Divides Generations: Practical Strategies That Unite Teams](https://smarterarticles.co.uk/when-ai-divides-generations-practical-strategies-that-unite-teams?pk_campaign=rss-feed)
 - [The Clickless Future](https://dev.to/rawveg/the-clickless-future-29o2)
 - [Productivity Up, Expertise Down: The Uncomfortable Truth About AI Copilots](https://smarterarticles.co.uk/productivity-up-expertise-down-the-uncomfortable-truth-about-ai-copilots?pk_campaign=rss-feed)
-- [The Learning Panopticon](https://dev.to/rawveg/the-learning-panopticon-kkn)
 <!-- BLOG-POST-LIST:END -->
