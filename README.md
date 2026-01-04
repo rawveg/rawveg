@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Personalisation Reshapes Fashion: Why Trust Becomes the Deciding Factor](https://smarterarticles.co.uk/ai-personalisation-reshapes-fashion-why-trust-becomes-the-deciding-factor?pk_campaign=rss-feed)
 - [The Invisible Hand](https://dev.to/rawveg/the-invisible-hand-4pdc)
 - [Fake Faces We Trust More: The Celebrity Deepfake Crisis](https://smarterarticles.co.uk/fake-faces-we-trust-more-the-celebrity-deepfake-crisis?pk_campaign=rss-feed)
 - [When Your Address Becomes Data](https://dev.to/rawveg/when-your-address-becomes-data-2o4d)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Clickless Future](https://dev.to/rawveg/the-clickless-future-29o2)
 - [Productivity Up, Expertise Down: The Uncomfortable Truth About AI Copilots](https://smarterarticles.co.uk/productivity-up-expertise-down-the-uncomfortable-truth-about-ai-copilots?pk_campaign=rss-feed)
 - [The Learning Panopticon](https://dev.to/rawveg/the-learning-panopticon-kkn)
-- [The Grassroots Revolution: Local AI Meetups Rewriting the Rules](https://smarterarticles.co.uk/the-grassroots-revolution-local-ai-meetups-rewriting-the-rules?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
