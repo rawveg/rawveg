@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Machine Will Feed You Now](https://dev.to/rawveg/the-machine-will-feed-you-now-2dfp)
 - [The Treaty of Detroit for AI: How Workers Tamed Automation Before](https://smarterarticles.co.uk/the-treaty-of-detroit-for-ai-how-workers-tamed-automation-before?pk_campaign=rss-feed)
 - [The Right To Vanish](https://dev.to/rawveg/the-right-to-vanish-5d62)
 - [AI Personalisation Reshapes Fashion: Why Trust Becomes the Deciding Factor](https://smarterarticles.co.uk/ai-personalisation-reshapes-fashion-why-trust-becomes-the-deciding-factor?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Vibe Engineering: When Intuition Meets Discipline in Software Development](https://smarterarticles.co.uk/vibe-engineering-when-intuition-meets-discipline-in-software-development?pk_campaign=rss-feed)
 - [The Forty Percent Problem](https://dev.to/rawveg/the-forty-percent-problem-5bk0)
 - [When AI Divides Generations: Practical Strategies That Unite Teams](https://smarterarticles.co.uk/when-ai-divides-generations-practical-strategies-that-unite-teams?pk_campaign=rss-feed)
-- [The Clickless Future](https://dev.to/rawveg/the-clickless-future-29o2)
 <!-- BLOG-POST-LIST:END -->
