@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Driving Moral Debate](https://dev.to/rawveg/driving-moral-debate-50mf)
 - [AI Curation Is Broken: Why Every Model Compromises Independence](https://smarterarticles.co.uk/ai-curation-is-broken-why-every-model-compromises-independence?pk_campaign=rss-feed)
 - [The Machine Will Feed You Now](https://dev.to/rawveg/the-machine-will-feed-you-now-2dfp)
 - [The Treaty of Detroit for AI: How Workers Tamed Automation Before](https://smarterarticles.co.uk/the-treaty-of-detroit-for-ai-how-workers-tamed-automation-before?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The AI Update Trap: Faster Models Mean Slower Business Progress](https://smarterarticles.co.uk/the-ai-update-trap-faster-models-mean-slower-business-progress?pk_campaign=rss-feed)
 - [Racing Against the Algorithm](https://dev.to/rawveg/racing-against-the-algorithm-57p1)
 - [Vibe Engineering: When Intuition Meets Discipline in Software Development](https://smarterarticles.co.uk/vibe-engineering-when-intuition-meets-discipline-in-software-development?pk_campaign=rss-feed)
-- [The Forty Percent Problem](https://dev.to/rawveg/the-forty-percent-problem-5bk0)
 <!-- BLOG-POST-LIST:END -->
