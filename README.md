@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Metadata Crisis: How Platforms Tag What Users Ignore](https://smarterarticles.co.uk/the-metadata-crisis-how-platforms-tag-what-users-ignore?pk_campaign=rss-feed)
 - [Driving Moral Debate](https://dev.to/rawveg/driving-moral-debate-50mf)
 - [AI Curation Is Broken: Why Every Model Compromises Independence](https://smarterarticles.co.uk/ai-curation-is-broken-why-every-model-compromises-independence?pk_campaign=rss-feed)
 - [The Machine Will Feed You Now](https://dev.to/rawveg/the-machine-will-feed-you-now-2dfp)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Great Contradiction](https://dev.to/rawveg/the-great-contradiction-4ba8)
 - [The AI Update Trap: Faster Models Mean Slower Business Progress](https://smarterarticles.co.uk/the-ai-update-trap-faster-models-mean-slower-business-progress?pk_campaign=rss-feed)
 - [Racing Against the Algorithm](https://dev.to/rawveg/racing-against-the-algorithm-57p1)
-- [Vibe Engineering: When Intuition Meets Discipline in Software Development](https://smarterarticles.co.uk/vibe-engineering-when-intuition-meets-discipline-in-software-development?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
