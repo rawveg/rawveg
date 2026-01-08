@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Collective Canvas](https://dev.to/rawveg/the-collective-canvas-47cf)
 - [Seeing Everything, Knowing Nothing: How Privacy Tech Reads Trends](https://smarterarticles.co.uk/seeing-everything-knowing-nothing-how-privacy-tech-reads-trends?pk_campaign=rss-feed)
 - [The Real Cost of Vibe Coding](https://dev.to/rawveg/the-real-cost-of-vibe-coding-5h1m)
 - [The Metadata Crisis: How Platforms Tag What Users Ignore](https://smarterarticles.co.uk/the-metadata-crisis-how-platforms-tag-what-users-ignore?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Trades Your Money: What Retail Investors Need to Know Now](https://smarterarticles.co.uk/ai-trades-your-money-what-retail-investors-need-to-know-now?pk_campaign=rss-feed)
 - [The Vibe of History](https://dev.to/rawveg/the-vibe-of-history-lm4)
 - [No Consent, No Credit, No Pay: The AI Art Governance Failure](https://smarterarticles.co.uk/no-consent-no-credit-no-pay-the-ai-art-governance-failure?pk_campaign=rss-feed)
-- [The Great Contradiction](https://dev.to/rawveg/the-great-contradiction-4ba8)
 <!-- BLOG-POST-LIST:END -->
