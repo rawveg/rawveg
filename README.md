@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Data Noise as Protest: Why Click Pollution Cannot Save Us](https://smarterarticles.co.uk/data-noise-as-protest-why-click-pollution-cannot-save-us?pk_campaign=rss-feed)
 - [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3k38)
 - [The Collective Canvas](https://dev.to/rawveg/the-collective-canvas-47cf)
 - [Seeing Everything, Knowing Nothing: How Privacy Tech Reads Trends](https://smarterarticles.co.uk/seeing-everything-knowing-nothing-how-privacy-tech-reads-trends?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Enterprise AI Without Guardrails: How Organizations Improvise Governance](https://smarterarticles.co.uk/enterprise-ai-without-guardrails-how-organizations-improvise-governance?pk_campaign=rss-feed)
 - [When AI Remembers Everything](https://dev.to/rawveg/when-ai-remembers-everything-4pkl)
 - [AI Trades Your Money: What Retail Investors Need to Know Now](https://smarterarticles.co.uk/ai-trades-your-money-what-retail-investors-need-to-know-now?pk_campaign=rss-feed)
-- [The Vibe of History](https://dev.to/rawveg/the-vibe-of-history-lm4)
 <!-- BLOG-POST-LIST:END -->
