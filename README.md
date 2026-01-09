@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Memory Problem](https://dev.to/rawveg/the-memory-problem-2i77)
 - [Data Noise as Protest: Why Click Pollution Cannot Save Us](https://smarterarticles.co.uk/data-noise-as-protest-why-click-pollution-cannot-save-us?pk_campaign=rss-feed)
 - [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3k38)
 - [The Collective Canvas](https://dev.to/rawveg/the-collective-canvas-47cf)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The New Reality](https://dev.to/rawveg/the-new-reality-4icn)
 - [Enterprise AI Without Guardrails: How Organizations Improvise Governance](https://smarterarticles.co.uk/enterprise-ai-without-guardrails-how-organizations-improvise-governance?pk_campaign=rss-feed)
 - [When AI Remembers Everything](https://dev.to/rawveg/when-ai-remembers-everything-4pkl)
-- [AI Trades Your Money: What Retail Investors Need to Know Now](https://smarterarticles.co.uk/ai-trades-your-money-what-retail-investors-need-to-know-now?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
