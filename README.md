@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Cosmic Junkyard](https://dev.to/rawveg/the-cosmic-junkyard-6mo)
 - [Interoperability or Isolation: The Standards Battle Shaping Social Media](https://smarterarticles.co.uk/interoperability-or-isolation-the-standards-battle-shaping-social-media?pk_campaign=rss-feed)
 - [The Memory Problem](https://dev.to/rawveg/the-memory-problem-2i77)
 - [Data Noise as Protest: Why Click Pollution Cannot Save Us](https://smarterarticles.co.uk/data-noise-as-protest-why-click-pollution-cannot-save-us?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Your Address Becomes Data](https://dev.to/rawveg/when-your-address-becomes-data-2o4d)
 - [AI Hallucinations in Enterprise: How Confession Signals Reduce Compliance Risk](https://smarterarticles.co.uk/ai-hallucinations-in-enterprise-how-confession-signals-reduce-compliance-risk?pk_campaign=rss-feed)
 - [The New Reality](https://dev.to/rawveg/the-new-reality-4icn)
-- [Enterprise AI Without Guardrails: How Organizations Improvise Governance](https://smarterarticles.co.uk/enterprise-ai-without-guardrails-how-organizations-improvise-governance?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
