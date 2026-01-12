@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Workslop Deluge](https://dev.to/rawveg/the-workslop-deluge-2i3k)
 - [Detecting Trends Before They Break: How Weak Signals Become Strong Evidence](https://smarterarticles.co.uk/detecting-trends-before-they-break-how-weak-signals-become-strong-evidence?pk_campaign=rss-feed)
 - [The Invisible Housemate](https://dev.to/rawveg/the-invisible-housemate-4f44)
 - [The AI Coding Productivity Illusion: Why Developers Feel Faster But Deliver Slower](https://smarterarticles.co.uk/the-ai-coding-productivity-illusion-why-developers-feel-faster-but-deliver?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Right To Vanish](https://dev.to/rawveg/the-right-to-vanish-5d62)
 - [AI Personalisation Reshapes Fashion: Why Trust Becomes the Deciding Factor](https://smarterarticles.co.uk/ai-personalisation-reshapes-fashion-why-trust-becomes-the-deciding-factor?pk_campaign=rss-feed)
 - [The Invisible Hand](https://dev.to/rawveg/the-invisible-hand-4pdc)
-- [Fake Faces We Trust More: The Celebrity Deepfake Crisis](https://smarterarticles.co.uk/fake-faces-we-trust-more-the-celebrity-deepfake-crisis?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
