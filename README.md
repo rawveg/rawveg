@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Last Privacy Frontier](https://dev.to/rawveg/the-last-privacy-frontier-242a)
 - [Balancing Fidelity, Privacy, and Bias: The Synthetic Data Dilemma](https://smarterarticles.co.uk/balancing-fidelity-privacy-and-bias-the-synthetic-data-dilemma?pk_campaign=rss-feed)
 - [The Workslop Deluge](https://dev.to/rawveg/the-workslop-deluge-2i3k)
 - [Detecting Trends Before They Break: How Weak Signals Become Strong Evidence](https://smarterarticles.co.uk/detecting-trends-before-they-break-how-weak-signals-become-strong-evidence?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Machine Will Feed You Now](https://dev.to/rawveg/the-machine-will-feed-you-now-2dfp)
 - [The Treaty of Detroit for AI: How Workers Tamed Automation Before](https://smarterarticles.co.uk/the-treaty-of-detroit-for-ai-how-workers-tamed-automation-before?pk_campaign=rss-feed)
 - [The Right To Vanish](https://dev.to/rawveg/the-right-to-vanish-5d62)
-- [AI Personalisation Reshapes Fashion: Why Trust Becomes the Deciding Factor](https://smarterarticles.co.uk/ai-personalisation-reshapes-fashion-why-trust-becomes-the-deciding-factor?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
