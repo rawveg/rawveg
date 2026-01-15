@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Tiny Revolution](https://dev.to/rawveg/the-tiny-revolution-3436)
 - [Western AI Rules for Everyone: The Hidden Cost to Developing Nations](https://smarterarticles.co.uk/western-ai-rules-for-everyone-the-hidden-cost-to-developing-nations?pk_campaign=rss-feed)
 - [The AI Smart Home Dilemma](https://dev.to/rawveg/the-ai-smart-home-dilemma-3ofh)
 - [The Brain Metaphor Trap: Why Silicon Should Not Mimic Neurons](https://smarterarticles.co.uk/the-brain-metaphor-trap-why-silicon-should-not-mimic-neurons?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Real Cost of Vibe Coding](https://dev.to/rawveg/the-real-cost-of-vibe-coding-5h1m)
 - [The Metadata Crisis: How Platforms Tag What Users Ignore](https://smarterarticles.co.uk/the-metadata-crisis-how-platforms-tag-what-users-ignore?pk_campaign=rss-feed)
 - [Driving Moral Debate](https://dev.to/rawveg/driving-moral-debate-50mf)
-- [AI Curation Is Broken: Why Every Model Compromises Independence](https://smarterarticles.co.uk/ai-curation-is-broken-why-every-model-compromises-independence?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
