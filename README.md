@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Western AI Rules for Everyone: The Hidden Cost to Developing Nations](https://smarterarticles.co.uk/western-ai-rules-for-everyone-the-hidden-cost-to-developing-nations?pk_campaign=rss-feed)
 - [The AI Smart Home Dilemma](https://dev.to/rawveg/the-ai-smart-home-dilemma-3ofh)
 - [The Brain Metaphor Trap: Why Silicon Should Not Mimic Neurons](https://smarterarticles.co.uk/the-brain-metaphor-trap-why-silicon-should-not-mimic-neurons?pk_campaign=rss-feed)
 - [The Last Privacy Frontier](https://dev.to/rawveg/the-last-privacy-frontier-242a)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Metadata Crisis: How Platforms Tag What Users Ignore](https://smarterarticles.co.uk/the-metadata-crisis-how-platforms-tag-what-users-ignore?pk_campaign=rss-feed)
 - [Driving Moral Debate](https://dev.to/rawveg/driving-moral-debate-50mf)
 - [AI Curation Is Broken: Why Every Model Compromises Independence](https://smarterarticles.co.uk/ai-curation-is-broken-why-every-model-compromises-independence?pk_campaign=rss-feed)
-- [The Machine Will Feed You Now](https://dev.to/rawveg/the-machine-will-feed-you-now-2dfp)
 <!-- BLOG-POST-LIST:END -->
