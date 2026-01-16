@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Transparency Theatre: Why Platform Reports Obscure More Than They Reveal](https://smarterarticles.co.uk/transparency-theatre-why-platform-reports-obscure-more-than-they-reveal?pk_campaign=rss-feed)
 - [The Tiny Revolution](https://dev.to/rawveg/the-tiny-revolution-3436)
 - [Western AI Rules for Everyone: The Hidden Cost to Developing Nations](https://smarterarticles.co.uk/western-ai-rules-for-everyone-the-hidden-cost-to-developing-nations?pk_campaign=rss-feed)
 - [The AI Smart Home Dilemma](https://dev.to/rawveg/the-ai-smart-home-dilemma-3ofh)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Seeing Everything, Knowing Nothing: How Privacy Tech Reads Trends](https://smarterarticles.co.uk/seeing-everything-knowing-nothing-how-privacy-tech-reads-trends?pk_campaign=rss-feed)
 - [The Real Cost of Vibe Coding](https://dev.to/rawveg/the-real-cost-of-vibe-coding-5h1m)
 - [The Metadata Crisis: How Platforms Tag What Users Ignore](https://smarterarticles.co.uk/the-metadata-crisis-how-platforms-tag-what-users-ignore?pk_campaign=rss-feed)
-- [Driving Moral Debate](https://dev.to/rawveg/driving-moral-debate-50mf)
 <!-- BLOG-POST-LIST:END -->
