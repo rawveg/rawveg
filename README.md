@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Travel Convenience](https://dev.to/rawveg/ai-travel-convenience-2nke)
 - [The Quiet Catastrophe: How Bad JSON Costs Enterprises Millions](https://smarterarticles.co.uk/the-quiet-catastrophe-how-bad-json-costs-enterprises-millions?pk_campaign=rss-feed)
 - [The Microservice Mind](https://dev.to/rawveg/the-microservice-mind-3j3o)
 - [Transparency Theatre: Why Platform Reports Obscure More Than They Reveal](https://smarterarticles.co.uk/transparency-theatre-why-platform-reports-obscure-more-than-they-reveal?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Data Noise as Protest: Why Click Pollution Cannot Save Us](https://smarterarticles.co.uk/data-noise-as-protest-why-click-pollution-cannot-save-us?pk_campaign=rss-feed)
 - [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3k38)
 - [The Collective Canvas](https://dev.to/rawveg/the-collective-canvas-47cf)
-- [Seeing Everything, Knowing Nothing: How Privacy Tech Reads Trends](https://smarterarticles.co.uk/seeing-everything-knowing-nothing-how-privacy-tech-reads-trends?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
