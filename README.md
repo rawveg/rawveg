@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Quiet Catastrophe: How Bad JSON Costs Enterprises Millions](https://smarterarticles.co.uk/the-quiet-catastrophe-how-bad-json-costs-enterprises-millions?pk_campaign=rss-feed)
 - [The Microservice Mind](https://dev.to/rawveg/the-microservice-mind-3j3o)
 - [Transparency Theatre: Why Platform Reports Obscure More Than They Reveal](https://smarterarticles.co.uk/transparency-theatre-why-platform-reports-obscure-more-than-they-reveal?pk_campaign=rss-feed)
 - [The Tiny Revolution](https://dev.to/rawveg/the-tiny-revolution-3436)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3k38)
 - [The Collective Canvas](https://dev.to/rawveg/the-collective-canvas-47cf)
 - [Seeing Everything, Knowing Nothing: How Privacy Tech Reads Trends](https://smarterarticles.co.uk/seeing-everything-knowing-nothing-how-privacy-tech-reads-trends?pk_campaign=rss-feed)
-- [The Real Cost of Vibe Coding](https://dev.to/rawveg/the-real-cost-of-vibe-coding-5h1m)
 <!-- BLOG-POST-LIST:END -->
