@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Digital Agent Frameworks](https://dev.to/rawveg/digital-agent-frameworks-c7m)
 - [The Real Cost of Bad Data: Automated Repair and Business Impact](https://smarterarticles.co.uk/the-real-cost-of-bad-data-automated-repair-and-business-impact?pk_campaign=rss-feed)
 - [AI Travel Convenience](https://dev.to/rawveg/ai-travel-convenience-2nke)
 - [The Quiet Catastrophe: How Bad JSON Costs Enterprises Millions](https://smarterarticles.co.uk/the-quiet-catastrophe-how-bad-json-costs-enterprises-millions?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Interoperability or Isolation: The Standards Battle Shaping Social Media](https://smarterarticles.co.uk/interoperability-or-isolation-the-standards-battle-shaping-social-media?pk_campaign=rss-feed)
 - [The Memory Problem](https://dev.to/rawveg/the-memory-problem-2i77)
 - [Data Noise as Protest: Why Click Pollution Cannot Save Us](https://smarterarticles.co.uk/data-noise-as-protest-why-click-pollution-cannot-save-us?pk_campaign=rss-feed)
-- [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3k38)
 <!-- BLOG-POST-LIST:END -->
