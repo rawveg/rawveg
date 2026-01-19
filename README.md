@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Default Human](https://dev.to/rawveg/the-default-human-4e06)
 - [Brilliant on Paper, Blind in Practice: Why AI Systems Fail Us](https://smarterarticles.co.uk/brilliant-on-paper-blind-in-practice-why-ai-systems-fail-us?pk_campaign=rss-feed)
 - [Digital Agent Frameworks](https://dev.to/rawveg/digital-agent-frameworks-c7m)
 - [The Real Cost of Bad Data: Automated Repair and Business Impact](https://smarterarticles.co.uk/the-real-cost-of-bad-data-automated-repair-and-business-impact?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The AI Coding Productivity Illusion: Why Developers Feel Faster But Deliver Slower](https://smarterarticles.co.uk/the-ai-coding-productivity-illusion-why-developers-feel-faster-but-deliver?pk_campaign=rss-feed)
 - [The Cosmic Junkyard](https://dev.to/rawveg/the-cosmic-junkyard-6mo)
 - [Interoperability or Isolation: The Standards Battle Shaping Social Media](https://smarterarticles.co.uk/interoperability-or-isolation-the-standards-battle-shaping-social-media?pk_campaign=rss-feed)
-- [The Memory Problem](https://dev.to/rawveg/the-memory-problem-2i77)
 <!-- BLOG-POST-LIST:END -->
