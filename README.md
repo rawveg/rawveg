@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Brilliant on Paper, Blind in Practice: Why AI Systems Fail Us](https://smarterarticles.co.uk/brilliant-on-paper-blind-in-practice-why-ai-systems-fail-us?pk_campaign=rss-feed)
 - [Digital Agent Frameworks](https://dev.to/rawveg/digital-agent-frameworks-c7m)
 - [The Real Cost of Bad Data: Automated Repair and Business Impact](https://smarterarticles.co.uk/the-real-cost-of-bad-data-automated-repair-and-business-impact?pk_campaign=rss-feed)
 - [AI Travel Convenience](https://dev.to/rawveg/ai-travel-convenience-2nke)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Cosmic Junkyard](https://dev.to/rawveg/the-cosmic-junkyard-6mo)
 - [Interoperability or Isolation: The Standards Battle Shaping Social Media](https://smarterarticles.co.uk/interoperability-or-isolation-the-standards-battle-shaping-social-media?pk_campaign=rss-feed)
 - [The Memory Problem](https://dev.to/rawveg/the-memory-problem-2i77)
-- [Data Noise as Protest: Why Click Pollution Cannot Save Us](https://smarterarticles.co.uk/data-noise-as-protest-why-click-pollution-cannot-save-us?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
