@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When AI Composes Your Calm](https://dev.to/rawveg/when-ai-composes-your-calm-47fl)
 - [AI Code Needs Oversight: What Actually Keeps Architecture Standing](https://smarterarticles.co.uk/ai-code-needs-oversight-what-actually-keeps-architecture-standing?pk_campaign=rss-feed)
 - [The Default Human](https://dev.to/rawveg/the-default-human-4e06)
 - [Brilliant on Paper, Blind in Practice: Why AI Systems Fail Us](https://smarterarticles.co.uk/brilliant-on-paper-blind-in-practice-why-ai-systems-fail-us?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Detecting Trends Before They Break: How Weak Signals Become Strong Evidence](https://smarterarticles.co.uk/detecting-trends-before-they-break-how-weak-signals-become-strong-evidence?pk_campaign=rss-feed)
 - [The Invisible Housemate](https://dev.to/rawveg/the-invisible-housemate-4f44)
 - [The AI Coding Productivity Illusion: Why Developers Feel Faster But Deliver Slower](https://smarterarticles.co.uk/the-ai-coding-productivity-illusion-why-developers-feel-faster-but-deliver?pk_campaign=rss-feed)
-- [The Cosmic Junkyard](https://dev.to/rawveg/the-cosmic-junkyard-6mo)
 <!-- BLOG-POST-LIST:END -->
