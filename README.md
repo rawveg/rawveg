@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Identity Loophole: How AI Builds Stars From Stolen Styles](https://smarterarticles.co.uk/the-identity-loophole-how-ai-builds-stars-from-stolen-styles?pk_campaign=rss-feed)
 - [The One-Word Catastrophe](https://dev.to/rawveg/the-one-word-catastrophe-1gf9)
 - [Vibe Coding Threatens Journalism: Why Newsrooms Need Governance Now](https://smarterarticles.co.uk/vibe-coding-threatens-journalism-why-newsrooms-need-governance-now?pk_campaign=rss-feed)
 - [When AI Composes Your Calm](https://dev.to/rawveg/when-ai-composes-your-calm-47fl)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Last Privacy Frontier](https://dev.to/rawveg/the-last-privacy-frontier-242a)
 - [Balancing Fidelity, Privacy, and Bias: The Synthetic Data Dilemma](https://smarterarticles.co.uk/balancing-fidelity-privacy-and-bias-the-synthetic-data-dilemma?pk_campaign=rss-feed)
 - [The Workslop Deluge](https://dev.to/rawveg/the-workslop-deluge-2i3k)
-- [Detecting Trends Before They Break: How Weak Signals Become Strong Evidence](https://smarterarticles.co.uk/detecting-trends-before-they-break-how-weak-signals-become-strong-evidence?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
