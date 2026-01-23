@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Disappearing Blockchain: Crypto&#39;s Greatest Success](https://smarterarticles.co.uk/the-disappearing-blockchain-cryptos-greatest-success?pk_campaign=rss-feed)
 - [The Gaslighting Machine](https://dev.to/rawveg/the-gaslighting-machine-lij)
 - [The Identity Loophole: How AI Builds Stars From Stolen Styles](https://smarterarticles.co.uk/the-identity-loophole-how-ai-builds-stars-from-stolen-styles?pk_campaign=rss-feed)
 - [The One-Word Catastrophe](https://dev.to/rawveg/the-one-word-catastrophe-1gf9)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The AI Smart Home Dilemma](https://dev.to/rawveg/the-ai-smart-home-dilemma-3ofh)
 - [The Brain Metaphor Trap: Why Silicon Should Not Mimic Neurons](https://smarterarticles.co.uk/the-brain-metaphor-trap-why-silicon-should-not-mimic-neurons?pk_campaign=rss-feed)
 - [The Last Privacy Frontier](https://dev.to/rawveg/the-last-privacy-frontier-242a)
-- [Balancing Fidelity, Privacy, and Bias: The Synthetic Data Dilemma](https://smarterarticles.co.uk/balancing-fidelity-privacy-and-bias-the-synthetic-data-dilemma?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
