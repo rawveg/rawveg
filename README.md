@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Babysitter Club](https://dev.to/rawveg/the-babysitter-club-42jd)
 - [The Disappearing Blockchain: Crypto&#39;s Greatest Success](https://smarterarticles.co.uk/the-disappearing-blockchain-cryptos-greatest-success?pk_campaign=rss-feed)
 - [The Gaslighting Machine](https://dev.to/rawveg/the-gaslighting-machine-lij)
 - [The Identity Loophole: How AI Builds Stars From Stolen Styles](https://smarterarticles.co.uk/the-identity-loophole-how-ai-builds-stars-from-stolen-styles?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Western AI Rules for Everyone: The Hidden Cost to Developing Nations](https://smarterarticles.co.uk/western-ai-rules-for-everyone-the-hidden-cost-to-developing-nations?pk_campaign=rss-feed)
 - [The AI Smart Home Dilemma](https://dev.to/rawveg/the-ai-smart-home-dilemma-3ofh)
 - [The Brain Metaphor Trap: Why Silicon Should Not Mimic Neurons](https://smarterarticles.co.uk/the-brain-metaphor-trap-why-silicon-should-not-mimic-neurons?pk_campaign=rss-feed)
-- [The Last Privacy Frontier](https://dev.to/rawveg/the-last-privacy-frontier-242a)
 <!-- BLOG-POST-LIST:END -->
