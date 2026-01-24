@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Seeing Isn&#39;t Believing](https://dev.to/rawveg/seeing-isnt-believing-1onl)
 - [Chart Success Without Artists: AI Music and the Fragmentation of Value](https://smarterarticles.co.uk/chart-success-without-artists-ai-music-and-the-fragmentation-of-value?pk_campaign=rss-feed)
 - [The Babysitter Club](https://dev.to/rawveg/the-babysitter-club-42jd)
 - [The Disappearing Blockchain: Crypto&#39;s Greatest Success](https://smarterarticles.co.uk/the-disappearing-blockchain-cryptos-greatest-success?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Transparency Theatre: Why Platform Reports Obscure More Than They Reveal](https://smarterarticles.co.uk/transparency-theatre-why-platform-reports-obscure-more-than-they-reveal?pk_campaign=rss-feed)
 - [The Tiny Revolution](https://dev.to/rawveg/the-tiny-revolution-3436)
 - [Western AI Rules for Everyone: The Hidden Cost to Developing Nations](https://smarterarticles.co.uk/western-ai-rules-for-everyone-the-hidden-cost-to-developing-nations?pk_campaign=rss-feed)
-- [The AI Smart Home Dilemma](https://dev.to/rawveg/the-ai-smart-home-dilemma-3ofh)
 <!-- BLOG-POST-LIST:END -->
