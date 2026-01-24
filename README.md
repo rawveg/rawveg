@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Chart Success Without Artists: AI Music and the Fragmentation of Value](https://smarterarticles.co.uk/chart-success-without-artists-ai-music-and-the-fragmentation-of-value?pk_campaign=rss-feed)
 - [The Babysitter Club](https://dev.to/rawveg/the-babysitter-club-42jd)
 - [The Disappearing Blockchain: Crypto&#39;s Greatest Success](https://smarterarticles.co.uk/the-disappearing-blockchain-cryptos-greatest-success?pk_campaign=rss-feed)
 - [The Gaslighting Machine](https://dev.to/rawveg/the-gaslighting-machine-lij)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Tiny Revolution](https://dev.to/rawveg/the-tiny-revolution-3436)
 - [Western AI Rules for Everyone: The Hidden Cost to Developing Nations](https://smarterarticles.co.uk/western-ai-rules-for-everyone-the-hidden-cost-to-developing-nations?pk_campaign=rss-feed)
 - [The AI Smart Home Dilemma](https://dev.to/rawveg/the-ai-smart-home-dilemma-3ofh)
-- [The Brain Metaphor Trap: Why Silicon Should Not Mimic Neurons](https://smarterarticles.co.uk/the-brain-metaphor-trap-why-silicon-should-not-mimic-neurons?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
