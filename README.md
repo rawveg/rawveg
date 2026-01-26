@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Architecture Tax: AI Coding Assistants Demand Better Planning](https://smarterarticles.co.uk/the-architecture-tax-ai-coding-assistants-demand-better-planning?pk_campaign=rss-feed)
 - [Consent Cannot Be Optional](https://dev.to/rawveg/consent-cannot-be-optional-1p6c)
 - [AI Changes Every Job](https://dev.to/rawveg/ai-changes-every-job-3e1i)
 - [When Code Lives in Chat: The Dangers of Democratised Development](https://smarterarticles.co.uk/when-code-lives-in-chat-the-dangers-of-democratised-development?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Real Cost of Bad Data: Automated Repair and Business Impact](https://smarterarticles.co.uk/the-real-cost-of-bad-data-automated-repair-and-business-impact?pk_campaign=rss-feed)
 - [AI Travel Convenience](https://dev.to/rawveg/ai-travel-convenience-2nke)
 - [The Quiet Catastrophe: How Bad JSON Costs Enterprises Millions](https://smarterarticles.co.uk/the-quiet-catastrophe-how-bad-json-costs-enterprises-millions?pk_campaign=rss-feed)
-- [The Microservice Mind](https://dev.to/rawveg/the-microservice-mind-3j3o)
 <!-- BLOG-POST-LIST:END -->
