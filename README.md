@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [The Artist and the AI](https://dev.to/rawveg/the-artist-and-the-ai-5g8b)
 - [Open Source AI&#39;s Democratic Promise](https://dev.to/rawveg/open-source-ais-democratic-promise-1edn)
+- [The Artist and the AI](https://dev.to/rawveg/the-artist-and-the-ai-5g8b)
 - [The Architecture Tax: AI Coding Assistants Demand Better Planning](https://smarterarticles.co.uk/the-architecture-tax-ai-coding-assistants-demand-better-planning?pk_campaign=rss-feed)
 - [AI Changes Every Job](https://dev.to/rawveg/ai-changes-every-job-3e1i)
 - [Consent Cannot Be Optional](https://dev.to/rawveg/consent-cannot-be-optional-1p6c)
