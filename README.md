@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Artist and the AI](https://dev.to/rawveg/the-artist-and-the-ai-5g8b)
+- [Open Source AI&#39;s Democratic Promise](https://dev.to/rawveg/open-source-ais-democratic-promise-1edn)
 - [The Architecture Tax: AI Coding Assistants Demand Better Planning](https://smarterarticles.co.uk/the-architecture-tax-ai-coding-assistants-demand-better-planning?pk_campaign=rss-feed)
-- [Consent Cannot Be Optional](https://dev.to/rawveg/consent-cannot-be-optional-1p6c)
 - [AI Changes Every Job](https://dev.to/rawveg/ai-changes-every-job-3e1i)
+- [Consent Cannot Be Optional](https://dev.to/rawveg/consent-cannot-be-optional-1p6c)
 - [When Code Lives in Chat: The Dangers of Democratised Development](https://smarterarticles.co.uk/when-code-lives-in-chat-the-dangers-of-democratised-development?pk_campaign=rss-feed)
 - [Seeing Isn&#39;t Believing](https://dev.to/rawveg/seeing-isnt-believing-1onl)
 - [Chart Success Without Artists: AI Music and the Fragmentation of Value](https://smarterarticles.co.uk/chart-success-without-artists-ai-music-and-the-fragmentation-of-value?pk_campaign=rss-feed)
@@ -33,6 +35,4 @@ Here are some ideas to get you started:
 - [Brilliant on Paper, Blind in Practice: Why AI Systems Fail Us](https://smarterarticles.co.uk/brilliant-on-paper-blind-in-practice-why-ai-systems-fail-us?pk_campaign=rss-feed)
 - [Digital Agent Frameworks](https://dev.to/rawveg/digital-agent-frameworks-c7m)
 - [The Real Cost of Bad Data: Automated Repair and Business Impact](https://smarterarticles.co.uk/the-real-cost-of-bad-data-automated-repair-and-business-impact?pk_campaign=rss-feed)
-- [AI Travel Convenience](https://dev.to/rawveg/ai-travel-convenience-2nke)
-- [The Quiet Catastrophe: How Bad JSON Costs Enterprises Millions](https://smarterarticles.co.uk/the-quiet-catastrophe-how-bad-json-costs-enterprises-millions?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
