@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The AI Governance Crisis: Principles Everywhere, Protection Nowhere](https://smarterarticles.co.uk/the-ai-governance-crisis-principles-everywhere-protection-nowhere?pk_campaign=rss-feed)
 - [Open Source AI&#39;s Democratic Promise](https://dev.to/rawveg/open-source-ais-democratic-promise-1edn)
 - [The Artist and the AI](https://dev.to/rawveg/the-artist-and-the-ai-5g8b)
 - [The Architecture Tax: AI Coding Assistants Demand Better Planning](https://smarterarticles.co.uk/the-architecture-tax-ai-coding-assistants-demand-better-planning?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Default Human](https://dev.to/rawveg/the-default-human-4e06)
 - [Brilliant on Paper, Blind in Practice: Why AI Systems Fail Us](https://smarterarticles.co.uk/brilliant-on-paper-blind-in-practice-why-ai-systems-fail-us?pk_campaign=rss-feed)
 - [Digital Agent Frameworks](https://dev.to/rawveg/digital-agent-frameworks-c7m)
-- [The Real Cost of Bad Data: Automated Repair and Business Impact](https://smarterarticles.co.uk/the-real-cost-of-bad-data-automated-repair-and-business-impact?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
