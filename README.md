@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Vibe Coding Reckoning: When Speed Becomes Technical Debt at Scale](https://smarterarticles.co.uk/the-vibe-coding-reckoning-when-speed-becomes-technical-debt-at-scale?pk_campaign=rss-feed)
 - [The Mind in the Machine](https://dev.to/rawveg/the-mind-in-the-machine-4o6m)
 - [The AI Governance Crisis: Principles Everywhere, Protection Nowhere](https://smarterarticles.co.uk/the-ai-governance-crisis-principles-everywhere-protection-nowhere?pk_campaign=rss-feed)
 - [Open Source AI&#39;s Democratic Promise](https://dev.to/rawveg/open-source-ais-democratic-promise-1edn)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When AI Composes Your Calm](https://dev.to/rawveg/when-ai-composes-your-calm-47fl)
 - [AI Code Needs Oversight: What Actually Keeps Architecture Standing](https://smarterarticles.co.uk/ai-code-needs-oversight-what-actually-keeps-architecture-standing?pk_campaign=rss-feed)
 - [The Default Human](https://dev.to/rawveg/the-default-human-4e06)
-- [Brilliant on Paper, Blind in Practice: Why AI Systems Fail Us](https://smarterarticles.co.uk/brilliant-on-paper-blind-in-practice-why-ai-systems-fail-us?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
