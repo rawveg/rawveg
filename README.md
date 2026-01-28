@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When Safety Becomes Control](https://dev.to/rawveg/when-safety-becomes-control-1k2g)
 - [The Vibe Coding Reckoning: When Speed Becomes Technical Debt at Scale](https://smarterarticles.co.uk/the-vibe-coding-reckoning-when-speed-becomes-technical-debt-at-scale?pk_campaign=rss-feed)
 - [The Mind in the Machine](https://dev.to/rawveg/the-mind-in-the-machine-4o6m)
 - [The AI Governance Crisis: Principles Everywhere, Protection Nowhere](https://smarterarticles.co.uk/the-ai-governance-crisis-principles-everywhere-protection-nowhere?pk_campaign=rss-feed)
 - [Open Source AI&#39;s Democratic Promise](https://dev.to/rawveg/open-source-ais-democratic-promise-1edn)
 - [The Artist and the AI](https://dev.to/rawveg/the-artist-and-the-ai-5g8b)
 - [The Architecture Tax: AI Coding Assistants Demand Better Planning](https://smarterarticles.co.uk/the-architecture-tax-ai-coding-assistants-demand-better-planning?pk_campaign=rss-feed)
-- [AI Changes Every Job](https://dev.to/rawveg/ai-changes-every-job-3e1i)
 - [Consent Cannot Be Optional](https://dev.to/rawveg/consent-cannot-be-optional-1p6c)
+- [AI Changes Every Job](https://dev.to/rawveg/ai-changes-every-job-3e1i)
 - [When Code Lives in Chat: The Dangers of Democratised Development](https://smarterarticles.co.uk/when-code-lives-in-chat-the-dangers-of-democratised-development?pk_campaign=rss-feed)
 - [Seeing Isn&#39;t Believing](https://dev.to/rawveg/seeing-isnt-believing-1onl)
 - [Chart Success Without Artists: AI Music and the Fragmentation of Value](https://smarterarticles.co.uk/chart-success-without-artists-ai-music-and-the-fragmentation-of-value?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Vibe Coding Threatens Journalism: Why Newsrooms Need Governance Now](https://smarterarticles.co.uk/vibe-coding-threatens-journalism-why-newsrooms-need-governance-now?pk_campaign=rss-feed)
 - [When AI Composes Your Calm](https://dev.to/rawveg/when-ai-composes-your-calm-47fl)
 - [AI Code Needs Oversight: What Actually Keeps Architecture Standing](https://smarterarticles.co.uk/ai-code-needs-oversight-what-actually-keeps-architecture-standing?pk_campaign=rss-feed)
-- [The Default Human](https://dev.to/rawveg/the-default-human-4e06)
 <!-- BLOG-POST-LIST:END -->
