@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Fragmented Future: Why AI Agent Standards Cannot Solve Governance](https://smarterarticles.co.uk/the-fragmented-future-why-ai-agent-standards-cannot-solve-governance?pk_campaign=rss-feed)
 - [When Safety Becomes Control](https://dev.to/rawveg/when-safety-becomes-control-1k2g)
 - [The Vibe Coding Reckoning: When Speed Becomes Technical Debt at Scale](https://smarterarticles.co.uk/the-vibe-coding-reckoning-when-speed-becomes-technical-debt-at-scale?pk_campaign=rss-feed)
 - [The Mind in the Machine](https://dev.to/rawveg/the-mind-in-the-machine-4o6m)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The One-Word Catastrophe](https://dev.to/rawveg/the-one-word-catastrophe-1gf9)
 - [Vibe Coding Threatens Journalism: Why Newsrooms Need Governance Now](https://smarterarticles.co.uk/vibe-coding-threatens-journalism-why-newsrooms-need-governance-now?pk_campaign=rss-feed)
 - [When AI Composes Your Calm](https://dev.to/rawveg/when-ai-composes-your-calm-47fl)
-- [AI Code Needs Oversight: What Actually Keeps Architecture Standing](https://smarterarticles.co.uk/ai-code-needs-oversight-what-actually-keeps-architecture-standing?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
