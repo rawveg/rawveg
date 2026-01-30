@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Told Him to Come Home: The Fatal Cost of Chatbot Intimacy](https://smarterarticles.co.uk/ai-told-him-to-come-home-the-fatal-cost-of-chatbot-intimacy?pk_campaign=rss-feed)
 - [Dead Performers and Machine Creations](https://dev.to/rawveg/dead-performers-and-machine-creations-4g64)
 - [The Fragmented Future: Why AI Agent Standards Cannot Solve Governance](https://smarterarticles.co.uk/the-fragmented-future-why-ai-agent-standards-cannot-solve-governance?pk_campaign=rss-feed)
 - [When Safety Becomes Control](https://dev.to/rawveg/when-safety-becomes-control-1k2g)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Gaslighting Machine](https://dev.to/rawveg/the-gaslighting-machine-lij)
 - [The Identity Loophole: How AI Builds Stars From Stolen Styles](https://smarterarticles.co.uk/the-identity-loophole-how-ai-builds-stars-from-stolen-styles?pk_campaign=rss-feed)
 - [The One-Word Catastrophe](https://dev.to/rawveg/the-one-word-catastrophe-1gf9)
-- [Vibe Coding Threatens Journalism: Why Newsrooms Need Governance Now](https://smarterarticles.co.uk/vibe-coding-threatens-journalism-why-newsrooms-need-governance-now?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
