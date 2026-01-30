@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Paradox of Progress](https://dev.to/rawveg/the-paradox-of-progress-2ad4)
 - [AI Told Him to Come Home: The Fatal Cost of Chatbot Intimacy](https://smarterarticles.co.uk/ai-told-him-to-come-home-the-fatal-cost-of-chatbot-intimacy?pk_campaign=rss-feed)
 - [Dead Performers and Machine Creations](https://dev.to/rawveg/dead-performers-and-machine-creations-4g64)
 - [The Fragmented Future: Why AI Agent Standards Cannot Solve Governance](https://smarterarticles.co.uk/the-fragmented-future-why-ai-agent-standards-cannot-solve-governance?pk_campaign=rss-feed)
@@ -22,11 +23,11 @@ Here are some ideas to get you started:
 - [The Vibe Coding Reckoning: When Speed Becomes Technical Debt at Scale](https://smarterarticles.co.uk/the-vibe-coding-reckoning-when-speed-becomes-technical-debt-at-scale?pk_campaign=rss-feed)
 - [The Mind in the Machine](https://dev.to/rawveg/the-mind-in-the-machine-4o6m)
 - [The AI Governance Crisis: Principles Everywhere, Protection Nowhere](https://smarterarticles.co.uk/the-ai-governance-crisis-principles-everywhere-protection-nowhere?pk_campaign=rss-feed)
-- [Open Source AI&#39;s Democratic Promise](https://dev.to/rawveg/open-source-ais-democratic-promise-1edn)
 - [The Artist and the AI](https://dev.to/rawveg/the-artist-and-the-ai-5g8b)
+- [Open Source AI&#39;s Democratic Promise](https://dev.to/rawveg/open-source-ais-democratic-promise-1edn)
 - [The Architecture Tax: AI Coding Assistants Demand Better Planning](https://smarterarticles.co.uk/the-architecture-tax-ai-coding-assistants-demand-better-planning?pk_campaign=rss-feed)
-- [AI Changes Every Job](https://dev.to/rawveg/ai-changes-every-job-3e1i)
 - [Consent Cannot Be Optional](https://dev.to/rawveg/consent-cannot-be-optional-1p6c)
+- [AI Changes Every Job](https://dev.to/rawveg/ai-changes-every-job-3e1i)
 - [When Code Lives in Chat: The Dangers of Democratised Development](https://smarterarticles.co.uk/when-code-lives-in-chat-the-dangers-of-democratised-development?pk_campaign=rss-feed)
 - [Seeing Isn&#39;t Believing](https://dev.to/rawveg/seeing-isnt-believing-1onl)
 - [Chart Success Without Artists: AI Music and the Fragmentation of Value](https://smarterarticles.co.uk/chart-success-without-artists-ai-music-and-the-fragmentation-of-value?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Disappearing Blockchain: Crypto&#39;s Greatest Success](https://smarterarticles.co.uk/the-disappearing-blockchain-cryptos-greatest-success?pk_campaign=rss-feed)
 - [The Gaslighting Machine](https://dev.to/rawveg/the-gaslighting-machine-lij)
 - [The Identity Loophole: How AI Builds Stars From Stolen Styles](https://smarterarticles.co.uk/the-identity-loophole-how-ai-builds-stars-from-stolen-styles?pk_campaign=rss-feed)
-- [The One-Word Catastrophe](https://dev.to/rawveg/the-one-word-catastrophe-1gf9)
 <!-- BLOG-POST-LIST:END -->
