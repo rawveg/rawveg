@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Browser Wars Are Back](https://dev.to/rawveg/the-browser-wars-are-back-4016)
 - [Neurotechnology Ethics Framework: Consensus Without Consequences](https://smarterarticles.co.uk/neurotechnology-ethics-framework-consensus-without-consequences?pk_campaign=rss-feed)
 - [The Paradox of Progress](https://dev.to/rawveg/the-paradox-of-progress-2ad4)
 - [AI Told Him to Come Home: The Fatal Cost of Chatbot Intimacy](https://smarterarticles.co.uk/ai-told-him-to-come-home-the-fatal-cost-of-chatbot-intimacy?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Chart Success Without Artists: AI Music and the Fragmentation of Value](https://smarterarticles.co.uk/chart-success-without-artists-ai-music-and-the-fragmentation-of-value?pk_campaign=rss-feed)
 - [The Babysitter Club](https://dev.to/rawveg/the-babysitter-club-42jd)
 - [The Disappearing Blockchain: Crypto&#39;s Greatest Success](https://smarterarticles.co.uk/the-disappearing-blockchain-cryptos-greatest-success?pk_campaign=rss-feed)
-- [The Gaslighting Machine](https://dev.to/rawveg/the-gaslighting-machine-lij)
 <!-- BLOG-POST-LIST:END -->
