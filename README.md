@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Algorithm Will See You Now](https://dev.to/rawveg/the-algorithm-will-see-you-now-45g2)
 - [When Coding Agents Forget: The Hidden Cost of AI Context Degradation](https://smarterarticles.co.uk/when-coding-agents-forget-the-hidden-cost-of-ai-context-degradation?pk_campaign=rss-feed)
 - [The Browser Wars Are Back](https://dev.to/rawveg/the-browser-wars-are-back-4016)
 - [Neurotechnology Ethics Framework: Consensus Without Consequences](https://smarterarticles.co.uk/neurotechnology-ethics-framework-consensus-without-consequences?pk_campaign=rss-feed)
@@ -29,10 +30,9 @@ Here are some ideas to get you started:
 - [Open Source AI&#39;s Democratic Promise](https://dev.to/rawveg/open-source-ais-democratic-promise-1edn)
 - [The Artist and the AI](https://dev.to/rawveg/the-artist-and-the-ai-5g8b)
 - [The Architecture Tax: AI Coding Assistants Demand Better Planning](https://smarterarticles.co.uk/the-architecture-tax-ai-coding-assistants-demand-better-planning?pk_campaign=rss-feed)
-- [AI Changes Every Job](https://dev.to/rawveg/ai-changes-every-job-3e1i)
 - [Consent Cannot Be Optional](https://dev.to/rawveg/consent-cannot-be-optional-1p6c)
+- [AI Changes Every Job](https://dev.to/rawveg/ai-changes-every-job-3e1i)
 - [When Code Lives in Chat: The Dangers of Democratised Development](https://smarterarticles.co.uk/when-code-lives-in-chat-the-dangers-of-democratised-development?pk_campaign=rss-feed)
 - [Seeing Isn&#39;t Believing](https://dev.to/rawveg/seeing-isnt-believing-1onl)
 - [Chart Success Without Artists: AI Music and the Fragmentation of Value](https://smarterarticles.co.uk/chart-success-without-artists-ai-music-and-the-fragmentation-of-value?pk_campaign=rss-feed)
-- [The Babysitter Club](https://dev.to/rawveg/the-babysitter-club-42jd)
 <!-- BLOG-POST-LIST:END -->
