@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Coding Speed Kills: The Discipline Premium](https://smarterarticles.co.uk/ai-coding-speed-kills-the-discipline-premium?pk_campaign=rss-feed)
 - [The Algorithm Will See You Now](https://dev.to/rawveg/the-algorithm-will-see-you-now-45g2)
 - [When Coding Agents Forget: The Hidden Cost of AI Context Degradation](https://smarterarticles.co.uk/when-coding-agents-forget-the-hidden-cost-of-ai-context-degradation?pk_campaign=rss-feed)
 - [The Browser Wars Are Back](https://dev.to/rawveg/the-browser-wars-are-back-4016)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Changes Every Job](https://dev.to/rawveg/ai-changes-every-job-3e1i)
 - [When Code Lives in Chat: The Dangers of Democratised Development](https://smarterarticles.co.uk/when-code-lives-in-chat-the-dangers-of-democratised-development?pk_campaign=rss-feed)
 - [Seeing Isn&#39;t Believing](https://dev.to/rawveg/seeing-isnt-believing-1onl)
-- [Chart Success Without Artists: AI Music and the Fragmentation of Value](https://smarterarticles.co.uk/chart-success-without-artists-ai-music-and-the-fragmentation-of-value?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
