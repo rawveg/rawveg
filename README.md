@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Digital Tools, Analogue Barriers](https://dev.to/rawveg/digital-tools-analogue-barriers-85j)
 - [When AI Codes for Hackers: The 25-Minute Ransomware Reality](https://smarterarticles.co.uk/when-ai-codes-for-hackers-the-25-minute-ransomware-reality?pk_campaign=rss-feed)
 - [The Guardrails We Need](https://dev.to/rawveg/the-guardrails-we-need-37el)
 - [AI Coding Speed Kills: The Discipline Premium](https://smarterarticles.co.uk/ai-coding-speed-kills-the-discipline-premium?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Open Source AI&#39;s Democratic Promise](https://dev.to/rawveg/open-source-ais-democratic-promise-1edn)
 - [The Architecture Tax: AI Coding Assistants Demand Better Planning](https://smarterarticles.co.uk/the-architecture-tax-ai-coding-assistants-demand-better-planning?pk_campaign=rss-feed)
 - [Consent Cannot Be Optional](https://dev.to/rawveg/consent-cannot-be-optional-1p6c)
-- [AI Changes Every Job](https://dev.to/rawveg/ai-changes-every-job-3e1i)
 <!-- BLOG-POST-LIST:END -->
