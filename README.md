@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Will Not Save Cybersecurity: Why the Arms Race Favors Attackers](https://smarterarticles.co.uk/ai-will-not-save-cybersecurity-why-the-arms-race-favors-attackers?pk_campaign=rss-feed)
 - [Digital Tools, Analogue Barriers](https://dev.to/rawveg/digital-tools-analogue-barriers-85j)
 - [When AI Codes for Hackers: The 25-Minute Ransomware Reality](https://smarterarticles.co.uk/when-ai-codes-for-hackers-the-25-minute-ransomware-reality?pk_campaign=rss-feed)
 - [The Guardrails We Need](https://dev.to/rawveg/the-guardrails-we-need-37el)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Artist and the AI](https://dev.to/rawveg/the-artist-and-the-ai-5g8b)
 - [Open Source AI&#39;s Democratic Promise](https://dev.to/rawveg/open-source-ais-democratic-promise-1edn)
 - [The Architecture Tax: AI Coding Assistants Demand Better Planning](https://smarterarticles.co.uk/the-architecture-tax-ai-coding-assistants-demand-better-planning?pk_campaign=rss-feed)
-- [Consent Cannot Be Optional](https://dev.to/rawveg/consent-cannot-be-optional-1p6c)
 <!-- BLOG-POST-LIST:END -->
