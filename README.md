@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Retail AI Illusion](https://dev.to/rawveg/the-retail-ai-illusion-27c2)
 - [Free Hate at Scale: AI Extremism and the Attention Crisis](https://smarterarticles.co.uk/free-hate-at-scale-ai-extremism-and-the-attention-crisis?pk_campaign=rss-feed)
 - [The Elevation Thesis](https://dev.to/rawveg/the-elevation-thesis-2obf)
 - [AI Will Not Save Cybersecurity: Why the Arms Race Favors Attackers](https://smarterarticles.co.uk/ai-will-not-save-cybersecurity-why-the-arms-race-favors-attackers?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Vibe Coding Reckoning: When Speed Becomes Technical Debt at Scale](https://smarterarticles.co.uk/the-vibe-coding-reckoning-when-speed-becomes-technical-debt-at-scale?pk_campaign=rss-feed)
 - [The Mind in the Machine](https://dev.to/rawveg/the-mind-in-the-machine-4o6m)
 - [The AI Governance Crisis: Principles Everywhere, Protection Nowhere](https://smarterarticles.co.uk/the-ai-governance-crisis-principles-everywhere-protection-nowhere?pk_campaign=rss-feed)
-- [Open Source AI&#39;s Democratic Promise](https://dev.to/rawveg/open-source-ais-democratic-promise-1edn)
 <!-- BLOG-POST-LIST:END -->
