@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Invisible Workforce](https://dev.to/rawveg/the-invisible-workforce-20g4)
 - [AI Diagnoses Better Than Doctors: Why Patients Still Refuse to Trust It](https://smarterarticles.co.uk/ai-diagnoses-better-than-doctors-why-patients-still-refuse-to-trust-it?pk_campaign=rss-feed)
 - [Stop Making AI Learn From Us](https://dev.to/rawveg/stop-making-ai-learn-from-us-31c)
 - [USB-C for AI Agents: When Industry Consensus Becomes Industry Constraint](https://smarterarticles.co.uk/usb-c-for-ai-agents-when-industry-consensus-becomes-industry-constraint?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Told Him to Come Home: The Fatal Cost of Chatbot Intimacy](https://smarterarticles.co.uk/ai-told-him-to-come-home-the-fatal-cost-of-chatbot-intimacy?pk_campaign=rss-feed)
 - [Dead Performers and Machine Creations](https://dev.to/rawveg/dead-performers-and-machine-creations-4g64)
 - [The Fragmented Future: Why AI Agent Standards Cannot Solve Governance](https://smarterarticles.co.uk/the-fragmented-future-why-ai-agent-standards-cannot-solve-governance?pk_campaign=rss-feed)
-- [When Safety Becomes Control](https://dev.to/rawveg/when-safety-becomes-control-1k2g)
 <!-- BLOG-POST-LIST:END -->
