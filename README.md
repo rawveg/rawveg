@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When 20 Watts Beats 20 Megawatts](https://dev.to/rawveg/when-20-watts-beats-20-megawatts-1np0)
 - [Twice the Learning, Half the Wisdom: Education in the AI Era](https://smarterarticles.co.uk/twice-the-learning-half-the-wisdom-education-in-the-ai-era?pk_campaign=rss-feed)
 - [The Invisible Workforce](https://dev.to/rawveg/the-invisible-workforce-20g4)
 - [AI Diagnoses Better Than Doctors: Why Patients Still Refuse to Trust It](https://smarterarticles.co.uk/ai-diagnoses-better-than-doctors-why-patients-still-refuse-to-trust-it?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Neurotechnology Ethics Framework: Consensus Without Consequences](https://smarterarticles.co.uk/neurotechnology-ethics-framework-consensus-without-consequences?pk_campaign=rss-feed)
 - [The Paradox of Progress](https://dev.to/rawveg/the-paradox-of-progress-2ad4)
 - [AI Told Him to Come Home: The Fatal Cost of Chatbot Intimacy](https://smarterarticles.co.uk/ai-told-him-to-come-home-the-fatal-cost-of-chatbot-intimacy?pk_campaign=rss-feed)
-- [Dead Performers and Machine Creations](https://dev.to/rawveg/dead-performers-and-machine-creations-4g64)
 <!-- BLOG-POST-LIST:END -->
