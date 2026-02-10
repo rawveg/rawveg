@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Powering AI, Heating Earth: The Data Centre Climate Dilemma](https://smarterarticles.co.uk/powering-ai-heating-earth-the-data-centre-climate-dilemma?pk_campaign=rss-feed)
 - [The AI Value Paradox](https://dev.to/rawveg/the-ai-value-paradox-3ehf)
 - [Federated Learning Under Fire: Why Your Data Still Leaks](https://smarterarticles.co.uk/federated-learning-under-fire-why-your-data-still-leaks?pk_campaign=rss-feed)
 - [When 20 Watts Beats 20 Megawatts](https://dev.to/rawveg/when-20-watts-beats-20-megawatts-1np0)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Algorithm Will See You Now](https://dev.to/rawveg/the-algorithm-will-see-you-now-45g2)
 - [When Coding Agents Forget: The Hidden Cost of AI Context Degradation](https://smarterarticles.co.uk/when-coding-agents-forget-the-hidden-cost-of-ai-context-degradation?pk_campaign=rss-feed)
 - [The Browser Wars Are Back](https://dev.to/rawveg/the-browser-wars-are-back-4016)
-- [Neurotechnology Ethics Framework: Consensus Without Consequences](https://smarterarticles.co.uk/neurotechnology-ethics-framework-consensus-without-consequences?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
