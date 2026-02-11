@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Handing Power to Machines: The Unresolved Dilemma of AI Agents](https://smarterarticles.co.uk/handing-power-to-machines-the-unresolved-dilemma-of-ai-agents?pk_campaign=rss-feed)
 - [AI Surveillance Fails](https://dev.to/rawveg/ai-surveillance-fails-39b9)
 - [Powering AI, Heating Earth: The Data Centre Climate Dilemma](https://smarterarticles.co.uk/powering-ai-heating-earth-the-data-centre-climate-dilemma?pk_campaign=rss-feed)
 - [The AI Value Paradox](https://dev.to/rawveg/the-ai-value-paradox-3ehf)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Guardrails We Need](https://dev.to/rawveg/the-guardrails-we-need-37el)
 - [AI Coding Speed Kills: The Discipline Premium](https://smarterarticles.co.uk/ai-coding-speed-kills-the-discipline-premium?pk_campaign=rss-feed)
 - [The Algorithm Will See You Now](https://dev.to/rawveg/the-algorithm-will-see-you-now-45g2)
-- [When Coding Agents Forget: The Hidden Cost of AI Context Degradation](https://smarterarticles.co.uk/when-coding-agents-forget-the-hidden-cost-of-ai-context-degradation?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
