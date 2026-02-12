@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The AI Hype Crisis: Why Public Trust Is Collapsing Fast](https://smarterarticles.co.uk/the-ai-hype-crisis-why-public-trust-is-collapsing-fast?pk_campaign=rss-feed)
 - [Your Cloud Is Drying My River](https://dev.to/rawveg/your-cloud-is-drying-my-river-2p93)
 - [Handing Power to Machines: The Unresolved Dilemma of AI Agents](https://smarterarticles.co.uk/handing-power-to-machines-the-unresolved-dilemma-of-ai-agents?pk_campaign=rss-feed)
 - [AI Surveillance Fails](https://dev.to/rawveg/ai-surveillance-fails-39b9)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Digital Tools, Analogue Barriers](https://dev.to/rawveg/digital-tools-analogue-barriers-85j)
 - [When AI Codes for Hackers: The 25-Minute Ransomware Reality](https://smarterarticles.co.uk/when-ai-codes-for-hackers-the-25-minute-ransomware-reality?pk_campaign=rss-feed)
 - [The Guardrails We Need](https://dev.to/rawveg/the-guardrails-we-need-37el)
-- [AI Coding Speed Kills: The Discipline Premium](https://smarterarticles.co.uk/ai-coding-speed-kills-the-discipline-premium?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
