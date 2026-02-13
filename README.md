@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your Walk Betrays You: How AI Gait Recognition Ends Anonymity](https://smarterarticles.co.uk/your-walk-betrays-you-how-ai-gait-recognition-ends-anonymity?pk_campaign=rss-feed)
 - [When AI Says No](https://dev.to/rawveg/when-ai-says-no-4igo)
 - [The AI Hype Crisis: Why Public Trust Is Collapsing Fast](https://smarterarticles.co.uk/the-ai-hype-crisis-why-public-trust-is-collapsing-fast?pk_campaign=rss-feed)
 - [Your Cloud Is Drying My River](https://dev.to/rawveg/your-cloud-is-drying-my-river-2p93)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Elevation Thesis](https://dev.to/rawveg/the-elevation-thesis-2obf)
 - [AI Will Not Save Cybersecurity: Why the Arms Race Favors Attackers](https://smarterarticles.co.uk/ai-will-not-save-cybersecurity-why-the-arms-race-favors-attackers?pk_campaign=rss-feed)
 - [Digital Tools, Analogue Barriers](https://dev.to/rawveg/digital-tools-analogue-barriers-85j)
-- [When AI Codes for Hackers: The 25-Minute Ransomware Reality](https://smarterarticles.co.uk/when-ai-codes-for-hackers-the-25-minute-ransomware-reality?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
