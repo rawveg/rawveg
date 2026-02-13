@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When Investment Becomes Revenue](https://dev.to/rawveg/when-investment-becomes-revenue-44oe)
 - [Your Walk Betrays You: How AI Gait Recognition Ends Anonymity](https://smarterarticles.co.uk/your-walk-betrays-you-how-ai-gait-recognition-ends-anonymity?pk_campaign=rss-feed)
 - [When AI Says No](https://dev.to/rawveg/when-ai-says-no-4igo)
 - [The AI Hype Crisis: Why Public Trust Is Collapsing Fast](https://smarterarticles.co.uk/the-ai-hype-crisis-why-public-trust-is-collapsing-fast?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Free Hate at Scale: AI Extremism and the Attention Crisis](https://smarterarticles.co.uk/free-hate-at-scale-ai-extremism-and-the-attention-crisis?pk_campaign=rss-feed)
 - [The Elevation Thesis](https://dev.to/rawveg/the-elevation-thesis-2obf)
 - [AI Will Not Save Cybersecurity: Why the Arms Race Favors Attackers](https://smarterarticles.co.uk/ai-will-not-save-cybersecurity-why-the-arms-race-favors-attackers?pk_campaign=rss-feed)
-- [Digital Tools, Analogue Barriers](https://dev.to/rawveg/digital-tools-analogue-barriers-85j)
 <!-- BLOG-POST-LIST:END -->
