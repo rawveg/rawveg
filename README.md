@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Agentic Coding Revolution: When Productivity Gains Meet Security Crisis](https://smarterarticles.co.uk/the-agentic-coding-revolution-when-productivity-gains-meet-security-crisis?pk_campaign=rss-feed)
 - [When Investment Becomes Revenue](https://dev.to/rawveg/when-investment-becomes-revenue-44oe)
 - [Your Walk Betrays You: How AI Gait Recognition Ends Anonymity](https://smarterarticles.co.uk/your-walk-betrays-you-how-ai-gait-recognition-ends-anonymity?pk_campaign=rss-feed)
 - [When AI Says No](https://dev.to/rawveg/when-ai-says-no-4igo)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Retail AI Illusion](https://dev.to/rawveg/the-retail-ai-illusion-27c2)
 - [Free Hate at Scale: AI Extremism and the Attention Crisis](https://smarterarticles.co.uk/free-hate-at-scale-ai-extremism-and-the-attention-crisis?pk_campaign=rss-feed)
 - [The Elevation Thesis](https://dev.to/rawveg/the-elevation-thesis-2obf)
-- [AI Will Not Save Cybersecurity: Why the Arms Race Favors Attackers](https://smarterarticles.co.uk/ai-will-not-save-cybersecurity-why-the-arms-race-favors-attackers?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
