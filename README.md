@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When Safety Mechanisms Fail: The Claude Code Audit Trail Gap](https://smarterarticles.co.uk/when-safety-mechanisms-fail-the-claude-code-audit-trail-gap?pk_campaign=rss-feed)
 - [The Video AI Hate Problem](https://dev.to/rawveg/the-video-ai-hate-problem-5h9h)
 - [The Agentic Coding Revolution: When Productivity Gains Meet Security Crisis](https://smarterarticles.co.uk/the-agentic-coding-revolution-when-productivity-gains-meet-security-crisis?pk_campaign=rss-feed)
 - [When Investment Becomes Revenue](https://dev.to/rawveg/when-investment-becomes-revenue-44oe)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Stop Making AI Learn From Us](https://dev.to/rawveg/stop-making-ai-learn-from-us-31c)
 - [USB-C for AI Agents: When Industry Consensus Becomes Industry Constraint](https://smarterarticles.co.uk/usb-c-for-ai-agents-when-industry-consensus-becomes-industry-constraint?pk_campaign=rss-feed)
 - [The Retail AI Illusion](https://dev.to/rawveg/the-retail-ai-illusion-27c2)
-- [Free Hate at Scale: AI Extremism and the Attention Crisis](https://smarterarticles.co.uk/free-hate-at-scale-ai-extremism-and-the-attention-crisis?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
