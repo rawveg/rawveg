@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When Tech Hubs Fail Ethics](https://dev.to/rawveg/when-tech-hubs-fail-ethics-3hnc)
 - [The Moral Catastrophe Ahead: When Science Falls Behind Machine Minds](https://smarterarticles.co.uk/the-moral-catastrophe-ahead-when-science-falls-behind-machine-minds?pk_campaign=rss-feed)
 - [When Machines Write](https://dev.to/rawveg/when-machines-write-3pl4)
 - [When Safety Mechanisms Fail: The Claude Code Audit Trail Gap](https://smarterarticles.co.uk/when-safety-mechanisms-fail-the-claude-code-audit-trail-gap?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Twice the Learning, Half the Wisdom: Education in the AI Era](https://smarterarticles.co.uk/twice-the-learning-half-the-wisdom-education-in-the-ai-era?pk_campaign=rss-feed)
 - [The Invisible Workforce](https://dev.to/rawveg/the-invisible-workforce-20g4)
 - [AI Diagnoses Better Than Doctors: Why Patients Still Refuse to Trust It](https://smarterarticles.co.uk/ai-diagnoses-better-than-doctors-why-patients-still-refuse-to-trust-it?pk_campaign=rss-feed)
-- [Stop Making AI Learn From Us](https://dev.to/rawveg/stop-making-ai-learn-from-us-31c)
 <!-- BLOG-POST-LIST:END -->
