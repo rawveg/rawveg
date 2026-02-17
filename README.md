@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Adoption Problem](https://dev.to/rawveg/the-adoption-problem-58l2)
 - [The Smart City Trap: Privacy Erosion and Inequality at Scale](https://smarterarticles.co.uk/the-smart-city-trap-privacy-erosion-and-inequality-at-scale?pk_campaign=rss-feed)
 - [When Tech Hubs Fail Ethics](https://dev.to/rawveg/when-tech-hubs-fail-ethics-3hnc)
 - [The Moral Catastrophe Ahead: When Science Falls Behind Machine Minds](https://smarterarticles.co.uk/the-moral-catastrophe-ahead-when-science-falls-behind-machine-minds?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Federated Learning Under Fire: Why Your Data Still Leaks](https://smarterarticles.co.uk/federated-learning-under-fire-why-your-data-still-leaks?pk_campaign=rss-feed)
 - [When 20 Watts Beats 20 Megawatts](https://dev.to/rawveg/when-20-watts-beats-20-megawatts-1np0)
 - [Twice the Learning, Half the Wisdom: Education in the AI Era](https://smarterarticles.co.uk/twice-the-learning-half-the-wisdom-education-in-the-ai-era?pk_campaign=rss-feed)
-- [The Invisible Workforce](https://dev.to/rawveg/the-invisible-workforce-20g4)
 <!-- BLOG-POST-LIST:END -->
