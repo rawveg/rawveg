@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Hiring for AI Ethics](https://dev.to/rawveg/hiring-for-ai-ethics-5an4)
 - [Your Boss Bets Your Job on AI: The Tech Does Not Work Yet](https://smarterarticles.co.uk/your-boss-bets-your-job-on-ai-the-tech-does-not-work-yet?pk_campaign=rss-feed)
 - [The Adoption Problem](https://dev.to/rawveg/the-adoption-problem-58l2)
 - [The Smart City Trap: Privacy Erosion and Inequality at Scale](https://smarterarticles.co.uk/the-smart-city-trap-privacy-erosion-and-inequality-at-scale?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Powering AI, Heating Earth: The Data Centre Climate Dilemma](https://smarterarticles.co.uk/powering-ai-heating-earth-the-data-centre-climate-dilemma?pk_campaign=rss-feed)
 - [The AI Value Paradox](https://dev.to/rawveg/the-ai-value-paradox-3ehf)
 - [Federated Learning Under Fire: Why Your Data Still Leaks](https://smarterarticles.co.uk/federated-learning-under-fire-why-your-data-still-leaks?pk_campaign=rss-feed)
-- [When 20 Watts Beats 20 Megawatts](https://dev.to/rawveg/when-20-watts-beats-20-megawatts-1np0)
 <!-- BLOG-POST-LIST:END -->
