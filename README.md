@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When Deepfakes Apply for Jobs: The Identity Verification Crisis](https://smarterarticles.co.uk/when-deepfakes-apply-for-jobs-the-identity-verification-crisis?pk_campaign=rss-feed)
 - [Hiring for AI Ethics](https://dev.to/rawveg/hiring-for-ai-ethics-5an4)
 - [Your Boss Bets Your Job on AI: The Tech Does Not Work Yet](https://smarterarticles.co.uk/your-boss-bets-your-job-on-ai-the-tech-does-not-work-yet?pk_campaign=rss-feed)
 - [The Adoption Problem](https://dev.to/rawveg/the-adoption-problem-58l2)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Surveillance Fails](https://dev.to/rawveg/ai-surveillance-fails-39b9)
 - [Powering AI, Heating Earth: The Data Centre Climate Dilemma](https://smarterarticles.co.uk/powering-ai-heating-earth-the-data-centre-climate-dilemma?pk_campaign=rss-feed)
 - [The AI Value Paradox](https://dev.to/rawveg/the-ai-value-paradox-3ehf)
-- [Federated Learning Under Fire: Why Your Data Still Leaks](https://smarterarticles.co.uk/federated-learning-under-fire-why-your-data-still-leaks?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
