@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Unequal by Design: How AI Disruption Falls Hardest on Women Workers](https://smarterarticles.co.uk/unequal-by-design-how-ai-disruption-falls-hardest-on-women-workers?pk_campaign=rss-feed)
 - [AI Lies in Court](https://dev.to/rawveg/ai-lies-in-court-5j9)
 - [When Deepfakes Apply for Jobs: The Identity Verification Crisis](https://smarterarticles.co.uk/when-deepfakes-apply-for-jobs-the-identity-verification-crisis?pk_campaign=rss-feed)
 - [Hiring for AI Ethics](https://dev.to/rawveg/hiring-for-ai-ethics-5an4)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Your Cloud Is Drying My River](https://dev.to/rawveg/your-cloud-is-drying-my-river-2p93)
 - [Handing Power to Machines: The Unresolved Dilemma of AI Agents](https://smarterarticles.co.uk/handing-power-to-machines-the-unresolved-dilemma-of-ai-agents?pk_campaign=rss-feed)
 - [AI Surveillance Fails](https://dev.to/rawveg/ai-surveillance-fails-39b9)
-- [Powering AI, Heating Earth: The Data Centre Climate Dilemma](https://smarterarticles.co.uk/powering-ai-heating-earth-the-data-centre-climate-dilemma?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
