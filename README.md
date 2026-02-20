@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When AI Devours the News](https://dev.to/rawveg/when-ai-devours-the-news-kjf)
 - [Unequal by Design: How AI Disruption Falls Hardest on Women Workers](https://smarterarticles.co.uk/unequal-by-design-how-ai-disruption-falls-hardest-on-women-workers?pk_campaign=rss-feed)
 - [AI Lies in Court](https://dev.to/rawveg/ai-lies-in-court-5j9)
 - [When Deepfakes Apply for Jobs: The Identity Verification Crisis](https://smarterarticles.co.uk/when-deepfakes-apply-for-jobs-the-identity-verification-crisis?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The AI Hype Crisis: Why Public Trust Is Collapsing Fast](https://smarterarticles.co.uk/the-ai-hype-crisis-why-public-trust-is-collapsing-fast?pk_campaign=rss-feed)
 - [Your Cloud Is Drying My River](https://dev.to/rawveg/your-cloud-is-drying-my-river-2p93)
 - [Handing Power to Machines: The Unresolved Dilemma of AI Agents](https://smarterarticles.co.uk/handing-power-to-machines-the-unresolved-dilemma-of-ai-agents?pk_campaign=rss-feed)
-- [AI Surveillance Fails](https://dev.to/rawveg/ai-surveillance-fails-39b9)
 <!-- BLOG-POST-LIST:END -->
