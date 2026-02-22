@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Infrastructure Is Destiny: How Orbital Compute Reshapes the Global AI Race](https://smarterarticles.co.uk/infrastructure-is-destiny-how-orbital-compute-reshapes-the-global-ai-race?pk_campaign=rss-feed)
 - [AI Presenters Fool Everyone](https://dev.to/rawveg/ai-presenters-fool-everyone-4jcn)
 - [The OpenClaw Warning: From Viral Sensation to Security Nightmare](https://smarterarticles.co.uk/the-openclaw-warning-from-viral-sensation-to-security-nightmare?pk_campaign=rss-feed)
 - [When AI Devours the News](https://dev.to/rawveg/when-ai-devours-the-news-kjf)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Investment Becomes Revenue](https://dev.to/rawveg/when-investment-becomes-revenue-44oe)
 - [Your Walk Betrays You: How AI Gait Recognition Ends Anonymity](https://smarterarticles.co.uk/your-walk-betrays-you-how-ai-gait-recognition-ends-anonymity?pk_campaign=rss-feed)
 - [When AI Says No](https://dev.to/rawveg/when-ai-says-no-4igo)
-- [The AI Hype Crisis: Why Public Trust Is Collapsing Fast](https://smarterarticles.co.uk/the-ai-hype-crisis-why-public-trust-is-collapsing-fast?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
