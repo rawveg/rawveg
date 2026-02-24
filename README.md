@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Compulsive Mind](https://dev.to/rawveg/the-compulsive-mind-2f1o)
 - [Valued at Millions, Compensated at Zero: The Human Data Exploitation Crisis](https://smarterarticles.co.uk/valued-at-millions-compensated-at-zero-the-human-data-exploitation-crisis?pk_campaign=rss-feed)
 - [Sovereignty Costs Trillions](https://dev.to/rawveg/sovereignty-costs-trillions-1dd9)
 - [The Great AI Confidence Trick: How to Spot the Fakes in a World Drowning in Hype](https://smarterarticles.co.uk/the-great-ai-confidence-trick-how-to-spot-the-fakes-in-a-world-drowning-in-hype?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Moral Catastrophe Ahead: When Science Falls Behind Machine Minds](https://smarterarticles.co.uk/the-moral-catastrophe-ahead-when-science-falls-behind-machine-minds?pk_campaign=rss-feed)
 - [When Machines Write](https://dev.to/rawveg/when-machines-write-3pl4)
 - [When Safety Mechanisms Fail: The Claude Code Audit Trail Gap](https://smarterarticles.co.uk/when-safety-mechanisms-fail-the-claude-code-audit-trail-gap?pk_campaign=rss-feed)
-- [The Video AI Hate Problem](https://dev.to/rawveg/the-video-ai-hate-problem-5h9h)
 <!-- BLOG-POST-LIST:END -->
