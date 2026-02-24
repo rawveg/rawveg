@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Valued at Millions, Compensated at Zero: The Human Data Exploitation Crisis](https://smarterarticles.co.uk/valued-at-millions-compensated-at-zero-the-human-data-exploitation-crisis?pk_campaign=rss-feed)
 - [Sovereignty Costs Trillions](https://dev.to/rawveg/sovereignty-costs-trillions-1dd9)
 - [The Great AI Confidence Trick: How to Spot the Fakes in a World Drowning in Hype](https://smarterarticles.co.uk/the-great-ai-confidence-trick-how-to-spot-the-fakes-in-a-world-drowning-in-hype?pk_campaign=rss-feed)
 - [The Self-Priming Problem in AI](https://dev.to/rawveg/the-self-priming-problem-in-ai-4p2a)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Machines Write](https://dev.to/rawveg/when-machines-write-3pl4)
 - [When Safety Mechanisms Fail: The Claude Code Audit Trail Gap](https://smarterarticles.co.uk/when-safety-mechanisms-fail-the-claude-code-audit-trail-gap?pk_campaign=rss-feed)
 - [The Video AI Hate Problem](https://dev.to/rawveg/the-video-ai-hate-problem-5h9h)
-- [The Agentic Coding Revolution: When Productivity Gains Meet Security Crisis](https://smarterarticles.co.uk/the-agentic-coding-revolution-when-productivity-gains-meet-security-crisis?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
