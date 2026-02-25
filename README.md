@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Will Buy Your Groceries](https://dev.to/rawveg/ai-will-buy-your-groceries-53m7)
 - [You Are Not Choosing: AI and the Invisible Architecture of Daily Decisions](https://smarterarticles.co.uk/you-are-not-choosing-ai-and-the-invisible-architecture-of-daily-decisions?pk_campaign=rss-feed)
 - [The Compulsive Mind](https://dev.to/rawveg/the-compulsive-mind-2f1o)
 - [Valued at Millions, Compensated at Zero: The Human Data Exploitation Crisis](https://smarterarticles.co.uk/valued-at-millions-compensated-at-zero-the-human-data-exploitation-crisis?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Smart City Trap: Privacy Erosion and Inequality at Scale](https://smarterarticles.co.uk/the-smart-city-trap-privacy-erosion-and-inequality-at-scale?pk_campaign=rss-feed)
 - [When Tech Hubs Fail Ethics](https://dev.to/rawveg/when-tech-hubs-fail-ethics-3hnc)
 - [The Moral Catastrophe Ahead: When Science Falls Behind Machine Minds](https://smarterarticles.co.uk/the-moral-catastrophe-ahead-when-science-falls-behind-machine-minds?pk_campaign=rss-feed)
-- [When Machines Write](https://dev.to/rawveg/when-machines-write-3pl4)
 <!-- BLOG-POST-LIST:END -->
