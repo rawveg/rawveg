@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The £20 Billion Handshake](https://dev.to/rawveg/the-ps20-billion-handshake-2mmk)
 - [When AI Blackmail Goes Viral: The Governance Gap Behind the Headlines](https://smarterarticles.co.uk/when-ai-blackmail-goes-viral-the-governance-gap-behind-the-headlines?pk_campaign=rss-feed)
 - [AI Will Buy Your Groceries](https://dev.to/rawveg/ai-will-buy-your-groceries-53m7)
 - [You Are Not Choosing: AI and the Invisible Architecture of Daily Decisions](https://smarterarticles.co.uk/you-are-not-choosing-ai-and-the-invisible-architecture-of-daily-decisions?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Your Boss Bets Your Job on AI: The Tech Does Not Work Yet](https://smarterarticles.co.uk/your-boss-bets-your-job-on-ai-the-tech-does-not-work-yet?pk_campaign=rss-feed)
 - [The Adoption Problem](https://dev.to/rawveg/the-adoption-problem-58l2)
 - [The Smart City Trap: Privacy Erosion and Inequality at Scale](https://smarterarticles.co.uk/the-smart-city-trap-privacy-erosion-and-inequality-at-scale?pk_campaign=rss-feed)
-- [When Tech Hubs Fail Ethics](https://dev.to/rawveg/when-tech-hubs-fail-ethics-3hnc)
 <!-- BLOG-POST-LIST:END -->
