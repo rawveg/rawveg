@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Cannot Replace Drug Researchers](https://dev.to/rawveg/ai-cannot-replace-drug-researchers-2g59)
 - [More Connected, More Alone: How AI Is Eroding Human Social Skills](https://smarterarticles.co.uk/more-connected-more-alone-how-ai-is-eroding-human-social-skills?pk_campaign=rss-feed)
 - [The £20 Billion Handshake](https://dev.to/rawveg/the-ps20-billion-handshake-2mmk)
 - [When AI Blackmail Goes Viral: The Governance Gap Behind the Headlines](https://smarterarticles.co.uk/when-ai-blackmail-goes-viral-the-governance-gap-behind-the-headlines?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Deepfakes Apply for Jobs: The Identity Verification Crisis](https://smarterarticles.co.uk/when-deepfakes-apply-for-jobs-the-identity-verification-crisis?pk_campaign=rss-feed)
 - [Hiring for AI Ethics](https://dev.to/rawveg/hiring-for-ai-ethics-5an4)
 - [Your Boss Bets Your Job on AI: The Tech Does Not Work Yet](https://smarterarticles.co.uk/your-boss-bets-your-job-on-ai-the-tech-does-not-work-yet?pk_campaign=rss-feed)
-- [The Adoption Problem](https://dev.to/rawveg/the-adoption-problem-58l2)
 <!-- BLOG-POST-LIST:END -->
