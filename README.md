@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Surveillance Crisis](https://dev.to/rawveg/the-surveillance-crisis-noa)
 - [After the Last Song: What Happens When AI Unlocks Every Vault](https://smarterarticles.co.uk/after-the-last-song-what-happens-when-ai-unlocks-every-vault?pk_campaign=rss-feed)
 - [AI Cannot Replace Drug Researchers](https://dev.to/rawveg/ai-cannot-replace-drug-researchers-2g59)
 - [More Connected, More Alone: How AI Is Eroding Human Social Skills](https://smarterarticles.co.uk/more-connected-more-alone-how-ai-is-eroding-human-social-skills?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Unequal by Design: How AI Disruption Falls Hardest on Women Workers](https://smarterarticles.co.uk/unequal-by-design-how-ai-disruption-falls-hardest-on-women-workers?pk_campaign=rss-feed)
 - [AI Lies in Court](https://dev.to/rawveg/ai-lies-in-court-5j9)
 - [When Deepfakes Apply for Jobs: The Identity Verification Crisis](https://smarterarticles.co.uk/when-deepfakes-apply-for-jobs-the-identity-verification-crisis?pk_campaign=rss-feed)
-- [Hiring for AI Ethics](https://dev.to/rawveg/hiring-for-ai-ethics-5an4)
 <!-- BLOG-POST-LIST:END -->
