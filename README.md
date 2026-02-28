@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [After the Last Song: What Happens When AI Unlocks Every Vault](https://smarterarticles.co.uk/after-the-last-song-what-happens-when-ai-unlocks-every-vault?pk_campaign=rss-feed)
 - [AI Cannot Replace Drug Researchers](https://dev.to/rawveg/ai-cannot-replace-drug-researchers-2g59)
 - [More Connected, More Alone: How AI Is Eroding Human Social Skills](https://smarterarticles.co.uk/more-connected-more-alone-how-ai-is-eroding-human-social-skills?pk_campaign=rss-feed)
 - [The £20 Billion Handshake](https://dev.to/rawveg/the-ps20-billion-handshake-2mmk)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Lies in Court](https://dev.to/rawveg/ai-lies-in-court-5j9)
 - [When Deepfakes Apply for Jobs: The Identity Verification Crisis](https://smarterarticles.co.uk/when-deepfakes-apply-for-jobs-the-identity-verification-crisis?pk_campaign=rss-feed)
 - [Hiring for AI Ethics](https://dev.to/rawveg/hiring-for-ai-ethics-5an4)
-- [Your Boss Bets Your Job on AI: The Tech Does Not Work Yet](https://smarterarticles.co.uk/your-boss-bets-your-job-on-ai-the-tech-does-not-work-yet?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
