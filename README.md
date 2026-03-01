@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [You Can Download AI for Free...](https://dev.to/rawveg/you-can-download-ai-for-free-3ck9)
 - [False Precision in Science: MIT Exposes the Spatial Statistics Flaw](https://smarterarticles.co.uk/false-precision-in-science-mit-exposes-the-spatial-statistics-flaw?pk_campaign=rss-feed)
 - [The Surveillance Crisis](https://dev.to/rawveg/the-surveillance-crisis-noa)
 - [After the Last Song: What Happens When AI Unlocks Every Vault](https://smarterarticles.co.uk/after-the-last-song-what-happens-when-ai-unlocks-every-vault?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The OpenClaw Warning: From Viral Sensation to Security Nightmare](https://smarterarticles.co.uk/the-openclaw-warning-from-viral-sensation-to-security-nightmare?pk_campaign=rss-feed)
 - [When AI Devours the News](https://dev.to/rawveg/when-ai-devours-the-news-kjf)
 - [Unequal by Design: How AI Disruption Falls Hardest on Women Workers](https://smarterarticles.co.uk/unequal-by-design-how-ai-disruption-falls-hardest-on-women-workers?pk_campaign=rss-feed)
-- [AI Lies in Court](https://dev.to/rawveg/ai-lies-in-court-5j9)
 <!-- BLOG-POST-LIST:END -->
