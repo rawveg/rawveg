@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Personalisation Kills Choice](https://dev.to/rawveg/personalisation-kills-choice-3fbd)
 - [Twenty Minutes, Seventeen Organizations: Inside the Race to Detect AI-Driven Attacks](https://smarterarticles.co.uk/twenty-minutes-seventeen-organizations-inside-the-race-to-detect-ai-driven?pk_campaign=rss-feed)
 - [You Can Download AI for Free...](https://dev.to/rawveg/you-can-download-ai-for-free-3ck9)
 - [False Precision in Science: MIT Exposes the Spatial Statistics Flaw](https://smarterarticles.co.uk/false-precision-in-science-mit-exposes-the-spatial-statistics-flaw?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Infrastructure Is Destiny: How Orbital Compute Reshapes the Global AI Race](https://smarterarticles.co.uk/infrastructure-is-destiny-how-orbital-compute-reshapes-the-global-ai-race?pk_campaign=rss-feed)
 - [AI Presenters Fool Everyone](https://dev.to/rawveg/ai-presenters-fool-everyone-4jcn)
 - [The OpenClaw Warning: From Viral Sensation to Security Nightmare](https://smarterarticles.co.uk/the-openclaw-warning-from-viral-sensation-to-security-nightmare?pk_campaign=rss-feed)
-- [When AI Devours the News](https://dev.to/rawveg/when-ai-devours-the-news-kjf)
 <!-- BLOG-POST-LIST:END -->
