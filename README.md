@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Child Safety vs. Data Center Dollars: Utah and the Unwinnable AI Debate](https://smarterarticles.co.uk/child-safety-vs-data-center-dollars-utah-and-the-unwinnable-ai-debate?pk_campaign=rss-feed)
 - [Personalisation Kills Choice](https://dev.to/rawveg/personalisation-kills-choice-3fbd)
 - [Twenty Minutes, Seventeen Organizations: Inside the Race to Detect AI-Driven Attacks](https://smarterarticles.co.uk/twenty-minutes-seventeen-organizations-inside-the-race-to-detect-ai-driven?pk_campaign=rss-feed)
 - [You Can Download AI for Free...](https://dev.to/rawveg/you-can-download-ai-for-free-3ck9)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Self-Priming Problem in AI](https://dev.to/rawveg/the-self-priming-problem-in-ai-4p2a)
 - [Infrastructure Is Destiny: How Orbital Compute Reshapes the Global AI Race](https://smarterarticles.co.uk/infrastructure-is-destiny-how-orbital-compute-reshapes-the-global-ai-race?pk_campaign=rss-feed)
 - [AI Presenters Fool Everyone](https://dev.to/rawveg/ai-presenters-fool-everyone-4jcn)
-- [The OpenClaw Warning: From Viral Sensation to Security Nightmare](https://smarterarticles.co.uk/the-openclaw-warning-from-viral-sensation-to-security-nightmare?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
