@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Verification Crisis: Why Checking Generated Code Is Harder Than Writing It](https://smarterarticles.co.uk/the-verification-crisis-why-checking-generated-code-is-harder-than-writing-it?pk_campaign=rss-feed)
 - [Tech Hiring and Neurodiversity](https://dev.to/rawveg/tech-hiring-and-neurodiversity-ibp)
 - [The Collapse Equation: When AI Tips the Cybersecurity Balance Beyond Recovery](https://smarterarticles.co.uk/the-collapse-equation-when-ai-tips-the-cybersecurity-balance-beyond-recovery?pk_campaign=rss-feed)
 - [The Hidden Cost of Ad-Free](https://dev.to/rawveg/the-hidden-cost-of-ad-free-146p)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Compulsive Mind](https://dev.to/rawveg/the-compulsive-mind-2f1o)
 - [Valued at Millions, Compensated at Zero: The Human Data Exploitation Crisis](https://smarterarticles.co.uk/valued-at-millions-compensated-at-zero-the-human-data-exploitation-crisis?pk_campaign=rss-feed)
 - [Sovereignty Costs Trillions](https://dev.to/rawveg/sovereignty-costs-trillions-1dd9)
-- [The Great AI Confidence Trick: How to Spot the Fakes in a World Drowning in Hype](https://smarterarticles.co.uk/the-great-ai-confidence-trick-how-to-spot-the-fakes-in-a-world-drowning-in-hype?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
