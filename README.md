@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When the Corporation Is the Regulator: Microsoft and Canadian AI Governance](https://smarterarticles.co.uk/when-the-corporation-is-the-regulator-microsoft-and-canadian-ai-governance?pk_campaign=rss-feed)
 - [Autonomous AI in Legal Limbo](https://dev.to/rawveg/autonomous-ai-in-legal-limbo-c5j)
 - [The Verification Crisis: Why Checking Generated Code Is Harder Than Writing It](https://smarterarticles.co.uk/the-verification-crisis-why-checking-generated-code-is-harder-than-writing-it?pk_campaign=rss-feed)
 - [Tech Hiring and Neurodiversity](https://dev.to/rawveg/tech-hiring-and-neurodiversity-ibp)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Will Buy Your Groceries](https://dev.to/rawveg/ai-will-buy-your-groceries-53m7)
 - [You Are Not Choosing: AI and the Invisible Architecture of Daily Decisions](https://smarterarticles.co.uk/you-are-not-choosing-ai-and-the-invisible-architecture-of-daily-decisions?pk_campaign=rss-feed)
 - [The Compulsive Mind](https://dev.to/rawveg/the-compulsive-mind-2f1o)
-- [Valued at Millions, Compensated at Zero: The Human Data Exploitation Crisis](https://smarterarticles.co.uk/valued-at-millions-compensated-at-zero-the-human-data-exploitation-crisis?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
