@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Sovereign AI: How Emerging Markets Are Rewriting Big Tech Rules](https://smarterarticles.co.uk/sovereign-ai-how-emerging-markets-are-rewriting-big-tech-rules?pk_campaign=rss-feed)
 - [The Artist Rebellion](https://dev.to/rawveg/the-artist-rebellion-318f)
 - [When the Corporation Is the Regulator: Microsoft and Canadian AI Governance](https://smarterarticles.co.uk/when-the-corporation-is-the-regulator-microsoft-and-canadian-ai-governance?pk_campaign=rss-feed)
 - [Autonomous AI in Legal Limbo](https://dev.to/rawveg/autonomous-ai-in-legal-limbo-c5j)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The £20 Billion Handshake](https://dev.to/rawveg/the-ps20-billion-handshake-2mmk)
 - [When AI Blackmail Goes Viral: The Governance Gap Behind the Headlines](https://smarterarticles.co.uk/when-ai-blackmail-goes-viral-the-governance-gap-behind-the-headlines?pk_campaign=rss-feed)
 - [AI Will Buy Your Groceries](https://dev.to/rawveg/ai-will-buy-your-groceries-53m7)
-- [You Are Not Choosing: AI and the Invisible Architecture of Daily Decisions](https://smarterarticles.co.uk/you-are-not-choosing-ai-and-the-invisible-architecture-of-daily-decisions?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
