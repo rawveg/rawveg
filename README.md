@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [War Games, Neural Networks: How MIT Is Rethinking Military Leadership](https://smarterarticles.co.uk/war-games-neural-networks-how-mit-is-rethinking-military-leadership?pk_campaign=rss-feed)
 - [Event-Driven Volatility](https://dev.to/rawveg/event-driven-volatility-13df)
 - [Sovereign AI: How Emerging Markets Are Rewriting Big Tech Rules](https://smarterarticles.co.uk/sovereign-ai-how-emerging-markets-are-rewriting-big-tech-rules?pk_campaign=rss-feed)
 - [The Artist Rebellion](https://dev.to/rawveg/the-artist-rebellion-318f)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Cannot Replace Drug Researchers](https://dev.to/rawveg/ai-cannot-replace-drug-researchers-2g59)
 - [More Connected, More Alone: How AI Is Eroding Human Social Skills](https://smarterarticles.co.uk/more-connected-more-alone-how-ai-is-eroding-human-social-skills?pk_campaign=rss-feed)
 - [The £20 Billion Handshake](https://dev.to/rawveg/the-ps20-billion-handshake-2mmk)
-- [When AI Blackmail Goes Viral: The Governance Gap Behind the Headlines](https://smarterarticles.co.uk/when-ai-blackmail-goes-viral-the-governance-gap-behind-the-headlines?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
