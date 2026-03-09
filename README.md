@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Quiet Exodus](https://dev.to/rawveg/the-quiet-exodus-2ih)
 - [De-Identified and Still Exposed: How Clinical AI Memorises Individual Patients](https://smarterarticles.co.uk/de-identified-and-still-exposed-how-clinical-ai-memorises-individual-patients?pk_campaign=rss-feed)
 - [Hype Versus Reality](https://dev.to/rawveg/hype-versus-reality-51ch)
 - [War Games, Neural Networks: How MIT Is Rethinking Military Leadership](https://smarterarticles.co.uk/war-games-neural-networks-how-mit-is-rethinking-military-leadership?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [False Precision in Science: MIT Exposes the Spatial Statistics Flaw](https://smarterarticles.co.uk/false-precision-in-science-mit-exposes-the-spatial-statistics-flaw?pk_campaign=rss-feed)
 - [The Surveillance Crisis](https://dev.to/rawveg/the-surveillance-crisis-noa)
 - [After the Last Song: What Happens When AI Unlocks Every Vault](https://smarterarticles.co.uk/after-the-last-song-what-happens-when-ai-unlocks-every-vault?pk_campaign=rss-feed)
-- [AI Cannot Replace Drug Researchers](https://dev.to/rawveg/ai-cannot-replace-drug-researchers-2g59)
 <!-- BLOG-POST-LIST:END -->
