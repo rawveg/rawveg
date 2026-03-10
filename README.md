@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [More Tools Made AI Worse: The Engineering Fix Now Reshaping Agentic Systems](https://smarterarticles.co.uk/more-tools-made-ai-worse-the-engineering-fix-now-reshaping-agentic-systems?pk_campaign=rss-feed)
 - [The Quiet Exodus](https://dev.to/rawveg/the-quiet-exodus-2ih)
 - [De-Identified and Still Exposed: How Clinical AI Memorises Individual Patients](https://smarterarticles.co.uk/de-identified-and-still-exposed-how-clinical-ai-memorises-individual-patients?pk_campaign=rss-feed)
 - [Hype Versus Reality](https://dev.to/rawveg/hype-versus-reality-51ch)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [You Can Download AI for Free...](https://dev.to/rawveg/you-can-download-ai-for-free-3ck9)
 - [False Precision in Science: MIT Exposes the Spatial Statistics Flaw](https://smarterarticles.co.uk/false-precision-in-science-mit-exposes-the-spatial-statistics-flaw?pk_campaign=rss-feed)
 - [The Surveillance Crisis](https://dev.to/rawveg/the-surveillance-crisis-noa)
-- [After the Last Song: What Happens When AI Unlocks Every Vault](https://smarterarticles.co.uk/after-the-last-song-what-happens-when-ai-unlocks-every-vault?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
