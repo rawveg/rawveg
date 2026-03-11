@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Safety Is Now Subversive: The Government War on AI Guardrails](https://smarterarticles.co.uk/safety-is-now-subversive-the-government-war-on-ai-guardrails?pk_campaign=rss-feed)
 - [Google vs Google](https://dev.to/rawveg/google-vs-google-39p4)
 - [More Tools Made AI Worse: The Engineering Fix Now Reshaping Agentic Systems](https://smarterarticles.co.uk/more-tools-made-ai-worse-the-engineering-fix-now-reshaping-agentic-systems?pk_campaign=rss-feed)
 - [The Quiet Exodus](https://dev.to/rawveg/the-quiet-exodus-2ih)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Personalisation Kills Choice](https://dev.to/rawveg/personalisation-kills-choice-3fbd)
 - [Twenty Minutes, Seventeen Organizations: Inside the Race to Detect AI-Driven Attacks](https://smarterarticles.co.uk/twenty-minutes-seventeen-organizations-inside-the-race-to-detect-ai-driven?pk_campaign=rss-feed)
 - [You Can Download AI for Free...](https://dev.to/rawveg/you-can-download-ai-for-free-3ck9)
-- [False Precision in Science: MIT Exposes the Spatial Statistics Flaw](https://smarterarticles.co.uk/false-precision-in-science-mit-exposes-the-spatial-statistics-flaw?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
