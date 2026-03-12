@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Watts Before Chips: The Energy Scramble Reshaping Global AI Power](https://smarterarticles.co.uk/watts-before-chips-the-energy-scramble-reshaping-global-ai-power?pk_campaign=rss-feed)
 - [The Future of Food](https://dev.to/rawveg/the-future-of-food-14gj)
 - [Safety Is Now Subversive: The Government War on AI Guardrails](https://smarterarticles.co.uk/safety-is-now-subversive-the-government-war-on-ai-guardrails?pk_campaign=rss-feed)
 - [Google vs Google](https://dev.to/rawveg/google-vs-google-39p4)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Hidden Cost of Ad-Free](https://dev.to/rawveg/the-hidden-cost-of-ad-free-146p)
 - [Child Safety vs. Data Center Dollars: Utah and the Unwinnable AI Debate](https://smarterarticles.co.uk/child-safety-vs-data-center-dollars-utah-and-the-unwinnable-ai-debate?pk_campaign=rss-feed)
 - [Personalisation Kills Choice](https://dev.to/rawveg/personalisation-kills-choice-3fbd)
-- [Twenty Minutes, Seventeen Organizations: Inside the Race to Detect AI-Driven Attacks](https://smarterarticles.co.uk/twenty-minutes-seventeen-organizations-inside-the-race-to-detect-ai-driven?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
