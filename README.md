@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Journalism Built on Borrowed Code: What Happens When the Vibe Coders Leave](https://smarterarticles.co.uk/journalism-built-on-borrowed-code-what-happens-when-the-vibe-coders-leave?pk_campaign=rss-feed)
 - [AI Trains on Your Art](https://dev.to/rawveg/ai-trains-on-your-art-mkd)
 - [Watts Before Chips: The Energy Scramble Reshaping Global AI Power](https://smarterarticles.co.uk/watts-before-chips-the-energy-scramble-reshaping-global-ai-power?pk_campaign=rss-feed)
 - [The Future of Food](https://dev.to/rawveg/the-future-of-food-14gj)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Tech Hiring and Neurodiversity](https://dev.to/rawveg/tech-hiring-and-neurodiversity-ibp)
 - [The Collapse Equation: When AI Tips the Cybersecurity Balance Beyond Recovery](https://smarterarticles.co.uk/the-collapse-equation-when-ai-tips-the-cybersecurity-balance-beyond-recovery?pk_campaign=rss-feed)
 - [The Hidden Cost of Ad-Free](https://dev.to/rawveg/the-hidden-cost-of-ad-free-146p)
-- [Child Safety vs. Data Center Dollars: Utah and the Unwinnable AI Debate](https://smarterarticles.co.uk/child-safety-vs-data-center-dollars-utah-and-the-unwinnable-ai-debate?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
