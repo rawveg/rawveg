@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Decoding Musk Timelines](https://dev.to/rawveg/decoding-musk-timelines-3ali)
 - [Journalism Built on Borrowed Code: What Happens When the Vibe Coders Leave](https://smarterarticles.co.uk/journalism-built-on-borrowed-code-what-happens-when-the-vibe-coders-leave?pk_campaign=rss-feed)
 - [AI Trains on Your Art](https://dev.to/rawveg/ai-trains-on-your-art-mkd)
 - [Watts Before Chips: The Energy Scramble Reshaping Global AI Power](https://smarterarticles.co.uk/watts-before-chips-the-energy-scramble-reshaping-global-ai-power?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Verification Crisis: Why Checking Generated Code Is Harder Than Writing It](https://smarterarticles.co.uk/the-verification-crisis-why-checking-generated-code-is-harder-than-writing-it?pk_campaign=rss-feed)
 - [Tech Hiring and Neurodiversity](https://dev.to/rawveg/tech-hiring-and-neurodiversity-ibp)
 - [The Collapse Equation: When AI Tips the Cybersecurity Balance Beyond Recovery](https://smarterarticles.co.uk/the-collapse-equation-when-ai-tips-the-cybersecurity-balance-beyond-recovery?pk_campaign=rss-feed)
-- [The Hidden Cost of Ad-Free](https://dev.to/rawveg/the-hidden-cost-of-ad-free-146p)
 <!-- BLOG-POST-LIST:END -->
