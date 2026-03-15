@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Stars, Real Losses: What AI Influencers Mean for Human Creators](https://smarterarticles.co.uk/virtual-stars-real-losses-what-ai-influencers-mean-for-human-creators?pk_campaign=rss-feed)
 - [Creative Studios and AI](https://dev.to/rawveg/creative-studios-and-ai-4pda)
 - [Your Data Outlives the App: The Governance Problem Nobody Has Solved](https://smarterarticles.co.uk/your-data-outlives-the-app-the-governance-problem-nobody-has-solved?pk_campaign=rss-feed)
 - [Decoding Musk Timelines](https://dev.to/rawveg/decoding-musk-timelines-3ali)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Artist Rebellion](https://dev.to/rawveg/the-artist-rebellion-318f)
 - [When the Corporation Is the Regulator: Microsoft and Canadian AI Governance](https://smarterarticles.co.uk/when-the-corporation-is-the-regulator-microsoft-and-canadian-ai-governance?pk_campaign=rss-feed)
 - [Autonomous AI in Legal Limbo](https://dev.to/rawveg/autonomous-ai-in-legal-limbo-c5j)
-- [The Verification Crisis: Why Checking Generated Code Is Harder Than Writing It](https://smarterarticles.co.uk/the-verification-crisis-why-checking-generated-code-is-harder-than-writing-it?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
