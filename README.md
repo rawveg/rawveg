@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Political Power Brokers](https://dev.to/rawveg/the-political-power-brokers-1feb)
 - [One-Way Mirror: AI Pricing and the Fight for Consumer Transparency](https://smarterarticles.co.uk/one-way-mirror-ai-pricing-and-the-fight-for-consumer-transparency?pk_campaign=rss-feed)
 - [The Creative Education Crisis](https://dev.to/rawveg/the-creative-education-crisis-3i15)
 - [Virtual Stars, Real Losses: What AI Influencers Mean for Human Creators](https://smarterarticles.co.uk/virtual-stars-real-losses-what-ai-influencers-mean-for-human-creators?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [War Games, Neural Networks: How MIT Is Rethinking Military Leadership](https://smarterarticles.co.uk/war-games-neural-networks-how-mit-is-rethinking-military-leadership?pk_campaign=rss-feed)
 - [Event-Driven Volatility](https://dev.to/rawveg/event-driven-volatility-13df)
 - [Sovereign AI: How Emerging Markets Are Rewriting Big Tech Rules](https://smarterarticles.co.uk/sovereign-ai-how-emerging-markets-are-rewriting-big-tech-rules?pk_campaign=rss-feed)
-- [The Artist Rebellion](https://dev.to/rawveg/the-artist-rebellion-318f)
 <!-- BLOG-POST-LIST:END -->
