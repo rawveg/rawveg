@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Reading Machine Minds: How Neuroscience Is Unlocking AI Transparency](https://smarterarticles.co.uk/reading-machine-minds-how-neuroscience-is-unlocking-ai-transparency?pk_campaign=rss-feed)
 - [The Political Power Brokers](https://dev.to/rawveg/the-political-power-brokers-1feb)
 - [One-Way Mirror: AI Pricing and the Fight for Consumer Transparency](https://smarterarticles.co.uk/one-way-mirror-ai-pricing-and-the-fight-for-consumer-transparency?pk_campaign=rss-feed)
 - [The Creative Education Crisis](https://dev.to/rawveg/the-creative-education-crisis-3i15)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Hype Versus Reality](https://dev.to/rawveg/hype-versus-reality-51ch)
 - [War Games, Neural Networks: How MIT Is Rethinking Military Leadership](https://smarterarticles.co.uk/war-games-neural-networks-how-mit-is-rethinking-military-leadership?pk_campaign=rss-feed)
 - [Event-Driven Volatility](https://dev.to/rawveg/event-driven-volatility-13df)
-- [Sovereign AI: How Emerging Markets Are Rewriting Big Tech Rules](https://smarterarticles.co.uk/sovereign-ai-how-emerging-markets-are-rewriting-big-tech-rules?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
