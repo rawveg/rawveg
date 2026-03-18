@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Jailbroken and Unleashed: The Legal Void When AI Agents Cause Harm](https://smarterarticles.co.uk/jailbroken-and-unleashed-the-legal-void-when-ai-agents-cause-harm?pk_campaign=rss-feed)
 - [Power Hungry Machines](https://dev.to/rawveg/power-hungry-machines-50cf)
 - [Reading Machine Minds: How Neuroscience Is Unlocking AI Transparency](https://smarterarticles.co.uk/reading-machine-minds-how-neuroscience-is-unlocking-ai-transparency?pk_campaign=rss-feed)
 - [The Political Power Brokers](https://dev.to/rawveg/the-political-power-brokers-1feb)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Quiet Exodus](https://dev.to/rawveg/the-quiet-exodus-2ih)
 - [De-Identified and Still Exposed: How Clinical AI Memorises Individual Patients](https://smarterarticles.co.uk/de-identified-and-still-exposed-how-clinical-ai-memorises-individual-patients?pk_campaign=rss-feed)
 - [Hype Versus Reality](https://dev.to/rawveg/hype-versus-reality-51ch)
-- [War Games, Neural Networks: How MIT Is Rethinking Military Leadership](https://smarterarticles.co.uk/war-games-neural-networks-how-mit-is-rethinking-military-leadership?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
