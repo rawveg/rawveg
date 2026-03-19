@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Teddy Bears With Microphones: Adult AI in the Nursery](https://smarterarticles.co.uk/teddy-bears-with-microphones-adult-ai-in-the-nursery?pk_campaign=rss-feed)
 - [The AI Grassroots Revolution](https://dev.to/rawveg/the-ai-grassroots-revolution-5agm)
 - [Jailbroken and Unleashed: The Legal Void When AI Agents Cause Harm](https://smarterarticles.co.uk/jailbroken-and-unleashed-the-legal-void-when-ai-agents-cause-harm?pk_campaign=rss-feed)
 - [Power Hungry Machines](https://dev.to/rawveg/power-hungry-machines-50cf)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Google vs Google](https://dev.to/rawveg/google-vs-google-39p4)
 - [More Tools Made AI Worse: The Engineering Fix Now Reshaping Agentic Systems](https://smarterarticles.co.uk/more-tools-made-ai-worse-the-engineering-fix-now-reshaping-agentic-systems?pk_campaign=rss-feed)
 - [The Quiet Exodus](https://dev.to/rawveg/the-quiet-exodus-2ih)
-- [De-Identified and Still Exposed: How Clinical AI Memorises Individual Patients](https://smarterarticles.co.uk/de-identified-and-still-exposed-how-clinical-ai-memorises-individual-patients?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
