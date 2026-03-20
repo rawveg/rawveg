@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Forced to Use AI: The Corporate Mandate Reshaping Every Career](https://smarterarticles.co.uk/forced-to-use-ai-the-corporate-mandate-reshaping-every-career?pk_campaign=rss-feed)
 - [Productivity Up, Expertise Down](https://dev.to/rawveg/productivity-up-expertise-down-584k)
 - [Teddy Bears With Microphones: Adult AI in the Nursery](https://smarterarticles.co.uk/teddy-bears-with-microphones-adult-ai-in-the-nursery?pk_campaign=rss-feed)
 - [The AI Grassroots Revolution](https://dev.to/rawveg/the-ai-grassroots-revolution-5agm)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Future of Food](https://dev.to/rawveg/the-future-of-food-14gj)
 - [Safety Is Now Subversive: The Government War on AI Guardrails](https://smarterarticles.co.uk/safety-is-now-subversive-the-government-war-on-ai-guardrails?pk_campaign=rss-feed)
 - [Google vs Google](https://dev.to/rawveg/google-vs-google-39p4)
-- [More Tools Made AI Worse: The Engineering Fix Now Reshaping Agentic Systems](https://smarterarticles.co.uk/more-tools-made-ai-worse-the-engineering-fix-now-reshaping-agentic-systems?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
