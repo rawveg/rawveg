@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your Face Is Not a Novel: The Moral Divide in AI Training](https://smarterarticles.co.uk/your-face-is-not-a-novel-the-moral-divide-in-ai-training?pk_campaign=rss-feed)
 - [Vibe Engineering, Disciplined AI Software Development](https://dev.to/rawveg/vibe-engineering-disciplined-ai-software-development-1f7i)
 - [Streaming Broke Musicians First: AI Just Made It Obvious](https://smarterarticles.co.uk/streaming-broke-musicians-first-ai-just-made-it-obvious?pk_campaign=rss-feed)
 - [When AI Divides Generations](https://dev.to/rawveg/when-ai-divides-generations-24di)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Decoding Musk Timelines](https://dev.to/rawveg/decoding-musk-timelines-3ali)
 - [Journalism Built on Borrowed Code: What Happens When the Vibe Coders Leave](https://smarterarticles.co.uk/journalism-built-on-borrowed-code-what-happens-when-the-vibe-coders-leave?pk_campaign=rss-feed)
 - [AI Trains on Your Art](https://dev.to/rawveg/ai-trains-on-your-art-mkd)
-- [Watts Before Chips: The Energy Scramble Reshaping Global AI Power](https://smarterarticles.co.uk/watts-before-chips-the-energy-scramble-reshaping-global-ai-power?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
