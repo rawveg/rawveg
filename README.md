@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Ouroboros Machine: When AI Reviews Its Own Code](https://smarterarticles.co.uk/the-ouroboros-machine-when-ai-reviews-its-own-code?pk_campaign=rss-feed)
 - [No Consent, No Credit, No Pay](https://dev.to/rawveg/no-consent-no-credit-no-pay-23p5)
 - [The Guardrail Crisis: Why Google Sent a Racial Slur to Millions](https://smarterarticles.co.uk/the-guardrail-crisis-why-google-sent-a-racial-slur-to-millions?pk_campaign=rss-feed)
 - [The AI Update Trap](https://dev.to/rawveg/the-ai-update-trap-1ijd)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Creative Education Crisis](https://dev.to/rawveg/the-creative-education-crisis-3i15)
 - [Virtual Stars, Real Losses: What AI Influencers Mean for Human Creators](https://smarterarticles.co.uk/virtual-stars-real-losses-what-ai-influencers-mean-for-human-creators?pk_campaign=rss-feed)
 - [Creative Studios and AI](https://dev.to/rawveg/creative-studios-and-ai-4pda)
-- [Your Data Outlives the App: The Governance Problem Nobody Has Solved](https://smarterarticles.co.uk/your-data-outlives-the-app-the-governance-problem-nobody-has-solved?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
