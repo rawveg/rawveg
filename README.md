@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Trades Your Money](https://dev.to/rawveg/ai-trades-your-money-f1n)
 - [The Ouroboros Machine: When AI Reviews Its Own Code](https://smarterarticles.co.uk/the-ouroboros-machine-when-ai-reviews-its-own-code?pk_campaign=rss-feed)
 - [No Consent, No Credit, No Pay](https://dev.to/rawveg/no-consent-no-credit-no-pay-23p5)
 - [The Guardrail Crisis: Why Google Sent a Racial Slur to Millions](https://smarterarticles.co.uk/the-guardrail-crisis-why-google-sent-a-racial-slur-to-millions?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [One-Way Mirror: AI Pricing and the Fight for Consumer Transparency](https://smarterarticles.co.uk/one-way-mirror-ai-pricing-and-the-fight-for-consumer-transparency?pk_campaign=rss-feed)
 - [The Creative Education Crisis](https://dev.to/rawveg/the-creative-education-crisis-3i15)
 - [Virtual Stars, Real Losses: What AI Influencers Mean for Human Creators](https://smarterarticles.co.uk/virtual-stars-real-losses-what-ai-influencers-mean-for-human-creators?pk_campaign=rss-feed)
-- [Creative Studios and AI](https://dev.to/rawveg/creative-studios-and-ai-4pda)
 <!-- BLOG-POST-LIST:END -->
