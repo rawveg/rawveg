@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Enterprise AI Without Guardrails](https://dev.to/rawveg/enterprise-ai-without-guardrails-5183)
 - [Your Phone Heard Everything: AI Assistants and the Privacy Reckoning](https://smarterarticles.co.uk/your-phone-heard-everything-ai-assistants-and-the-privacy-reckoning?pk_campaign=rss-feed)
 - [AI Trades Your Money](https://dev.to/rawveg/ai-trades-your-money-f1n)
 - [The Ouroboros Machine: When AI Reviews Its Own Code](https://smarterarticles.co.uk/the-ouroboros-machine-when-ai-reviews-its-own-code?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Reading Machine Minds: How Neuroscience Is Unlocking AI Transparency](https://smarterarticles.co.uk/reading-machine-minds-how-neuroscience-is-unlocking-ai-transparency?pk_campaign=rss-feed)
 - [The Political Power Brokers](https://dev.to/rawveg/the-political-power-brokers-1feb)
 - [One-Way Mirror: AI Pricing and the Fight for Consumer Transparency](https://smarterarticles.co.uk/one-way-mirror-ai-pricing-and-the-fight-for-consumer-transparency?pk_campaign=rss-feed)
-- [The Creative Education Crisis](https://dev.to/rawveg/the-creative-education-crisis-3i15)
 <!-- BLOG-POST-LIST:END -->
