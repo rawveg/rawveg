@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Hallucinations in Enterprise](https://dev.to/rawveg/ai-hallucinations-in-enterprise-44ae)
 - [Five Diseases Hiding as One: AI Transforms Heart Valve Surgery](https://smarterarticles.co.uk/five-diseases-hiding-as-one-ai-transforms-heart-valve-surgery?pk_campaign=rss-feed)
 - [Enterprise AI Without Guardrails](https://dev.to/rawveg/enterprise-ai-without-guardrails-5183)
 - [Your Phone Heard Everything: AI Assistants and the Privacy Reckoning](https://smarterarticles.co.uk/your-phone-heard-everything-ai-assistants-and-the-privacy-reckoning?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Jailbroken and Unleashed: The Legal Void When AI Agents Cause Harm](https://smarterarticles.co.uk/jailbroken-and-unleashed-the-legal-void-when-ai-agents-cause-harm?pk_campaign=rss-feed)
 - [Power Hungry Machines](https://dev.to/rawveg/power-hungry-machines-50cf)
 - [Reading Machine Minds: How Neuroscience Is Unlocking AI Transparency](https://smarterarticles.co.uk/reading-machine-minds-how-neuroscience-is-unlocking-ai-transparency?pk_campaign=rss-feed)
-- [The Political Power Brokers](https://dev.to/rawveg/the-political-power-brokers-1feb)
 <!-- BLOG-POST-LIST:END -->
