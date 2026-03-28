@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Transparency Trap: When Explaining AI Moderation Helps Bad Actors](https://smarterarticles.co.uk/the-transparency-trap-when-explaining-ai-moderation-helps-bad-actors?pk_campaign=rss-feed)
 - [Fake Faces We Trust More](https://dev.to/rawveg/fake-faces-we-trust-more-4o66)
 - [Your Body, Their Data: How Insurers Profit from Wellness Apps](https://smarterarticles.co.uk/your-body-their-data-how-insurers-profit-from-wellness-apps?pk_campaign=rss-feed)
 - [AI Hallucinations in Enterprise](https://dev.to/rawveg/ai-hallucinations-in-enterprise-44ae)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Productivity Up, Expertise Down](https://dev.to/rawveg/productivity-up-expertise-down-584k)
 - [Teddy Bears With Microphones: Adult AI in the Nursery](https://smarterarticles.co.uk/teddy-bears-with-microphones-adult-ai-in-the-nursery?pk_campaign=rss-feed)
 - [The AI Grassroots Revolution](https://dev.to/rawveg/the-ai-grassroots-revolution-5agm)
-- [Jailbroken and Unleashed: The Legal Void When AI Agents Cause Harm](https://smarterarticles.co.uk/jailbroken-and-unleashed-the-legal-void-when-ai-agents-cause-harm?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
