@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Personalisation Reshapes Fashion](https://dev.to/rawveg/ai-personalisation-reshapes-fashion-3hkp)
 - [The Transparency Trap: When Explaining AI Moderation Helps Bad Actors](https://smarterarticles.co.uk/the-transparency-trap-when-explaining-ai-moderation-helps-bad-actors?pk_campaign=rss-feed)
 - [Fake Faces We Trust More](https://dev.to/rawveg/fake-faces-we-trust-more-4o66)
 - [Your Body, Their Data: How Insurers Profit from Wellness Apps](https://smarterarticles.co.uk/your-body-their-data-how-insurers-profit-from-wellness-apps?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Forced to Use AI: The Corporate Mandate Reshaping Every Career](https://smarterarticles.co.uk/forced-to-use-ai-the-corporate-mandate-reshaping-every-career?pk_campaign=rss-feed)
 - [Productivity Up, Expertise Down](https://dev.to/rawveg/productivity-up-expertise-down-584k)
 - [Teddy Bears With Microphones: Adult AI in the Nursery](https://smarterarticles.co.uk/teddy-bears-with-microphones-adult-ai-in-the-nursery?pk_campaign=rss-feed)
-- [The AI Grassroots Revolution](https://dev.to/rawveg/the-ai-grassroots-revolution-5agm)
 <!-- BLOG-POST-LIST:END -->
