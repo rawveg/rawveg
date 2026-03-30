@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Trust Is Not a Feature: The Corporate Capture of AI Transparency](https://smarterarticles.co.uk/trust-is-not-a-feature-the-corporate-capture-of-ai-transparency?pk_campaign=rss-feed)
 - [The Treaty of Detroit for AI](https://dev.to/rawveg/the-treaty-of-detroit-for-ai-5eaj)
 - [The Governance Crisis: AI Moves in Weeks, Laws Take Years](https://smarterarticles.co.uk/the-governance-crisis-ai-moves-in-weeks-laws-take-years?pk_campaign=rss-feed)
 - [AI Personalisation Reshapes Fashion](https://dev.to/rawveg/ai-personalisation-reshapes-fashion-3hkp)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Vibe Engineering, Disciplined AI Software Development](https://dev.to/rawveg/vibe-engineering-disciplined-ai-software-development-1f7i)
 - [Streaming Broke Musicians First: AI Just Made It Obvious](https://smarterarticles.co.uk/streaming-broke-musicians-first-ai-just-made-it-obvious?pk_campaign=rss-feed)
 - [When AI Divides Generations](https://dev.to/rawveg/when-ai-divides-generations-24di)
-- [Forced to Use AI: The Corporate Mandate Reshaping Every Career](https://smarterarticles.co.uk/forced-to-use-ai-the-corporate-mandate-reshaping-every-career?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
