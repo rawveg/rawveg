@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Metadata Crisis](https://dev.to/rawveg/the-metadata-crisis-1bcl)
 - [AI Goes to War: Why Nobody Controls the Weapons](https://smarterarticles.co.uk/ai-goes-to-war-why-nobody-controls-the-weapons?pk_campaign=rss-feed)
 - [AI Curation Is Broken](https://dev.to/rawveg/ai-curation-is-broken-56e)
 - [Trust Is Not a Feature: The Corporate Capture of AI Transparency](https://smarterarticles.co.uk/trust-is-not-a-feature-the-corporate-capture-of-ai-transparency?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Guardrail Crisis: Why Google Sent a Racial Slur to Millions](https://smarterarticles.co.uk/the-guardrail-crisis-why-google-sent-a-racial-slur-to-millions?pk_campaign=rss-feed)
 - [The AI Update Trap](https://dev.to/rawveg/the-ai-update-trap-1ijd)
 - [Your Face Is Not a Novel: The Moral Divide in AI Training](https://smarterarticles.co.uk/your-face-is-not-a-novel-the-moral-divide-in-ai-training?pk_campaign=rss-feed)
-- [Vibe Engineering, Disciplined AI Software Development](https://dev.to/rawveg/vibe-engineering-disciplined-ai-software-development-1f7i)
 <!-- BLOG-POST-LIST:END -->
