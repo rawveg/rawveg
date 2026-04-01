@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Seeing Everything, Knowing Nothing](https://dev.to/rawveg/seeing-everything-knowing-nothing-3ibd)
 - [Three Years in Four Weeks: How Enterprise AI Rewrites Employment](https://smarterarticles.co.uk/three-years-in-four-weeks-how-enterprise-ai-rewrites-employment?pk_campaign=rss-feed)
 - [The Metadata Crisis](https://dev.to/rawveg/the-metadata-crisis-1bcl)
 - [AI Goes to War: Why Nobody Controls the Weapons](https://smarterarticles.co.uk/ai-goes-to-war-why-nobody-controls-the-weapons?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Ouroboros Machine: When AI Reviews Its Own Code](https://smarterarticles.co.uk/the-ouroboros-machine-when-ai-reviews-its-own-code?pk_campaign=rss-feed)
 - [No Consent, No Credit, No Pay](https://dev.to/rawveg/no-consent-no-credit-no-pay-23p5)
 - [The Guardrail Crisis: Why Google Sent a Racial Slur to Millions](https://smarterarticles.co.uk/the-guardrail-crisis-why-google-sent-a-racial-slur-to-millions?pk_campaign=rss-feed)
-- [The AI Update Trap](https://dev.to/rawveg/the-ai-update-trap-1ijd)
 <!-- BLOG-POST-LIST:END -->
