@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Priced Out by AI: The Memory Chip Crisis Hitting Every Consumer](https://smarterarticles.co.uk/priced-out-by-ai-the-memory-chip-crisis-hitting-every-consumer?pk_campaign=rss-feed)
 - [Seeing Everything, Knowing Nothing](https://dev.to/rawveg/seeing-everything-knowing-nothing-3ibd)
 - [Three Years in Four Weeks: How Enterprise AI Rewrites Employment](https://smarterarticles.co.uk/three-years-in-four-weeks-how-enterprise-ai-rewrites-employment?pk_campaign=rss-feed)
 - [The Metadata Crisis](https://dev.to/rawveg/the-metadata-crisis-1bcl)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Trades Your Money](https://dev.to/rawveg/ai-trades-your-money-f1n)
 - [The Ouroboros Machine: When AI Reviews Its Own Code](https://smarterarticles.co.uk/the-ouroboros-machine-when-ai-reviews-its-own-code?pk_campaign=rss-feed)
 - [No Consent, No Credit, No Pay](https://dev.to/rawveg/no-consent-no-credit-no-pay-23p5)
-- [The Guardrail Crisis: Why Google Sent a Racial Slur to Millions](https://smarterarticles.co.uk/the-guardrail-crisis-why-google-sent-a-racial-slur-to-millions?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
