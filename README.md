@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Interoperability or Isolation](https://dev.to/rawveg/interoperability-or-isolation-1g76)
 - [They Taught Themselves to Hack: How AI Agents Hold Your Data To Ransom](https://smarterarticles.co.uk/they-taught-themselves-to-hack-how-ai-agents-hold-your-data-to-ransom?pk_campaign=rss-feed)
 - [Data Noise as Protest](https://dev.to/rawveg/data-noise-as-protest-5247)
 - [Priced Out by AI: The Memory Chip Crisis Hitting Every Consumer](https://smarterarticles.co.uk/priced-out-by-ai-the-memory-chip-crisis-hitting-every-consumer?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Five Diseases Hiding as One: AI Transforms Heart Valve Surgery](https://smarterarticles.co.uk/five-diseases-hiding-as-one-ai-transforms-heart-valve-surgery?pk_campaign=rss-feed)
 - [Enterprise AI Without Guardrails](https://dev.to/rawveg/enterprise-ai-without-guardrails-5183)
 - [Your Phone Heard Everything: AI Assistants and the Privacy Reckoning](https://smarterarticles.co.uk/your-phone-heard-everything-ai-assistants-and-the-privacy-reckoning?pk_campaign=rss-feed)
-- [AI Trades Your Money](https://dev.to/rawveg/ai-trades-your-money-f1n)
 <!-- BLOG-POST-LIST:END -->
