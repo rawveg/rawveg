@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [They Taught Themselves to Hack: How AI Agents Hold Your Data To Ransom](https://smarterarticles.co.uk/they-taught-themselves-to-hack-how-ai-agents-hold-your-data-to-ransom?pk_campaign=rss-feed)
 - [Data Noise as Protest](https://dev.to/rawveg/data-noise-as-protest-5247)
 - [Priced Out by AI: The Memory Chip Crisis Hitting Every Consumer](https://smarterarticles.co.uk/priced-out-by-ai-the-memory-chip-crisis-hitting-every-consumer?pk_campaign=rss-feed)
 - [Seeing Everything, Knowing Nothing](https://dev.to/rawveg/seeing-everything-knowing-nothing-3ibd)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Enterprise AI Without Guardrails](https://dev.to/rawveg/enterprise-ai-without-guardrails-5183)
 - [Your Phone Heard Everything: AI Assistants and the Privacy Reckoning](https://smarterarticles.co.uk/your-phone-heard-everything-ai-assistants-and-the-privacy-reckoning?pk_campaign=rss-feed)
 - [AI Trades Your Money](https://dev.to/rawveg/ai-trades-your-money-f1n)
-- [The Ouroboros Machine: When AI Reviews Its Own Code](https://smarterarticles.co.uk/the-ouroboros-machine-when-ai-reviews-its-own-code?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
