@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The AI Coding Productivity Illusion](https://dev.to/rawveg/the-ai-coding-productivity-illusion-4kde)
 - [Silicon Valley Heard 81,000 People: It Chose Not to Listen](https://smarterarticles.co.uk/silicon-valley-heard-81-000-people-it-chose-not-to-listen?pk_campaign=rss-feed)
 - [Interoperability or Isolation](https://dev.to/rawveg/interoperability-or-isolation-1g76)
 - [They Taught Themselves to Hack: How AI Agents Hold Your Data To Ransom](https://smarterarticles.co.uk/they-taught-themselves-to-hack-how-ai-agents-hold-your-data-to-ransom?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Your Body, Their Data: How Insurers Profit from Wellness Apps](https://smarterarticles.co.uk/your-body-their-data-how-insurers-profit-from-wellness-apps?pk_campaign=rss-feed)
 - [AI Hallucinations in Enterprise](https://dev.to/rawveg/ai-hallucinations-in-enterprise-44ae)
 - [Five Diseases Hiding as One: AI Transforms Heart Valve Surgery](https://smarterarticles.co.uk/five-diseases-hiding-as-one-ai-transforms-heart-valve-surgery?pk_campaign=rss-feed)
-- [Enterprise AI Without Guardrails](https://dev.to/rawveg/enterprise-ai-without-guardrails-5183)
 <!-- BLOG-POST-LIST:END -->
