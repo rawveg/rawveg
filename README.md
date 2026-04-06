@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Fake Praise, Real Money: How AI Powers the Author Scam](https://smarterarticles.co.uk/fake-praise-real-money-how-ai-powers-the-author-scam?pk_campaign=rss-feed)
 - [Detecting Trends Before They Break](https://dev.to/rawveg/detecting-trends-before-they-break-3887)
 - [Machines That Pretend to Care: The Human Cost of Fake Empathy](https://smarterarticles.co.uk/machines-that-pretend-to-care-the-human-cost-of-fake-empathy?pk_campaign=rss-feed)
 - [The AI Coding Productivity Illusion](https://dev.to/rawveg/the-ai-coding-productivity-illusion-4kde)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Personalisation Reshapes Fashion](https://dev.to/rawveg/ai-personalisation-reshapes-fashion-3hkp)
 - [The Transparency Trap: When Explaining AI Moderation Helps Bad Actors](https://smarterarticles.co.uk/the-transparency-trap-when-explaining-ai-moderation-helps-bad-actors?pk_campaign=rss-feed)
 - [Fake Faces We Trust More](https://dev.to/rawveg/fake-faces-we-trust-more-4o66)
-- [Your Body, Their Data: How Insurers Profit from Wellness Apps](https://smarterarticles.co.uk/your-body-their-data-how-insurers-profit-from-wellness-apps?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
