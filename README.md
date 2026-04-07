@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Brain Metaphor Trap](https://dev.to/rawveg/the-brain-metaphor-trap-n8p)
 - [ChatGPT Ads Are Not Contextual: Why Persistent Memory Changes Everything](https://smarterarticles.co.uk/chatgpt-ads-are-not-contextual-why-persistent-memory-changes-everything?pk_campaign=rss-feed)
 - [The Synthetic Data Dilemma](https://dev.to/rawveg/the-synthetic-data-dilemma-1ihe)
 - [Fake Praise, Real Money: How AI Powers the Author Scam](https://smarterarticles.co.uk/fake-praise-real-money-how-ai-powers-the-author-scam?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Trust Is Not a Feature: The Corporate Capture of AI Transparency](https://smarterarticles.co.uk/trust-is-not-a-feature-the-corporate-capture-of-ai-transparency?pk_campaign=rss-feed)
 - [The Treaty of Detroit for AI](https://dev.to/rawveg/the-treaty-of-detroit-for-ai-5eaj)
 - [The Governance Crisis: AI Moves in Weeks, Laws Take Years](https://smarterarticles.co.uk/the-governance-crisis-ai-moves-in-weeks-laws-take-years?pk_campaign=rss-feed)
-- [AI Personalisation Reshapes Fashion](https://dev.to/rawveg/ai-personalisation-reshapes-fashion-3hkp)
 <!-- BLOG-POST-LIST:END -->
