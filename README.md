@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Transparency Theatre](https://dev.to/rawveg/transparency-theatre-p0)
 - [The Internet Nobody Wrote: Autonomous Content Floods the Web](https://smarterarticles.co.uk/the-internet-nobody-wrote-autonomous-content-floods-the-web?pk_campaign=rss-feed)
 - [Western AI Rules for Everyone](https://dev.to/rawveg/western-ai-rules-for-everyone-6j)
 - [AI That Understands Physics: Why We Cannot Understand It Back](https://smarterarticles.co.uk/ai-that-understands-physics-why-we-cannot-understand-it-back?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Three Years in Four Weeks: How Enterprise AI Rewrites Employment](https://smarterarticles.co.uk/three-years-in-four-weeks-how-enterprise-ai-rewrites-employment?pk_campaign=rss-feed)
 - [The Metadata Crisis](https://dev.to/rawveg/the-metadata-crisis-1bcl)
 - [AI Goes to War: Why Nobody Controls the Weapons](https://smarterarticles.co.uk/ai-goes-to-war-why-nobody-controls-the-weapons?pk_campaign=rss-feed)
-- [AI Curation Is Broken](https://dev.to/rawveg/ai-curation-is-broken-56e)
 <!-- BLOG-POST-LIST:END -->
