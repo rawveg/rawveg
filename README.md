@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Internet Nobody Wrote: Autonomous Content Floods the Web](https://smarterarticles.co.uk/the-internet-nobody-wrote-autonomous-content-floods-the-web?pk_campaign=rss-feed)
 - [Western AI Rules for Everyone](https://dev.to/rawveg/western-ai-rules-for-everyone-6j)
 - [AI That Understands Physics: Why We Cannot Understand It Back](https://smarterarticles.co.uk/ai-that-understands-physics-why-we-cannot-understand-it-back?pk_campaign=rss-feed)
 - [The Brain Metaphor Trap](https://dev.to/rawveg/the-brain-metaphor-trap-n8p)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Metadata Crisis](https://dev.to/rawveg/the-metadata-crisis-1bcl)
 - [AI Goes to War: Why Nobody Controls the Weapons](https://smarterarticles.co.uk/ai-goes-to-war-why-nobody-controls-the-weapons?pk_campaign=rss-feed)
 - [AI Curation Is Broken](https://dev.to/rawveg/ai-curation-is-broken-56e)
-- [Trust Is Not a Feature: The Corporate Capture of AI Transparency](https://smarterarticles.co.uk/trust-is-not-a-feature-the-corporate-capture-of-ai-transparency?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
