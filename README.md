@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Send My Clone: AI Avatars and the Death of Meeting Trust](https://smarterarticles.co.uk/send-my-clone-ai-avatars-and-the-death-of-meeting-trust?pk_campaign=rss-feed)
 - [Transparency Theatre](https://dev.to/rawveg/transparency-theatre-p0)
 - [The Internet Nobody Wrote: Autonomous Content Floods the Web](https://smarterarticles.co.uk/the-internet-nobody-wrote-autonomous-content-floods-the-web?pk_campaign=rss-feed)
 - [Western AI Rules for Everyone](https://dev.to/rawveg/western-ai-rules-for-everyone-6j)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Seeing Everything, Knowing Nothing](https://dev.to/rawveg/seeing-everything-knowing-nothing-3ibd)
 - [Three Years in Four Weeks: How Enterprise AI Rewrites Employment](https://smarterarticles.co.uk/three-years-in-four-weeks-how-enterprise-ai-rewrites-employment?pk_campaign=rss-feed)
 - [The Metadata Crisis](https://dev.to/rawveg/the-metadata-crisis-1bcl)
-- [AI Goes to War: Why Nobody Controls the Weapons](https://smarterarticles.co.uk/ai-goes-to-war-why-nobody-controls-the-weapons?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
