@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Real Cost of Bad Data](https://dev.to/rawveg/the-real-cost-of-bad-data-8fe)
 - [Your Bed Needs the Internet: How Cloud Dependence Endangers Everything](https://smarterarticles.co.uk/your-bed-needs-the-internet-how-cloud-dependence-endangers-everything?pk_campaign=rss-feed)
 - [The Quiet Catastrophe](https://dev.to/rawveg/the-quiet-catastrophe-4fb9)
 - [Send My Clone: AI Avatars and the Death of Meeting Trust](https://smarterarticles.co.uk/send-my-clone-ai-avatars-and-the-death-of-meeting-trust?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [They Taught Themselves to Hack: How AI Agents Hold Your Data To Ransom](https://smarterarticles.co.uk/they-taught-themselves-to-hack-how-ai-agents-hold-your-data-to-ransom?pk_campaign=rss-feed)
 - [Data Noise as Protest](https://dev.to/rawveg/data-noise-as-protest-5247)
 - [Priced Out by AI: The Memory Chip Crisis Hitting Every Consumer](https://smarterarticles.co.uk/priced-out-by-ai-the-memory-chip-crisis-hitting-every-consumer?pk_campaign=rss-feed)
-- [Seeing Everything, Knowing Nothing](https://dev.to/rawveg/seeing-everything-knowing-nothing-3ibd)
 <!-- BLOG-POST-LIST:END -->
