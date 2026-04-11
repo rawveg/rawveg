@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your Bed Needs the Internet: How Cloud Dependence Endangers Everything](https://smarterarticles.co.uk/your-bed-needs-the-internet-how-cloud-dependence-endangers-everything?pk_campaign=rss-feed)
 - [The Quiet Catastrophe](https://dev.to/rawveg/the-quiet-catastrophe-4fb9)
 - [Send My Clone: AI Avatars and the Death of Meeting Trust](https://smarterarticles.co.uk/send-my-clone-ai-avatars-and-the-death-of-meeting-trust?pk_campaign=rss-feed)
 - [Transparency Theatre](https://dev.to/rawveg/transparency-theatre-p0)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Data Noise as Protest](https://dev.to/rawveg/data-noise-as-protest-5247)
 - [Priced Out by AI: The Memory Chip Crisis Hitting Every Consumer](https://smarterarticles.co.uk/priced-out-by-ai-the-memory-chip-crisis-hitting-every-consumer?pk_campaign=rss-feed)
 - [Seeing Everything, Knowing Nothing](https://dev.to/rawveg/seeing-everything-knowing-nothing-3ibd)
-- [Three Years in Four Weeks: How Enterprise AI Rewrites Employment](https://smarterarticles.co.uk/three-years-in-four-weeks-how-enterprise-ai-rewrites-employment?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
