@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Therapy for Children: The Experiment Nobody Approved](https://smarterarticles.co.uk/ai-therapy-for-children-the-experiment-nobody-approved?pk_campaign=rss-feed)
 - [Brilliant on Paper, Blind in Practice](https://dev.to/rawveg/brilliant-on-paper-blind-in-practice-3ici)
 - [Reskilling Will Not Save Us: The Agentic AI Labour Crisis](https://smarterarticles.co.uk/reskilling-will-not-save-us-the-agentic-ai-labour-crisis?pk_campaign=rss-feed)
 - [The Real Cost of Bad Data](https://dev.to/rawveg/the-real-cost-of-bad-data-8fe)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The AI Coding Productivity Illusion](https://dev.to/rawveg/the-ai-coding-productivity-illusion-4kde)
 - [Silicon Valley Heard 81,000 People: It Chose Not to Listen](https://smarterarticles.co.uk/silicon-valley-heard-81-000-people-it-chose-not-to-listen?pk_campaign=rss-feed)
 - [Interoperability or Isolation](https://dev.to/rawveg/interoperability-or-isolation-1g76)
-- [They Taught Themselves to Hack: How AI Agents Hold Your Data To Ransom](https://smarterarticles.co.uk/they-taught-themselves-to-hack-how-ai-agents-hold-your-data-to-ransom?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
