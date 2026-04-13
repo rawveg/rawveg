@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When AI Knows You&#39;re Breaking](https://dev.to/rawveg/when-ai-knows-youre-breaking-49l0)
 - [AI Therapy for Children: The Experiment Nobody Approved](https://smarterarticles.co.uk/ai-therapy-for-children-the-experiment-nobody-approved?pk_campaign=rss-feed)
 - [Brilliant on Paper, Blind in Practice](https://dev.to/rawveg/brilliant-on-paper-blind-in-practice-3ici)
 - [Reskilling Will Not Save Us: The Agentic AI Labour Crisis](https://smarterarticles.co.uk/reskilling-will-not-save-us-the-agentic-ai-labour-crisis?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Machines That Pretend to Care: The Human Cost of Fake Empathy](https://smarterarticles.co.uk/machines-that-pretend-to-care-the-human-cost-of-fake-empathy?pk_campaign=rss-feed)
 - [The AI Coding Productivity Illusion](https://dev.to/rawveg/the-ai-coding-productivity-illusion-4kde)
 - [Silicon Valley Heard 81,000 People: It Chose Not to Listen](https://smarterarticles.co.uk/silicon-valley-heard-81-000-people-it-chose-not-to-listen?pk_campaign=rss-feed)
-- [Interoperability or Isolation](https://dev.to/rawveg/interoperability-or-isolation-1g76)
 <!-- BLOG-POST-LIST:END -->
