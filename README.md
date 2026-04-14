@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Medical AI Fails Minorities](https://dev.to/rawveg/medical-ai-fails-minorities-4g75)
 - [AI Exposed the Lie: Schools Never Taught Critical Thinking](https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking?pk_campaign=rss-feed)
 - [When AI Knows You&#39;re Breaking](https://dev.to/rawveg/when-ai-knows-youre-breaking-49l0)
 - [AI Therapy for Children: The Experiment Nobody Approved](https://smarterarticles.co.uk/ai-therapy-for-children-the-experiment-nobody-approved?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Fake Praise, Real Money: How AI Powers the Author Scam](https://smarterarticles.co.uk/fake-praise-real-money-how-ai-powers-the-author-scam?pk_campaign=rss-feed)
 - [Detecting Trends Before They Break](https://dev.to/rawveg/detecting-trends-before-they-break-3887)
 - [Machines That Pretend to Care: The Human Cost of Fake Empathy](https://smarterarticles.co.uk/machines-that-pretend-to-care-the-human-cost-of-fake-empathy?pk_campaign=rss-feed)
-- [The AI Coding Productivity Illusion](https://dev.to/rawveg/the-ai-coding-productivity-illusion-4kde)
 <!-- BLOG-POST-LIST:END -->
