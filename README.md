@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Millennials Beat Gen Z at AI](https://dev.to/rawveg/millennials-beat-gen-z-at-ai-5c54)
 - [AI and the Translators Left Behind: When Good Enough Wins](https://smarterarticles.co.uk/ai-and-the-translators-left-behind-when-good-enough-wins?pk_campaign=rss-feed)
 - [Medical AI Fails Minorities](https://dev.to/rawveg/medical-ai-fails-minorities-4g75)
 - [AI Exposed the Lie: Schools Never Taught Critical Thinking](https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [ChatGPT Ads Are Not Contextual: Why Persistent Memory Changes Everything](https://smarterarticles.co.uk/chatgpt-ads-are-not-contextual-why-persistent-memory-changes-everything?pk_campaign=rss-feed)
 - [The Synthetic Data Dilemma](https://dev.to/rawveg/the-synthetic-data-dilemma-1ihe)
 - [Fake Praise, Real Money: How AI Powers the Author Scam](https://smarterarticles.co.uk/fake-praise-real-money-how-ai-powers-the-author-scam?pk_campaign=rss-feed)
-- [Detecting Trends Before They Break](https://dev.to/rawveg/detecting-trends-before-they-break-3887)
 <!-- BLOG-POST-LIST:END -->
