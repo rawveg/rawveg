@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Code Needs Oversight](https://dev.to/rawveg/ai-code-needs-oversight-1mel)
 - [Same Symptoms, Different Care: How Medical AI Encodes Inequality](https://smarterarticles.co.uk/same-symptoms-different-care-how-medical-ai-encodes-inequality?pk_campaign=rss-feed)
 - [Millennials Beat Gen Z at AI](https://dev.to/rawveg/millennials-beat-gen-z-at-ai-5c54)
 - [AI and the Translators Left Behind: When Good Enough Wins](https://smarterarticles.co.uk/ai-and-the-translators-left-behind-when-good-enough-wins?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI That Understands Physics: Why We Cannot Understand It Back](https://smarterarticles.co.uk/ai-that-understands-physics-why-we-cannot-understand-it-back?pk_campaign=rss-feed)
 - [The Brain Metaphor Trap](https://dev.to/rawveg/the-brain-metaphor-trap-n8p)
 - [ChatGPT Ads Are Not Contextual: Why Persistent Memory Changes Everything](https://smarterarticles.co.uk/chatgpt-ads-are-not-contextual-why-persistent-memory-changes-everything?pk_campaign=rss-feed)
-- [The Synthetic Data Dilemma](https://dev.to/rawveg/the-synthetic-data-dilemma-1ihe)
 <!-- BLOG-POST-LIST:END -->
