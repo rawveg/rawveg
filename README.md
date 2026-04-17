@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding Threatens Journalism](https://dev.to/rawveg/vibe-coding-threatens-journalism-2gnh)
 - [Consensus Without Consequence: The Collapse of AI Accountability](https://smarterarticles.co.uk/consensus-without-consequence-the-collapse-of-ai-accountability?pk_campaign=rss-feed)
 - [AI Code Needs Oversight](https://dev.to/rawveg/ai-code-needs-oversight-1mel)
 - [Same Symptoms, Different Care: How Medical AI Encodes Inequality](https://smarterarticles.co.uk/same-symptoms-different-care-how-medical-ai-encodes-inequality?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Internet Nobody Wrote: Autonomous Content Floods the Web](https://smarterarticles.co.uk/the-internet-nobody-wrote-autonomous-content-floods-the-web?pk_campaign=rss-feed)
 - [Western AI Rules for Everyone](https://dev.to/rawveg/western-ai-rules-for-everyone-6j)
 - [AI That Understands Physics: Why We Cannot Understand It Back](https://smarterarticles.co.uk/ai-that-understands-physics-why-we-cannot-understand-it-back?pk_campaign=rss-feed)
-- [The Brain Metaphor Trap](https://dev.to/rawveg/the-brain-metaphor-trap-n8p)
 <!-- BLOG-POST-LIST:END -->
