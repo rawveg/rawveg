@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3h4f)
 - [Dismantling the GDPR: 151 Million Euros of Corporate Lobbying](https://smarterarticles.co.uk/dismantling-the-gdpr-151-million-euros-of-corporate-lobbying?pk_campaign=rss-feed)
 - [The Identity Loophole](https://dev.to/rawveg/the-identity-loophole-3g7)
 - [Forget Mass Layoffs: AI Is Quietly Sorting Winners and Losers](https://smarterarticles.co.uk/forget-mass-layoffs-ai-is-quietly-sorting-winners-and-losers?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Your Bed Needs the Internet: How Cloud Dependence Endangers Everything](https://smarterarticles.co.uk/your-bed-needs-the-internet-how-cloud-dependence-endangers-everything?pk_campaign=rss-feed)
 - [The Quiet Catastrophe](https://dev.to/rawveg/the-quiet-catastrophe-4fb9)
 - [Send My Clone: AI Avatars and the Death of Meeting Trust](https://smarterarticles.co.uk/send-my-clone-ai-avatars-and-the-death-of-meeting-trust?pk_campaign=rss-feed)
-- [Transparency Theatre](https://dev.to/rawveg/transparency-theatre-p0)
 <!-- BLOG-POST-LIST:END -->
