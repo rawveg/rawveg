@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Chart Success Without Artists](https://dev.to/rawveg/chart-success-without-artists-3ba1)
 - [AI Will Not Take Your Job: It Will Hollow It Out](https://smarterarticles.co.uk/ai-will-not-take-your-job-it-will-hollow-it-out?pk_campaign=rss-feed)
 - [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3h4f)
 - [Dismantling the GDPR: 151 Million Euros of Corporate Lobbying](https://smarterarticles.co.uk/dismantling-the-gdpr-151-million-euros-of-corporate-lobbying?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Reskilling Will Not Save Us: The Agentic AI Labour Crisis](https://smarterarticles.co.uk/reskilling-will-not-save-us-the-agentic-ai-labour-crisis?pk_campaign=rss-feed)
 - [The Real Cost of Bad Data](https://dev.to/rawveg/the-real-cost-of-bad-data-8fe)
 - [Your Bed Needs the Internet: How Cloud Dependence Endangers Everything](https://smarterarticles.co.uk/your-bed-needs-the-internet-how-cloud-dependence-endangers-everything?pk_campaign=rss-feed)
-- [The Quiet Catastrophe](https://dev.to/rawveg/the-quiet-catastrophe-4fb9)
 <!-- BLOG-POST-LIST:END -->
