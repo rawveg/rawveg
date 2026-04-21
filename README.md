@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When Code Lives in Chat](https://dev.to/rawveg/when-code-lives-in-chat-42h2)
 - [Not a New Deal: Why OpenAI Cannot Write the Social Contract](https://smarterarticles.co.uk/not-a-new-deal-why-openai-cannot-write-the-social-contract?pk_campaign=rss-feed)
 - [Chart Success Without Artists](https://dev.to/rawveg/chart-success-without-artists-3ba1)
 - [AI Will Not Take Your Job: It Will Hollow It Out](https://smarterarticles.co.uk/ai-will-not-take-your-job-it-will-hollow-it-out?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Therapy for Children: The Experiment Nobody Approved](https://smarterarticles.co.uk/ai-therapy-for-children-the-experiment-nobody-approved?pk_campaign=rss-feed)
 - [Brilliant on Paper, Blind in Practice](https://dev.to/rawveg/brilliant-on-paper-blind-in-practice-3ici)
 - [Reskilling Will Not Save Us: The Agentic AI Labour Crisis](https://smarterarticles.co.uk/reskilling-will-not-save-us-the-agentic-ai-labour-crisis?pk_campaign=rss-feed)
-- [The Real Cost of Bad Data](https://dev.to/rawveg/the-real-cost-of-bad-data-8fe)
 <!-- BLOG-POST-LIST:END -->
