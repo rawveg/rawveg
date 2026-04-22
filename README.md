@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Quiet Surrender: How Ambient AI Is Rewriting Human Cognition](https://smarterarticles.co.uk/the-quiet-surrender-how-ambient-ai-is-rewriting-human-cognition?pk_campaign=rss-feed)
 - [When Code Lives in Chat](https://dev.to/rawveg/when-code-lives-in-chat-42h2)
 - [Not a New Deal: Why OpenAI Cannot Write the Social Contract](https://smarterarticles.co.uk/not-a-new-deal-why-openai-cannot-write-the-social-contract?pk_campaign=rss-feed)
 - [Chart Success Without Artists](https://dev.to/rawveg/chart-success-without-artists-3ba1)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When AI Knows You&#39;re Breaking](https://dev.to/rawveg/when-ai-knows-youre-breaking-49l0)
 - [AI Therapy for Children: The Experiment Nobody Approved](https://smarterarticles.co.uk/ai-therapy-for-children-the-experiment-nobody-approved?pk_campaign=rss-feed)
 - [Brilliant on Paper, Blind in Practice](https://dev.to/rawveg/brilliant-on-paper-blind-in-practice-3ici)
-- [Reskilling Will Not Save Us: The Agentic AI Labour Crisis](https://smarterarticles.co.uk/reskilling-will-not-save-us-the-agentic-ai-labour-crisis?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
