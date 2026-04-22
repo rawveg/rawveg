@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Architecture Tax](https://dev.to/rawveg/the-architecture-tax-1igf)
 - [The Quiet Surrender: How Ambient AI Is Rewriting Human Cognition](https://smarterarticles.co.uk/the-quiet-surrender-how-ambient-ai-is-rewriting-human-cognition?pk_campaign=rss-feed)
 - [When Code Lives in Chat](https://dev.to/rawveg/when-code-lives-in-chat-42h2)
 - [Not a New Deal: Why OpenAI Cannot Write the Social Contract](https://smarterarticles.co.uk/not-a-new-deal-why-openai-cannot-write-the-social-contract?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Exposed the Lie: Schools Never Taught Critical Thinking](https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking?pk_campaign=rss-feed)
 - [When AI Knows You&#39;re Breaking](https://dev.to/rawveg/when-ai-knows-youre-breaking-49l0)
 - [AI Therapy for Children: The Experiment Nobody Approved](https://smarterarticles.co.uk/ai-therapy-for-children-the-experiment-nobody-approved?pk_campaign=rss-feed)
-- [Brilliant on Paper, Blind in Practice](https://dev.to/rawveg/brilliant-on-paper-blind-in-practice-3ici)
 <!-- BLOG-POST-LIST:END -->
