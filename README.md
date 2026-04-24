@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Quiet Acceleration: How Close Self-Improving AI Actually Is](https://smarterarticles.co.uk/the-quiet-acceleration-how-close-self-improving-ai-actually-is?pk_campaign=rss-feed)
 - [The AI Governance Crisis](https://dev.to/rawveg/the-ai-governance-crisis-21pj)
 - [Ray-Ban Meta and the Bystander: Consent in the Age of Wearable AI](https://smarterarticles.co.uk/ray-ban-meta-and-the-bystander-consent-in-the-age-of-wearable-ai?pk_campaign=rss-feed)
 - [The Architecture Tax](https://dev.to/rawveg/the-architecture-tax-1igf)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Millennials Beat Gen Z at AI](https://dev.to/rawveg/millennials-beat-gen-z-at-ai-5c54)
 - [AI and the Translators Left Behind: When Good Enough Wins](https://smarterarticles.co.uk/ai-and-the-translators-left-behind-when-good-enough-wins?pk_campaign=rss-feed)
 - [Medical AI Fails Minorities](https://dev.to/rawveg/medical-ai-fails-minorities-4g75)
-- [AI Exposed the Lie: Schools Never Taught Critical Thinking](https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
