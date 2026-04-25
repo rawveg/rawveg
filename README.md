@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Six to One: Gore, AI, and the Hollowing of Democratic Discourse](https://smarterarticles.co.uk/six-to-one-gore-ai-and-the-hollowing-of-democratic-discourse?pk_campaign=rss-feed)
 - [The Vibe Coding Reckoning](https://dev.to/rawveg/the-vibe-coding-reckoning-k38)
 - [The Quiet Acceleration: How Close Self-Improving AI Actually Is](https://smarterarticles.co.uk/the-quiet-acceleration-how-close-self-improving-ai-actually-is?pk_campaign=rss-feed)
 - [The AI Governance Crisis](https://dev.to/rawveg/the-ai-governance-crisis-21pj)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Code Needs Oversight](https://dev.to/rawveg/ai-code-needs-oversight-1mel)
 - [Same Symptoms, Different Care: How Medical AI Encodes Inequality](https://smarterarticles.co.uk/same-symptoms-different-care-how-medical-ai-encodes-inequality?pk_campaign=rss-feed)
 - [Millennials Beat Gen Z at AI](https://dev.to/rawveg/millennials-beat-gen-z-at-ai-5c54)
-- [AI and the Translators Left Behind: When Good Enough Wins](https://smarterarticles.co.uk/ai-and-the-translators-left-behind-when-good-enough-wins?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
