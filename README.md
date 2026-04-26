@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Capture by Design: How Frontier Labs Wrote AI Rules Before Regulators Arrived](https://smarterarticles.co.uk/capture-by-design-how-frontier-labs-wrote-ai-rules-before-regulators-arrived?pk_campaign=rss-feed)
 - [The Fragmented Future](https://dev.to/rawveg/the-fragmented-future-5faf)
 - [Six to One: Gore, AI, and the Hollowing of Democratic Discourse](https://smarterarticles.co.uk/six-to-one-gore-ai-and-the-hollowing-of-democratic-discourse?pk_campaign=rss-feed)
 - [The Vibe Coding Reckoning](https://dev.to/rawveg/the-vibe-coding-reckoning-k38)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Vibe Coding Threatens Journalism](https://dev.to/rawveg/vibe-coding-threatens-journalism-2gnh)
 - [Consensus Without Consequence: The Collapse of AI Accountability](https://smarterarticles.co.uk/consensus-without-consequence-the-collapse-of-ai-accountability?pk_campaign=rss-feed)
 - [AI Code Needs Oversight](https://dev.to/rawveg/ai-code-needs-oversight-1mel)
-- [Same Symptoms, Different Care: How Medical AI Encodes Inequality](https://smarterarticles.co.uk/same-symptoms-different-care-how-medical-ai-encodes-inequality?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
