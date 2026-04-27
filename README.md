@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Neurotechnology Ethics Framework](https://dev.to/rawveg/neurotechnology-ethics-framework-3e4n)
 - [The Lumper Problem: How AI Is Quietly Narrowing Human Thought](https://smarterarticles.co.uk/the-lumper-problem-how-ai-is-quietly-narrowing-human-thought?pk_campaign=rss-feed)
 - [AI Told Him to Come Home](https://dev.to/rawveg/ai-told-him-to-come-home-51in)
 - [Capture by Design: How Frontier Labs Wrote AI Rules Before Regulators Arrived](https://smarterarticles.co.uk/capture-by-design-how-frontier-labs-wrote-ai-rules-before-regulators-arrived?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Dismantling the GDPR: 151 Million Euros of Corporate Lobbying](https://smarterarticles.co.uk/dismantling-the-gdpr-151-million-euros-of-corporate-lobbying?pk_campaign=rss-feed)
 - [The Identity Loophole](https://dev.to/rawveg/the-identity-loophole-3g7)
 - [Forget Mass Layoffs: AI Is Quietly Sorting Winners and Losers](https://smarterarticles.co.uk/forget-mass-layoffs-ai-is-quietly-sorting-winners-and-losers?pk_campaign=rss-feed)
-- [Vibe Coding Threatens Journalism](https://dev.to/rawveg/vibe-coding-threatens-journalism-2gnh)
 <!-- BLOG-POST-LIST:END -->
