@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Lumper Problem: How AI Is Quietly Narrowing Human Thought](https://smarterarticles.co.uk/the-lumper-problem-how-ai-is-quietly-narrowing-human-thought?pk_campaign=rss-feed)
 - [AI Told Him to Come Home](https://dev.to/rawveg/ai-told-him-to-come-home-51in)
 - [Capture by Design: How Frontier Labs Wrote AI Rules Before Regulators Arrived](https://smarterarticles.co.uk/capture-by-design-how-frontier-labs-wrote-ai-rules-before-regulators-arrived?pk_campaign=rss-feed)
 - [The Fragmented Future](https://dev.to/rawveg/the-fragmented-future-5faf)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Identity Loophole](https://dev.to/rawveg/the-identity-loophole-3g7)
 - [Forget Mass Layoffs: AI Is Quietly Sorting Winners and Losers](https://smarterarticles.co.uk/forget-mass-layoffs-ai-is-quietly-sorting-winners-and-losers?pk_campaign=rss-feed)
 - [Vibe Coding Threatens Journalism](https://dev.to/rawveg/vibe-coding-threatens-journalism-2gnh)
-- [Consensus Without Consequence: The Collapse of AI Accountability](https://smarterarticles.co.uk/consensus-without-consequence-the-collapse-of-ai-accountability?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
