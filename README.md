@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When Coding Agents Forget](https://dev.to/rawveg/when-coding-agents-forget-44g0)
 - [Grieving a Chatbot: The Hidden Cost of Engineered Companionship](https://smarterarticles.co.uk/grieving-a-chatbot-the-hidden-cost-of-engineered-companionship?pk_campaign=rss-feed)
 - [OpenClaw: A Cautionary Tale of AI Autonomy and Risks - SmarterArticles S1E2](https://dev.to/rawveg/openclaw-a-cautionary-tale-of-ai-autonomy-and-risks-smarterarticles-s1e2-531k)
 - [Neurotechnology Ethics Framework](https://dev.to/rawveg/neurotechnology-ethics-framework-3e4n)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Chart Success Without Artists](https://dev.to/rawveg/chart-success-without-artists-3ba1)
 - [AI Will Not Take Your Job: It Will Hollow It Out](https://smarterarticles.co.uk/ai-will-not-take-your-job-it-will-hollow-it-out?pk_campaign=rss-feed)
 - [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3h4f)
-- [Dismantling the GDPR: 151 Million Euros of Corporate Lobbying](https://smarterarticles.co.uk/dismantling-the-gdpr-151-million-euros-of-corporate-lobbying?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
