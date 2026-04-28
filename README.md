@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Grieving a Chatbot: The Hidden Cost of Engineered Companionship](https://smarterarticles.co.uk/grieving-a-chatbot-the-hidden-cost-of-engineered-companionship?pk_campaign=rss-feed)
 - [OpenClaw: A Cautionary Tale of AI Autonomy and Risks - SmarterArticles S1E2](https://dev.to/rawveg/openclaw-a-cautionary-tale-of-ai-autonomy-and-risks-smarterarticles-s1e2-531k)
 - [Neurotechnology Ethics Framework](https://dev.to/rawveg/neurotechnology-ethics-framework-3e4n)
 - [The Lumper Problem: How AI Is Quietly Narrowing Human Thought](https://smarterarticles.co.uk/the-lumper-problem-how-ai-is-quietly-narrowing-human-thought?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Will Not Take Your Job: It Will Hollow It Out](https://smarterarticles.co.uk/ai-will-not-take-your-job-it-will-hollow-it-out?pk_campaign=rss-feed)
 - [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3h4f)
 - [Dismantling the GDPR: 151 Million Euros of Corporate Lobbying](https://smarterarticles.co.uk/dismantling-the-gdpr-151-million-euros-of-corporate-lobbying?pk_campaign=rss-feed)
-- [The Identity Loophole](https://dev.to/rawveg/the-identity-loophole-3g7)
 <!-- BLOG-POST-LIST:END -->
