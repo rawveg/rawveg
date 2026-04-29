@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Coding Speed Kills](https://dev.to/rawveg/ai-coding-speed-kills-25ko)
 - [Chatbot Doctors Without Regulators: The Accountability Gap in Global Health AI](https://smarterarticles.co.uk/chatbot-doctors-without-regulators-the-accountability-gap-in-global-health-ai?pk_campaign=rss-feed)
 - [When Coding Agents Forget](https://dev.to/rawveg/when-coding-agents-forget-44g0)
 - [Grieving a Chatbot: The Hidden Cost of Engineered Companionship](https://smarterarticles.co.uk/grieving-a-chatbot-the-hidden-cost-of-engineered-companionship?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Code Lives in Chat](https://dev.to/rawveg/when-code-lives-in-chat-42h2)
 - [Not a New Deal: Why OpenAI Cannot Write the Social Contract](https://smarterarticles.co.uk/not-a-new-deal-why-openai-cannot-write-the-social-contract?pk_campaign=rss-feed)
 - [Chart Success Without Artists](https://dev.to/rawveg/chart-success-without-artists-3ba1)
-- [AI Will Not Take Your Job: It Will Hollow It Out](https://smarterarticles.co.uk/ai-will-not-take-your-job-it-will-hollow-it-out?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
