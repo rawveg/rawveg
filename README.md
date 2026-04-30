@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When AI Codes for Hackers](https://dev.to/rawveg/when-ai-codes-for-hackers-3aki)
 - [Contempt, Not Infringement: What AI Took From Creative Life](https://smarterarticles.co.uk/contempt-not-infringement-what-ai-took-from-creative-life?pk_campaign=rss-feed)
 - [AI Coding Speed Kills](https://dev.to/rawveg/ai-coding-speed-kills-25ko)
 - [Chatbot Doctors Without Regulators: The Accountability Gap in Global Health AI](https://smarterarticles.co.uk/chatbot-doctors-without-regulators-the-accountability-gap-in-global-health-ai?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Architecture Tax](https://dev.to/rawveg/the-architecture-tax-1igf)
 - [The Quiet Surrender: How Ambient AI Is Rewriting Human Cognition](https://smarterarticles.co.uk/the-quiet-surrender-how-ambient-ai-is-rewriting-human-cognition?pk_campaign=rss-feed)
 - [When Code Lives in Chat](https://dev.to/rawveg/when-code-lives-in-chat-42h2)
-- [Not a New Deal: Why OpenAI Cannot Write the Social Contract](https://smarterarticles.co.uk/not-a-new-deal-why-openai-cannot-write-the-social-contract?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
