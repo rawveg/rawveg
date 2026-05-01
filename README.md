@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Evidence Employers Ignore: Bossware Does Not Improve Productivity](https://smarterarticles.co.uk/the-evidence-employers-ignore-bossware-does-not-improve-productivity?pk_campaign=rss-feed)
 - [When AI Codes for Hackers](https://dev.to/rawveg/when-ai-codes-for-hackers-3aki)
 - [Contempt, Not Infringement: What AI Took From Creative Life](https://smarterarticles.co.uk/contempt-not-infringement-what-ai-took-from-creative-life?pk_campaign=rss-feed)
 - [AI Coding Speed Kills](https://dev.to/rawveg/ai-coding-speed-kills-25ko)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Ray-Ban Meta and the Bystander: Consent in the Age of Wearable AI](https://smarterarticles.co.uk/ray-ban-meta-and-the-bystander-consent-in-the-age-of-wearable-ai?pk_campaign=rss-feed)
 - [The Architecture Tax](https://dev.to/rawveg/the-architecture-tax-1igf)
 - [The Quiet Surrender: How Ambient AI Is Rewriting Human Cognition](https://smarterarticles.co.uk/the-quiet-surrender-how-ambient-ai-is-rewriting-human-cognition?pk_campaign=rss-feed)
-- [When Code Lives in Chat](https://dev.to/rawveg/when-code-lives-in-chat-42h2)
 <!-- BLOG-POST-LIST:END -->
