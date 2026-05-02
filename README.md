@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Free Hate at Scale](https://dev.to/rawveg/free-hate-at-scale-595i)
 - [The God in the Machine: Why AI Cannot Carry Your Burden](https://smarterarticles.co.uk/the-god-in-the-machine-why-ai-cannot-carry-your-burden?pk_campaign=rss-feed)
 - [AI Will Not Save Cybersecurity](https://dev.to/rawveg/ai-will-not-save-cybersecurity-3e81)
 - [The Evidence Employers Ignore: Bossware Does Not Improve Productivity](https://smarterarticles.co.uk/the-evidence-employers-ignore-bossware-does-not-improve-productivity?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Vibe Coding Reckoning](https://dev.to/rawveg/the-vibe-coding-reckoning-k38)
 - [The Quiet Acceleration: How Close Self-Improving AI Actually Is](https://smarterarticles.co.uk/the-quiet-acceleration-how-close-self-improving-ai-actually-is?pk_campaign=rss-feed)
 - [The AI Governance Crisis](https://dev.to/rawveg/the-ai-governance-crisis-21pj)
-- [Ray-Ban Meta and the Bystander: Consent in the Age of Wearable AI](https://smarterarticles.co.uk/ray-ban-meta-and-the-bystander-consent-in-the-age-of-wearable-ai?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
