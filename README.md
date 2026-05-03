@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Knowledge Was There: How AI Safety Withholds Medical Help](https://smarterarticles.co.uk/the-knowledge-was-there-how-ai-safety-withholds-medical-help?pk_campaign=rss-feed)
 - [Free Hate at Scale](https://dev.to/rawveg/free-hate-at-scale-595i)
 - [The God in the Machine: Why AI Cannot Carry Your Burden](https://smarterarticles.co.uk/the-god-in-the-machine-why-ai-cannot-carry-your-burden?pk_campaign=rss-feed)
 - [AI Will Not Save Cybersecurity](https://dev.to/rawveg/ai-will-not-save-cybersecurity-3e81)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Six to One: Gore, AI, and the Hollowing of Democratic Discourse](https://smarterarticles.co.uk/six-to-one-gore-ai-and-the-hollowing-of-democratic-discourse?pk_campaign=rss-feed)
 - [The Vibe Coding Reckoning](https://dev.to/rawveg/the-vibe-coding-reckoning-k38)
 - [The Quiet Acceleration: How Close Self-Improving AI Actually Is](https://smarterarticles.co.uk/the-quiet-acceleration-how-close-self-improving-ai-actually-is?pk_campaign=rss-feed)
-- [The AI Governance Crisis](https://dev.to/rawveg/the-ai-governance-crisis-21pj)
 <!-- BLOG-POST-LIST:END -->
