@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Cognitive Foreclosure: How AI Is Quietly Reshaping a Generation of Minds](https://smarterarticles.co.uk/cognitive-foreclosure-how-ai-is-quietly-reshaping-a-generation-of-minds?pk_campaign=rss-feed)
 - [USB-C for AI Agents](https://dev.to/rawveg/usb-c-for-ai-agents-4f3)
 - [The Knowledge Was There: How AI Safety Withholds Medical Help](https://smarterarticles.co.uk/the-knowledge-was-there-how-ai-safety-withholds-medical-help?pk_campaign=rss-feed)
 - [Free Hate at Scale](https://dev.to/rawveg/free-hate-at-scale-595i)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Capture by Design: How Frontier Labs Wrote AI Rules Before Regulators Arrived](https://smarterarticles.co.uk/capture-by-design-how-frontier-labs-wrote-ai-rules-before-regulators-arrived?pk_campaign=rss-feed)
 - [The Fragmented Future](https://dev.to/rawveg/the-fragmented-future-5faf)
 - [Six to One: Gore, AI, and the Hollowing of Democratic Discourse](https://smarterarticles.co.uk/six-to-one-gore-ai-and-the-hollowing-of-democratic-discourse?pk_campaign=rss-feed)
-- [The Vibe Coding Reckoning](https://dev.to/rawveg/the-vibe-coding-reckoning-k38)
 <!-- BLOG-POST-LIST:END -->
