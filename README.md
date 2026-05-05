@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Rejected by Machines: Inside the Crisis of Automated Recruitment](https://smarterarticles.co.uk/rejected-by-machines-inside-the-crisis-of-automated-recruitment?pk_campaign=rss-feed)
 - [AI Diagnoses Better Than Doctors](https://dev.to/rawveg/ai-diagnoses-better-than-doctors-l3g)
 - [AI Integration, Transforming Workplaces and Employee Futures - SmarterArticles S1E3](https://dev.to/rawveg/ai-integration-transforming-workplaces-and-employee-futures-smarterarticles-s1e3-3a83)
 - [Cognitive Foreclosure: How AI Is Quietly Reshaping a Generation of Minds](https://smarterarticles.co.uk/cognitive-foreclosure-how-ai-is-quietly-reshaping-a-generation-of-minds?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Neurotechnology Ethics Framework](https://dev.to/rawveg/neurotechnology-ethics-framework-3e4n)
 - [The Lumper Problem: How AI Is Quietly Narrowing Human Thought](https://smarterarticles.co.uk/the-lumper-problem-how-ai-is-quietly-narrowing-human-thought?pk_campaign=rss-feed)
 - [AI Told Him to Come Home](https://dev.to/rawveg/ai-told-him-to-come-home-51in)
-- [Capture by Design: How Frontier Labs Wrote AI Rules Before Regulators Arrived](https://smarterarticles.co.uk/capture-by-design-how-frontier-labs-wrote-ai-rules-before-regulators-arrived?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
