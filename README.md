@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Death Is Not a Design Problem: How AI Monetises Mourning](https://smarterarticles.co.uk/death-is-not-a-design-problem-how-ai-monetises-mourning?pk_campaign=rss-feed)
 - [Twice the Learning, Half the Wisdom](https://dev.to/rawveg/twice-the-learning-half-the-wisdom-4c0g)
 - [Rejected by Machines: Inside the Crisis of Automated Recruitment](https://smarterarticles.co.uk/rejected-by-machines-inside-the-crisis-of-automated-recruitment?pk_campaign=rss-feed)
 - [AI Diagnoses Better Than Doctors](https://dev.to/rawveg/ai-diagnoses-better-than-doctors-l3g)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Grieving a Chatbot: The Hidden Cost of Engineered Companionship](https://smarterarticles.co.uk/grieving-a-chatbot-the-hidden-cost-of-engineered-companionship?pk_campaign=rss-feed)
 - [OpenClaw: A Cautionary Tale of AI Autonomy and Risks - SmarterArticles S1E2](https://dev.to/rawveg/openclaw-a-cautionary-tale-of-ai-autonomy-and-risks-smarterarticles-s1e2-531k)
 - [Neurotechnology Ethics Framework](https://dev.to/rawveg/neurotechnology-ethics-framework-3e4n)
-- [The Lumper Problem: How AI Is Quietly Narrowing Human Thought](https://smarterarticles.co.uk/the-lumper-problem-how-ai-is-quietly-narrowing-human-thought?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
