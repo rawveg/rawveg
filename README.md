@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Powering AI, Heating Earth](https://dev.to/rawveg/powering-ai-heating-earth-1igf)
 - [Bixonimania: How AI Invented a Disease That Millions Believed](https://smarterarticles.co.uk/bixonimania-how-ai-invented-a-disease-that-millions-believed?pk_campaign=rss-feed)
 - [Federated Learning Under Fire](https://dev.to/rawveg/federated-learning-under-fire-5aep)
 - [Death Is Not a Design Problem: How AI Monetises Mourning](https://smarterarticles.co.uk/death-is-not-a-design-problem-how-ai-monetises-mourning?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Coding Speed Kills](https://dev.to/rawveg/ai-coding-speed-kills-25ko)
 - [Chatbot Doctors Without Regulators: The Accountability Gap in Global Health AI](https://smarterarticles.co.uk/chatbot-doctors-without-regulators-the-accountability-gap-in-global-health-ai?pk_campaign=rss-feed)
 - [When Coding Agents Forget](https://dev.to/rawveg/when-coding-agents-forget-44g0)
-- [Grieving a Chatbot: The Hidden Cost of Engineered Companionship](https://smarterarticles.co.uk/grieving-a-chatbot-the-hidden-cost-of-engineered-companionship?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
