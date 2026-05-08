@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Handing Power to Machines](https://dev.to/rawveg/handing-power-to-machines-478c)
 - [The Apprenticeship Severance: How AI Is Breaking the Expertise Pipeline](https://smarterarticles.co.uk/the-apprenticeship-severance-how-ai-is-breaking-the-expertise-pipeline?pk_campaign=rss-feed)
 - [Powering AI, Heating Earth](https://dev.to/rawveg/powering-ai-heating-earth-1igf)
 - [Bixonimania: How AI Invented a Disease That Millions Believed](https://smarterarticles.co.uk/bixonimania-how-ai-invented-a-disease-that-millions-believed?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When AI Codes for Hackers](https://dev.to/rawveg/when-ai-codes-for-hackers-3aki)
 - [Contempt, Not Infringement: What AI Took From Creative Life](https://smarterarticles.co.uk/contempt-not-infringement-what-ai-took-from-creative-life?pk_campaign=rss-feed)
 - [AI Coding Speed Kills](https://dev.to/rawveg/ai-coding-speed-kills-25ko)
-- [Chatbot Doctors Without Regulators: The Accountability Gap in Global Health AI](https://smarterarticles.co.uk/chatbot-doctors-without-regulators-the-accountability-gap-in-global-health-ai?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
