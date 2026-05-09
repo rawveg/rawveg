@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Machine Says No: Health Insurance and the Vanishing Right to Appeal](https://smarterarticles.co.uk/the-machine-says-no-health-insurance-and-the-vanishing-right-to-appeal?pk_campaign=rss-feed)
 - [Handing Power to Machines](https://dev.to/rawveg/handing-power-to-machines-478c)
 - [The Apprenticeship Severance: How AI Is Breaking the Expertise Pipeline](https://smarterarticles.co.uk/the-apprenticeship-severance-how-ai-is-breaking-the-expertise-pipeline?pk_campaign=rss-feed)
 - [Powering AI, Heating Earth](https://dev.to/rawveg/powering-ai-heating-earth-1igf)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Evidence Employers Ignore: Bossware Does Not Improve Productivity](https://smarterarticles.co.uk/the-evidence-employers-ignore-bossware-does-not-improve-productivity?pk_campaign=rss-feed)
 - [When AI Codes for Hackers](https://dev.to/rawveg/when-ai-codes-for-hackers-3aki)
 - [Contempt, Not Infringement: What AI Took From Creative Life](https://smarterarticles.co.uk/contempt-not-infringement-what-ai-took-from-creative-life?pk_campaign=rss-feed)
-- [AI Coding Speed Kills](https://dev.to/rawveg/ai-coding-speed-kills-25ko)
 <!-- BLOG-POST-LIST:END -->
