@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Trust Tax: How Hidden AI Is Breaking Professional Fiduciary Duty](https://smarterarticles.co.uk/the-trust-tax-how-hidden-ai-is-breaking-professional-fiduciary-duty?pk_campaign=rss-feed)
 - [The AI Hype Crisis](https://dev.to/rawveg/the-ai-hype-crisis-3d9b)
 - [The Machine Says No: Health Insurance and the Vanishing Right to Appeal](https://smarterarticles.co.uk/the-machine-says-no-health-insurance-and-the-vanishing-right-to-appeal?pk_campaign=rss-feed)
 - [Handing Power to Machines](https://dev.to/rawveg/handing-power-to-machines-478c)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The God in the Machine: Why AI Cannot Carry Your Burden](https://smarterarticles.co.uk/the-god-in-the-machine-why-ai-cannot-carry-your-burden?pk_campaign=rss-feed)
 - [AI Will Not Save Cybersecurity](https://dev.to/rawveg/ai-will-not-save-cybersecurity-3e81)
 - [The Evidence Employers Ignore: Bossware Does Not Improve Productivity](https://smarterarticles.co.uk/the-evidence-employers-ignore-bossware-does-not-improve-productivity?pk_campaign=rss-feed)
-- [When AI Codes for Hackers](https://dev.to/rawveg/when-ai-codes-for-hackers-3aki)
 <!-- BLOG-POST-LIST:END -->
