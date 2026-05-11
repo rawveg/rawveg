@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Boss in the Code: Labour Rights When Machines Manage You](https://smarterarticles.co.uk/the-boss-in-the-code-labour-rights-when-machines-manage-you?pk_campaign=rss-feed)
 - [Your Walk Betrays You](https://dev.to/rawveg/your-walk-betrays-you-5594)
 - [The Trust Tax: How Hidden AI Is Breaking Professional Fiduciary Duty](https://smarterarticles.co.uk/the-trust-tax-how-hidden-ai-is-breaking-professional-fiduciary-duty?pk_campaign=rss-feed)
 - [The AI Hype Crisis](https://dev.to/rawveg/the-ai-hype-crisis-3d9b)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Knowledge Was There: How AI Safety Withholds Medical Help](https://smarterarticles.co.uk/the-knowledge-was-there-how-ai-safety-withholds-medical-help?pk_campaign=rss-feed)
 - [Free Hate at Scale](https://dev.to/rawveg/free-hate-at-scale-595i)
 - [The God in the Machine: Why AI Cannot Carry Your Burden](https://smarterarticles.co.uk/the-god-in-the-machine-why-ai-cannot-carry-your-burden?pk_campaign=rss-feed)
-- [AI Will Not Save Cybersecurity](https://dev.to/rawveg/ai-will-not-save-cybersecurity-3e81)
 <!-- BLOG-POST-LIST:END -->
