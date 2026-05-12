@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Engagement Over Education: How AI Slop Captured the Toddler Media Diet](https://smarterarticles.co.uk/engagement-over-education-how-ai-slop-captured-the-toddler-media-diet?pk_campaign=rss-feed)
 - [The Agentic Coding Revolution](https://dev.to/rawveg/the-agentic-coding-revolution-4g6o)
 - [The Hidden Costs of the AI Boom on Consumer Electronics - SmarterArticles S1E4](https://dev.to/rawveg/the-hidden-costs-of-the-ai-boom-on-consumer-electronics-smarterarticles-s1e4-p9p)
 - [The Boss in the Code: Labour Rights When Machines Manage You](https://smarterarticles.co.uk/the-boss-in-the-code-labour-rights-when-machines-manage-you?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Integration, Transforming Workplaces and Employee Futures - SmarterArticles S1E3](https://dev.to/rawveg/ai-integration-transforming-workplaces-and-employee-futures-smarterarticles-s1e3-3a83)
 - [Cognitive Foreclosure: How AI Is Quietly Reshaping a Generation of Minds](https://smarterarticles.co.uk/cognitive-foreclosure-how-ai-is-quietly-reshaping-a-generation-of-minds?pk_campaign=rss-feed)
 - [USB-C for AI Agents](https://dev.to/rawveg/usb-c-for-ai-agents-4f3)
-- [The Knowledge Was There: How AI Safety Withholds Medical Help](https://smarterarticles.co.uk/the-knowledge-was-there-how-ai-safety-withholds-medical-help?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
