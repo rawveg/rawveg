@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Aged Care Does Not Need More AI: It Needs More Staff](https://smarterarticles.co.uk/aged-care-does-not-need-more-ai-it-needs-more-staff?pk_campaign=rss-feed)
 - [When Safety Mechanisms Fail](https://dev.to/rawveg/when-safety-mechanisms-fail-34kl)
 - [Engagement Over Education: How AI Slop Captured the Toddler Media Diet](https://smarterarticles.co.uk/engagement-over-education-how-ai-slop-captured-the-toddler-media-diet?pk_campaign=rss-feed)
 - [The Agentic Coding Revolution](https://dev.to/rawveg/the-agentic-coding-revolution-4g6o)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Rejected by Machines: Inside the Crisis of Automated Recruitment](https://smarterarticles.co.uk/rejected-by-machines-inside-the-crisis-of-automated-recruitment?pk_campaign=rss-feed)
 - [AI Diagnoses Better Than Doctors](https://dev.to/rawveg/ai-diagnoses-better-than-doctors-l3g)
 - [AI Integration, Transforming Workplaces and Employee Futures - SmarterArticles S1E3](https://dev.to/rawveg/ai-integration-transforming-workplaces-and-employee-futures-smarterarticles-s1e3-3a83)
-- [Cognitive Foreclosure: How AI Is Quietly Reshaping a Generation of Minds](https://smarterarticles.co.uk/cognitive-foreclosure-how-ai-is-quietly-reshaping-a-generation-of-minds?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
