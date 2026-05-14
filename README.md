@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The People AI Cannot Hear: Why Disability Exposes a Training Data Problem](https://smarterarticles.co.uk/the-people-ai-cannot-hear-why-disability-exposes-a-training-data-problem?pk_campaign=rss-feed)
 - [The Moral Catastrophe Ahead](https://dev.to/rawveg/the-moral-catastrophe-ahead-3aog)
 - [Aged Care Does Not Need More AI: It Needs More Staff](https://smarterarticles.co.uk/aged-care-does-not-need-more-ai-it-needs-more-staff?pk_campaign=rss-feed)
 - [When Safety Mechanisms Fail](https://dev.to/rawveg/when-safety-mechanisms-fail-34kl)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Death Is Not a Design Problem: How AI Monetises Mourning](https://smarterarticles.co.uk/death-is-not-a-design-problem-how-ai-monetises-mourning?pk_campaign=rss-feed)
 - [Twice the Learning, Half the Wisdom](https://dev.to/rawveg/twice-the-learning-half-the-wisdom-4c0g)
 - [Rejected by Machines: Inside the Crisis of Automated Recruitment](https://smarterarticles.co.uk/rejected-by-machines-inside-the-crisis-of-automated-recruitment?pk_campaign=rss-feed)
-- [AI Diagnoses Better Than Doctors](https://dev.to/rawveg/ai-diagnoses-better-than-doctors-l3g)
 <!-- BLOG-POST-LIST:END -->
