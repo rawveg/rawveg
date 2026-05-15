@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your Boss Bets Your Job on AI](https://dev.to/rawveg/your-boss-bets-your-job-on-ai-lba)
 - [She Heard Her Daughter Crying: Voice Cloning and the Elderly Fraud Crisis](https://smarterarticles.co.uk/she-heard-her-daughter-crying-voice-cloning-and-the-elderly-fraud-crisis?pk_campaign=rss-feed)
 - [The Smart City Trap](https://dev.to/rawveg/the-smart-city-trap-58gm)
 - [The People AI Cannot Hear: Why Disability Exposes a Training Data Problem](https://smarterarticles.co.uk/the-people-ai-cannot-hear-why-disability-exposes-a-training-data-problem?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Powering AI, Heating Earth](https://dev.to/rawveg/powering-ai-heating-earth-1igf)
 - [Bixonimania: How AI Invented a Disease That Millions Believed](https://smarterarticles.co.uk/bixonimania-how-ai-invented-a-disease-that-millions-believed?pk_campaign=rss-feed)
 - [Federated Learning Under Fire](https://dev.to/rawveg/federated-learning-under-fire-5aep)
-- [Death Is Not a Design Problem: How AI Monetises Mourning](https://smarterarticles.co.uk/death-is-not-a-design-problem-how-ai-monetises-mourning?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
