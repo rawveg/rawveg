@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your Landlord Is a Stack: Opaque Software Quietly Reordered Rental Housing](https://smarterarticles.co.uk/your-landlord-is-a-stack-opaque-software-quietly-reordered-rental-housing?pk_campaign=rss-feed)
 - [Your Boss Bets Your Job on AI](https://dev.to/rawveg/your-boss-bets-your-job-on-ai-lba)
 - [She Heard Her Daughter Crying: Voice Cloning and the Elderly Fraud Crisis](https://smarterarticles.co.uk/she-heard-her-daughter-crying-voice-cloning-and-the-elderly-fraud-crisis?pk_campaign=rss-feed)
 - [The Smart City Trap](https://dev.to/rawveg/the-smart-city-trap-58gm)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Apprenticeship Severance: How AI Is Breaking the Expertise Pipeline](https://smarterarticles.co.uk/the-apprenticeship-severance-how-ai-is-breaking-the-expertise-pipeline?pk_campaign=rss-feed)
 - [Powering AI, Heating Earth](https://dev.to/rawveg/powering-ai-heating-earth-1igf)
 - [Bixonimania: How AI Invented a Disease That Millions Believed](https://smarterarticles.co.uk/bixonimania-how-ai-invented-a-disease-that-millions-believed?pk_campaign=rss-feed)
-- [Federated Learning Under Fire](https://dev.to/rawveg/federated-learning-under-fire-5aep)
 <!-- BLOG-POST-LIST:END -->
