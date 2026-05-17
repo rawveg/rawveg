@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Unequal by Design](https://dev.to/rawveg/unequal-by-design-3f0m)
 - [The Machine Is Listening: Disclosure and Consent in Modern Therapy](https://smarterarticles.co.uk/the-machine-is-listening-disclosure-and-consent-in-modern-therapy?pk_campaign=rss-feed)
 - [When Deepfakes Apply for Jobs](https://dev.to/rawveg/when-deepfakes-apply-for-jobs-o85)
 - [Your Landlord Is a Stack: Opaque Software Quietly Reordered Rental Housing](https://smarterarticles.co.uk/your-landlord-is-a-stack-opaque-software-quietly-reordered-rental-housing?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The AI Hype Crisis](https://dev.to/rawveg/the-ai-hype-crisis-3d9b)
 - [The Machine Says No: Health Insurance and the Vanishing Right to Appeal](https://smarterarticles.co.uk/the-machine-says-no-health-insurance-and-the-vanishing-right-to-appeal?pk_campaign=rss-feed)
 - [Handing Power to Machines](https://dev.to/rawveg/handing-power-to-machines-478c)
-- [The Apprenticeship Severance: How AI Is Breaking the Expertise Pipeline](https://smarterarticles.co.uk/the-apprenticeship-severance-how-ai-is-breaking-the-expertise-pipeline?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
