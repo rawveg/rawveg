@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Bridging the AI Ethics Enforcement Gap - SmarterArticles S1E5](https://dev.to/rawveg/bridging-the-ai-ethics-enforcement-gap-smarterarticles-s1e5-elm)
 - [The OpenClaw Warning](https://dev.to/rawveg/the-openclaw-warning-3b4k)
 - [When Data Centres Move In: Rising Bills, Falling Water Tables](https://smarterarticles.co.uk/when-data-centres-move-in-rising-bills-falling-water-tables?pk_campaign=rss-feed)
 - [Unequal by Design](https://dev.to/rawveg/unequal-by-design-3f0m)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Boss in the Code: Labour Rights When Machines Manage You](https://smarterarticles.co.uk/the-boss-in-the-code-labour-rights-when-machines-manage-you?pk_campaign=rss-feed)
 - [Your Walk Betrays You](https://dev.to/rawveg/your-walk-betrays-you-5594)
 - [The Trust Tax: How Hidden AI Is Breaking Professional Fiduciary Duty](https://smarterarticles.co.uk/the-trust-tax-how-hidden-ai-is-breaking-professional-fiduciary-duty?pk_campaign=rss-feed)
-- [The AI Hype Crisis](https://dev.to/rawveg/the-ai-hype-crisis-3d9b)
 <!-- BLOG-POST-LIST:END -->
