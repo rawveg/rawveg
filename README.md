@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When Data Centres Move In: Rising Bills, Falling Water Tables](https://smarterarticles.co.uk/when-data-centres-move-in-rising-bills-falling-water-tables?pk_campaign=rss-feed)
 - [Unequal by Design](https://dev.to/rawveg/unequal-by-design-3f0m)
 - [The Machine Is Listening: Disclosure and Consent in Modern Therapy](https://smarterarticles.co.uk/the-machine-is-listening-disclosure-and-consent-in-modern-therapy?pk_campaign=rss-feed)
 - [When Deepfakes Apply for Jobs](https://dev.to/rawveg/when-deepfakes-apply-for-jobs-o85)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Trust Tax: How Hidden AI Is Breaking Professional Fiduciary Duty](https://smarterarticles.co.uk/the-trust-tax-how-hidden-ai-is-breaking-professional-fiduciary-duty?pk_campaign=rss-feed)
 - [The AI Hype Crisis](https://dev.to/rawveg/the-ai-hype-crisis-3d9b)
 - [The Machine Says No: Health Insurance and the Vanishing Right to Appeal](https://smarterarticles.co.uk/the-machine-says-no-health-insurance-and-the-vanishing-right-to-appeal?pk_campaign=rss-feed)
-- [Handing Power to Machines](https://dev.to/rawveg/handing-power-to-machines-478c)
 <!-- BLOG-POST-LIST:END -->
