@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Infrastructure Is Destiny](https://dev.to/rawveg/infrastructure-is-destiny-4p8)
 - [When Love Becomes a Language Model: Inside the Industrial Romance Scam](https://smarterarticles.co.uk/when-love-becomes-a-language-model-inside-the-industrial-romance-scam?pk_campaign=rss-feed)
 - [Bridging the AI Ethics Enforcement Gap - SmarterArticles S1E5](https://dev.to/rawveg/bridging-the-ai-ethics-enforcement-gap-smarterarticles-s1e5-elm)
 - [The OpenClaw Warning](https://dev.to/rawveg/the-openclaw-warning-3b4k)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Agentic Coding Revolution](https://dev.to/rawveg/the-agentic-coding-revolution-4g6o)
 - [The Hidden Costs of the AI Boom on Consumer Electronics - SmarterArticles S1E4](https://dev.to/rawveg/the-hidden-costs-of-the-ai-boom-on-consumer-electronics-smarterarticles-s1e4-p9p)
 - [The Boss in the Code: Labour Rights When Machines Manage You](https://smarterarticles.co.uk/the-boss-in-the-code-labour-rights-when-machines-manage-you?pk_campaign=rss-feed)
-- [Your Walk Betrays You](https://dev.to/rawveg/your-walk-betrays-you-5594)
 <!-- BLOG-POST-LIST:END -->
