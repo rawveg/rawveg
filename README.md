@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Great AI Confidence Trick](https://dev.to/rawveg/the-great-ai-confidence-trick-eao)
 - [The Knock at the Door: Predictive Scoring and Child Welfare Rights](https://smarterarticles.co.uk/the-knock-at-the-door-predictive-scoring-and-child-welfare-rights?pk_campaign=rss-feed)
 - [Infrastructure Is Destiny](https://dev.to/rawveg/infrastructure-is-destiny-4p8)
 - [When Love Becomes a Language Model: Inside the Industrial Romance Scam](https://smarterarticles.co.uk/when-love-becomes-a-language-model-inside-the-industrial-romance-scam?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Safety Mechanisms Fail](https://dev.to/rawveg/when-safety-mechanisms-fail-34kl)
 - [Engagement Over Education: How AI Slop Captured the Toddler Media Diet](https://smarterarticles.co.uk/engagement-over-education-how-ai-slop-captured-the-toddler-media-diet?pk_campaign=rss-feed)
 - [The Agentic Coding Revolution](https://dev.to/rawveg/the-agentic-coding-revolution-4g6o)
-- [The Hidden Costs of the AI Boom on Consumer Electronics - SmarterArticles S1E4](https://dev.to/rawveg/the-hidden-costs-of-the-ai-boom-on-consumer-electronics-smarterarticles-s1e4-p9p)
 <!-- BLOG-POST-LIST:END -->
