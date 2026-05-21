@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Quiet Collapse: How Generative AI Hollows Out Creative Markets](https://smarterarticles.co.uk/the-quiet-collapse-how-generative-ai-hollows-out-creative-markets?pk_campaign=rss-feed)
 - [The Great AI Confidence Trick](https://dev.to/rawveg/the-great-ai-confidence-trick-eao)
 - [The Knock at the Door: Predictive Scoring and Child Welfare Rights](https://smarterarticles.co.uk/the-knock-at-the-door-predictive-scoring-and-child-welfare-rights?pk_campaign=rss-feed)
 - [Infrastructure Is Destiny](https://dev.to/rawveg/infrastructure-is-destiny-4p8)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Aged Care Does Not Need More AI: It Needs More Staff](https://smarterarticles.co.uk/aged-care-does-not-need-more-ai-it-needs-more-staff?pk_campaign=rss-feed)
 - [When Safety Mechanisms Fail](https://dev.to/rawveg/when-safety-mechanisms-fail-34kl)
 - [Engagement Over Education: How AI Slop Captured the Toddler Media Diet](https://smarterarticles.co.uk/engagement-over-education-how-ai-slop-captured-the-toddler-media-diet?pk_campaign=rss-feed)
-- [The Agentic Coding Revolution](https://dev.to/rawveg/the-agentic-coding-revolution-4g6o)
 <!-- BLOG-POST-LIST:END -->
