@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Phantom Precedent: When AI Fabricates Citations and the Poor Pay](https://smarterarticles.co.uk/phantom-precedent-when-ai-fabricates-citations-and-the-poor-pay?pk_campaign=rss-feed)
 - [Valued at Millions, Compensated at Zero](https://dev.to/rawveg/valued-at-millions-compensated-at-zero-35gj)
 - [The Quiet Collapse: How Generative AI Hollows Out Creative Markets](https://smarterarticles.co.uk/the-quiet-collapse-how-generative-ai-hollows-out-creative-markets?pk_campaign=rss-feed)
 - [The Great AI Confidence Trick](https://dev.to/rawveg/the-great-ai-confidence-trick-eao)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The People AI Cannot Hear: Why Disability Exposes a Training Data Problem](https://smarterarticles.co.uk/the-people-ai-cannot-hear-why-disability-exposes-a-training-data-problem?pk_campaign=rss-feed)
 - [The Moral Catastrophe Ahead](https://dev.to/rawveg/the-moral-catastrophe-ahead-3aog)
 - [Aged Care Does Not Need More AI: It Needs More Staff](https://smarterarticles.co.uk/aged-care-does-not-need-more-ai-it-needs-more-staff?pk_campaign=rss-feed)
-- [When Safety Mechanisms Fail](https://dev.to/rawveg/when-safety-mechanisms-fail-34kl)
 <!-- BLOG-POST-LIST:END -->
