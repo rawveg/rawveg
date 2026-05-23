@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Boiling Frog Was Wrong: AI Cognitive Harm Arrives In Minutes](https://smarterarticles.co.uk/the-boiling-frog-was-wrong-ai-cognitive-harm-arrives-in-minutes?pk_campaign=rss-feed)
 - [You Are Not Choosing](https://dev.to/rawveg/you-are-not-choosing-4nmm)
 - [Phantom Precedent: When AI Fabricates Citations and the Poor Pay](https://smarterarticles.co.uk/phantom-precedent-when-ai-fabricates-citations-and-the-poor-pay?pk_campaign=rss-feed)
 - [Valued at Millions, Compensated at Zero](https://dev.to/rawveg/valued-at-millions-compensated-at-zero-35gj)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [She Heard Her Daughter Crying: Voice Cloning and the Elderly Fraud Crisis](https://smarterarticles.co.uk/she-heard-her-daughter-crying-voice-cloning-and-the-elderly-fraud-crisis?pk_campaign=rss-feed)
 - [The Smart City Trap](https://dev.to/rawveg/the-smart-city-trap-58gm)
 - [The People AI Cannot Hear: Why Disability Exposes a Training Data Problem](https://smarterarticles.co.uk/the-people-ai-cannot-hear-why-disability-exposes-a-training-data-problem?pk_campaign=rss-feed)
-- [The Moral Catastrophe Ahead](https://dev.to/rawveg/the-moral-catastrophe-ahead-3aog)
 <!-- BLOG-POST-LIST:END -->
