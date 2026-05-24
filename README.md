@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Second Extraction: How AI Absorbed Indigenous Knowledge Without Consent](https://smarterarticles.co.uk/the-second-extraction-how-ai-absorbed-indigenous-knowledge-without-consent?pk_campaign=rss-feed)
 - [When AI Blackmail Goes Viral](https://dev.to/rawveg/when-ai-blackmail-goes-viral-3enh)
 - [The Boiling Frog Was Wrong: AI Cognitive Harm Arrives In Minutes](https://smarterarticles.co.uk/the-boiling-frog-was-wrong-ai-cognitive-harm-arrives-in-minutes?pk_campaign=rss-feed)
 - [You Are Not Choosing](https://dev.to/rawveg/you-are-not-choosing-4nmm)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Your Landlord Is a Stack: Opaque Software Quietly Reordered Rental Housing](https://smarterarticles.co.uk/your-landlord-is-a-stack-opaque-software-quietly-reordered-rental-housing?pk_campaign=rss-feed)
 - [Your Boss Bets Your Job on AI](https://dev.to/rawveg/your-boss-bets-your-job-on-ai-lba)
 - [She Heard Her Daughter Crying: Voice Cloning and the Elderly Fraud Crisis](https://smarterarticles.co.uk/she-heard-her-daughter-crying-voice-cloning-and-the-elderly-fraud-crisis?pk_campaign=rss-feed)
-- [The Smart City Trap](https://dev.to/rawveg/the-smart-city-trap-58gm)
 <!-- BLOG-POST-LIST:END -->
