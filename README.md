@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Wage Scar of AI: What Society Owes Workers Left Behind](https://smarterarticles.co.uk/the-wage-scar-of-ai-what-society-owes-workers-left-behind?pk_campaign=rss-feed)
 - [More Connected, More Alone](https://dev.to/rawveg/more-connected-more-alone-15jb)
 - [The Second Extraction: How AI Absorbed Indigenous Knowledge Without Consent](https://smarterarticles.co.uk/the-second-extraction-how-ai-absorbed-indigenous-knowledge-without-consent?pk_campaign=rss-feed)
 - [When AI Blackmail Goes Viral](https://dev.to/rawveg/when-ai-blackmail-goes-viral-3enh)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Machine Is Listening: Disclosure and Consent in Modern Therapy](https://smarterarticles.co.uk/the-machine-is-listening-disclosure-and-consent-in-modern-therapy?pk_campaign=rss-feed)
 - [When Deepfakes Apply for Jobs](https://dev.to/rawveg/when-deepfakes-apply-for-jobs-o85)
 - [Your Landlord Is a Stack: Opaque Software Quietly Reordered Rental Housing](https://smarterarticles.co.uk/your-landlord-is-a-stack-opaque-software-quietly-reordered-rental-housing?pk_campaign=rss-feed)
-- [Your Boss Bets Your Job on AI](https://dev.to/rawveg/your-boss-bets-your-job-on-ai-lba)
 <!-- BLOG-POST-LIST:END -->
