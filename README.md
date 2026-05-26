@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Inside the Accountability Vacuum: Why Clinical AI Errors Have No Owner](https://smarterarticles.co.uk/inside-the-accountability-vacuum-why-clinical-ai-errors-have-no-owner?pk_campaign=rss-feed)
 - [After the Last Song](https://dev.to/rawveg/after-the-last-song-5141)
 - [Vibe Coding: Revolution or Risk in Software Development? - SmarterArticles S1E6](https://dev.to/rawveg/vibe-coding-revolution-or-risk-in-software-development-smarterarticles-s1e6-3ek9)
 - [The Wage Scar of AI: What Society Owes Workers Left Behind](https://smarterarticles.co.uk/the-wage-scar-of-ai-what-society-owes-workers-left-behind?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The OpenClaw Warning](https://dev.to/rawveg/the-openclaw-warning-3b4k)
 - [When Data Centres Move In: Rising Bills, Falling Water Tables](https://smarterarticles.co.uk/when-data-centres-move-in-rising-bills-falling-water-tables?pk_campaign=rss-feed)
 - [Unequal by Design](https://dev.to/rawveg/unequal-by-design-3f0m)
-- [The Machine Is Listening: Disclosure and Consent in Modern Therapy](https://smarterarticles.co.uk/the-machine-is-listening-disclosure-and-consent-in-modern-therapy?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
