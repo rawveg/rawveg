@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [False Precision in Science](https://dev.to/rawveg/false-precision-in-science-3lpd)
 - [Inside the Accountability Vacuum: Why Clinical AI Errors Have No Owner](https://smarterarticles.co.uk/inside-the-accountability-vacuum-why-clinical-ai-errors-have-no-owner?pk_campaign=rss-feed)
 - [After the Last Song](https://dev.to/rawveg/after-the-last-song-5141)
 - [Vibe Coding: Revolution or Risk in Software Development? - SmarterArticles S1E6](https://dev.to/rawveg/vibe-coding-revolution-or-risk-in-software-development-smarterarticles-s1e6-3ek9)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Bridging the AI Ethics Enforcement Gap - SmarterArticles S1E5](https://dev.to/rawveg/bridging-the-ai-ethics-enforcement-gap-smarterarticles-s1e5-elm)
 - [The OpenClaw Warning](https://dev.to/rawveg/the-openclaw-warning-3b4k)
 - [When Data Centres Move In: Rising Bills, Falling Water Tables](https://smarterarticles.co.uk/when-data-centres-move-in-rising-bills-falling-water-tables?pk_campaign=rss-feed)
-- [Unequal by Design](https://dev.to/rawveg/unequal-by-design-3f0m)
 <!-- BLOG-POST-LIST:END -->
