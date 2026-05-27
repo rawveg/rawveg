@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Twenty Minutes, Seventeen Organizations](https://dev.to/rawveg/twenty-minutes-seventeen-organizations-4jo4)
 - [The Counterfeit Web: How Synthetic Content Broke Online Trust](https://smarterarticles.co.uk/the-counterfeit-web-how-synthetic-content-broke-online-trust?pk_campaign=rss-feed)
 - [False Precision in Science](https://dev.to/rawveg/false-precision-in-science-3lpd)
 - [Inside the Accountability Vacuum: Why Clinical AI Errors Have No Owner](https://smarterarticles.co.uk/inside-the-accountability-vacuum-why-clinical-ai-errors-have-no-owner?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Infrastructure Is Destiny](https://dev.to/rawveg/infrastructure-is-destiny-4p8)
 - [When Love Becomes a Language Model: Inside the Industrial Romance Scam](https://smarterarticles.co.uk/when-love-becomes-a-language-model-inside-the-industrial-romance-scam?pk_campaign=rss-feed)
 - [Bridging the AI Ethics Enforcement Gap - SmarterArticles S1E5](https://dev.to/rawveg/bridging-the-ai-ethics-enforcement-gap-smarterarticles-s1e5-elm)
-- [The OpenClaw Warning](https://dev.to/rawveg/the-openclaw-warning-3b4k)
 <!-- BLOG-POST-LIST:END -->
