@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Computer Says Fraud: The Case for Due Process in Welfare AI](https://smarterarticles.co.uk/computer-says-fraud-the-case-for-due-process-in-welfare-ai?pk_campaign=rss-feed)
 - [Twenty Minutes, Seventeen Organizations](https://dev.to/rawveg/twenty-minutes-seventeen-organizations-4jo4)
 - [The Counterfeit Web: How Synthetic Content Broke Online Trust](https://smarterarticles.co.uk/the-counterfeit-web-how-synthetic-content-broke-online-trust?pk_campaign=rss-feed)
 - [False Precision in Science](https://dev.to/rawveg/false-precision-in-science-3lpd)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Knock at the Door: Predictive Scoring and Child Welfare Rights](https://smarterarticles.co.uk/the-knock-at-the-door-predictive-scoring-and-child-welfare-rights?pk_campaign=rss-feed)
 - [Infrastructure Is Destiny](https://dev.to/rawveg/infrastructure-is-destiny-4p8)
 - [When Love Becomes a Language Model: Inside the Industrial Romance Scam](https://smarterarticles.co.uk/when-love-becomes-a-language-model-inside-the-industrial-romance-scam?pk_campaign=rss-feed)
-- [Bridging the AI Ethics Enforcement Gap - SmarterArticles S1E5](https://dev.to/rawveg/bridging-the-ai-ethics-enforcement-gap-smarterarticles-s1e5-elm)
 <!-- BLOG-POST-LIST:END -->
