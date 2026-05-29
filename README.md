@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [State-Funded Loneliness: AI Companions and the Failure of Human Care](https://smarterarticles.co.uk/state-funded-loneliness-ai-companions-and-the-failure-of-human-care?pk_campaign=rss-feed)
 - [Child Safety vs. Data Center Dollars](https://dev.to/rawveg/child-safety-vs-data-center-dollars-2k08)
 - [Computer Says Fraud: The Case for Due Process in Welfare AI](https://smarterarticles.co.uk/computer-says-fraud-the-case-for-due-process-in-welfare-ai?pk_campaign=rss-feed)
 - [Twenty Minutes, Seventeen Organizations](https://dev.to/rawveg/twenty-minutes-seventeen-organizations-4jo4)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Quiet Collapse: How Generative AI Hollows Out Creative Markets](https://smarterarticles.co.uk/the-quiet-collapse-how-generative-ai-hollows-out-creative-markets?pk_campaign=rss-feed)
 - [The Great AI Confidence Trick](https://dev.to/rawveg/the-great-ai-confidence-trick-eao)
 - [The Knock at the Door: Predictive Scoring and Child Welfare Rights](https://smarterarticles.co.uk/the-knock-at-the-door-predictive-scoring-and-child-welfare-rights?pk_campaign=rss-feed)
-- [Infrastructure Is Destiny](https://dev.to/rawveg/infrastructure-is-destiny-4p8)
 <!-- BLOG-POST-LIST:END -->
