@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Verification Crisis](https://dev.to/rawveg/the-verification-crisis-e51)
 - [UK Duty of Care Exposed: Your AI Vendor Just Testified Against You](https://smarterarticles.co.uk/uk-duty-of-care-exposed-your-ai-vendor-just-testified-against-you?pk_campaign=rss-feed)
 - [The Collapse Equation](https://dev.to/rawveg/the-collapse-equation-55p8)
 - [State-Funded Loneliness: AI Companions and the Failure of Human Care](https://smarterarticles.co.uk/state-funded-loneliness-ai-companions-and-the-failure-of-human-care?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [You Are Not Choosing](https://dev.to/rawveg/you-are-not-choosing-4nmm)
 - [Phantom Precedent: When AI Fabricates Citations and the Poor Pay](https://smarterarticles.co.uk/phantom-precedent-when-ai-fabricates-citations-and-the-poor-pay?pk_campaign=rss-feed)
 - [Valued at Millions, Compensated at Zero](https://dev.to/rawveg/valued-at-millions-compensated-at-zero-35gj)
-- [The Quiet Collapse: How Generative AI Hollows Out Creative Markets](https://smarterarticles.co.uk/the-quiet-collapse-how-generative-ai-hollows-out-creative-markets?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
