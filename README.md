@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When the Corporation Is the Regulator](https://dev.to/rawveg/when-the-corporation-is-the-regulator-51np)
 - [The Vulnerable Moment: How Apps Learned to Find You at Your Weakest](https://smarterarticles.co.uk/the-vulnerable-moment-how-apps-learned-to-find-you-at-your-weakest?pk_campaign=rss-feed)
 - [The Verification Crisis](https://dev.to/rawveg/the-verification-crisis-e51)
 - [UK Duty of Care Exposed: Your AI Vendor Just Testified Against You](https://smarterarticles.co.uk/uk-duty-of-care-exposed-your-ai-vendor-just-testified-against-you?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When AI Blackmail Goes Viral](https://dev.to/rawveg/when-ai-blackmail-goes-viral-3enh)
 - [The Boiling Frog Was Wrong: AI Cognitive Harm Arrives In Minutes](https://smarterarticles.co.uk/the-boiling-frog-was-wrong-ai-cognitive-harm-arrives-in-minutes?pk_campaign=rss-feed)
 - [You Are Not Choosing](https://dev.to/rawveg/you-are-not-choosing-4nmm)
-- [Phantom Precedent: When AI Fabricates Citations and the Poor Pay](https://smarterarticles.co.uk/phantom-precedent-when-ai-fabricates-citations-and-the-poor-pay?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
