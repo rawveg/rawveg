@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Border Cameras and Childhood: Why AI Age Estimation Fails Asylum Seekers](https://smarterarticles.co.uk/border-cameras-and-childhood-why-ai-age-estimation-fails-asylum-seekers?pk_campaign=rss-feed)
 - [When the Corporation Is the Regulator](https://dev.to/rawveg/when-the-corporation-is-the-regulator-51np)
 - [The Vulnerable Moment: How Apps Learned to Find You at Your Weakest](https://smarterarticles.co.uk/the-vulnerable-moment-how-apps-learned-to-find-you-at-your-weakest?pk_campaign=rss-feed)
 - [The Verification Crisis](https://dev.to/rawveg/the-verification-crisis-e51)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Second Extraction: How AI Absorbed Indigenous Knowledge Without Consent](https://smarterarticles.co.uk/the-second-extraction-how-ai-absorbed-indigenous-knowledge-without-consent?pk_campaign=rss-feed)
 - [When AI Blackmail Goes Viral](https://dev.to/rawveg/when-ai-blackmail-goes-viral-3enh)
 - [The Boiling Frog Was Wrong: AI Cognitive Harm Arrives In Minutes](https://smarterarticles.co.uk/the-boiling-frog-was-wrong-ai-cognitive-harm-arrives-in-minutes?pk_campaign=rss-feed)
-- [You Are Not Choosing](https://dev.to/rawveg/you-are-not-choosing-4nmm)
 <!-- BLOG-POST-LIST:END -->
