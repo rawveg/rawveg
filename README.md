@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Sycophantic Machine: How AI Chatbot Design Endangers Vulnerable Minds](https://smarterarticles.co.uk/the-sycophantic-machine-how-ai-chatbot-design-endangers-vulnerable-minds?pk_campaign=rss-feed)
 - [Sovereign AI](https://dev.to/rawveg/sovereign-ai-39fi)
 - [More Connected, More Alone: How AI Is Eroding Human Social Skills - SmarterArticles S1E7](https://dev.to/rawveg/more-connected-more-alone-how-ai-is-eroding-human-social-skills-smarterarticles-s1e7-2k7a)
 - [Border Cameras and Childhood: Why AI Age Estimation Fails Asylum Seekers](https://smarterarticles.co.uk/border-cameras-and-childhood-why-ai-age-estimation-fails-asylum-seekers?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Vibe Coding: Revolution or Risk in Software Development? - SmarterArticles S1E6](https://dev.to/rawveg/vibe-coding-revolution-or-risk-in-software-development-smarterarticles-s1e6-3ek9)
 - [The Wage Scar of AI: What Society Owes Workers Left Behind](https://smarterarticles.co.uk/the-wage-scar-of-ai-what-society-owes-workers-left-behind?pk_campaign=rss-feed)
 - [More Connected, More Alone](https://dev.to/rawveg/more-connected-more-alone-15jb)
-- [The Second Extraction: How AI Absorbed Indigenous Knowledge Without Consent](https://smarterarticles.co.uk/the-second-extraction-how-ai-absorbed-indigenous-knowledge-without-consent?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
