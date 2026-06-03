@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Great Unlinking: How AI Overviews Defund the Journalism They Devour](https://smarterarticles.co.uk/the-great-unlinking-how-ai-overviews-defund-the-journalism-they-devour?pk_campaign=rss-feed)
 - [War Games, Neural Networks](https://dev.to/rawveg/war-games-neural-networks-3hc6)
 - [The Sycophantic Machine: How AI Chatbot Design Endangers Vulnerable Minds](https://smarterarticles.co.uk/the-sycophantic-machine-how-ai-chatbot-design-endangers-vulnerable-minds?pk_campaign=rss-feed)
 - [Sovereign AI](https://dev.to/rawveg/sovereign-ai-39fi)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Inside the Accountability Vacuum: Why Clinical AI Errors Have No Owner](https://smarterarticles.co.uk/inside-the-accountability-vacuum-why-clinical-ai-errors-have-no-owner?pk_campaign=rss-feed)
 - [After the Last Song](https://dev.to/rawveg/after-the-last-song-5141)
 - [Vibe Coding: Revolution or Risk in Software Development? - SmarterArticles S1E6](https://dev.to/rawveg/vibe-coding-revolution-or-risk-in-software-development-smarterarticles-s1e6-3ek9)
-- [The Wage Scar of AI: What Society Owes Workers Left Behind](https://smarterarticles.co.uk/the-wage-scar-of-ai-what-society-owes-workers-left-behind?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
