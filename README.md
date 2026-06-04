@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI and the Right to Die: Why Capacity Cannot Be Automated](https://smarterarticles.co.uk/ai-and-the-right-to-die-why-capacity-cannot-be-automated?pk_campaign=rss-feed)
 - [De-Identified and Still Exposed](https://dev.to/rawveg/de-identified-and-still-exposed-4pkc)
 - [The Great Unlinking: How AI Overviews Defund the Journalism They Devour](https://smarterarticles.co.uk/the-great-unlinking-how-ai-overviews-defund-the-journalism-they-devour?pk_campaign=rss-feed)
 - [War Games, Neural Networks](https://dev.to/rawveg/war-games-neural-networks-3hc6)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Counterfeit Web: How Synthetic Content Broke Online Trust](https://smarterarticles.co.uk/the-counterfeit-web-how-synthetic-content-broke-online-trust?pk_campaign=rss-feed)
 - [False Precision in Science](https://dev.to/rawveg/false-precision-in-science-3lpd)
 - [Inside the Accountability Vacuum: Why Clinical AI Errors Have No Owner](https://smarterarticles.co.uk/inside-the-accountability-vacuum-why-clinical-ai-errors-have-no-owner?pk_campaign=rss-feed)
-- [After the Last Song](https://dev.to/rawveg/after-the-last-song-5141)
 <!-- BLOG-POST-LIST:END -->
