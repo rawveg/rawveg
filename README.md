@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Convicted in Five Minutes: The Due Process Creators Never Get](https://smarterarticles.co.uk/convicted-in-five-minutes-the-due-process-creators-never-get?pk_campaign=rss-feed)
 - [More Tools Made AI Worse](https://dev.to/rawveg/more-tools-made-ai-worse-po7)
 - [AI and the Right to Die: Why Capacity Cannot Be Automated](https://smarterarticles.co.uk/ai-and-the-right-to-die-why-capacity-cannot-be-automated?pk_campaign=rss-feed)
 - [De-Identified and Still Exposed](https://dev.to/rawveg/de-identified-and-still-exposed-4pkc)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Computer Says Fraud: The Case for Due Process in Welfare AI](https://smarterarticles.co.uk/computer-says-fraud-the-case-for-due-process-in-welfare-ai?pk_campaign=rss-feed)
 - [Twenty Minutes, Seventeen Organizations](https://dev.to/rawveg/twenty-minutes-seventeen-organizations-4jo4)
 - [The Counterfeit Web: How Synthetic Content Broke Online Trust](https://smarterarticles.co.uk/the-counterfeit-web-how-synthetic-content-broke-online-trust?pk_campaign=rss-feed)
-- [False Precision in Science](https://dev.to/rawveg/false-precision-in-science-3lpd)
 <!-- BLOG-POST-LIST:END -->
