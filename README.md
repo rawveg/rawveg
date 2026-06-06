@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [A Detection Crisis Begins: Europe Made Child Protection Unlawful](https://smarterarticles.co.uk/a-detection-crisis-begins-europe-made-child-protection-unlawful?pk_campaign=rss-feed)
 - [Safety Is Now Subversive](https://dev.to/rawveg/safety-is-now-subversive-3bbn)
 - [Convicted in Five Minutes: The Due Process Creators Never Get](https://smarterarticles.co.uk/convicted-in-five-minutes-the-due-process-creators-never-get?pk_campaign=rss-feed)
 - [More Tools Made AI Worse](https://dev.to/rawveg/more-tools-made-ai-worse-po7)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [State-Funded Loneliness: AI Companions and the Failure of Human Care](https://smarterarticles.co.uk/state-funded-loneliness-ai-companions-and-the-failure-of-human-care?pk_campaign=rss-feed)
 - [Child Safety vs. Data Center Dollars](https://dev.to/rawveg/child-safety-vs-data-center-dollars-2k08)
 - [Computer Says Fraud: The Case for Due Process in Welfare AI](https://smarterarticles.co.uk/computer-says-fraud-the-case-for-due-process-in-welfare-ai?pk_campaign=rss-feed)
-- [Twenty Minutes, Seventeen Organizations](https://dev.to/rawveg/twenty-minutes-seventeen-organizations-4jo4)
 <!-- BLOG-POST-LIST:END -->
