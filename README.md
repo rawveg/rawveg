@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Convicted by Prediction: Why Pre-Crime Policing Breaks the Law It Serves](https://smarterarticles.co.uk/convicted-by-prediction-why-pre-crime-policing-breaks-the-law-it-serves?pk_campaign=rss-feed)
 - [Watts Before Chips](https://dev.to/rawveg/watts-before-chips-5cg2)
 - [A Detection Crisis Begins: Europe Made Child Protection Unlawful](https://smarterarticles.co.uk/a-detection-crisis-begins-europe-made-child-protection-unlawful?pk_campaign=rss-feed)
 - [Safety Is Now Subversive](https://dev.to/rawveg/safety-is-now-subversive-3bbn)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [UK Duty of Care Exposed: Your AI Vendor Just Testified Against You](https://smarterarticles.co.uk/uk-duty-of-care-exposed-your-ai-vendor-just-testified-against-you?pk_campaign=rss-feed)
 - [The Collapse Equation](https://dev.to/rawveg/the-collapse-equation-55p8)
 - [State-Funded Loneliness: AI Companions and the Failure of Human Care](https://smarterarticles.co.uk/state-funded-loneliness-ai-companions-and-the-failure-of-human-care?pk_campaign=rss-feed)
-- [Child Safety vs. Data Center Dollars](https://dev.to/rawveg/child-safety-vs-data-center-dollars-2k08)
 <!-- BLOG-POST-LIST:END -->
