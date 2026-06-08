@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your Data Outlives the App](https://dev.to/rawveg/your-data-outlives-the-app-2jfm)
 - [Navigating Privacy Risks and Ethical Dilemmas in Dating Apps - SmarterArticles S1E8](https://dev.to/rawveg/navigating-privacy-risks-and-ethical-dilemmas-in-dating-apps-smarterarticles-s1e8-48lf)
 - [The Partner Who Cannot See It: AI Romance and Hidden Infidelity](https://smarterarticles.co.uk/the-partner-who-cannot-see-it-ai-romance-and-hidden-infidelity?pk_campaign=rss-feed)
 - [Journalism Built on Borrowed Code](https://dev.to/rawveg/journalism-built-on-borrowed-code-1cff)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Border Cameras and Childhood: Why AI Age Estimation Fails Asylum Seekers](https://smarterarticles.co.uk/border-cameras-and-childhood-why-ai-age-estimation-fails-asylum-seekers?pk_campaign=rss-feed)
 - [When the Corporation Is the Regulator](https://dev.to/rawveg/when-the-corporation-is-the-regulator-51np)
 - [The Vulnerable Moment: How Apps Learned to Find You at Your Weakest](https://smarterarticles.co.uk/the-vulnerable-moment-how-apps-learned-to-find-you-at-your-weakest?pk_campaign=rss-feed)
-- [The Verification Crisis](https://dev.to/rawveg/the-verification-crisis-e51)
 <!-- BLOG-POST-LIST:END -->
