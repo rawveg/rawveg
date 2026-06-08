@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Partner Who Cannot See It: AI Romance and Hidden Infidelity](https://smarterarticles.co.uk/the-partner-who-cannot-see-it-ai-romance-and-hidden-infidelity?pk_campaign=rss-feed)
 - [Journalism Built on Borrowed Code](https://dev.to/rawveg/journalism-built-on-borrowed-code-1cff)
 - [Convicted by Prediction: Why Pre-Crime Policing Breaks the Law It Serves](https://smarterarticles.co.uk/convicted-by-prediction-why-pre-crime-policing-breaks-the-law-it-serves?pk_campaign=rss-feed)
 - [Watts Before Chips](https://dev.to/rawveg/watts-before-chips-5cg2)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Vulnerable Moment: How Apps Learned to Find You at Your Weakest](https://smarterarticles.co.uk/the-vulnerable-moment-how-apps-learned-to-find-you-at-your-weakest?pk_campaign=rss-feed)
 - [The Verification Crisis](https://dev.to/rawveg/the-verification-crisis-e51)
 - [UK Duty of Care Exposed: Your AI Vendor Just Testified Against You](https://smarterarticles.co.uk/uk-duty-of-care-exposed-your-ai-vendor-just-testified-against-you?pk_campaign=rss-feed)
-- [The Collapse Equation](https://dev.to/rawveg/the-collapse-equation-55p8)
 <!-- BLOG-POST-LIST:END -->
