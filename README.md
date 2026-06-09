@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Stars, Real Losses](https://dev.to/rawveg/virtual-stars-real-losses-26f9)
 - [Meta and the Unwilling Training Set: Workers Teaching Their Own Replacements](https://smarterarticles.co.uk/meta-and-the-unwilling-training-set-workers-teaching-their-own-replacements?pk_campaign=rss-feed)
 - [Your Data Outlives the App](https://dev.to/rawveg/your-data-outlives-the-app-2jfm)
 - [Navigating Privacy Risks and Ethical Dilemmas in Dating Apps - SmarterArticles S1E8](https://dev.to/rawveg/navigating-privacy-risks-and-ethical-dilemmas-in-dating-apps-smarterarticles-s1e8-48lf)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Sovereign AI](https://dev.to/rawveg/sovereign-ai-39fi)
 - [More Connected, More Alone: How AI Is Eroding Human Social Skills - SmarterArticles S1E7](https://dev.to/rawveg/more-connected-more-alone-how-ai-is-eroding-human-social-skills-smarterarticles-s1e7-2k7a)
 - [Border Cameras and Childhood: Why AI Age Estimation Fails Asylum Seekers](https://smarterarticles.co.uk/border-cameras-and-childhood-why-ai-age-estimation-fails-asylum-seekers?pk_campaign=rss-feed)
-- [When the Corporation Is the Regulator](https://dev.to/rawveg/when-the-corporation-is-the-regulator-51np)
 <!-- BLOG-POST-LIST:END -->
