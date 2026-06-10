@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Minimalism Is Not Neutral: The Hidden Power Behind Less](https://smarterarticles.co.uk/minimalism-is-not-neutral-the-hidden-power-behind-less?pk_campaign=rss-feed)
 - [Virtual Stars, Real Losses](https://dev.to/rawveg/virtual-stars-real-losses-26f9)
 - [Meta and the Unwilling Training Set: Workers Teaching Their Own Replacements](https://smarterarticles.co.uk/meta-and-the-unwilling-training-set-workers-teaching-their-own-replacements?pk_campaign=rss-feed)
 - [Your Data Outlives the App](https://dev.to/rawveg/your-data-outlives-the-app-2jfm)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Sycophantic Machine: How AI Chatbot Design Endangers Vulnerable Minds](https://smarterarticles.co.uk/the-sycophantic-machine-how-ai-chatbot-design-endangers-vulnerable-minds?pk_campaign=rss-feed)
 - [Sovereign AI](https://dev.to/rawveg/sovereign-ai-39fi)
 - [More Connected, More Alone: How AI Is Eroding Human Social Skills - SmarterArticles S1E7](https://dev.to/rawveg/more-connected-more-alone-how-ai-is-eroding-human-social-skills-smarterarticles-s1e7-2k7a)
-- [Border Cameras and Childhood: Why AI Age Estimation Fails Asylum Seekers](https://smarterarticles.co.uk/border-cameras-and-childhood-why-ai-age-estimation-fails-asylum-seekers?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
