@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Reading Machine Minds](https://dev.to/rawveg/reading-machine-minds-5ace)
 - [Seven Million Songs a Day: AI Music and Vanishing Scarcity](https://smarterarticles.co.uk/seven-million-songs-a-day-ai-music-and-vanishing-scarcity?pk_campaign=rss-feed)
 - [One-Way Mirror](https://dev.to/rawveg/one-way-mirror-lnk)
 - [Minimalism Is Not Neutral: The Hidden Power Behind Less](https://smarterarticles.co.uk/minimalism-is-not-neutral-the-hidden-power-behind-less?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [De-Identified and Still Exposed](https://dev.to/rawveg/de-identified-and-still-exposed-4pkc)
 - [The Great Unlinking: How AI Overviews Defund the Journalism They Devour](https://smarterarticles.co.uk/the-great-unlinking-how-ai-overviews-defund-the-journalism-they-devour?pk_campaign=rss-feed)
 - [War Games, Neural Networks](https://dev.to/rawveg/war-games-neural-networks-3hc6)
-- [The Sycophantic Machine: How AI Chatbot Design Endangers Vulnerable Minds](https://smarterarticles.co.uk/the-sycophantic-machine-how-ai-chatbot-design-endangers-vulnerable-minds?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
