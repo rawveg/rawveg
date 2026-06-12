@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The New Complicity: AI Chatbots and Problem Gambling](https://smarterarticles.co.uk/the-new-complicity-ai-chatbots-and-problem-gambling?pk_campaign=rss-feed)
 - [Reading Machine Minds](https://dev.to/rawveg/reading-machine-minds-5ace)
 - [Seven Million Songs a Day: AI Music and Vanishing Scarcity](https://smarterarticles.co.uk/seven-million-songs-a-day-ai-music-and-vanishing-scarcity?pk_campaign=rss-feed)
 - [One-Way Mirror](https://dev.to/rawveg/one-way-mirror-lnk)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI and the Right to Die: Why Capacity Cannot Be Automated](https://smarterarticles.co.uk/ai-and-the-right-to-die-why-capacity-cannot-be-automated?pk_campaign=rss-feed)
 - [De-Identified and Still Exposed](https://dev.to/rawveg/de-identified-and-still-exposed-4pkc)
 - [The Great Unlinking: How AI Overviews Defund the Journalism They Devour](https://smarterarticles.co.uk/the-great-unlinking-how-ai-overviews-defund-the-journalism-they-devour?pk_campaign=rss-feed)
-- [War Games, Neural Networks](https://dev.to/rawveg/war-games-neural-networks-3hc6)
 <!-- BLOG-POST-LIST:END -->
