@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI and the Abusers Toolkit: When Connection Becomes Control](https://smarterarticles.co.uk/ai-and-the-abusers-toolkit-when-connection-becomes-control?pk_campaign=rss-feed)
 - [Jailbroken and Unleashed](https://dev.to/rawveg/jailbroken-and-unleashed-np)
 - [The New Complicity: AI Chatbots and Problem Gambling](https://smarterarticles.co.uk/the-new-complicity-ai-chatbots-and-problem-gambling?pk_campaign=rss-feed)
 - [Reading Machine Minds](https://dev.to/rawveg/reading-machine-minds-5ace)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Convicted in Five Minutes: The Due Process Creators Never Get](https://smarterarticles.co.uk/convicted-in-five-minutes-the-due-process-creators-never-get?pk_campaign=rss-feed)
 - [More Tools Made AI Worse](https://dev.to/rawveg/more-tools-made-ai-worse-po7)
 - [AI and the Right to Die: Why Capacity Cannot Be Automated](https://smarterarticles.co.uk/ai-and-the-right-to-die-why-capacity-cannot-be-automated?pk_campaign=rss-feed)
-- [De-Identified and Still Exposed](https://dev.to/rawveg/de-identified-and-still-exposed-4pkc)
 <!-- BLOG-POST-LIST:END -->
