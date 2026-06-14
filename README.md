@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Diet Chatbots and Teenagers: The Safeguard Nobody Built](https://smarterarticles.co.uk/ai-diet-chatbots-and-teenagers-the-safeguard-nobody-built?pk_campaign=rss-feed)
 - [Teddy Bears With Microphones](https://dev.to/rawveg/teddy-bears-with-microphones-32fj)
 - [AI and the Abusers Toolkit: When Connection Becomes Control](https://smarterarticles.co.uk/ai-and-the-abusers-toolkit-when-connection-becomes-control?pk_campaign=rss-feed)
 - [Jailbroken and Unleashed](https://dev.to/rawveg/jailbroken-and-unleashed-np)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [A Detection Crisis Begins: Europe Made Child Protection Unlawful](https://smarterarticles.co.uk/a-detection-crisis-begins-europe-made-child-protection-unlawful?pk_campaign=rss-feed)
 - [Safety Is Now Subversive](https://dev.to/rawveg/safety-is-now-subversive-3bbn)
 - [Convicted in Five Minutes: The Due Process Creators Never Get](https://smarterarticles.co.uk/convicted-in-five-minutes-the-due-process-creators-never-get?pk_campaign=rss-feed)
-- [More Tools Made AI Worse](https://dev.to/rawveg/more-tools-made-ai-worse-po7)
 <!-- BLOG-POST-LIST:END -->
