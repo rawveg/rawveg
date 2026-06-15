@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Streaming Broke Musicians First](https://dev.to/rawveg/streaming-broke-musicians-first-3k3c)
+- [The Future of Expertise in an AI-Driven World - SmarterArticles S1E9](https://dev.to/rawveg/the-future-of-expertise-in-an-ai-driven-world-smarterarticles-s1e9-42ge)
 - [Phantom Citations and Paper Mills: How AI Fraud Reaches Patients](https://smarterarticles.co.uk/phantom-citations-and-paper-mills-how-ai-fraud-reaches-patients?pk_campaign=rss-feed)
 - [Forced to Use AI](https://dev.to/rawveg/forced-to-use-ai-4ajf)
 - [AI Diet Chatbots and Teenagers: The Safeguard Nobody Built](https://smarterarticles.co.uk/ai-diet-chatbots-and-teenagers-the-safeguard-nobody-built?pk_campaign=rss-feed)
@@ -33,6 +35,4 @@ Here are some ideas to get you started:
 - [The Partner Who Cannot See It: AI Romance and Hidden Infidelity](https://smarterarticles.co.uk/the-partner-who-cannot-see-it-ai-romance-and-hidden-infidelity?pk_campaign=rss-feed)
 - [Journalism Built on Borrowed Code](https://dev.to/rawveg/journalism-built-on-borrowed-code-1cff)
 - [Convicted by Prediction: Why Pre-Crime Policing Breaks the Law It Serves](https://smarterarticles.co.uk/convicted-by-prediction-why-pre-crime-policing-breaks-the-law-it-serves?pk_campaign=rss-feed)
-- [Watts Before Chips](https://dev.to/rawveg/watts-before-chips-5cg2)
-- [A Detection Crisis Begins: Europe Made Child Protection Unlawful](https://smarterarticles.co.uk/a-detection-crisis-begins-europe-made-child-protection-unlawful?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
