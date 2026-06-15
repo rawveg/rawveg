@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Phantom Citations and Paper Mills: How AI Fraud Reaches Patients](https://smarterarticles.co.uk/phantom-citations-and-paper-mills-how-ai-fraud-reaches-patients?pk_campaign=rss-feed)
 - [Forced to Use AI](https://dev.to/rawveg/forced-to-use-ai-4ajf)
 - [AI Diet Chatbots and Teenagers: The Safeguard Nobody Built](https://smarterarticles.co.uk/ai-diet-chatbots-and-teenagers-the-safeguard-nobody-built?pk_campaign=rss-feed)
 - [Teddy Bears With Microphones](https://dev.to/rawveg/teddy-bears-with-microphones-32fj)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Convicted by Prediction: Why Pre-Crime Policing Breaks the Law It Serves](https://smarterarticles.co.uk/convicted-by-prediction-why-pre-crime-policing-breaks-the-law-it-serves?pk_campaign=rss-feed)
 - [Watts Before Chips](https://dev.to/rawveg/watts-before-chips-5cg2)
 - [A Detection Crisis Begins: Europe Made Child Protection Unlawful](https://smarterarticles.co.uk/a-detection-crisis-begins-europe-made-child-protection-unlawful?pk_campaign=rss-feed)
-- [Safety Is Now Subversive](https://dev.to/rawveg/safety-is-now-subversive-3bbn)
 <!-- BLOG-POST-LIST:END -->
