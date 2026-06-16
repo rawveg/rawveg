@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your Face Is Not a Novel](https://dev.to/rawveg/your-face-is-not-a-novel-3j15)
 - [When the Safeguard Fails: Medical AI and the Deskilling of Doctors](https://smarterarticles.co.uk/when-the-safeguard-fails-medical-ai-and-the-deskilling-of-doctors?pk_campaign=rss-feed)
 - [Streaming Broke Musicians First](https://dev.to/rawveg/streaming-broke-musicians-first-3k3c)
 - [The Future of Expertise in an AI-Driven World - SmarterArticles S1E9](https://dev.to/rawveg/the-future-of-expertise-in-an-ai-driven-world-smarterarticles-s1e9-42ge)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Your Data Outlives the App](https://dev.to/rawveg/your-data-outlives-the-app-2jfm)
 - [Navigating Privacy Risks and Ethical Dilemmas in Dating Apps - SmarterArticles S1E8](https://dev.to/rawveg/navigating-privacy-risks-and-ethical-dilemmas-in-dating-apps-smarterarticles-s1e8-48lf)
 - [The Partner Who Cannot See It: AI Romance and Hidden Infidelity](https://smarterarticles.co.uk/the-partner-who-cannot-see-it-ai-romance-and-hidden-infidelity?pk_campaign=rss-feed)
-- [Journalism Built on Borrowed Code](https://dev.to/rawveg/journalism-built-on-borrowed-code-1cff)
 <!-- BLOG-POST-LIST:END -->
