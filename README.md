@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Guardrail Crisis](https://dev.to/rawveg/the-guardrail-crisis-42a)
 - [When AI Reassures the Dying: Under-Triage in Emergency Care](https://smarterarticles.co.uk/when-ai-reassures-the-dying-under-triage-in-emergency-care?pk_campaign=rss-feed)
 - [Your Face Is Not a Novel](https://dev.to/rawveg/your-face-is-not-a-novel-3j15)
 - [When the Safeguard Fails: Medical AI and the Deskilling of Doctors](https://smarterarticles.co.uk/when-the-safeguard-fails-medical-ai-and-the-deskilling-of-doctors?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Virtual Stars, Real Losses](https://dev.to/rawveg/virtual-stars-real-losses-26f9)
 - [Meta and the Unwilling Training Set: Workers Teaching Their Own Replacements](https://smarterarticles.co.uk/meta-and-the-unwilling-training-set-workers-teaching-their-own-replacements?pk_campaign=rss-feed)
 - [Your Data Outlives the App](https://dev.to/rawveg/your-data-outlives-the-app-2jfm)
-- [Navigating Privacy Risks and Ethical Dilemmas in Dating Apps - SmarterArticles S1E8](https://dev.to/rawveg/navigating-privacy-risks-and-ethical-dilemmas-in-dating-apps-smarterarticles-s1e8-48lf)
 <!-- BLOG-POST-LIST:END -->
