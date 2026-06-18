@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Confession Machine: How AI Therapy Leaves Mental Health Data Exposed](https://smarterarticles.co.uk/the-confession-machine-how-ai-therapy-leaves-mental-health-data-exposed?pk_campaign=rss-feed)
 - [The Guardrail Crisis](https://dev.to/rawveg/the-guardrail-crisis-42a)
 - [When AI Reassures the Dying: Under-Triage in Emergency Care](https://smarterarticles.co.uk/when-ai-reassures-the-dying-under-triage-in-emergency-care?pk_campaign=rss-feed)
 - [Your Face Is Not a Novel](https://dev.to/rawveg/your-face-is-not-a-novel-3j15)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Minimalism Is Not Neutral: The Hidden Power Behind Less](https://smarterarticles.co.uk/minimalism-is-not-neutral-the-hidden-power-behind-less?pk_campaign=rss-feed)
 - [Virtual Stars, Real Losses](https://dev.to/rawveg/virtual-stars-real-losses-26f9)
 - [Meta and the Unwilling Training Set: Workers Teaching Their Own Replacements](https://smarterarticles.co.uk/meta-and-the-unwilling-training-set-workers-teaching-their-own-replacements?pk_campaign=rss-feed)
-- [Your Data Outlives the App](https://dev.to/rawveg/your-data-outlives-the-app-2jfm)
 <!-- BLOG-POST-LIST:END -->
