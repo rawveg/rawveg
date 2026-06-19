@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your Phone Heard Everything](https://dev.to/rawveg/your-phone-heard-everything-469m)
 - [Talked Out of Reality: How Agreeable Chatbots Induce Delusion in Well Minds](https://smarterarticles.co.uk/talked-out-of-reality-how-agreeable-chatbots-induce-delusion-in-well-minds?pk_campaign=rss-feed)
 - [The Ouroboros Machine](https://dev.to/rawveg/the-ouroboros-machine-34k0)
 - [The Confession Machine: How AI Therapy Leaves Mental Health Data Exposed](https://smarterarticles.co.uk/the-confession-machine-how-ai-therapy-leaves-mental-health-data-exposed?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Reading Machine Minds](https://dev.to/rawveg/reading-machine-minds-5ace)
 - [Seven Million Songs a Day: AI Music and Vanishing Scarcity](https://smarterarticles.co.uk/seven-million-songs-a-day-ai-music-and-vanishing-scarcity?pk_campaign=rss-feed)
 - [One-Way Mirror](https://dev.to/rawveg/one-way-mirror-lnk)
-- [Minimalism Is Not Neutral: The Hidden Power Behind Less](https://smarterarticles.co.uk/minimalism-is-not-neutral-the-hidden-power-behind-less?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
