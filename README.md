@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your Body, Their Data](https://dev.to/rawveg/your-body-their-data-32bk)
 - [AI Slop as a Weapon: How Towns Lose Trust in Local News](https://smarterarticles.co.uk/ai-slop-as-a-weapon-how-towns-lose-trust-in-local-news?pk_campaign=rss-feed)
 - [When AI Files Your Taxes: Who Pays When It Fails](https://smarterarticles.co.uk/when-ai-files-your-taxes-who-pays-when-it-fails?pk_campaign=rss-feed)
 - [Five Diseases Hiding as One](https://dev.to/rawveg/five-diseases-hiding-as-one-5beh)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Teddy Bears With Microphones](https://dev.to/rawveg/teddy-bears-with-microphones-32fj)
 - [AI and the Abusers Toolkit: When Connection Becomes Control](https://smarterarticles.co.uk/ai-and-the-abusers-toolkit-when-connection-becomes-control?pk_campaign=rss-feed)
 - [Jailbroken and Unleashed](https://dev.to/rawveg/jailbroken-and-unleashed-np)
-- [The New Complicity: AI Chatbots and Problem Gambling](https://smarterarticles.co.uk/the-new-complicity-ai-chatbots-and-problem-gambling?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
