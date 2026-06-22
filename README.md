@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Transparency Trap](https://dev.to/rawveg/the-transparency-trap-27fk)
+- [AI Age Estimation: Ethics and Implications at the Border - SmarterArticles S1E10](https://dev.to/rawveg/ai-age-estimation-ethics-and-implications-at-the-border-smarterarticles-s1e10-2mmm)
 - [The Borrowed Friend: How AI Companions Profit From Teenage Loneliness](https://smarterarticles.co.uk/the-borrowed-friend-how-ai-companions-profit-from-teenage-loneliness?pk_campaign=rss-feed)
 - [Your Body, Their Data](https://dev.to/rawveg/your-body-their-data-32bk)
 - [AI Slop as a Weapon: How Towns Lose Trust in Local News](https://smarterarticles.co.uk/ai-slop-as-a-weapon-how-towns-lose-trust-in-local-news?pk_campaign=rss-feed)
@@ -33,6 +35,4 @@ Here are some ideas to get you started:
 - [Phantom Citations and Paper Mills: How AI Fraud Reaches Patients](https://smarterarticles.co.uk/phantom-citations-and-paper-mills-how-ai-fraud-reaches-patients?pk_campaign=rss-feed)
 - [Forced to Use AI](https://dev.to/rawveg/forced-to-use-ai-4ajf)
 - [AI Diet Chatbots and Teenagers: The Safeguard Nobody Built](https://smarterarticles.co.uk/ai-diet-chatbots-and-teenagers-the-safeguard-nobody-built?pk_campaign=rss-feed)
-- [Teddy Bears With Microphones](https://dev.to/rawveg/teddy-bears-with-microphones-32fj)
-- [AI and the Abusers Toolkit: When Connection Becomes Control](https://smarterarticles.co.uk/ai-and-the-abusers-toolkit-when-connection-becomes-control?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
