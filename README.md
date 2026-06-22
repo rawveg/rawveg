@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Borrowed Friend: How AI Companions Profit From Teenage Loneliness](https://smarterarticles.co.uk/the-borrowed-friend-how-ai-companions-profit-from-teenage-loneliness?pk_campaign=rss-feed)
 - [Your Body, Their Data](https://dev.to/rawveg/your-body-their-data-32bk)
 - [AI Slop as a Weapon: How Towns Lose Trust in Local News](https://smarterarticles.co.uk/ai-slop-as-a-weapon-how-towns-lose-trust-in-local-news?pk_campaign=rss-feed)
 - [When AI Files Your Taxes: Who Pays When It Fails](https://smarterarticles.co.uk/when-ai-files-your-taxes-who-pays-when-it-fails?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Diet Chatbots and Teenagers: The Safeguard Nobody Built](https://smarterarticles.co.uk/ai-diet-chatbots-and-teenagers-the-safeguard-nobody-built?pk_campaign=rss-feed)
 - [Teddy Bears With Microphones](https://dev.to/rawveg/teddy-bears-with-microphones-32fj)
 - [AI and the Abusers Toolkit: When Connection Becomes Control](https://smarterarticles.co.uk/ai-and-the-abusers-toolkit-when-connection-becomes-control?pk_campaign=rss-feed)
-- [Jailbroken and Unleashed](https://dev.to/rawveg/jailbroken-and-unleashed-np)
 <!-- BLOG-POST-LIST:END -->
