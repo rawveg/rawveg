@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Paid to Disappear: Gig Workers Filming Their Own Replacements](https://smarterarticles.co.uk/paid-to-disappear-gig-workers-filming-their-own-replacements?pk_campaign=rss-feed)
 - [The Transparency Trap](https://dev.to/rawveg/the-transparency-trap-27fk)
 - [AI Age Estimation: Ethics and Implications at the Border - SmarterArticles S1E10](https://dev.to/rawveg/ai-age-estimation-ethics-and-implications-at-the-border-smarterarticles-s1e10-2mmm)
 - [The Borrowed Friend: How AI Companions Profit From Teenage Loneliness](https://smarterarticles.co.uk/the-borrowed-friend-how-ai-companions-profit-from-teenage-loneliness?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Future of Expertise in an AI-Driven World - SmarterArticles S1E9](https://dev.to/rawveg/the-future-of-expertise-in-an-ai-driven-world-smarterarticles-s1e9-42ge)
 - [Phantom Citations and Paper Mills: How AI Fraud Reaches Patients](https://smarterarticles.co.uk/phantom-citations-and-paper-mills-how-ai-fraud-reaches-patients?pk_campaign=rss-feed)
 - [Forced to Use AI](https://dev.to/rawveg/forced-to-use-ai-4ajf)
-- [AI Diet Chatbots and Teenagers: The Safeguard Nobody Built](https://smarterarticles.co.uk/ai-diet-chatbots-and-teenagers-the-safeguard-nobody-built?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
