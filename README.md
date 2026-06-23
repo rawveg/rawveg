@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Governance Crisis](https://dev.to/rawveg/the-governance-crisis-l11)
 - [Paid to Disappear: Gig Workers Filming Their Own Replacements](https://smarterarticles.co.uk/paid-to-disappear-gig-workers-filming-their-own-replacements?pk_campaign=rss-feed)
 - [The Transparency Trap](https://dev.to/rawveg/the-transparency-trap-27fk)
 - [AI Age Estimation: Ethics and Implications at the Border - SmarterArticles S1E10](https://dev.to/rawveg/ai-age-estimation-ethics-and-implications-at-the-border-smarterarticles-s1e10-2mmm)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Streaming Broke Musicians First](https://dev.to/rawveg/streaming-broke-musicians-first-3k3c)
 - [The Future of Expertise in an AI-Driven World - SmarterArticles S1E9](https://dev.to/rawveg/the-future-of-expertise-in-an-ai-driven-world-smarterarticles-s1e9-42ge)
 - [Phantom Citations and Paper Mills: How AI Fraud Reaches Patients](https://smarterarticles.co.uk/phantom-citations-and-paper-mills-how-ai-fraud-reaches-patients?pk_campaign=rss-feed)
-- [Forced to Use AI](https://dev.to/rawveg/forced-to-use-ai-4ajf)
 <!-- BLOG-POST-LIST:END -->
