@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Trust Is Not a Feature](https://dev.to/rawveg/trust-is-not-a-feature-2ln0)
 - [Fake Songs, Real Theft: How AI Streaming Fraud Drains Musician Royalties](https://smarterarticles.co.uk/fake-songs-real-theft-how-ai-streaming-fraud-drains-musician-royalties?pk_campaign=rss-feed)
 - [The Governance Crisis](https://dev.to/rawveg/the-governance-crisis-l11)
 - [Paid to Disappear: Gig Workers Filming Their Own Replacements](https://smarterarticles.co.uk/paid-to-disappear-gig-workers-filming-their-own-replacements?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Your Face Is Not a Novel](https://dev.to/rawveg/your-face-is-not-a-novel-3j15)
 - [When the Safeguard Fails: Medical AI and the Deskilling of Doctors](https://smarterarticles.co.uk/when-the-safeguard-fails-medical-ai-and-the-deskilling-of-doctors?pk_campaign=rss-feed)
 - [Streaming Broke Musicians First](https://dev.to/rawveg/streaming-broke-musicians-first-3k3c)
-- [The Future of Expertise in an AI-Driven World - SmarterArticles S1E9](https://dev.to/rawveg/the-future-of-expertise-in-an-ai-driven-world-smarterarticles-s1e9-42ge)
 <!-- BLOG-POST-LIST:END -->
