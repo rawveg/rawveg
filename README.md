@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Goes to War](https://dev.to/rawveg/ai-goes-to-war-25d9)
 - [When AI Sees Guns Everywhere: Doritos, Clarinets and Children in Handcuffs](https://smarterarticles.co.uk/when-ai-sees-guns-everywhere-doritos-clarinets-and-children-in-handcuffs?pk_campaign=rss-feed)
 - [Trust Is Not a Feature](https://dev.to/rawveg/trust-is-not-a-feature-2ln0)
 - [Fake Songs, Real Theft: How AI Streaming Fraud Drains Musician Royalties](https://smarterarticles.co.uk/fake-songs-real-theft-how-ai-streaming-fraud-drains-musician-royalties?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Guardrail Crisis](https://dev.to/rawveg/the-guardrail-crisis-42a)
 - [When AI Reassures the Dying: Under-Triage in Emergency Care](https://smarterarticles.co.uk/when-ai-reassures-the-dying-under-triage-in-emergency-care?pk_campaign=rss-feed)
 - [Your Face Is Not a Novel](https://dev.to/rawveg/your-face-is-not-a-novel-3j15)
-- [When the Safeguard Fails: Medical AI and the Deskilling of Doctors](https://smarterarticles.co.uk/when-the-safeguard-fails-medical-ai-and-the-deskilling-of-doctors?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
