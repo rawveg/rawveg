@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Three Years in Four Weeks](https://dev.to/rawveg/three-years-in-four-weeks-51b6)
 - [The Right to Your Own Face: Closing the Deepfake Protection Gap](https://smarterarticles.co.uk/the-right-to-your-own-face-closing-the-deepfake-protection-gap?pk_campaign=rss-feed)
 - [AI Goes to War](https://dev.to/rawveg/ai-goes-to-war-25d9)
 - [When AI Sees Guns Everywhere: Doritos, Clarinets and Children in Handcuffs](https://smarterarticles.co.uk/when-ai-sees-guns-everywhere-doritos-clarinets-and-children-in-handcuffs?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Ouroboros Machine](https://dev.to/rawveg/the-ouroboros-machine-34k0)
 - [The Confession Machine: How AI Therapy Leaves Mental Health Data Exposed](https://smarterarticles.co.uk/the-confession-machine-how-ai-therapy-leaves-mental-health-data-exposed?pk_campaign=rss-feed)
 - [The Guardrail Crisis](https://dev.to/rawveg/the-guardrail-crisis-42a)
-- [When AI Reassures the Dying: Under-Triage in Emergency Care](https://smarterarticles.co.uk/when-ai-reassures-the-dying-under-triage-in-emergency-care?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
