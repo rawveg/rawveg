@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Score You Never See: AI Bias on the Psychiatric Ward](https://smarterarticles.co.uk/the-score-you-never-see-ai-bias-on-the-psychiatric-ward?pk_campaign=rss-feed)
 - [Three Years in Four Weeks](https://dev.to/rawveg/three-years-in-four-weeks-51b6)
 - [The Right to Your Own Face: Closing the Deepfake Protection Gap](https://smarterarticles.co.uk/the-right-to-your-own-face-closing-the-deepfake-protection-gap?pk_campaign=rss-feed)
 - [AI Goes to War](https://dev.to/rawveg/ai-goes-to-war-25d9)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Talked Out of Reality: How Agreeable Chatbots Induce Delusion in Well Minds](https://smarterarticles.co.uk/talked-out-of-reality-how-agreeable-chatbots-induce-delusion-in-well-minds?pk_campaign=rss-feed)
 - [The Ouroboros Machine](https://dev.to/rawveg/the-ouroboros-machine-34k0)
 - [The Confession Machine: How AI Therapy Leaves Mental Health Data Exposed](https://smarterarticles.co.uk/the-confession-machine-how-ai-therapy-leaves-mental-health-data-exposed?pk_campaign=rss-feed)
-- [The Guardrail Crisis](https://dev.to/rawveg/the-guardrail-crisis-42a)
 <!-- BLOG-POST-LIST:END -->
