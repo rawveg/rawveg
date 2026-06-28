@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Surveillance Pricing: Why AI Charges You More Than Your Neighbour](https://smarterarticles.co.uk/surveillance-pricing-why-ai-charges-you-more-than-your-neighbour?pk_campaign=rss-feed)
 - [Priced Out by AI](https://dev.to/rawveg/priced-out-by-ai-2o36)
 - [The Score You Never See: AI Bias on the Psychiatric Ward](https://smarterarticles.co.uk/the-score-you-never-see-ai-bias-on-the-psychiatric-ward?pk_campaign=rss-feed)
 - [Three Years in Four Weeks](https://dev.to/rawveg/three-years-in-four-weeks-51b6)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Five Diseases Hiding as One](https://dev.to/rawveg/five-diseases-hiding-as-one-5beh)
 - [Your Phone Heard Everything](https://dev.to/rawveg/your-phone-heard-everything-469m)
 - [Talked Out of Reality: How Agreeable Chatbots Induce Delusion in Well Minds](https://smarterarticles.co.uk/talked-out-of-reality-how-agreeable-chatbots-induce-delusion-in-well-minds?pk_campaign=rss-feed)
-- [The Ouroboros Machine](https://dev.to/rawveg/the-ouroboros-machine-34k0)
 <!-- BLOG-POST-LIST:END -->
