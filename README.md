@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Whose Displacement Counts: The Human Cost of AI in India](https://smarterarticles.co.uk/whose-displacement-counts-the-human-cost-of-ai-in-india?pk_campaign=rss-feed)
 - [They Taught Themselves to Hack](https://dev.to/rawveg/they-taught-themselves-to-hack-4g1)
 - [Surveillance Pricing: Why AI Charges You More Than Your Neighbour](https://smarterarticles.co.uk/surveillance-pricing-why-ai-charges-you-more-than-your-neighbour?pk_campaign=rss-feed)
 - [Priced Out by AI](https://dev.to/rawveg/priced-out-by-ai-2o36)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Slop as a Weapon: How Towns Lose Trust in Local News](https://smarterarticles.co.uk/ai-slop-as-a-weapon-how-towns-lose-trust-in-local-news?pk_campaign=rss-feed)
 - [When AI Files Your Taxes: Who Pays When It Fails](https://smarterarticles.co.uk/when-ai-files-your-taxes-who-pays-when-it-fails?pk_campaign=rss-feed)
 - [Five Diseases Hiding as One](https://dev.to/rawveg/five-diseases-hiding-as-one-5beh)
-- [Your Phone Heard Everything](https://dev.to/rawveg/your-phone-heard-everything-469m)
 <!-- BLOG-POST-LIST:END -->
