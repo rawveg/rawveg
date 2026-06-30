@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [A Number Is Not Evidence: How AI Detectors Punish Honest Students](https://smarterarticles.co.uk/a-number-is-not-evidence-how-ai-detectors-punish-honest-students?pk_campaign=rss-feed)
 - [Silicon Valley Heard 81,000 People](https://dev.to/rawveg/silicon-valley-heard-81000-people-5b5l)
 - [Navigating the Counterfeit Web: Trust in the Digital Age - SmarterArticles S1E11](https://dev.to/rawveg/navigating-the-counterfeit-web-trust-in-the-digital-age-smarterarticles-s1e11-2n4a)
 - [Whose Displacement Counts: The Human Cost of AI in India](https://smarterarticles.co.uk/whose-displacement-counts-the-human-cost-of-ai-in-india?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Age Estimation: Ethics and Implications at the Border - SmarterArticles S1E10](https://dev.to/rawveg/ai-age-estimation-ethics-and-implications-at-the-border-smarterarticles-s1e10-2mmm)
 - [The Borrowed Friend: How AI Companions Profit From Teenage Loneliness](https://smarterarticles.co.uk/the-borrowed-friend-how-ai-companions-profit-from-teenage-loneliness?pk_campaign=rss-feed)
 - [Your Body, Their Data](https://dev.to/rawveg/your-body-their-data-32bk)
-- [AI Slop as a Weapon: How Towns Lose Trust in Local News](https://smarterarticles.co.uk/ai-slop-as-a-weapon-how-towns-lose-trust-in-local-news?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
