@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Nobody to Blame: Who Pays When AI Agents Buy for You](https://smarterarticles.co.uk/nobody-to-blame-who-pays-when-ai-agents-buy-for-you?pk_campaign=rss-feed)
 - [Machines That Pretend to Care](https://dev.to/rawveg/machines-that-pretend-to-care-3nnb)
 - [A Number Is Not Evidence: How AI Detectors Punish Honest Students](https://smarterarticles.co.uk/a-number-is-not-evidence-how-ai-detectors-punish-honest-students?pk_campaign=rss-feed)
 - [Silicon Valley Heard 81,000 People](https://dev.to/rawveg/silicon-valley-heard-81000-people-5b5l)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Paid to Disappear: Gig Workers Filming Their Own Replacements](https://smarterarticles.co.uk/paid-to-disappear-gig-workers-filming-their-own-replacements?pk_campaign=rss-feed)
 - [The Transparency Trap](https://dev.to/rawveg/the-transparency-trap-27fk)
 - [AI Age Estimation: Ethics and Implications at the Border - SmarterArticles S1E10](https://dev.to/rawveg/ai-age-estimation-ethics-and-implications-at-the-border-smarterarticles-s1e10-2mmm)
-- [The Borrowed Friend: How AI Companions Profit From Teenage Loneliness](https://smarterarticles.co.uk/the-borrowed-friend-how-ai-companions-profit-from-teenage-loneliness?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
