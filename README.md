@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Fake Praise, Real Money](https://dev.to/rawveg/fake-praise-real-money-5hj4)
 - [Nobody to Blame: Who Pays When AI Agents Buy for You](https://smarterarticles.co.uk/nobody-to-blame-who-pays-when-ai-agents-buy-for-you?pk_campaign=rss-feed)
 - [Machines That Pretend to Care](https://dev.to/rawveg/machines-that-pretend-to-care-3nnb)
 - [A Number Is Not Evidence: How AI Detectors Punish Honest Students](https://smarterarticles.co.uk/a-number-is-not-evidence-how-ai-detectors-punish-honest-students?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Governance Crisis](https://dev.to/rawveg/the-governance-crisis-l11)
 - [Paid to Disappear: Gig Workers Filming Their Own Replacements](https://smarterarticles.co.uk/paid-to-disappear-gig-workers-filming-their-own-replacements?pk_campaign=rss-feed)
 - [The Transparency Trap](https://dev.to/rawveg/the-transparency-trap-27fk)
-- [AI Age Estimation: Ethics and Implications at the Border - SmarterArticles S1E10](https://dev.to/rawveg/ai-age-estimation-ethics-and-implications-at-the-border-smarterarticles-s1e10-2mmm)
 <!-- BLOG-POST-LIST:END -->
