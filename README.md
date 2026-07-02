@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Ads Are Not Contextual](https://dev.to/rawveg/chatgpt-ads-are-not-contextual-23n8)
 - [AI Did Not Take Your Job: The Convenient Lie Behind Layoffs](https://smarterarticles.co.uk/ai-did-not-take-your-job-the-convenient-lie-behind-layoffs?pk_campaign=rss-feed)
 - [Fake Praise, Real Money](https://dev.to/rawveg/fake-praise-real-money-5hj4)
 - [Nobody to Blame: Who Pays When AI Agents Buy for You](https://smarterarticles.co.uk/nobody-to-blame-who-pays-when-ai-agents-buy-for-you?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Trust Is Not a Feature](https://dev.to/rawveg/trust-is-not-a-feature-2ln0)
 - [Fake Songs, Real Theft: How AI Streaming Fraud Drains Musician Royalties](https://smarterarticles.co.uk/fake-songs-real-theft-how-ai-streaming-fraud-drains-musician-royalties?pk_campaign=rss-feed)
 - [The Governance Crisis](https://dev.to/rawveg/the-governance-crisis-l11)
-- [Paid to Disappear: Gig Workers Filming Their Own Replacements](https://smarterarticles.co.uk/paid-to-disappear-gig-workers-filming-their-own-replacements?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
