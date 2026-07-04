@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Internet Nobody Wrote](https://dev.to/rawveg/the-internet-nobody-wrote-37o3)
 - [AI Runs on Water: The Global South Pays the Bill](https://smarterarticles.co.uk/ai-runs-on-water-the-global-south-pays-the-bill?pk_campaign=rss-feed)
 - [AI That Understands Physics](https://dev.to/rawveg/ai-that-understands-physics-5fk5)
 - [Whose Lungs Pay for AI: The Hidden Cost of Data Centres](https://smarterarticles.co.uk/whose-lungs-pay-for-ai-the-hidden-cost-of-data-centres?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Three Years in Four Weeks](https://dev.to/rawveg/three-years-in-four-weeks-51b6)
 - [The Right to Your Own Face: Closing the Deepfake Protection Gap](https://smarterarticles.co.uk/the-right-to-your-own-face-closing-the-deepfake-protection-gap?pk_campaign=rss-feed)
 - [AI Goes to War](https://dev.to/rawveg/ai-goes-to-war-25d9)
-- [When AI Sees Guns Everywhere: Doritos, Clarinets and Children in Handcuffs](https://smarterarticles.co.uk/when-ai-sees-guns-everywhere-doritos-clarinets-and-children-in-handcuffs?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
