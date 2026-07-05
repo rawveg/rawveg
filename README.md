@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Deskilling Trap: How AI Assistance Erodes Your Eye for Fake News](https://smarterarticles.co.uk/the-deskilling-trap-how-ai-assistance-erodes-your-eye-for-fake-news?pk_campaign=rss-feed)
 - [The Internet Nobody Wrote](https://dev.to/rawveg/the-internet-nobody-wrote-37o3)
 - [AI Runs on Water: The Global South Pays the Bill](https://smarterarticles.co.uk/ai-runs-on-water-the-global-south-pays-the-bill?pk_campaign=rss-feed)
 - [AI That Understands Physics](https://dev.to/rawveg/ai-that-understands-physics-5fk5)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Score You Never See: AI Bias on the Psychiatric Ward](https://smarterarticles.co.uk/the-score-you-never-see-ai-bias-on-the-psychiatric-ward?pk_campaign=rss-feed)
 - [Three Years in Four Weeks](https://dev.to/rawveg/three-years-in-four-weeks-51b6)
 - [The Right to Your Own Face: Closing the Deepfake Protection Gap](https://smarterarticles.co.uk/the-right-to-your-own-face-closing-the-deepfake-protection-gap?pk_campaign=rss-feed)
-- [AI Goes to War](https://dev.to/rawveg/ai-goes-to-war-25d9)
 <!-- BLOG-POST-LIST:END -->
