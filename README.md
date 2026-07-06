@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Stranger at Your Door: How Ring Stores Faces Without Consent](https://smarterarticles.co.uk/the-stranger-at-your-door-how-ring-stores-faces-without-consent?pk_campaign=rss-feed)
 - [Send My Clone](https://dev.to/rawveg/send-my-clone-4cl9)
 - [The Deskilling Trap: How AI Assistance Erodes Your Eye for Fake News](https://smarterarticles.co.uk/the-deskilling-trap-how-ai-assistance-erodes-your-eye-for-fake-news?pk_campaign=rss-feed)
 - [The Internet Nobody Wrote](https://dev.to/rawveg/the-internet-nobody-wrote-37o3)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Surveillance Pricing: Why AI Charges You More Than Your Neighbour](https://smarterarticles.co.uk/surveillance-pricing-why-ai-charges-you-more-than-your-neighbour?pk_campaign=rss-feed)
 - [Priced Out by AI](https://dev.to/rawveg/priced-out-by-ai-2o36)
 - [The Score You Never See: AI Bias on the Psychiatric Ward](https://smarterarticles.co.uk/the-score-you-never-see-ai-bias-on-the-psychiatric-ward?pk_campaign=rss-feed)
-- [Three Years in Four Weeks](https://dev.to/rawveg/three-years-in-four-weeks-51b6)
 <!-- BLOG-POST-LIST:END -->
