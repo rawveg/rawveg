@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI in Tax Preparation: Balancing Innovation and Accountability - SmarterArticles S1E12](https://dev.to/rawveg/ai-in-tax-preparation-balancing-innovation-and-accountability-smarterarticles-s1e12-883)
 - [Your Bed Needs the Internet](https://dev.to/rawveg/your-bed-needs-the-internet-1m8h)
 - [The Stranger at Your Door: How Ring Stores Faces Without Consent](https://smarterarticles.co.uk/the-stranger-at-your-door-how-ring-stores-faces-without-consent?pk_campaign=rss-feed)
 - [Send My Clone](https://dev.to/rawveg/send-my-clone-4cl9)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Whose Displacement Counts: The Human Cost of AI in India](https://smarterarticles.co.uk/whose-displacement-counts-the-human-cost-of-ai-in-india?pk_campaign=rss-feed)
 - [They Taught Themselves to Hack](https://dev.to/rawveg/they-taught-themselves-to-hack-4g1)
 - [Surveillance Pricing: Why AI Charges You More Than Your Neighbour](https://smarterarticles.co.uk/surveillance-pricing-why-ai-charges-you-more-than-your-neighbour?pk_campaign=rss-feed)
-- [Priced Out by AI](https://dev.to/rawveg/priced-out-by-ai-2o36)
 <!-- BLOG-POST-LIST:END -->
