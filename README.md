@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Reskilling Will Not Save Us](https://dev.to/rawveg/reskilling-will-not-save-us-39f3)
 - [When Postcode Means Race: The Broken Math Behind Insurance Pricing](https://smarterarticles.co.uk/when-postcode-means-race-the-broken-math-behind-insurance-pricing?pk_campaign=rss-feed)
 - [AI in Tax Preparation: Balancing Innovation and Accountability - SmarterArticles S1E12](https://dev.to/rawveg/ai-in-tax-preparation-balancing-innovation-and-accountability-smarterarticles-s1e12-883)
 - [Your Bed Needs the Internet](https://dev.to/rawveg/your-bed-needs-the-internet-1m8h)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Silicon Valley Heard 81,000 People](https://dev.to/rawveg/silicon-valley-heard-81000-people-5b5l)
 - [Navigating the Counterfeit Web: Trust in the Digital Age - SmarterArticles S1E11](https://dev.to/rawveg/navigating-the-counterfeit-web-trust-in-the-digital-age-smarterarticles-s1e11-2n4a)
 - [Whose Displacement Counts: The Human Cost of AI in India](https://smarterarticles.co.uk/whose-displacement-counts-the-human-cost-of-ai-in-india?pk_campaign=rss-feed)
-- [They Taught Themselves to Hack](https://dev.to/rawveg/they-taught-themselves-to-hack-4g1)
 <!-- BLOG-POST-LIST:END -->
