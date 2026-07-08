@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Therapy for Children](https://dev.to/rawveg/ai-therapy-for-children-49ak)
 - [Comfortably Numb by Design: The Empathy Cost of Engagement](https://smarterarticles.co.uk/comfortably-numb-by-design-the-empathy-cost-of-engagement?pk_campaign=rss-feed)
 - [Reskilling Will Not Save Us](https://dev.to/rawveg/reskilling-will-not-save-us-39f3)
 - [When Postcode Means Race: The Broken Math Behind Insurance Pricing](https://smarterarticles.co.uk/when-postcode-means-race-the-broken-math-behind-insurance-pricing?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Machines That Pretend to Care](https://dev.to/rawveg/machines-that-pretend-to-care-3nnb)
 - [A Number Is Not Evidence: How AI Detectors Punish Honest Students](https://smarterarticles.co.uk/a-number-is-not-evidence-how-ai-detectors-punish-honest-students?pk_campaign=rss-feed)
 - [Silicon Valley Heard 81,000 People](https://dev.to/rawveg/silicon-valley-heard-81000-people-5b5l)
-- [Navigating the Counterfeit Web: Trust in the Digital Age - SmarterArticles S1E11](https://dev.to/rawveg/navigating-the-counterfeit-web-trust-in-the-digital-age-smarterarticles-s1e11-2n4a)
 <!-- BLOG-POST-LIST:END -->
