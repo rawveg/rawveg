@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Cognitive Stunting: The Experiment on Children We Refuse to Measure](https://smarterarticles.co.uk/cognitive-stunting-the-experiment-on-children-we-refuse-to-measure?pk_campaign=rss-feed)
 - [AI Therapy for Children](https://dev.to/rawveg/ai-therapy-for-children-49ak)
 - [Comfortably Numb by Design: The Empathy Cost of Engagement](https://smarterarticles.co.uk/comfortably-numb-by-design-the-empathy-cost-of-engagement?pk_campaign=rss-feed)
 - [Reskilling Will Not Save Us](https://dev.to/rawveg/reskilling-will-not-save-us-39f3)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Nobody to Blame: Who Pays When AI Agents Buy for You](https://smarterarticles.co.uk/nobody-to-blame-who-pays-when-ai-agents-buy-for-you?pk_campaign=rss-feed)
 - [Machines That Pretend to Care](https://dev.to/rawveg/machines-that-pretend-to-care-3nnb)
 - [A Number Is Not Evidence: How AI Detectors Punish Honest Students](https://smarterarticles.co.uk/a-number-is-not-evidence-how-ai-detectors-punish-honest-students?pk_campaign=rss-feed)
-- [Silicon Valley Heard 81,000 People](https://dev.to/rawveg/silicon-valley-heard-81000-people-5b5l)
 <!-- BLOG-POST-LIST:END -->
