@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When AI Decides Who Survives: Climate Migration and the Equity Gap](https://smarterarticles.co.uk/when-ai-decides-who-survives-climate-migration-and-the-equity-gap?pk_campaign=rss-feed)
 - [AI Exposed the Lie](https://dev.to/rawveg/ai-exposed-the-lie-4ben)
 - [Cognitive Stunting: The Experiment on Children We Refuse to Measure](https://smarterarticles.co.uk/cognitive-stunting-the-experiment-on-children-we-refuse-to-measure?pk_campaign=rss-feed)
 - [AI Therapy for Children](https://dev.to/rawveg/ai-therapy-for-children-49ak)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Did Not Take Your Job: The Convenient Lie Behind Layoffs](https://smarterarticles.co.uk/ai-did-not-take-your-job-the-convenient-lie-behind-layoffs?pk_campaign=rss-feed)
 - [Fake Praise, Real Money](https://dev.to/rawveg/fake-praise-real-money-5hj4)
 - [Nobody to Blame: Who Pays When AI Agents Buy for You](https://smarterarticles.co.uk/nobody-to-blame-who-pays-when-ai-agents-buy-for-you?pk_campaign=rss-feed)
-- [Machines That Pretend to Care](https://dev.to/rawveg/machines-that-pretend-to-care-3nnb)
 <!-- BLOG-POST-LIST:END -->
