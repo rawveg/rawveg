@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Consensus Without Consequence](https://dev.to/rawveg/consensus-without-consequence-466f)
 - [AI Mental Health Crisis: The Accountability Vacuum No One Will Fill](https://smarterarticles.co.uk/ai-mental-health-crisis-the-accountability-vacuum-no-one-will-fill?pk_campaign=rss-feed)
 - [Same Symptoms, Different Care](https://dev.to/rawveg/same-symptoms-different-care-4701)
 - [The Dead Have No Lawyer: Inside the Deadbot Legal Void](https://smarterarticles.co.uk/the-dead-have-no-lawyer-inside-the-deadbot-legal-void?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Internet Nobody Wrote](https://dev.to/rawveg/the-internet-nobody-wrote-37o3)
 - [AI Runs on Water: The Global South Pays the Bill](https://smarterarticles.co.uk/ai-runs-on-water-the-global-south-pays-the-bill?pk_campaign=rss-feed)
 - [AI That Understands Physics](https://dev.to/rawveg/ai-that-understands-physics-5fk5)
-- [Whose Lungs Pay for AI: The Hidden Cost of Data Centres](https://smarterarticles.co.uk/whose-lungs-pay-for-ai-the-hidden-cost-of-data-centres?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
