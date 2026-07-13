@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [AI Music Revolution: Artistry or Algorithm? - SmarterArticles S1E13](https://dev.to/rawveg/ai-music-revolution-artistry-or-algorithm-smarterarticles-s1e13-2g9)
+- [Forget Mass Layoffs](https://dev.to/rawveg/forget-mass-layoffs-1e0m)
 - [The Leveller That Multiplies: How AI Tutoring Widens the Education Gap](https://smarterarticles.co.uk/the-leveller-that-multiplies-how-ai-tutoring-widens-the-education-gap?pk_campaign=rss-feed)
 - [Consensus Without Consequence](https://dev.to/rawveg/consensus-without-consequence-466f)
 - [AI Mental Health Crisis: The Accountability Vacuum No One Will Fill](https://smarterarticles.co.uk/ai-mental-health-crisis-the-accountability-vacuum-no-one-will-fill?pk_campaign=rss-feed)
