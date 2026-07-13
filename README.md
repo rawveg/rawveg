@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Music Revolution: Artistry or Algorithm? - SmarterArticles S1E13](https://dev.to/rawveg/ai-music-revolution-artistry-or-algorithm-smarterarticles-s1e13-503e)
 - [Forget Mass Layoffs](https://dev.to/rawveg/forget-mass-layoffs-1e0m)
 - [The Leveller That Multiplies: How AI Tutoring Widens the Education Gap](https://smarterarticles.co.uk/the-leveller-that-multiplies-how-ai-tutoring-widens-the-education-gap?pk_campaign=rss-feed)
 - [Consensus Without Consequence](https://dev.to/rawveg/consensus-without-consequence-466f)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Stranger at Your Door: How Ring Stores Faces Without Consent](https://smarterarticles.co.uk/the-stranger-at-your-door-how-ring-stores-faces-without-consent?pk_campaign=rss-feed)
 - [Send My Clone](https://dev.to/rawveg/send-my-clone-4cl9)
 - [The Deskilling Trap: How AI Assistance Erodes Your Eye for Fake News](https://smarterarticles.co.uk/the-deskilling-trap-how-ai-assistance-erodes-your-eye-for-fake-news?pk_campaign=rss-feed)
-- [The Internet Nobody Wrote](https://dev.to/rawveg/the-internet-nobody-wrote-37o3)
 <!-- BLOG-POST-LIST:END -->
