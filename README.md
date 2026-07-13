@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Music Revolution: Artistry or Algorithm? - SmarterArticles S1E13](https://dev.to/rawveg/ai-music-revolution-artistry-or-algorithm-smarterarticles-s1e13-2g9)
 - [The Leveller That Multiplies: How AI Tutoring Widens the Education Gap](https://smarterarticles.co.uk/the-leveller-that-multiplies-how-ai-tutoring-widens-the-education-gap?pk_campaign=rss-feed)
 - [Consensus Without Consequence](https://dev.to/rawveg/consensus-without-consequence-466f)
 - [AI Mental Health Crisis: The Accountability Vacuum No One Will Fill](https://smarterarticles.co.uk/ai-mental-health-crisis-the-accountability-vacuum-no-one-will-fill?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Send My Clone](https://dev.to/rawveg/send-my-clone-4cl9)
 - [The Deskilling Trap: How AI Assistance Erodes Your Eye for Fake News](https://smarterarticles.co.uk/the-deskilling-trap-how-ai-assistance-erodes-your-eye-for-fake-news?pk_campaign=rss-feed)
 - [The Internet Nobody Wrote](https://dev.to/rawveg/the-internet-nobody-wrote-37o3)
-- [AI Runs on Water: The Global South Pays the Bill](https://smarterarticles.co.uk/ai-runs-on-water-the-global-south-pays-the-bill?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
