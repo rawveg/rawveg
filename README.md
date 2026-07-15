@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Will Not Take Your Job](https://dev.to/rawveg/ai-will-not-take-your-job-58l3)
 - [The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence?pk_campaign=rss-feed)
 - [Dismantling the GDPR](https://dev.to/rawveg/dismantling-the-gdpr-2a0c)
 - [The Cost of Yes: How AI Data Centres Buy Consent](https://smarterarticles.co.uk/the-cost-of-yes-how-ai-data-centres-buy-consent?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Reskilling Will Not Save Us](https://dev.to/rawveg/reskilling-will-not-save-us-39f3)
 - [When Postcode Means Race: The Broken Math Behind Insurance Pricing](https://smarterarticles.co.uk/when-postcode-means-race-the-broken-math-behind-insurance-pricing?pk_campaign=rss-feed)
 - [AI in Tax Preparation: Balancing Innovation and Accountability - SmarterArticles S1E12](https://dev.to/rawveg/ai-in-tax-preparation-balancing-innovation-and-accountability-smarterarticles-s1e12-883)
-- [Your Bed Needs the Internet](https://dev.to/rawveg/your-bed-needs-the-internet-1m8h)
 <!-- BLOG-POST-LIST:END -->
