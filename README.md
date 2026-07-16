@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Not a New Deal](https://dev.to/rawveg/not-a-new-deal-2p1f)
 - [The False Friend at Work: How AI Confidants Erode Professional Growth](https://smarterarticles.co.uk/the-false-friend-at-work-how-ai-confidants-erode-professional-growth?pk_campaign=rss-feed)
 - [AI Will Not Take Your Job](https://dev.to/rawveg/ai-will-not-take-your-job-58l3)
 - [The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Therapy for Children](https://dev.to/rawveg/ai-therapy-for-children-49ak)
 - [Comfortably Numb by Design: The Empathy Cost of Engagement](https://smarterarticles.co.uk/comfortably-numb-by-design-the-empathy-cost-of-engagement?pk_campaign=rss-feed)
 - [Reskilling Will Not Save Us](https://dev.to/rawveg/reskilling-will-not-save-us-39f3)
-- [When Postcode Means Race: The Broken Math Behind Insurance Pricing](https://smarterarticles.co.uk/when-postcode-means-race-the-broken-math-behind-insurance-pricing?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
