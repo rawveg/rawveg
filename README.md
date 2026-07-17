@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Quiet Surrender](https://dev.to/rawveg/the-quiet-surrender-2429)
 - [The Information Underclass: How AI Delivers Worse Answers to Vulnerable Users](https://smarterarticles.co.uk/the-information-underclass-how-ai-delivers-worse-answers-to-vulnerable-users?pk_campaign=rss-feed)
 - [Not a New Deal](https://dev.to/rawveg/not-a-new-deal-2p1f)
 - [The False Friend at Work: How AI Confidants Erode Professional Growth](https://smarterarticles.co.uk/the-false-friend-at-work-how-ai-confidants-erode-professional-growth?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Exposed the Lie](https://dev.to/rawveg/ai-exposed-the-lie-4ben)
 - [Cognitive Stunting: The Experiment on Children We Refuse to Measure](https://smarterarticles.co.uk/cognitive-stunting-the-experiment-on-children-we-refuse-to-measure?pk_campaign=rss-feed)
 - [AI Therapy for Children](https://dev.to/rawveg/ai-therapy-for-children-49ak)
-- [Comfortably Numb by Design: The Empathy Cost of Engagement](https://smarterarticles.co.uk/comfortably-numb-by-design-the-empathy-cost-of-engagement?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
