@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Ray-Ban Meta and the Bystander](https://dev.to/rawveg/ray-ban-meta-and-the-bystander-2o47)
 - [Skin AI and Consent: What Patients With Darker Skin Are Never Told](https://smarterarticles.co.uk/skin-ai-and-consent-what-patients-with-darker-skin-are-never-told?pk_campaign=rss-feed)
 - [The Quiet Surrender](https://dev.to/rawveg/the-quiet-surrender-2429)
 - [The Information Underclass: How AI Delivers Worse Answers to Vulnerable Users](https://smarterarticles.co.uk/the-information-underclass-how-ai-delivers-worse-answers-to-vulnerable-users?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI and the Translators Left Behind](https://dev.to/rawveg/ai-and-the-translators-left-behind-39gm)
 - [When AI Decides Who Survives: Climate Migration and the Equity Gap](https://smarterarticles.co.uk/when-ai-decides-who-survives-climate-migration-and-the-equity-gap?pk_campaign=rss-feed)
 - [AI Exposed the Lie](https://dev.to/rawveg/ai-exposed-the-lie-4ben)
-- [Cognitive Stunting: The Experiment on Children We Refuse to Measure](https://smarterarticles.co.uk/cognitive-stunting-the-experiment-on-children-we-refuse-to-measure?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
