@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Beautiful Lie of AI Images: How Machines Flatten the World](https://smarterarticles.co.uk/the-beautiful-lie-of-ai-images-how-machines-flatten-the-world?pk_campaign=rss-feed)
 - [Ray-Ban Meta and the Bystander](https://dev.to/rawveg/ray-ban-meta-and-the-bystander-2o47)
 - [Skin AI and Consent: What Patients With Darker Skin Are Never Told](https://smarterarticles.co.uk/skin-ai-and-consent-what-patients-with-darker-skin-are-never-told?pk_campaign=rss-feed)
 - [The Quiet Surrender](https://dev.to/rawveg/the-quiet-surrender-2429)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Dead Have No Lawyer: Inside the Deadbot Legal Void](https://smarterarticles.co.uk/the-dead-have-no-lawyer-inside-the-deadbot-legal-void?pk_campaign=rss-feed)
 - [AI and the Translators Left Behind](https://dev.to/rawveg/ai-and-the-translators-left-behind-39gm)
 - [When AI Decides Who Survives: Climate Migration and the Equity Gap](https://smarterarticles.co.uk/when-ai-decides-who-survives-climate-migration-and-the-equity-gap?pk_campaign=rss-feed)
-- [AI Exposed the Lie](https://dev.to/rawveg/ai-exposed-the-lie-4ben)
 <!-- BLOG-POST-LIST:END -->
