@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI in Crisis: The Unintended Consequences of Chatbots - SmarterArticles S1E14](https://dev.to/rawveg/ai-in-crisis-the-unintended-consequences-of-chatbots-smarterarticles-s1e14-4cah)
 - [Six to One](https://dev.to/rawveg/six-to-one-31ko)
 - [The Invisible Builders of AI: Displaced by the Machines They Trained](https://smarterarticles.co.uk/the-invisible-builders-of-ai-displaced-by-the-machines-they-trained?pk_campaign=rss-feed)
 - [The Quiet Acceleration](https://dev.to/rawveg/the-quiet-acceleration-32k6)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Leveller That Multiplies: How AI Tutoring Widens the Education Gap](https://smarterarticles.co.uk/the-leveller-that-multiplies-how-ai-tutoring-widens-the-education-gap?pk_campaign=rss-feed)
 - [Consensus Without Consequence](https://dev.to/rawveg/consensus-without-consequence-466f)
 - [AI Mental Health Crisis: The Accountability Vacuum No One Will Fill](https://smarterarticles.co.uk/ai-mental-health-crisis-the-accountability-vacuum-no-one-will-fill?pk_campaign=rss-feed)
-- [Same Symptoms, Different Care](https://dev.to/rawveg/same-symptoms-different-care-4701)
 <!-- BLOG-POST-LIST:END -->
