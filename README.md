@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Invisible Builders of AI: Displaced by the Machines They Trained](https://smarterarticles.co.uk/the-invisible-builders-of-ai-displaced-by-the-machines-they-trained?pk_campaign=rss-feed)
 - [The Quiet Acceleration](https://dev.to/rawveg/the-quiet-acceleration-32k6)
 - [The Beautiful Lie of AI Images: How Machines Flatten the World](https://smarterarticles.co.uk/the-beautiful-lie-of-ai-images-how-machines-flatten-the-world?pk_campaign=rss-feed)
 - [Ray-Ban Meta and the Bystander](https://dev.to/rawveg/ray-ban-meta-and-the-bystander-2o47)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Mental Health Crisis: The Accountability Vacuum No One Will Fill](https://smarterarticles.co.uk/ai-mental-health-crisis-the-accountability-vacuum-no-one-will-fill?pk_campaign=rss-feed)
 - [Same Symptoms, Different Care](https://dev.to/rawveg/same-symptoms-different-care-4701)
 - [The Dead Have No Lawyer: Inside the Deadbot Legal Void](https://smarterarticles.co.uk/the-dead-have-no-lawyer-inside-the-deadbot-legal-void?pk_campaign=rss-feed)
-- [AI and the Translators Left Behind](https://dev.to/rawveg/ai-and-the-translators-left-behind-39gm)
 <!-- BLOG-POST-LIST:END -->
