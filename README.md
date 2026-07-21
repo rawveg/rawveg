@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Capture by Design](https://dev.to/rawveg/capture-by-design-1mkj)
 - [Rent Versus Obsolescence: Why Hollywood Talent Is Training Its Own Replacement](https://smarterarticles.co.uk/rent-versus-obsolescence-why-hollywood-talent-is-training-its-own-replacement?pk_campaign=rss-feed)
 - [AI in Crisis: The Unintended Consequences of Chatbots - SmarterArticles S1E14](https://dev.to/rawveg/ai-in-crisis-the-unintended-consequences-of-chatbots-smarterarticles-s1e14-4cah)
 - [Six to One](https://dev.to/rawveg/six-to-one-31ko)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Music Revolution: Artistry or Algorithm? - SmarterArticles S1E13](https://dev.to/rawveg/ai-music-revolution-artistry-or-algorithm-smarterarticles-s1e13-503e)
 - [Forget Mass Layoffs](https://dev.to/rawveg/forget-mass-layoffs-1e0m)
 - [The Leveller That Multiplies: How AI Tutoring Widens the Education Gap](https://smarterarticles.co.uk/the-leveller-that-multiplies-how-ai-tutoring-widens-the-education-gap?pk_campaign=rss-feed)
-- [Consensus Without Consequence](https://dev.to/rawveg/consensus-without-consequence-466f)
 <!-- BLOG-POST-LIST:END -->
