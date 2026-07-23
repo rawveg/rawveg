@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Grieving a Chatbot](https://dev.to/rawveg/grieving-a-chatbot-29a7)
 - [Nobody Checked the Medical AI: The Clearance Doctors Assume Does Not Exist](https://smarterarticles.co.uk/nobody-checked-the-medical-ai-the-clearance-doctors-assume-does-not-exist?pk_campaign=rss-feed)
 - [The Lumper Problem](https://dev.to/rawveg/the-lumper-problem-g12)
 - [Facial Recognition and Wrongful Arrest: When a Match Becomes Proof](https://smarterarticles.co.uk/facial-recognition-and-wrongful-arrest-when-a-match-becomes-proof?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Will Not Take Your Job](https://dev.to/rawveg/ai-will-not-take-your-job-58l3)
 - [The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence?pk_campaign=rss-feed)
 - [Dismantling the GDPR](https://dev.to/rawveg/dismantling-the-gdpr-2a0c)
-- [The Cost of Yes: How AI Data Centres Buy Consent](https://smarterarticles.co.uk/the-cost-of-yes-how-ai-data-centres-buy-consent?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
