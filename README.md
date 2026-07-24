@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Chatbot Doctors Without Regulators](https://dev.to/rawveg/chatbot-doctors-without-regulators-524)
 - [The Better Father: What Happens When AI Improves the People You Love](https://smarterarticles.co.uk/the-better-father-what-happens-when-ai-improves-the-people-you-love?pk_campaign=rss-feed)
 - [Grieving a Chatbot](https://dev.to/rawveg/grieving-a-chatbot-29a7)
 - [Nobody Checked the Medical AI: The Clearance Doctors Assume Does Not Exist](https://smarterarticles.co.uk/nobody-checked-the-medical-ai-the-clearance-doctors-assume-does-not-exist?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Not a New Deal](https://dev.to/rawveg/not-a-new-deal-2p1f)
 - [The False Friend at Work: How AI Confidants Erode Professional Growth](https://smarterarticles.co.uk/the-false-friend-at-work-how-ai-confidants-erode-professional-growth?pk_campaign=rss-feed)
 - [AI Will Not Take Your Job](https://dev.to/rawveg/ai-will-not-take-your-job-58l3)
-- [The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
