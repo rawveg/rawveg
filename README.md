@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Emotion Recognition in Hiring: The Pseudoscience Deciding Who Gets Work](https://smarterarticles.co.uk/emotion-recognition-in-hiring-the-pseudoscience-deciding-who-gets-work?pk_campaign=rss-feed)
 - [Contempt, Not Infringement](https://dev.to/rawveg/contempt-not-infringement-1mjb)
 - [Pixels Are Easier Than Surgery: The AI Face Problem](https://smarterarticles.co.uk/pixels-are-easier-than-surgery-the-ai-face-problem?pk_campaign=rss-feed)
 - [Chatbot Doctors Without Regulators](https://dev.to/rawveg/chatbot-doctors-without-regulators-524)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Skin AI and Consent: What Patients With Darker Skin Are Never Told](https://smarterarticles.co.uk/skin-ai-and-consent-what-patients-with-darker-skin-are-never-told?pk_campaign=rss-feed)
 - [The Quiet Surrender](https://dev.to/rawveg/the-quiet-surrender-2429)
 - [The Information Underclass: How AI Delivers Worse Answers to Vulnerable Users](https://smarterarticles.co.uk/the-information-underclass-how-ai-delivers-worse-answers-to-vulnerable-users?pk_campaign=rss-feed)
-- [Not a New Deal](https://dev.to/rawveg/not-a-new-deal-2p1f)
 <!-- BLOG-POST-LIST:END -->
