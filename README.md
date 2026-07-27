@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Opt-Out Is Not Consent: What Music AI Licensing Must Require](https://smarterarticles.co.uk/opt-out-is-not-consent-what-music-ai-licensing-must-require?pk_campaign=rss-feed)
 - [The Evidence Employers Ignore](https://dev.to/rawveg/the-evidence-employers-ignore-2ppe)
 - [Emotion Recognition in Hiring: The Pseudoscience Deciding Who Gets Work](https://smarterarticles.co.uk/emotion-recognition-in-hiring-the-pseudoscience-deciding-who-gets-work?pk_campaign=rss-feed)
 - [Contempt, Not Infringement](https://dev.to/rawveg/contempt-not-infringement-1mjb)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Beautiful Lie of AI Images: How Machines Flatten the World](https://smarterarticles.co.uk/the-beautiful-lie-of-ai-images-how-machines-flatten-the-world?pk_campaign=rss-feed)
 - [Ray-Ban Meta and the Bystander](https://dev.to/rawveg/ray-ban-meta-and-the-bystander-2o47)
 - [Skin AI and Consent: What Patients With Darker Skin Are Never Told](https://smarterarticles.co.uk/skin-ai-and-consent-what-patients-with-darker-skin-are-never-told?pk_campaign=rss-feed)
-- [The Quiet Surrender](https://dev.to/rawveg/the-quiet-surrender-2429)
 <!-- BLOG-POST-LIST:END -->
