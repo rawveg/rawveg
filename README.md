@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Fraud-as-a-Service: Why Blaming Victims Protects the Enablers](https://smarterarticles.co.uk/fraud-as-a-service-why-blaming-victims-protects-the-enablers?pk_campaign=rss-feed)
 - [The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence - SmarterArticles S1E15](https://dev.to/rawveg/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence-smarterarticles-s1e15-nb)
 - [The God in the Machine](https://dev.to/rawveg/the-god-in-the-machine-216i)
 - [Opt-Out Is Not Consent: What Music AI Licensing Must Require](https://smarterarticles.co.uk/opt-out-is-not-consent-what-music-ai-licensing-must-require?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Six to One](https://dev.to/rawveg/six-to-one-31ko)
 - [The Invisible Builders of AI: Displaced by the Machines They Trained](https://smarterarticles.co.uk/the-invisible-builders-of-ai-displaced-by-the-machines-they-trained?pk_campaign=rss-feed)
 - [The Quiet Acceleration](https://dev.to/rawveg/the-quiet-acceleration-32k6)
-- [The Beautiful Lie of AI Images: How Machines Flatten the World](https://smarterarticles.co.uk/the-beautiful-lie-of-ai-images-how-machines-flatten-the-world?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
