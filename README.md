@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Cognitive Foreclosure](https://dev.to/rawveg/cognitive-foreclosure-ckn)
 - [Stop Detecting Deepfakes: Make the Fraud Irrelevant by Design](https://smarterarticles.co.uk/stop-detecting-deepfakes-make-the-fraud-irrelevant-by-design?pk_campaign=rss-feed)
 - [The Knowledge Was There](https://dev.to/rawveg/the-knowledge-was-there-230p)
 - [Fraud-as-a-Service: Why Blaming Victims Protects the Enablers](https://smarterarticles.co.uk/fraud-as-a-service-why-blaming-victims-protects-the-enablers?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Capture by Design](https://dev.to/rawveg/capture-by-design-1mkj)
 - [Rent Versus Obsolescence: Why Hollywood Talent Is Training Its Own Replacement](https://smarterarticles.co.uk/rent-versus-obsolescence-why-hollywood-talent-is-training-its-own-replacement?pk_campaign=rss-feed)
 - [AI in Crisis: The Unintended Consequences of Chatbots - SmarterArticles S1E14](https://dev.to/rawveg/ai-in-crisis-the-unintended-consequences-of-chatbots-smarterarticles-s1e14-4cah)
-- [Six to One](https://dev.to/rawveg/six-to-one-31ko)
 <!-- BLOG-POST-LIST:END -->
