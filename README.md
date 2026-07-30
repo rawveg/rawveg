@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Rejected by Machines](https://dev.to/rawveg/rejected-by-machines-1alf)
 - [Machines That Never Push Back: What AI Toys Cost Childhood Empathy](https://smarterarticles.co.uk/machines-that-never-push-back-what-ai-toys-cost-childhood-empathy?pk_campaign=rss-feed)
 - [Cognitive Foreclosure](https://dev.to/rawveg/cognitive-foreclosure-ckn)
 - [Stop Detecting Deepfakes: Make the Fraud Irrelevant by Design](https://smarterarticles.co.uk/stop-detecting-deepfakes-make-the-fraud-irrelevant-by-design?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Lumper Problem](https://dev.to/rawveg/the-lumper-problem-g12)
 - [Facial Recognition and Wrongful Arrest: When a Match Becomes Proof](https://smarterarticles.co.uk/facial-recognition-and-wrongful-arrest-when-a-match-becomes-proof?pk_campaign=rss-feed)
 - [Capture by Design](https://dev.to/rawveg/capture-by-design-1mkj)
-- [Rent Versus Obsolescence: Why Hollywood Talent Is Training Its Own Replacement](https://smarterarticles.co.uk/rent-versus-obsolescence-why-hollywood-talent-is-training-its-own-replacement?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
