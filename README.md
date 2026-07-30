@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Machines That Never Push Back: What AI Toys Cost Childhood Empathy](https://smarterarticles.co.uk/machines-that-never-push-back-what-ai-toys-cost-childhood-empathy?pk_campaign=rss-feed)
 - [Cognitive Foreclosure](https://dev.to/rawveg/cognitive-foreclosure-ckn)
 - [Stop Detecting Deepfakes: Make the Fraud Irrelevant by Design](https://smarterarticles.co.uk/stop-detecting-deepfakes-make-the-fraud-irrelevant-by-design?pk_campaign=rss-feed)
 - [The Knowledge Was There](https://dev.to/rawveg/the-knowledge-was-there-230p)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Facial Recognition and Wrongful Arrest: When a Match Becomes Proof](https://smarterarticles.co.uk/facial-recognition-and-wrongful-arrest-when-a-match-becomes-proof?pk_campaign=rss-feed)
 - [Capture by Design](https://dev.to/rawveg/capture-by-design-1mkj)
 - [Rent Versus Obsolescence: Why Hollywood Talent Is Training Its Own Replacement](https://smarterarticles.co.uk/rent-versus-obsolescence-why-hollywood-talent-is-training-its-own-replacement?pk_campaign=rss-feed)
-- [AI in Crisis: The Unintended Consequences of Chatbots - SmarterArticles S1E14](https://dev.to/rawveg/ai-in-crisis-the-unintended-consequences-of-chatbots-smarterarticles-s1e14-4cah)
 <!-- BLOG-POST-LIST:END -->
