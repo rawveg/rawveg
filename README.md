@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Death Is Not a Design Problem](https://dev.to/rawveg/death-is-not-a-design-problem-59dj)
 - [Gen Z Knows AI Best and Trusts It Least: Scepticism Earned](https://smarterarticles.co.uk/gen-z-knows-ai-best-and-trusts-it-least-scepticism-earned?pk_campaign=rss-feed)
 - [Rejected by Machines](https://dev.to/rawveg/rejected-by-machines-1alf)
 - [Machines That Never Push Back: What AI Toys Cost Childhood Empathy](https://smarterarticles.co.uk/machines-that-never-push-back-what-ai-toys-cost-childhood-empathy?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Grieving a Chatbot](https://dev.to/rawveg/grieving-a-chatbot-29a7)
 - [Nobody Checked the Medical AI: The Clearance Doctors Assume Does Not Exist](https://smarterarticles.co.uk/nobody-checked-the-medical-ai-the-clearance-doctors-assume-does-not-exist?pk_campaign=rss-feed)
 - [The Lumper Problem](https://dev.to/rawveg/the-lumper-problem-g12)
-- [Facial Recognition and Wrongful Arrest: When a Match Becomes Proof](https://smarterarticles.co.uk/facial-recognition-and-wrongful-arrest-when-a-match-becomes-proof?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
