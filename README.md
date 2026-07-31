@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Gen Z Knows AI Best and Trusts It Least: Scepticism Earned](https://smarterarticles.co.uk/gen-z-knows-ai-best-and-trusts-it-least-scepticism-earned?pk_campaign=rss-feed)
 - [Rejected by Machines](https://dev.to/rawveg/rejected-by-machines-1alf)
 - [Machines That Never Push Back: What AI Toys Cost Childhood Empathy](https://smarterarticles.co.uk/machines-that-never-push-back-what-ai-toys-cost-childhood-empathy?pk_campaign=rss-feed)
 - [Cognitive Foreclosure](https://dev.to/rawveg/cognitive-foreclosure-ckn)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Nobody Checked the Medical AI: The Clearance Doctors Assume Does Not Exist](https://smarterarticles.co.uk/nobody-checked-the-medical-ai-the-clearance-doctors-assume-does-not-exist?pk_campaign=rss-feed)
 - [The Lumper Problem](https://dev.to/rawveg/the-lumper-problem-g12)
 - [Facial Recognition and Wrongful Arrest: When a Match Becomes Proof](https://smarterarticles.co.uk/facial-recognition-and-wrongful-arrest-when-a-match-becomes-proof?pk_campaign=rss-feed)
-- [Capture by Design](https://dev.to/rawveg/capture-by-design-1mkj)
 <!-- BLOG-POST-LIST:END -->
