@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [How AI Invented a Disease That Millions Believed](https://dev.to/rawveg/how-ai-invented-a-disease-that-millions-believed-3ijh)
 - [Scraped Without Asking: Indigenous Archives and the Limits of AI Law](https://smarterarticles.co.uk/scraped-without-asking-indigenous-archives-and-the-limits-of-ai-law?pk_campaign=rss-feed)
 - [Death Is Not a Design Problem](https://dev.to/rawveg/death-is-not-a-design-problem-59dj)
 - [Gen Z Knows AI Best and Trusts It Least: Scepticism Earned](https://smarterarticles.co.uk/gen-z-knows-ai-best-and-trusts-it-least-scepticism-earned?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Chatbot Doctors Without Regulators](https://dev.to/rawveg/chatbot-doctors-without-regulators-524)
 - [The Better Father: What Happens When AI Improves the People You Love](https://smarterarticles.co.uk/the-better-father-what-happens-when-ai-improves-the-people-you-love?pk_campaign=rss-feed)
 - [Grieving a Chatbot](https://dev.to/rawveg/grieving-a-chatbot-29a7)
-- [Nobody Checked the Medical AI: The Clearance Doctors Assume Does Not Exist](https://smarterarticles.co.uk/nobody-checked-the-medical-ai-the-clearance-doctors-assume-does-not-exist?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
