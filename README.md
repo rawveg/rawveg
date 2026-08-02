@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Apprenticeship Severance](https://dev.to/rawveg/the-apprenticeship-severance-5m)
 - [AI &amp; The Permanent Hum: Why Nobody Can Make It Stop](https://smarterarticles.co.uk/ai-and-the-permanent-hum-why-nobody-can-make-it-stop?pk_campaign=rss-feed)
 - [How AI Invented a Disease That Millions Believed](https://dev.to/rawveg/how-ai-invented-a-disease-that-millions-believed-3ijh)
 - [Scraped Without Asking: Indigenous Archives and the Limits of AI Law](https://smarterarticles.co.uk/scraped-without-asking-indigenous-archives-and-the-limits-of-ai-law?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Contempt, Not Infringement](https://dev.to/rawveg/contempt-not-infringement-1mjb)
 - [Pixels Are Easier Than Surgery: The AI Face Problem](https://smarterarticles.co.uk/pixels-are-easier-than-surgery-the-ai-face-problem?pk_campaign=rss-feed)
 - [Chatbot Doctors Without Regulators](https://dev.to/rawveg/chatbot-doctors-without-regulators-524)
-- [The Better Father: What Happens When AI Improves the People You Love](https://smarterarticles.co.uk/the-better-father-what-happens-when-ai-improves-the-people-you-love?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
