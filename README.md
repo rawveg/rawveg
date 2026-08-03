@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Deleted Face: Why Facial Recognition Must Erase You First](https://smarterarticles.co.uk/the-deleted-face-why-facial-recognition-must-erase-you-first?pk_campaign=rss-feed)
 - [The Apprenticeship Severance](https://dev.to/rawveg/the-apprenticeship-severance-5m)
 - [AI &amp; The Permanent Hum: Why Nobody Can Make It Stop](https://smarterarticles.co.uk/ai-and-the-permanent-hum-why-nobody-can-make-it-stop?pk_campaign=rss-feed)
 - [How AI Invented a Disease That Millions Believed](https://dev.to/rawveg/how-ai-invented-a-disease-that-millions-believed-3ijh)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Emotion Recognition in Hiring: The Pseudoscience Deciding Who Gets Work](https://smarterarticles.co.uk/emotion-recognition-in-hiring-the-pseudoscience-deciding-who-gets-work?pk_campaign=rss-feed)
 - [Contempt, Not Infringement](https://dev.to/rawveg/contempt-not-infringement-1mjb)
 - [Pixels Are Easier Than Surgery: The AI Face Problem](https://smarterarticles.co.uk/pixels-are-easier-than-surgery-the-ai-face-problem?pk_campaign=rss-feed)
-- [Chatbot Doctors Without Regulators](https://dev.to/rawveg/chatbot-doctors-without-regulators-524)
 <!-- BLOG-POST-LIST:END -->
