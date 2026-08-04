@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Trust Tax](https://dev.to/rawveg/the-trust-tax-2h0k)
 - [Candidates Do Not Hate AI Interviews: They Hate Being Ambushed](https://smarterarticles.co.uk/candidates-do-not-hate-ai-interviews-they-hate-being-ambushed?pk_campaign=rss-feed)
 - [The Machine Says No](https://dev.to/rawveg/the-machine-says-no-52e5)
 - [The Deleted Face: Why Facial Recognition Must Erase You First](https://smarterarticles.co.uk/the-deleted-face-why-facial-recognition-must-erase-you-first?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The God in the Machine](https://dev.to/rawveg/the-god-in-the-machine-216i)
 - [Opt-Out Is Not Consent: What Music AI Licensing Must Require](https://smarterarticles.co.uk/opt-out-is-not-consent-what-music-ai-licensing-must-require?pk_campaign=rss-feed)
 - [The Evidence Employers Ignore](https://dev.to/rawveg/the-evidence-employers-ignore-2ppe)
-- [Emotion Recognition in Hiring: The Pseudoscience Deciding Who Gets Work](https://smarterarticles.co.uk/emotion-recognition-in-hiring-the-pseudoscience-deciding-who-gets-work?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
