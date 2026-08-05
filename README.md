@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When the FBI Cannot Prove It Is the FBI: Deepfake Recovery Scams](https://smarterarticles.co.uk/when-the-fbi-cannot-prove-it-is-the-fbi-deepfake-recovery-scams?pk_campaign=rss-feed)
 - [The Trust Tax](https://dev.to/rawveg/the-trust-tax-2h0k)
 - [Candidates Do Not Hate AI Interviews: They Hate Being Ambushed](https://smarterarticles.co.uk/candidates-do-not-hate-ai-interviews-they-hate-being-ambushed?pk_campaign=rss-feed)
 - [The Machine Says No](https://dev.to/rawveg/the-machine-says-no-52e5)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence - SmarterArticles S1E15](https://dev.to/rawveg/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence-smarterarticles-s1e15-nb)
 - [The God in the Machine](https://dev.to/rawveg/the-god-in-the-machine-216i)
 - [Opt-Out Is Not Consent: What Music AI Licensing Must Require](https://smarterarticles.co.uk/opt-out-is-not-consent-what-music-ai-licensing-must-require?pk_campaign=rss-feed)
-- [The Evidence Employers Ignore](https://dev.to/rawveg/the-evidence-employers-ignore-2ppe)
 <!-- BLOG-POST-LIST:END -->
