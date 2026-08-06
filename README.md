@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Engagement Over Education](https://dev.to/rawveg/engagement-over-education-2kdi)
 - [Four Million Dollars a Day: The Experts Teaching AI to Replace Them](https://smarterarticles.co.uk/four-million-dollars-a-day-the-experts-teaching-ai-to-replace-them?pk_campaign=rss-feed)
 - [The Boss in the Code](https://dev.to/rawveg/the-boss-in-the-code-228c)
 - [When the FBI Cannot Prove It Is the FBI: Deepfake Recovery Scams](https://smarterarticles.co.uk/when-the-fbi-cannot-prove-it-is-the-fbi-deepfake-recovery-scams?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Stop Detecting Deepfakes: Make the Fraud Irrelevant by Design](https://smarterarticles.co.uk/stop-detecting-deepfakes-make-the-fraud-irrelevant-by-design?pk_campaign=rss-feed)
 - [The Knowledge Was There](https://dev.to/rawveg/the-knowledge-was-there-230p)
 - [Fraud-as-a-Service: Why Blaming Victims Protects the Enablers](https://smarterarticles.co.uk/fraud-as-a-service-why-blaming-victims-protects-the-enablers?pk_campaign=rss-feed)
-- [The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence - SmarterArticles S1E15](https://dev.to/rawveg/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence-smarterarticles-s1e15-nb)
 <!-- BLOG-POST-LIST:END -->
