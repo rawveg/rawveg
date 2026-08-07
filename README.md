@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Aged Care Does Not Need More AI](https://dev.to/rawveg/aged-care-does-not-need-more-ai-59j5)
 - [Speed Without Stability: How AI Coding Erodes Skills and Security](https://smarterarticles.co.uk/speed-without-stability-how-ai-coding-erodes-skills-and-security?pk_campaign=rss-feed)
 - [Engagement Over Education](https://dev.to/rawveg/engagement-over-education-2kdi)
 - [Four Million Dollars a Day: The Experts Teaching AI to Replace Them](https://smarterarticles.co.uk/four-million-dollars-a-day-the-experts-teaching-ai-to-replace-them?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Machines That Never Push Back: What AI Toys Cost Childhood Empathy](https://smarterarticles.co.uk/machines-that-never-push-back-what-ai-toys-cost-childhood-empathy?pk_campaign=rss-feed)
 - [Cognitive Foreclosure](https://dev.to/rawveg/cognitive-foreclosure-ckn)
 - [Stop Detecting Deepfakes: Make the Fraud Irrelevant by Design](https://smarterarticles.co.uk/stop-detecting-deepfakes-make-the-fraud-irrelevant-by-design?pk_campaign=rss-feed)
-- [The Knowledge Was There](https://dev.to/rawveg/the-knowledge-was-there-230p)
 <!-- BLOG-POST-LIST:END -->
