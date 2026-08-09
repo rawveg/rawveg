@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The AI Was the Conservative Part: Unmixing the Last Beatles Record](https://smarterarticles.co.uk/the-ai-was-the-conservative-part-unmixing-the-last-beatles-record?pk_campaign=rss-feed)
 - [The People AI Cannot Hear](https://dev.to/rawveg/the-people-ai-cannot-hear-hn2)
 - [Hiring by Vibes: The Weak Science Behind AI Personality Screening](https://smarterarticles.co.uk/hiring-by-vibes-the-weak-science-behind-ai-personality-screening?pk_campaign=rss-feed)
 - [Aged Care Does Not Need More AI](https://dev.to/rawveg/aged-care-does-not-need-more-ai-59j5)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Death Is Not a Design Problem](https://dev.to/rawveg/death-is-not-a-design-problem-59dj)
 - [Gen Z Knows AI Best and Trusts It Least: Scepticism Earned](https://smarterarticles.co.uk/gen-z-knows-ai-best-and-trusts-it-least-scepticism-earned?pk_campaign=rss-feed)
 - [Rejected by Machines](https://dev.to/rawveg/rejected-by-machines-1alf)
-- [Machines That Never Push Back: What AI Toys Cost Childhood Empathy](https://smarterarticles.co.uk/machines-that-never-push-back-what-ai-toys-cost-childhood-empathy?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
