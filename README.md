@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [She Heard Her Daughter Crying](https://dev.to/rawveg/she-heard-her-daughter-crying-3287)
 - [The AI Was the Conservative Part: Unmixing the Last Beatles Record](https://smarterarticles.co.uk/the-ai-was-the-conservative-part-unmixing-the-last-beatles-record?pk_campaign=rss-feed)
 - [The People AI Cannot Hear](https://dev.to/rawveg/the-people-ai-cannot-hear-hn2)
 - [Hiring by Vibes: The Weak Science Behind AI Personality Screening](https://smarterarticles.co.uk/hiring-by-vibes-the-weak-science-behind-ai-personality-screening?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Scraped Without Asking: Indigenous Archives and the Limits of AI Law](https://smarterarticles.co.uk/scraped-without-asking-indigenous-archives-and-the-limits-of-ai-law?pk_campaign=rss-feed)
 - [Death Is Not a Design Problem](https://dev.to/rawveg/death-is-not-a-design-problem-59dj)
 - [Gen Z Knows AI Best and Trusts It Least: Scepticism Earned](https://smarterarticles.co.uk/gen-z-knows-ai-best-and-trusts-it-least-scepticism-earned?pk_campaign=rss-feed)
-- [Rejected by Machines](https://dev.to/rawveg/rejected-by-machines-1alf)
 <!-- BLOG-POST-LIST:END -->
