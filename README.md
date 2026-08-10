@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your Landlord Is a Stack](https://dev.to/rawveg/your-landlord-is-a-stack-3bgf)
 - [Handed the Pen, Students Chose Restrictions: The First Student AI Policy](https://smarterarticles.co.uk/handed-the-pen-students-chose-restrictions-the-first-student-ai-policy?pk_campaign=rss-feed)
 - [She Heard Her Daughter Crying](https://dev.to/rawveg/she-heard-her-daughter-crying-3287)
 - [The AI Was the Conservative Part: Unmixing the Last Beatles Record](https://smarterarticles.co.uk/the-ai-was-the-conservative-part-unmixing-the-last-beatles-record?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI &amp; The Permanent Hum: Why Nobody Can Make It Stop](https://smarterarticles.co.uk/ai-and-the-permanent-hum-why-nobody-can-make-it-stop?pk_campaign=rss-feed)
 - [How AI Invented a Disease That Millions Believed](https://dev.to/rawveg/how-ai-invented-a-disease-that-millions-believed-3ijh)
 - [Scraped Without Asking: Indigenous Archives and the Limits of AI Law](https://smarterarticles.co.uk/scraped-without-asking-indigenous-archives-and-the-limits-of-ai-law?pk_campaign=rss-feed)
-- [Death Is Not a Design Problem](https://dev.to/rawveg/death-is-not-a-design-problem-59dj)
 <!-- BLOG-POST-LIST:END -->
