@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Baby Monitors and Consent: The Record No Infant Can Contest](https://smarterarticles.co.uk/ai-baby-monitors-and-consent-the-record-no-infant-can-contest?pk_campaign=rss-feed)
 - [The Hidden Costs of Facial Recognition - SmarterArticles S1E17](https://dev.to/rawveg/the-hidden-costs-of-facial-recognition-smarterarticles-s1e17-4aml)
 - [Your Landlord Is a Stack](https://dev.to/rawveg/your-landlord-is-a-stack-3bgf)
 - [Handed the Pen, Students Chose Restrictions: The First Student AI Policy](https://smarterarticles.co.uk/handed-the-pen-students-chose-restrictions-the-first-student-ai-policy?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Deleted Face: Why Facial Recognition Must Erase You First](https://smarterarticles.co.uk/the-deleted-face-why-facial-recognition-must-erase-you-first?pk_campaign=rss-feed)
 - [The Apprenticeship Severance](https://dev.to/rawveg/the-apprenticeship-severance-5m)
 - [AI &amp; The Permanent Hum: Why Nobody Can Make It Stop](https://smarterarticles.co.uk/ai-and-the-permanent-hum-why-nobody-can-make-it-stop?pk_campaign=rss-feed)
-- [How AI Invented a Disease That Millions Believed](https://dev.to/rawveg/how-ai-invented-a-disease-that-millions-believed-3ijh)
 <!-- BLOG-POST-LIST:END -->
