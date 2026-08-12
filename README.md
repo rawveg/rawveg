@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When Data Centres Move In](https://dev.to/rawveg/when-data-centres-move-in-4c1o)
 - [Unpacking the AI Job Loss Narrative - SmarterArticles S1E16](https://dev.to/rawveg/unpacking-the-ai-job-loss-narrative-smarterarticles-s1e16-39md)
 - [Removed by a Forecast: The Human Cost of AI Layoffs](https://smarterarticles.co.uk/removed-by-a-forecast-the-human-cost-of-ai-layoffs?pk_campaign=rss-feed)
 - [The Machine Is Listening](https://dev.to/rawveg/the-machine-is-listening-jfa)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When the FBI Cannot Prove It Is the FBI: Deepfake Recovery Scams](https://smarterarticles.co.uk/when-the-fbi-cannot-prove-it-is-the-fbi-deepfake-recovery-scams?pk_campaign=rss-feed)
 - [The Trust Tax](https://dev.to/rawveg/the-trust-tax-2h0k)
 - [Candidates Do Not Hate AI Interviews: They Hate Being Ambushed](https://smarterarticles.co.uk/candidates-do-not-hate-ai-interviews-they-hate-being-ambushed?pk_campaign=rss-feed)
-- [The Machine Says No](https://dev.to/rawveg/the-machine-says-no-52e5)
 <!-- BLOG-POST-LIST:END -->
