@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When Love Becomes a Language Model](https://dev.to/rawveg/when-love-becomes-a-language-model-2j8a)
 - [Who Decides Where Data Centres Go: Why Local Consent Keeps Failing](https://smarterarticles.co.uk/who-decides-where-data-centres-go-why-local-consent-keeps-failing?pk_campaign=rss-feed)
 - [When Data Centres Move In](https://dev.to/rawveg/when-data-centres-move-in-4c1o)
 - [Unpacking the AI Job Loss Narrative - SmarterArticles S1E16](https://dev.to/rawveg/unpacking-the-ai-job-loss-narrative-smarterarticles-s1e16-39md)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Four Million Dollars a Day: The Experts Teaching AI to Replace Them](https://smarterarticles.co.uk/four-million-dollars-a-day-the-experts-teaching-ai-to-replace-them?pk_campaign=rss-feed)
 - [The Boss in the Code](https://dev.to/rawveg/the-boss-in-the-code-228c)
 - [When the FBI Cannot Prove It Is the FBI: Deepfake Recovery Scams](https://smarterarticles.co.uk/when-the-fbi-cannot-prove-it-is-the-fbi-deepfake-recovery-scams?pk_campaign=rss-feed)
-- [The Trust Tax](https://dev.to/rawveg/the-trust-tax-2h0k)
 <!-- BLOG-POST-LIST:END -->
