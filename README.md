@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Knock at the Door](https://dev.to/rawveg/the-knock-at-the-door-1jic)
 - [The Price You Alone Pay: How Surveillance Pricing Punishes Loyalty](https://smarterarticles.co.uk/the-price-you-alone-pay-how-surveillance-pricing-punishes-loyalty?pk_campaign=rss-feed)
 - [When Love Becomes a Language Model](https://dev.to/rawveg/when-love-becomes-a-language-model-2j8a)
 - [Who Decides Where Data Centres Go: Why Local Consent Keeps Failing](https://smarterarticles.co.uk/who-decides-where-data-centres-go-why-local-consent-keeps-failing?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Speed Without Stability: How AI Coding Erodes Skills and Security](https://smarterarticles.co.uk/speed-without-stability-how-ai-coding-erodes-skills-and-security?pk_campaign=rss-feed)
 - [Engagement Over Education](https://dev.to/rawveg/engagement-over-education-2kdi)
 - [Four Million Dollars a Day: The Experts Teaching AI to Replace Them](https://smarterarticles.co.uk/four-million-dollars-a-day-the-experts-teaching-ai-to-replace-them?pk_campaign=rss-feed)
-- [The Boss in the Code](https://dev.to/rawveg/the-boss-in-the-code-228c)
 <!-- BLOG-POST-LIST:END -->
