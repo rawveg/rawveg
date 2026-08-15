@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Age Check Backfire: How Britain Drove Millions to VPNs](https://smarterarticles.co.uk/the-age-check-backfire-how-britain-drove-millions-to-vpns?pk_campaign=rss-feed)
 - [The Knock at the Door](https://dev.to/rawveg/the-knock-at-the-door-1jic)
 - [The Price You Alone Pay: How Surveillance Pricing Punishes Loyalty](https://smarterarticles.co.uk/the-price-you-alone-pay-how-surveillance-pricing-punishes-loyalty?pk_campaign=rss-feed)
 - [When Love Becomes a Language Model](https://dev.to/rawveg/when-love-becomes-a-language-model-2j8a)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Aged Care Does Not Need More AI](https://dev.to/rawveg/aged-care-does-not-need-more-ai-59j5)
 - [Speed Without Stability: How AI Coding Erodes Skills and Security](https://smarterarticles.co.uk/speed-without-stability-how-ai-coding-erodes-skills-and-security?pk_campaign=rss-feed)
 - [Engagement Over Education](https://dev.to/rawveg/engagement-over-education-2kdi)
-- [Four Million Dollars a Day: The Experts Teaching AI to Replace Them](https://smarterarticles.co.uk/four-million-dollars-a-day-the-experts-teaching-ai-to-replace-them?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
