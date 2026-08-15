@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Quiet Collapse](https://dev.to/rawveg/the-quiet-collapse-1pl0)
 - [The Age Check Backfire: How Britain Drove Millions to VPNs](https://smarterarticles.co.uk/the-age-check-backfire-how-britain-drove-millions-to-vpns?pk_campaign=rss-feed)
 - [The Knock at the Door](https://dev.to/rawveg/the-knock-at-the-door-1jic)
 - [The Price You Alone Pay: How Surveillance Pricing Punishes Loyalty](https://smarterarticles.co.uk/the-price-you-alone-pay-how-surveillance-pricing-punishes-loyalty?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Hiring by Vibes: The Weak Science Behind AI Personality Screening](https://smarterarticles.co.uk/hiring-by-vibes-the-weak-science-behind-ai-personality-screening?pk_campaign=rss-feed)
 - [Aged Care Does Not Need More AI](https://dev.to/rawveg/aged-care-does-not-need-more-ai-59j5)
 - [Speed Without Stability: How AI Coding Erodes Skills and Security](https://smarterarticles.co.uk/speed-without-stability-how-ai-coding-erodes-skills-and-security?pk_campaign=rss-feed)
-- [Engagement Over Education](https://dev.to/rawveg/engagement-over-education-2kdi)
 <!-- BLOG-POST-LIST:END -->
