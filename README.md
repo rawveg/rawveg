@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Grief for Sale: AI Resurrects the Russian Dead Nobody Counts](https://smarterarticles.co.uk/grief-for-sale-ai-resurrects-the-russian-dead-nobody-counts?pk_campaign=rss-feed)
 - [The Quiet Collapse](https://dev.to/rawveg/the-quiet-collapse-1pl0)
 - [The Age Check Backfire: How Britain Drove Millions to VPNs](https://smarterarticles.co.uk/the-age-check-backfire-how-britain-drove-millions-to-vpns?pk_campaign=rss-feed)
 - [The Knock at the Door](https://dev.to/rawveg/the-knock-at-the-door-1jic)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The People AI Cannot Hear](https://dev.to/rawveg/the-people-ai-cannot-hear-hn2)
 - [Hiring by Vibes: The Weak Science Behind AI Personality Screening](https://smarterarticles.co.uk/hiring-by-vibes-the-weak-science-behind-ai-personality-screening?pk_campaign=rss-feed)
 - [Aged Care Does Not Need More AI](https://dev.to/rawveg/aged-care-does-not-need-more-ai-59j5)
-- [Speed Without Stability: How AI Coding Erodes Skills and Security](https://smarterarticles.co.uk/speed-without-stability-how-ai-coding-erodes-skills-and-security?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
