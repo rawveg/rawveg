@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Fifty-Seven Million Cases: Why India Will Not Let AI Judge Them](https://smarterarticles.co.uk/fifty-seven-million-cases-why-india-will-not-let-ai-judge-them?pk_campaign=rss-feed)
 - [Phantom Precedent](https://dev.to/rawveg/phantom-precedent-492p)
 - [Grief for Sale: AI Resurrects the Russian Dead Nobody Counts](https://smarterarticles.co.uk/grief-for-sale-ai-resurrects-the-russian-dead-nobody-counts?pk_campaign=rss-feed)
 - [The Quiet Collapse](https://dev.to/rawveg/the-quiet-collapse-1pl0)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [She Heard Her Daughter Crying](https://dev.to/rawveg/she-heard-her-daughter-crying-3287)
 - [The AI Was the Conservative Part: Unmixing the Last Beatles Record](https://smarterarticles.co.uk/the-ai-was-the-conservative-part-unmixing-the-last-beatles-record?pk_campaign=rss-feed)
 - [The People AI Cannot Hear](https://dev.to/rawveg/the-people-ai-cannot-hear-hn2)
-- [Hiring by Vibes: The Weak Science Behind AI Personality Screening](https://smarterarticles.co.uk/hiring-by-vibes-the-weak-science-behind-ai-personality-screening?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
