@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI &amp; The Harvested Field: Who Decides When Farmland Becomes Server Racks](https://smarterarticles.co.uk/ai-and-the-harvested-field-who-decides-when-farmland-becomes-server-racks?pk_campaign=rss-feed)
 - [The Boiling Frog Was Wrong](https://dev.to/rawveg/the-boiling-frog-was-wrong-54lo)
 - [Fifty-Seven Million Cases: Why India Will Not Let AI Judge Them](https://smarterarticles.co.uk/fifty-seven-million-cases-why-india-will-not-let-ai-judge-them?pk_campaign=rss-feed)
 - [Phantom Precedent](https://dev.to/rawveg/phantom-precedent-492p)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Your Landlord Is a Stack](https://dev.to/rawveg/your-landlord-is-a-stack-3bgf)
 - [Handed the Pen, Students Chose Restrictions: The First Student AI Policy](https://smarterarticles.co.uk/handed-the-pen-students-chose-restrictions-the-first-student-ai-policy?pk_campaign=rss-feed)
 - [She Heard Her Daughter Crying](https://dev.to/rawveg/she-heard-her-daughter-crying-3287)
-- [The AI Was the Conservative Part: Unmixing the Last Beatles Record](https://smarterarticles.co.uk/the-ai-was-the-conservative-part-unmixing-the-last-beatles-record?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
