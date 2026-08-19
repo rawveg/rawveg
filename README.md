@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Rethinking Trust in a World of Deepfakes - SmarterArticles S1E18](https://dev.to/rawveg/rethinking-trust-in-a-world-of-deepfakes-smarterarticles-s1e18-4a8o)
 - [Your Face Was the Ticket: Inside World Cup Biometric Surveillance](https://smarterarticles.co.uk/your-face-was-the-ticket-inside-world-cup-biometric-surveillance?pk_campaign=rss-feed)
 - [The Second Extraction](https://dev.to/rawveg/the-second-extraction-4pjo)
 - [AI &amp; The Harvested Field: Who Decides When Farmland Becomes Server Racks](https://smarterarticles.co.uk/ai-and-the-harvested-field-who-decides-when-farmland-becomes-server-racks?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Machine Is Listening](https://dev.to/rawveg/the-machine-is-listening-jfa)
 - [AI Baby Monitors and Consent: The Record No Infant Can Contest](https://smarterarticles.co.uk/ai-baby-monitors-and-consent-the-record-no-infant-can-contest?pk_campaign=rss-feed)
 - [The Hidden Costs of Facial Recognition - SmarterArticles S1E17](https://dev.to/rawveg/the-hidden-costs-of-facial-recognition-smarterarticles-s1e17-4aml)
-- [Your Landlord Is a Stack](https://dev.to/rawveg/your-landlord-is-a-stack-3bgf)
 <!-- BLOG-POST-LIST:END -->
