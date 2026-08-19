@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your Face Was the Ticket: Inside World Cup Biometric Surveillance](https://smarterarticles.co.uk/your-face-was-the-ticket-inside-world-cup-biometric-surveillance?pk_campaign=rss-feed)
 - [The Second Extraction](https://dev.to/rawveg/the-second-extraction-4pjo)
 - [AI &amp; The Harvested Field: Who Decides When Farmland Becomes Server Racks](https://smarterarticles.co.uk/ai-and-the-harvested-field-who-decides-when-farmland-becomes-server-racks?pk_campaign=rss-feed)
 - [The Boiling Frog Was Wrong](https://dev.to/rawveg/the-boiling-frog-was-wrong-54lo)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Baby Monitors and Consent: The Record No Infant Can Contest](https://smarterarticles.co.uk/ai-baby-monitors-and-consent-the-record-no-infant-can-contest?pk_campaign=rss-feed)
 - [The Hidden Costs of Facial Recognition - SmarterArticles S1E17](https://dev.to/rawveg/the-hidden-costs-of-facial-recognition-smarterarticles-s1e17-4aml)
 - [Your Landlord Is a Stack](https://dev.to/rawveg/your-landlord-is-a-stack-3bgf)
-- [Handed the Pen, Students Chose Restrictions: The First Student AI Policy](https://smarterarticles.co.uk/handed-the-pen-students-chose-restrictions-the-first-student-ai-policy?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
