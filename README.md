@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Inside the Accountability Vacuum](https://dev.to/rawveg/inside-the-accountability-vacuum-3c3g)
 - [The Most Expensive Private School in Oklahoma: And It Has No Teachers](https://smarterarticles.co.uk/the-most-expensive-private-school-in-oklahoma-and-it-has-no-teachers?pk_campaign=rss-feed)
 - [The Wage Scar of AI](https://dev.to/rawveg/the-wage-scar-of-ai-4knm)
 - [Rethinking Trust in a World of Deepfakes - SmarterArticles S1E18](https://dev.to/rawveg/rethinking-trust-in-a-world-of-deepfakes-smarterarticles-s1e18-4a8o)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Data Centres Move In](https://dev.to/rawveg/when-data-centres-move-in-4c1o)
 - [Unpacking the AI Job Loss Narrative - SmarterArticles S1E16](https://dev.to/rawveg/unpacking-the-ai-job-loss-narrative-smarterarticles-s1e16-39md)
 - [Removed by a Forecast: The Human Cost of AI Layoffs](https://smarterarticles.co.uk/removed-by-a-forecast-the-human-cost-of-ai-layoffs?pk_campaign=rss-feed)
-- [The Machine Is Listening](https://dev.to/rawveg/the-machine-is-listening-jfa)
 <!-- BLOG-POST-LIST:END -->
