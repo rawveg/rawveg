@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Counterfeit Web](https://dev.to/rawveg/the-counterfeit-web-2pg4)
 - [Meta Pays 567 Million Dollars: The Feed Stays Exactly the Same](https://smarterarticles.co.uk/meta-pays-567-million-dollars-the-feed-stays-exactly-the-same?pk_campaign=rss-feed)
 - [Inside the Accountability Vacuum](https://dev.to/rawveg/inside-the-accountability-vacuum-3c3g)
 - [The Most Expensive Private School in Oklahoma: And It Has No Teachers](https://smarterarticles.co.uk/the-most-expensive-private-school-in-oklahoma-and-it-has-no-teachers?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When Love Becomes a Language Model](https://dev.to/rawveg/when-love-becomes-a-language-model-2j8a)
 - [Who Decides Where Data Centres Go: Why Local Consent Keeps Failing](https://smarterarticles.co.uk/who-decides-where-data-centres-go-why-local-consent-keeps-failing?pk_campaign=rss-feed)
 - [When Data Centres Move In](https://dev.to/rawveg/when-data-centres-move-in-4c1o)
-- [Unpacking the AI Job Loss Narrative - SmarterArticles S1E16](https://dev.to/rawveg/unpacking-the-ai-job-loss-narrative-smarterarticles-s1e16-39md)
 <!-- BLOG-POST-LIST:END -->
