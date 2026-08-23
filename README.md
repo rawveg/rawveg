@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [State-Funded Loneliness](https://dev.to/rawveg/state-funded-loneliness-eif)
 - [Your AI Agent Will Be Compromised: Design for That](https://smarterarticles.co.uk/your-ai-agent-will-be-compromised-design-for-that?pk_campaign=rss-feed)
 - [Computer Says Fraud](https://dev.to/rawveg/computer-says-fraud-30f8)
 - [95% Solved: Why AI Code Still Ignores Your Instructions](https://smarterarticles.co.uk/95-solved-why-ai-code-still-ignores-your-instructions?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Quiet Collapse](https://dev.to/rawveg/the-quiet-collapse-1pl0)
 - [The Age Check Backfire: How Britain Drove Millions to VPNs](https://smarterarticles.co.uk/the-age-check-backfire-how-britain-drove-millions-to-vpns?pk_campaign=rss-feed)
 - [The Knock at the Door](https://dev.to/rawveg/the-knock-at-the-door-1jic)
-- [The Price You Alone Pay: How Surveillance Pricing Punishes Loyalty](https://smarterarticles.co.uk/the-price-you-alone-pay-how-surveillance-pricing-punishes-loyalty?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
