@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [UK Duty of Care Exposed](https://dev.to/rawveg/uk-duty-of-care-exposed-2ii4)
 - [Faking Is Free: The Rising Price of Proving You Are Real](https://smarterarticles.co.uk/faking-is-free-the-rising-price-of-proving-you-are-real?pk_campaign=rss-feed)
 - [State-Funded Loneliness](https://dev.to/rawveg/state-funded-loneliness-eif)
 - [Your AI Agent Will Be Compromised: Design for That](https://smarterarticles.co.uk/your-ai-agent-will-be-compromised-design-for-that?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Phantom Precedent](https://dev.to/rawveg/phantom-precedent-492p)
 - [Grief for Sale: AI Resurrects the Russian Dead Nobody Counts](https://smarterarticles.co.uk/grief-for-sale-ai-resurrects-the-russian-dead-nobody-counts?pk_campaign=rss-feed)
 - [The Quiet Collapse](https://dev.to/rawveg/the-quiet-collapse-1pl0)
-- [The Age Check Backfire: How Britain Drove Millions to VPNs](https://smarterarticles.co.uk/the-age-check-backfire-how-britain-drove-millions-to-vpns?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
