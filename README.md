@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Barren Mountain Got a Data Centre: The Pay Rise Never Came](https://smarterarticles.co.uk/the-barren-mountain-got-a-data-centre-the-pay-rise-never-came?pk_campaign=rss-feed)
 - [UK Duty of Care Exposed](https://dev.to/rawveg/uk-duty-of-care-exposed-2ii4)
 - [Faking Is Free: The Rising Price of Proving You Are Real](https://smarterarticles.co.uk/faking-is-free-the-rising-price-of-proving-you-are-real?pk_campaign=rss-feed)
 - [State-Funded Loneliness](https://dev.to/rawveg/state-funded-loneliness-eif)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Fifty-Seven Million Cases: Why India Will Not Let AI Judge Them](https://smarterarticles.co.uk/fifty-seven-million-cases-why-india-will-not-let-ai-judge-them?pk_campaign=rss-feed)
 - [Phantom Precedent](https://dev.to/rawveg/phantom-precedent-492p)
 - [Grief for Sale: AI Resurrects the Russian Dead Nobody Counts](https://smarterarticles.co.uk/grief-for-sale-ai-resurrects-the-russian-dead-nobody-counts?pk_campaign=rss-feed)
-- [The Quiet Collapse](https://dev.to/rawveg/the-quiet-collapse-1pl0)
 <!-- BLOG-POST-LIST:END -->
