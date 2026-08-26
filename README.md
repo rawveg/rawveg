@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Age Penalty: How AI Prices Older People Without Asking](https://smarterarticles.co.uk/the-age-penalty-how-ai-prices-older-people-without-asking?pk_campaign=rss-feed)
 - [The Vulnerable Moment](https://dev.to/rawveg/the-vulnerable-moment-1poi)
 - [The Alpha School Controversy - SmarterArticles S1E19](https://dev.to/rawveg/the-alpha-school-controversy-smarterarticles-s1e19-25gm)
 - [The Barren Mountain Got a Data Centre: The Pay Rise Never Came](https://smarterarticles.co.uk/the-barren-mountain-got-a-data-centre-the-pay-rise-never-came?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Second Extraction](https://dev.to/rawveg/the-second-extraction-4pjo)
 - [AI &amp; The Harvested Field: Who Decides When Farmland Becomes Server Racks](https://smarterarticles.co.uk/ai-and-the-harvested-field-who-decides-when-farmland-becomes-server-racks?pk_campaign=rss-feed)
 - [The Boiling Frog Was Wrong](https://dev.to/rawveg/the-boiling-frog-was-wrong-54lo)
-- [Fifty-Seven Million Cases: Why India Will Not Let AI Judge Them](https://smarterarticles.co.uk/fifty-seven-million-cases-why-india-will-not-let-ai-judge-them?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
