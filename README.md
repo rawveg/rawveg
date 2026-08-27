@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Six Words and a Login: Who Actually Earned That Online Degree](https://smarterarticles.co.uk/six-words-and-a-login-who-actually-earned-that-online-degree?pk_campaign=rss-feed)
 - [Border Cameras and Childhood](https://dev.to/rawveg/border-cameras-and-childhood-19gh)
 - [The Age Penalty: How AI Prices Older People Without Asking](https://smarterarticles.co.uk/the-age-penalty-how-ai-prices-older-people-without-asking?pk_campaign=rss-feed)
 - [The Vulnerable Moment](https://dev.to/rawveg/the-vulnerable-moment-1poi)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Rethinking Trust in a World of Deepfakes - SmarterArticles S1E18](https://dev.to/rawveg/rethinking-trust-in-a-world-of-deepfakes-smarterarticles-s1e18-4a8o)
 - [Your Face Was the Ticket: Inside World Cup Biometric Surveillance](https://smarterarticles.co.uk/your-face-was-the-ticket-inside-world-cup-biometric-surveillance?pk_campaign=rss-feed)
 - [The Second Extraction](https://dev.to/rawveg/the-second-extraction-4pjo)
-- [AI &amp; The Harvested Field: Who Decides When Farmland Becomes Server Racks](https://smarterarticles.co.uk/ai-and-the-harvested-field-who-decides-when-farmland-becomes-server-racks?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
