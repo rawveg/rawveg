@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Great Unlinking](https://dev.to/rawveg/the-great-unlinking-4o7b)
 - [No Better Than a Notebook: Why AI Companions Do Not Cure Loneliness](https://smarterarticles.co.uk/no-better-than-a-notebook-why-ai-companions-do-not-cure-loneliness?pk_campaign=rss-feed)
 - [The Sycophantic Machine](https://dev.to/rawveg/the-sycophantic-machine-193d)
 - [Six Words and a Login: Who Actually Earned That Online Degree](https://smarterarticles.co.uk/six-words-and-a-login-who-actually-earned-that-online-degree?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Inside the Accountability Vacuum](https://dev.to/rawveg/inside-the-accountability-vacuum-3c3g)
 - [The Most Expensive Private School in Oklahoma: And It Has No Teachers](https://smarterarticles.co.uk/the-most-expensive-private-school-in-oklahoma-and-it-has-no-teachers?pk_campaign=rss-feed)
 - [The Wage Scar of AI](https://dev.to/rawveg/the-wage-scar-of-ai-4knm)
-- [Rethinking Trust in a World of Deepfakes - SmarterArticles S1E18](https://dev.to/rawveg/rethinking-trust-in-a-world-of-deepfakes-smarterarticles-s1e18-4a8o)
 <!-- BLOG-POST-LIST:END -->
