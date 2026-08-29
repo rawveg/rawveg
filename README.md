@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Botsitting: The Unpaid Labour Behind Every AI Productivity Claim](https://smarterarticles.co.uk/botsitting-the-unpaid-labour-behind-every-ai-productivity-claim?pk_campaign=rss-feed)
 - [The Great Unlinking](https://dev.to/rawveg/the-great-unlinking-4o7b)
 - [No Better Than a Notebook: Why AI Companions Do Not Cure Loneliness](https://smarterarticles.co.uk/no-better-than-a-notebook-why-ai-companions-do-not-cure-loneliness?pk_campaign=rss-feed)
 - [The Sycophantic Machine](https://dev.to/rawveg/the-sycophantic-machine-193d)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Meta Pays 567 Million Dollars: The Feed Stays Exactly the Same](https://smarterarticles.co.uk/meta-pays-567-million-dollars-the-feed-stays-exactly-the-same?pk_campaign=rss-feed)
 - [Inside the Accountability Vacuum](https://dev.to/rawveg/inside-the-accountability-vacuum-3c3g)
 - [The Most Expensive Private School in Oklahoma: And It Has No Teachers](https://smarterarticles.co.uk/the-most-expensive-private-school-in-oklahoma-and-it-has-no-teachers?pk_campaign=rss-feed)
-- [The Wage Scar of AI](https://dev.to/rawveg/the-wage-scar-of-ai-4knm)
 <!-- BLOG-POST-LIST:END -->
