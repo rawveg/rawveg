@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating 100k Readers](https://dev.to/rawveg/celebrating-100k-readers-483f)
 - [Forty Perfect Scores: How AI Cheating Hollowed Out the Ivy League](https://smarterarticles.co.uk/forty-perfect-scores-how-ai-cheating-hollowed-out-the-ivy-league?pk_campaign=rss-feed)
 - [AI and the Right to Die](https://dev.to/rawveg/ai-and-the-right-to-die-3bji)
 - [Botsitting: The Unpaid Labour Behind Every AI Productivity Claim](https://smarterarticles.co.uk/botsitting-the-unpaid-labour-behind-every-ai-productivity-claim?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Computer Says Fraud](https://dev.to/rawveg/computer-says-fraud-30f8)
 - [95% Solved: Why AI Code Still Ignores Your Instructions](https://smarterarticles.co.uk/95-solved-why-ai-code-still-ignores-your-instructions?pk_campaign=rss-feed)
 - [The Counterfeit Web](https://dev.to/rawveg/the-counterfeit-web-2pg4)
-- [Meta Pays 567 Million Dollars: The Feed Stays Exactly the Same](https://smarterarticles.co.uk/meta-pays-567-million-dollars-the-feed-stays-exactly-the-same?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
