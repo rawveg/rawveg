@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Convicted in Five Minutes](https://dev.to/rawveg/convicted-in-five-minutes-4ifn)
 - [Celebrating 100k Readers](https://dev.to/rawveg/celebrating-100k-readers-483f)
 - [Forty Perfect Scores: How AI Cheating Hollowed Out the Ivy League](https://smarterarticles.co.uk/forty-perfect-scores-how-ai-cheating-hollowed-out-the-ivy-league?pk_campaign=rss-feed)
 - [AI and the Right to Die](https://dev.to/rawveg/ai-and-the-right-to-die-3bji)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Your AI Agent Will Be Compromised: Design for That](https://smarterarticles.co.uk/your-ai-agent-will-be-compromised-design-for-that?pk_campaign=rss-feed)
 - [Computer Says Fraud](https://dev.to/rawveg/computer-says-fraud-30f8)
 - [95% Solved: Why AI Code Still Ignores Your Instructions](https://smarterarticles.co.uk/95-solved-why-ai-code-still-ignores-your-instructions?pk_campaign=rss-feed)
-- [The Counterfeit Web](https://dev.to/rawveg/the-counterfeit-web-2pg4)
 <!-- BLOG-POST-LIST:END -->
