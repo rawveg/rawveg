@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [A Detection Crisis Begins](https://dev.to/rawveg/a-detection-crisis-begins-3d7o)
 - [The Grief Nobody Counted: China Deleted Millions of AI Companions Overnight](https://smarterarticles.co.uk/the-grief-nobody-counted-china-deleted-millions-of-ai-companions-overnight?pk_campaign=rss-feed)
 - [Convicted in Five Minutes](https://dev.to/rawveg/convicted-in-five-minutes-4ifn)
 - [Celebrating 100k Readers](https://dev.to/rawveg/celebrating-100k-readers-483f)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Faking Is Free: The Rising Price of Proving You Are Real](https://smarterarticles.co.uk/faking-is-free-the-rising-price-of-proving-you-are-real?pk_campaign=rss-feed)
 - [State-Funded Loneliness](https://dev.to/rawveg/state-funded-loneliness-eif)
 - [Your AI Agent Will Be Compromised: Design for That](https://smarterarticles.co.uk/your-ai-agent-will-be-compromised-design-for-that?pk_campaign=rss-feed)
-- [Computer Says Fraud](https://dev.to/rawveg/computer-says-fraud-30f8)
 <!-- BLOG-POST-LIST:END -->
