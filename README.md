@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Fluency Trap: Translation Became Free, Checking It Did Not](https://smarterarticles.co.uk/the-fluency-trap-translation-became-free-checking-it-did-not?pk_campaign=rss-feed)
 - [A Detection Crisis Begins](https://dev.to/rawveg/a-detection-crisis-begins-3d7o)
 - [The Grief Nobody Counted: China Deleted Millions of AI Companions Overnight](https://smarterarticles.co.uk/the-grief-nobody-counted-china-deleted-millions-of-ai-companions-overnight?pk_campaign=rss-feed)
 - [Convicted in Five Minutes](https://dev.to/rawveg/convicted-in-five-minutes-4ifn)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [UK Duty of Care Exposed](https://dev.to/rawveg/uk-duty-of-care-exposed-2ii4)
 - [Faking Is Free: The Rising Price of Proving You Are Real](https://smarterarticles.co.uk/faking-is-free-the-rising-price-of-proving-you-are-real?pk_campaign=rss-feed)
 - [State-Funded Loneliness](https://dev.to/rawveg/state-funded-loneliness-eif)
-- [Your AI Agent Will Be Compromised: Design for That](https://smarterarticles.co.uk/your-ai-agent-will-be-compromised-design-for-that?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
