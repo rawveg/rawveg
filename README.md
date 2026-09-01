@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Convicted by Prediction](https://dev.to/rawveg/convicted-by-prediction-55id)
 - [The Fluency Trap: Translation Became Free, Checking It Did Not](https://smarterarticles.co.uk/the-fluency-trap-translation-became-free-checking-it-did-not?pk_campaign=rss-feed)
 - [A Detection Crisis Begins](https://dev.to/rawveg/a-detection-crisis-begins-3d7o)
 - [The Grief Nobody Counted: China Deleted Millions of AI Companions Overnight](https://smarterarticles.co.uk/the-grief-nobody-counted-china-deleted-millions-of-ai-companions-overnight?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Barren Mountain Got a Data Centre: The Pay Rise Never Came](https://smarterarticles.co.uk/the-barren-mountain-got-a-data-centre-the-pay-rise-never-came?pk_campaign=rss-feed)
 - [UK Duty of Care Exposed](https://dev.to/rawveg/uk-duty-of-care-exposed-2ii4)
 - [Faking Is Free: The Rising Price of Proving You Are Real](https://smarterarticles.co.uk/faking-is-free-the-rising-price-of-proving-you-are-real?pk_campaign=rss-feed)
-- [State-Funded Loneliness](https://dev.to/rawveg/state-funded-loneliness-eif)
 <!-- BLOG-POST-LIST:END -->
