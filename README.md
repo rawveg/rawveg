@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Meta and the Unwilling Training Set](https://dev.to/rawveg/meta-and-the-unwilling-training-set-4ioe)
 - [No Attacker, No Provider: The Collapse of Reactive AI Security](https://smarterarticles.co.uk/no-attacker-no-provider-the-collapse-of-reactive-ai-security?pk_campaign=rss-feed)
 - [The Partner Who Cannot See It](https://dev.to/rawveg/the-partner-who-cannot-see-it-4o0h)
 - [The Exported Thirst: How AI Drinks Water India Cannot Spare](https://smarterarticles.co.uk/the-exported-thirst-how-ai-drinks-water-india-cannot-spare?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Border Cameras and Childhood](https://dev.to/rawveg/border-cameras-and-childhood-19gh)
 - [The Age Penalty: How AI Prices Older People Without Asking](https://smarterarticles.co.uk/the-age-penalty-how-ai-prices-older-people-without-asking?pk_campaign=rss-feed)
 - [The Vulnerable Moment](https://dev.to/rawveg/the-vulnerable-moment-1poi)
-- [The Alpha School Controversy - SmarterArticles S1E19](https://dev.to/rawveg/the-alpha-school-controversy-smarterarticles-s1e19-25gm)
 <!-- BLOG-POST-LIST:END -->
