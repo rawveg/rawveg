@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [No Attacker, No Provider: The Collapse of Reactive AI Security](https://smarterarticles.co.uk/no-attacker-no-provider-the-collapse-of-reactive-ai-security?pk_campaign=rss-feed)
 - [The Partner Who Cannot See It](https://dev.to/rawveg/the-partner-who-cannot-see-it-4o0h)
 - [The Exported Thirst: How AI Drinks Water India Cannot Spare](https://smarterarticles.co.uk/the-exported-thirst-how-ai-drinks-water-india-cannot-spare?pk_campaign=rss-feed)
 - [Convicted by Prediction](https://dev.to/rawveg/convicted-by-prediction-55id)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Age Penalty: How AI Prices Older People Without Asking](https://smarterarticles.co.uk/the-age-penalty-how-ai-prices-older-people-without-asking?pk_campaign=rss-feed)
 - [The Vulnerable Moment](https://dev.to/rawveg/the-vulnerable-moment-1poi)
 - [The Alpha School Controversy - SmarterArticles S1E19](https://dev.to/rawveg/the-alpha-school-controversy-smarterarticles-s1e19-25gm)
-- [The Barren Mountain Got a Data Centre: The Pay Rise Never Came](https://smarterarticles.co.uk/the-barren-mountain-got-a-data-centre-the-pay-rise-never-came?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
