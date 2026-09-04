@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Rejected in Thirty Seconds: When No Human Reads Your Application](https://smarterarticles.co.uk/rejected-in-thirty-seconds-when-no-human-reads-your-application?pk_campaign=rss-feed)
 - [Meta and the Unwilling Training Set](https://dev.to/rawveg/meta-and-the-unwilling-training-set-4ioe)
 - [No Attacker, No Provider: The Collapse of Reactive AI Security](https://smarterarticles.co.uk/no-attacker-no-provider-the-collapse-of-reactive-ai-security?pk_campaign=rss-feed)
 - [The Partner Who Cannot See It](https://dev.to/rawveg/the-partner-who-cannot-see-it-4o0h)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Six Words and a Login: Who Actually Earned That Online Degree](https://smarterarticles.co.uk/six-words-and-a-login-who-actually-earned-that-online-degree?pk_campaign=rss-feed)
 - [Border Cameras and Childhood](https://dev.to/rawveg/border-cameras-and-childhood-19gh)
 - [The Age Penalty: How AI Prices Older People Without Asking](https://smarterarticles.co.uk/the-age-penalty-how-ai-prices-older-people-without-asking?pk_campaign=rss-feed)
-- [The Vulnerable Moment](https://dev.to/rawveg/the-vulnerable-moment-1poi)
 <!-- BLOG-POST-LIST:END -->
