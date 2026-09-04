@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Rejected in Thirty Seconds: When No Human Reads Your Application](https://smarterarticles.co.uk/rejected-in-thirty-seconds-when-no-human-reads-your-application?pk_campaign=rss-feed)
+- [Printing Went to Zero: Why Publishing a Book Still Costs Thousands](https://smarterarticles.co.uk/printing-went-to-zero-why-publishing-a-book-still-costs-thousands?pk_campaign=rss-feed)
 - [Meta and the Unwilling Training Set](https://dev.to/rawveg/meta-and-the-unwilling-training-set-4ioe)
 - [No Attacker, No Provider: The Collapse of Reactive AI Security](https://smarterarticles.co.uk/no-attacker-no-provider-the-collapse-of-reactive-ai-security?pk_campaign=rss-feed)
 - [The Partner Who Cannot See It](https://dev.to/rawveg/the-partner-who-cannot-see-it-4o0h)
