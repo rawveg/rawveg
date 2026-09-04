@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Minimalism Is Not Neutral](https://dev.to/rawveg/minimalism-is-not-neutral-5ab3)
 - [Printing Went to Zero: Why Publishing a Book Still Costs Thousands](https://smarterarticles.co.uk/printing-went-to-zero-why-publishing-a-book-still-costs-thousands?pk_campaign=rss-feed)
 - [Meta and the Unwilling Training Set](https://dev.to/rawveg/meta-and-the-unwilling-training-set-4ioe)
 - [No Attacker, No Provider: The Collapse of Reactive AI Security](https://smarterarticles.co.uk/no-attacker-no-provider-the-collapse-of-reactive-ai-security?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Sycophantic Machine](https://dev.to/rawveg/the-sycophantic-machine-193d)
 - [Six Words and a Login: Who Actually Earned That Online Degree](https://smarterarticles.co.uk/six-words-and-a-login-who-actually-earned-that-online-degree?pk_campaign=rss-feed)
 - [Border Cameras and Childhood](https://dev.to/rawveg/border-cameras-and-childhood-19gh)
-- [The Age Penalty: How AI Prices Older People Without Asking](https://smarterarticles.co.uk/the-age-penalty-how-ai-prices-older-people-without-asking?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
