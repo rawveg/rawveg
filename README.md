@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Two Minutes a Week: Why Children Ignore Their AI Tutors](https://smarterarticles.co.uk/two-minutes-a-week-why-children-ignore-their-ai-tutors?pk_campaign=rss-feed)
 - [Seven Million Songs a Day](https://dev.to/rawveg/seven-million-songs-a-day-2nn1)
 - [The Unproven Cure: AI Mental Health Chatbots and the Missing Evidence](https://smarterarticles.co.uk/the-unproven-cure-ai-mental-health-chatbots-and-the-missing-evidence?pk_campaign=rss-feed)
 - [Minimalism Is Not Neutral](https://dev.to/rawveg/minimalism-is-not-neutral-5ab3)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Botsitting: The Unpaid Labour Behind Every AI Productivity Claim](https://smarterarticles.co.uk/botsitting-the-unpaid-labour-behind-every-ai-productivity-claim?pk_campaign=rss-feed)
 - [The Great Unlinking](https://dev.to/rawveg/the-great-unlinking-4o7b)
 - [No Better Than a Notebook: Why AI Companions Do Not Cure Loneliness](https://smarterarticles.co.uk/no-better-than-a-notebook-why-ai-companions-do-not-cure-loneliness?pk_campaign=rss-feed)
-- [The Sycophantic Machine](https://dev.to/rawveg/the-sycophantic-machine-193d)
 <!-- BLOG-POST-LIST:END -->
