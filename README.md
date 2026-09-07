@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Unintended Fallout of the Online Safety Act - SmarterArticles S1E21](https://dev.to/rawveg/the-unintended-fallout-of-the-online-safety-act-smarterarticles-s1e21-2eij)
+- [Empowering Youth: The STUDENTS FIRST Act Explained - SmarterArticles S1E20](https://dev.to/rawveg/empowering-youth-the-students-first-act-explained-smarterarticles-s1e20-54o5)
 - [AI and the Abusers Toolkit](https://dev.to/rawveg/ai-and-the-abusers-toolkit-4cc6)
 - [Rejected in Thirty Seconds: When No Human Reads Your Application](https://smarterarticles.co.uk/rejected-in-thirty-seconds-when-no-human-reads-your-application?pk_campaign=rss-feed)
 - [Two Minutes a Week: Why Children Ignore Their AI Tutors](https://smarterarticles.co.uk/two-minutes-a-week-why-children-ignore-their-ai-tutors?pk_campaign=rss-feed)
@@ -33,6 +35,4 @@ Here are some ideas to get you started:
 - [Convicted in Five Minutes](https://dev.to/rawveg/convicted-in-five-minutes-4ifn)
 - [Celebrating 100k Readers](https://dev.to/rawveg/celebrating-100k-readers-483f)
 - [Forty Perfect Scores: How AI Cheating Hollowed Out the Ivy League](https://smarterarticles.co.uk/forty-perfect-scores-how-ai-cheating-hollowed-out-the-ivy-league?pk_campaign=rss-feed)
-- [AI and the Right to Die](https://dev.to/rawveg/ai-and-the-right-to-die-3bji)
-- [Botsitting: The Unpaid Labour Behind Every AI Productivity Claim](https://smarterarticles.co.uk/botsitting-the-unpaid-labour-behind-every-ai-productivity-claim?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
