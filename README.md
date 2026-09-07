@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI and the Abusers Toolkit](https://dev.to/rawveg/ai-and-the-abusers-toolkit-4cc6)
 - [Rejected in Thirty Seconds: When No Human Reads Your Application](https://smarterarticles.co.uk/rejected-in-thirty-seconds-when-no-human-reads-your-application?pk_campaign=rss-feed)
 - [Two Minutes a Week: Why Children Ignore Their AI Tutors](https://smarterarticles.co.uk/two-minutes-a-week-why-children-ignore-their-ai-tutors?pk_campaign=rss-feed)
 - [Seven Million Songs a Day](https://dev.to/rawveg/seven-million-songs-a-day-2nn1)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Forty Perfect Scores: How AI Cheating Hollowed Out the Ivy League](https://smarterarticles.co.uk/forty-perfect-scores-how-ai-cheating-hollowed-out-the-ivy-league?pk_campaign=rss-feed)
 - [AI and the Right to Die](https://dev.to/rawveg/ai-and-the-right-to-die-3bji)
 - [Botsitting: The Unpaid Labour Behind Every AI Productivity Claim](https://smarterarticles.co.uk/botsitting-the-unpaid-labour-behind-every-ai-productivity-claim?pk_campaign=rss-feed)
-- [The Great Unlinking](https://dev.to/rawveg/the-great-unlinking-4o7b)
 <!-- BLOG-POST-LIST:END -->
