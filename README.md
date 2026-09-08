@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Writes the Police Report: Nobody Can Say Who Testifies](https://smarterarticles.co.uk/ai-writes-the-police-report-nobody-can-say-who-testifies?pk_campaign=rss-feed)
 - [The Unintended Fallout of the Online Safety Act - SmarterArticles S1E21](https://dev.to/rawveg/the-unintended-fallout-of-the-online-safety-act-smarterarticles-s1e21-2eij)
 - [Empowering Youth: The STUDENTS FIRST Act Explained - SmarterArticles S1E20](https://dev.to/rawveg/empowering-youth-the-students-first-act-explained-smarterarticles-s1e20-54o5)
 - [AI and the Abusers Toolkit](https://dev.to/rawveg/ai-and-the-abusers-toolkit-4cc6)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Grief Nobody Counted: China Deleted Millions of AI Companions Overnight](https://smarterarticles.co.uk/the-grief-nobody-counted-china-deleted-millions-of-ai-companions-overnight?pk_campaign=rss-feed)
 - [Convicted in Five Minutes](https://dev.to/rawveg/convicted-in-five-minutes-4ifn)
 - [Celebrating 100k Readers](https://dev.to/rawveg/celebrating-100k-readers-483f)
-- [Forty Perfect Scores: How AI Cheating Hollowed Out the Ivy League](https://smarterarticles.co.uk/forty-perfect-scores-how-ai-cheating-hollowed-out-the-ivy-league?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
