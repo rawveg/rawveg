@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Phantom Citations and Paper Mills](https://dev.to/rawveg/phantom-citations-and-paper-mills-2ppi)
 - [The Camouflage Hoodie: What People Buy When Privacy Law Fails](https://smarterarticles.co.uk/the-camouflage-hoodie-what-people-buy-when-privacy-law-fails?pk_campaign=rss-feed)
 - [AI Diet Chatbots and Teenagers](https://dev.to/rawveg/ai-diet-chatbots-and-teenagers-20mh)
 - [AI Writes the Police Report: Nobody Can Say Who Testifies](https://smarterarticles.co.uk/ai-writes-the-police-report-nobody-can-say-who-testifies?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Convicted by Prediction](https://dev.to/rawveg/convicted-by-prediction-55id)
 - [The Fluency Trap: Translation Became Free, Checking It Did Not](https://smarterarticles.co.uk/the-fluency-trap-translation-became-free-checking-it-did-not?pk_campaign=rss-feed)
 - [A Detection Crisis Begins](https://dev.to/rawveg/a-detection-crisis-begins-3d7o)
-- [The Grief Nobody Counted: China Deleted Millions of AI Companions Overnight](https://smarterarticles.co.uk/the-grief-nobody-counted-china-deleted-millions-of-ai-companions-overnight?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
