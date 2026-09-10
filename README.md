@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When the Safeguard Fails](https://dev.to/rawveg/when-the-safeguard-fails-epc)
 - [Fourteen Days to Object: How AI Data Centres Outrun Their Neighbours](https://smarterarticles.co.uk/fourteen-days-to-object-how-ai-data-centres-outrun-their-neighbours?pk_campaign=rss-feed)
 - [Phantom Citations and Paper Mills](https://dev.to/rawveg/phantom-citations-and-paper-mills-2ppi)
 - [The Camouflage Hoodie: What People Buy When Privacy Law Fails](https://smarterarticles.co.uk/the-camouflage-hoodie-what-people-buy-when-privacy-law-fails?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Partner Who Cannot See It](https://dev.to/rawveg/the-partner-who-cannot-see-it-4o0h)
 - [The Exported Thirst: How AI Drinks Water India Cannot Spare](https://smarterarticles.co.uk/the-exported-thirst-how-ai-drinks-water-india-cannot-spare?pk_campaign=rss-feed)
 - [Convicted by Prediction](https://dev.to/rawveg/convicted-by-prediction-55id)
-- [The Fluency Trap: Translation Became Free, Checking It Did Not](https://smarterarticles.co.uk/the-fluency-trap-translation-became-free-checking-it-did-not?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
