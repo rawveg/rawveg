@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Landlord of the AI Economy: Mongolia Bets Half Its Grid](https://smarterarticles.co.uk/landlord-of-the-ai-economy-mongolia-bets-half-its-grid?pk_campaign=rss-feed)
 - [When the Safeguard Fails](https://dev.to/rawveg/when-the-safeguard-fails-epc)
 - [Fourteen Days to Object: How AI Data Centres Outrun Their Neighbours](https://smarterarticles.co.uk/fourteen-days-to-object-how-ai-data-centres-outrun-their-neighbours?pk_campaign=rss-feed)
 - [Phantom Citations and Paper Mills](https://dev.to/rawveg/phantom-citations-and-paper-mills-2ppi)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [No Attacker, No Provider: The Collapse of Reactive AI Security](https://smarterarticles.co.uk/no-attacker-no-provider-the-collapse-of-reactive-ai-security?pk_campaign=rss-feed)
 - [The Partner Who Cannot See It](https://dev.to/rawveg/the-partner-who-cannot-see-it-4o0h)
 - [The Exported Thirst: How AI Drinks Water India Cannot Spare](https://smarterarticles.co.uk/the-exported-thirst-how-ai-drinks-water-india-cannot-spare?pk_campaign=rss-feed)
-- [Convicted by Prediction](https://dev.to/rawveg/convicted-by-prediction-55id)
 <!-- BLOG-POST-LIST:END -->
