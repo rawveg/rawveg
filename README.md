@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Redundant Expert: Professionals Paid to Train Their Own Replacements](https://smarterarticles.co.uk/the-redundant-expert-professionals-paid-to-train-their-own-replacements?pk_campaign=rss-feed)
 - [When AI Reassures the Dying](https://dev.to/rawveg/when-ai-reassures-the-dying-5bd3)
 - [Landlord of the AI Economy: Mongolia Bets Half Its Grid](https://smarterarticles.co.uk/landlord-of-the-ai-economy-mongolia-bets-half-its-grid?pk_campaign=rss-feed)
 - [When the Safeguard Fails](https://dev.to/rawveg/when-the-safeguard-fails-epc)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Printing Went to Zero: Why Publishing a Book Still Costs Thousands](https://smarterarticles.co.uk/printing-went-to-zero-why-publishing-a-book-still-costs-thousands?pk_campaign=rss-feed)
 - [Meta and the Unwilling Training Set](https://dev.to/rawveg/meta-and-the-unwilling-training-set-4ioe)
 - [No Attacker, No Provider: The Collapse of Reactive AI Security](https://smarterarticles.co.uk/no-attacker-no-provider-the-collapse-of-reactive-ai-security?pk_campaign=rss-feed)
-- [The Partner Who Cannot See It](https://dev.to/rawveg/the-partner-who-cannot-see-it-4o0h)
 <!-- BLOG-POST-LIST:END -->
