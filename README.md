@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Fruit Love Island and Dickens: How Serial Fiction Always Worked](https://smarterarticles.co.uk/fruit-love-island-and-dickens-how-serial-fiction-always-worked?pk_campaign=rss-feed)
 - [The Confession Machine](https://dev.to/rawveg/the-confession-machine-5f7c)
 - [The Redundant Expert: Professionals Paid to Train Their Own Replacements](https://smarterarticles.co.uk/the-redundant-expert-professionals-paid-to-train-their-own-replacements?pk_campaign=rss-feed)
 - [When AI Reassures the Dying](https://dev.to/rawveg/when-ai-reassures-the-dying-5bd3)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Unproven Cure: AI Mental Health Chatbots and the Missing Evidence](https://smarterarticles.co.uk/the-unproven-cure-ai-mental-health-chatbots-and-the-missing-evidence?pk_campaign=rss-feed)
 - [Minimalism Is Not Neutral](https://dev.to/rawveg/minimalism-is-not-neutral-5ab3)
 - [Printing Went to Zero: Why Publishing a Book Still Costs Thousands](https://smarterarticles.co.uk/printing-went-to-zero-why-publishing-a-book-still-costs-thousands?pk_campaign=rss-feed)
-- [Meta and the Unwilling Training Set](https://dev.to/rawveg/meta-and-the-unwilling-training-set-4ioe)
 <!-- BLOG-POST-LIST:END -->
