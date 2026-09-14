@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When AI Files Your Taxes](https://dev.to/rawveg/when-ai-files-your-taxes-5cfp)
 - [Social Junk Food: Why AI Companions Deepen the Loneliness They Soothe](https://smarterarticles.co.uk/social-junk-food-why-ai-companions-deepen-the-loneliness-they-soothe?pk_campaign=rss-feed)
 - [Talked Out of Reality](https://dev.to/rawveg/talked-out-of-reality-2kf0)
 - [Fruit Love Island and Dickens: How Serial Fiction Always Worked](https://smarterarticles.co.uk/fruit-love-island-and-dickens-how-serial-fiction-always-worked?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Rejected in Thirty Seconds: When No Human Reads Your Application](https://smarterarticles.co.uk/rejected-in-thirty-seconds-when-no-human-reads-your-application?pk_campaign=rss-feed)
 - [Two Minutes a Week: Why Children Ignore Their AI Tutors](https://smarterarticles.co.uk/two-minutes-a-week-why-children-ignore-their-ai-tutors?pk_campaign=rss-feed)
 - [Seven Million Songs a Day](https://dev.to/rawveg/seven-million-songs-a-day-2nn1)
-- [The Unproven Cure: AI Mental Health Chatbots and the Missing Evidence](https://smarterarticles.co.uk/the-unproven-cure-ai-mental-health-chatbots-and-the-missing-evidence?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
