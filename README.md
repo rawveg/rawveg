@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Social Junk Food: Why AI Companions Deepen the Loneliness They Soothe](https://smarterarticles.co.uk/social-junk-food-why-ai-companions-deepen-the-loneliness-they-soothe?pk_campaign=rss-feed)
 - [Talked Out of Reality](https://dev.to/rawveg/talked-out-of-reality-2kf0)
 - [Fruit Love Island and Dickens: How Serial Fiction Always Worked](https://smarterarticles.co.uk/fruit-love-island-and-dickens-how-serial-fiction-always-worked?pk_campaign=rss-feed)
 - [The Confession Machine](https://dev.to/rawveg/the-confession-machine-5f7c)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Two Minutes a Week: Why Children Ignore Their AI Tutors](https://smarterarticles.co.uk/two-minutes-a-week-why-children-ignore-their-ai-tutors?pk_campaign=rss-feed)
 - [Seven Million Songs a Day](https://dev.to/rawveg/seven-million-songs-a-day-2nn1)
 - [The Unproven Cure: AI Mental Health Chatbots and the Missing Evidence](https://smarterarticles.co.uk/the-unproven-cure-ai-mental-health-chatbots-and-the-missing-evidence?pk_campaign=rss-feed)
-- [Minimalism Is Not Neutral](https://dev.to/rawveg/minimalism-is-not-neutral-5ab3)
 <!-- BLOG-POST-LIST:END -->
