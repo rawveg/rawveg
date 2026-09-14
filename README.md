@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Rejected in 30 Seconds: When No Human Reads Your Application - SmarterArticles S1E22](https://dev.to/rawveg/rejected-in-30-seconds-when-no-human-reads-your-application-smarterarticles-s1e22-d4)
 - [When AI Files Your Taxes](https://dev.to/rawveg/when-ai-files-your-taxes-5cfp)
 - [Social Junk Food: Why AI Companions Deepen the Loneliness They Soothe](https://smarterarticles.co.uk/social-junk-food-why-ai-companions-deepen-the-loneliness-they-soothe?pk_campaign=rss-feed)
 - [Talked Out of Reality](https://dev.to/rawveg/talked-out-of-reality-2kf0)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI and the Abusers Toolkit](https://dev.to/rawveg/ai-and-the-abusers-toolkit-4cc6)
 - [Rejected in Thirty Seconds: When No Human Reads Your Application](https://smarterarticles.co.uk/rejected-in-thirty-seconds-when-no-human-reads-your-application?pk_campaign=rss-feed)
 - [Two Minutes a Week: Why Children Ignore Their AI Tutors](https://smarterarticles.co.uk/two-minutes-a-week-why-children-ignore-their-ai-tutors?pk_campaign=rss-feed)
-- [Seven Million Songs a Day](https://dev.to/rawveg/seven-million-songs-a-day-2nn1)
 <!-- BLOG-POST-LIST:END -->
