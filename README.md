@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Price of Dread Collapsed: How a Cartoon Cat Locked Down Schools](https://smarterarticles.co.uk/the-price-of-dread-collapsed-how-a-cartoon-cat-locked-down-schools?pk_campaign=rss-feed)
 - [AI Slop as a Weapon](https://dev.to/rawveg/ai-slop-as-a-weapon-2bg3)
 - [Dolly Parton and the Tribute Flood: How Fakes Rewrite Memory](https://smarterarticles.co.uk/dolly-parton-and-the-tribute-flood-how-fakes-rewrite-memory?pk_campaign=rss-feed)
 - [Rejected in 30 Seconds: When No Human Reads Your Application - SmarterArticles S1E22](https://dev.to/rawveg/rejected-in-30-seconds-when-no-human-reads-your-application-smarterarticles-s1e22-d4)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Writes the Police Report: Nobody Can Say Who Testifies](https://smarterarticles.co.uk/ai-writes-the-police-report-nobody-can-say-who-testifies?pk_campaign=rss-feed)
 - [The Unintended Fallout of the Online Safety Act - SmarterArticles S1E21](https://dev.to/rawveg/the-unintended-fallout-of-the-online-safety-act-smarterarticles-s1e21-2eij)
 - [Empowering Youth: The STUDENTS FIRST Act Explained - SmarterArticles S1E20](https://dev.to/rawveg/empowering-youth-the-students-first-act-explained-smarterarticles-s1e20-54o5)
-- [AI and the Abusers Toolkit](https://dev.to/rawveg/ai-and-the-abusers-toolkit-4cc6)
 <!-- BLOG-POST-LIST:END -->
