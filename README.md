@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Paid to Disappear](https://dev.to/rawveg/paid-to-disappear-21ag)
 - [The Value of Your Absence: Inside the San Francisco Rent Emergency](https://smarterarticles.co.uk/the-value-of-your-absence-inside-the-san-francisco-rent-emergency?pk_campaign=rss-feed)
 - [The Borrowed Friend](https://dev.to/rawveg/the-borrowed-friend-43dk)
 - [The Price of Dread Collapsed: How a Cartoon Cat Locked Down Schools](https://smarterarticles.co.uk/the-price-of-dread-collapsed-how-a-cartoon-cat-locked-down-schools?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Phantom Citations and Paper Mills](https://dev.to/rawveg/phantom-citations-and-paper-mills-2ppi)
 - [The Camouflage Hoodie: What People Buy When Privacy Law Fails](https://smarterarticles.co.uk/the-camouflage-hoodie-what-people-buy-when-privacy-law-fails?pk_campaign=rss-feed)
 - [AI Diet Chatbots and Teenagers](https://dev.to/rawveg/ai-diet-chatbots-and-teenagers-20mh)
-- [AI Writes the Police Report: Nobody Can Say Who Testifies](https://smarterarticles.co.uk/ai-writes-the-police-report-nobody-can-say-who-testifies?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
