@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Dismissed Before Dawn: Who Really Pays for the AI Buildout](https://smarterarticles.co.uk/dismissed-before-dawn-who-really-pays-for-the-ai-buildout?pk_campaign=rss-feed)
 - [Paid to Disappear](https://dev.to/rawveg/paid-to-disappear-21ag)
 - [The Value of Your Absence: Inside the San Francisco Rent Emergency](https://smarterarticles.co.uk/the-value-of-your-absence-inside-the-san-francisco-rent-emergency?pk_campaign=rss-feed)
 - [The Borrowed Friend](https://dev.to/rawveg/the-borrowed-friend-43dk)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Fourteen Days to Object: How AI Data Centres Outrun Their Neighbours](https://smarterarticles.co.uk/fourteen-days-to-object-how-ai-data-centres-outrun-their-neighbours?pk_campaign=rss-feed)
 - [Phantom Citations and Paper Mills](https://dev.to/rawveg/phantom-citations-and-paper-mills-2ppi)
 - [The Camouflage Hoodie: What People Buy When Privacy Law Fails](https://smarterarticles.co.uk/the-camouflage-hoodie-what-people-buy-when-privacy-law-fails?pk_campaign=rss-feed)
-- [AI Diet Chatbots and Teenagers](https://dev.to/rawveg/ai-diet-chatbots-and-teenagers-20mh)
 <!-- BLOG-POST-LIST:END -->
