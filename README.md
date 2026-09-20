@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Right to Your Own Face](https://dev.to/rawveg/the-right-to-your-own-face-2bn5)
 - [Your Face Is Not Yours: The Legal Hole Under Deepfake Law](https://smarterarticles.co.uk/your-face-is-not-yours-the-legal-hole-under-deepfake-law?pk_campaign=rss-feed)
 - [When AI Sees Guns Everywhere](https://dev.to/rawveg/when-ai-sees-guns-everywhere-1ko6)
 - [Indian Protests Did Not Stop the Data Centres: They Repriced Them](https://smarterarticles.co.uk/indian-protests-did-not-stop-the-data-centres-they-repriced-them?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Confession Machine](https://dev.to/rawveg/the-confession-machine-5f7c)
 - [The Redundant Expert: Professionals Paid to Train Their Own Replacements](https://smarterarticles.co.uk/the-redundant-expert-professionals-paid-to-train-their-own-replacements?pk_campaign=rss-feed)
 - [When AI Reassures the Dying](https://dev.to/rawveg/when-ai-reassures-the-dying-5bd3)
-- [Landlord of the AI Economy: Mongolia Bets Half Its Grid](https://smarterarticles.co.uk/landlord-of-the-ai-economy-mongolia-bets-half-its-grid?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
