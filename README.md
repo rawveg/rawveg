@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Dark Side of AI Companionship: A Cautionary Study - SmarterArticles S1E23](https://dev.to/rawveg/the-dark-side-of-ai-companionship-a-cautionary-study-smarterarticles-s1e23-5hi6)
 - [The Score You Never See](https://dev.to/rawveg/the-score-you-never-see-336h)
 - [The Fraud Nobody Counts: When Deepfakes Trigger Psychotic Relapse](https://smarterarticles.co.uk/the-fraud-nobody-counts-when-deepfakes-trigger-psychotic-relapse?pk_campaign=rss-feed)
 - [The Right to Your Own Face](https://dev.to/rawveg/the-right-to-your-own-face-2bn5)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Social Junk Food: Why AI Companions Deepen the Loneliness They Soothe](https://smarterarticles.co.uk/social-junk-food-why-ai-companions-deepen-the-loneliness-they-soothe?pk_campaign=rss-feed)
 - [Talked Out of Reality](https://dev.to/rawveg/talked-out-of-reality-2kf0)
 - [Fruit Love Island and Dickens: How Serial Fiction Always Worked](https://smarterarticles.co.uk/fruit-love-island-and-dickens-how-serial-fiction-always-worked?pk_campaign=rss-feed)
-- [The Confession Machine](https://dev.to/rawveg/the-confession-machine-5f7c)
 <!-- BLOG-POST-LIST:END -->
