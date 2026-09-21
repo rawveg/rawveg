@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Score You Never See](https://dev.to/rawveg/the-score-you-never-see-336h)
 - [The Fraud Nobody Counts: When Deepfakes Trigger Psychotic Relapse](https://smarterarticles.co.uk/the-fraud-nobody-counts-when-deepfakes-trigger-psychotic-relapse?pk_campaign=rss-feed)
 - [The Right to Your Own Face](https://dev.to/rawveg/the-right-to-your-own-face-2bn5)
 - [Your Face Is Not Yours: The Legal Hole Under Deepfake Law](https://smarterarticles.co.uk/your-face-is-not-yours-the-legal-hole-under-deepfake-law?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Talked Out of Reality](https://dev.to/rawveg/talked-out-of-reality-2kf0)
 - [Fruit Love Island and Dickens: How Serial Fiction Always Worked](https://smarterarticles.co.uk/fruit-love-island-and-dickens-how-serial-fiction-always-worked?pk_campaign=rss-feed)
 - [The Confession Machine](https://dev.to/rawveg/the-confession-machine-5f7c)
-- [The Redundant Expert: Professionals Paid to Train Their Own Replacements](https://smarterarticles.co.uk/the-redundant-expert-professionals-paid-to-train-their-own-replacements?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
