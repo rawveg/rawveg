@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Surveillance Pricing](https://dev.to/rawveg/surveillance-pricing-2b4b)
 - [Meta Built Face Recognition for Smart Glasses: No Law Protects Bystanders](https://smarterarticles.co.uk/meta-built-face-recognition-for-smart-glasses-no-law-protects-bystanders?pk_campaign=rss-feed)
 - [The Dark Side of AI Companionship: A Cautionary Study - SmarterArticles S1E23](https://dev.to/rawveg/the-dark-side-of-ai-companionship-a-cautionary-study-smarterarticles-s1e23-5hi6)
 - [The Score You Never See](https://dev.to/rawveg/the-score-you-never-see-336h)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Rejected in 30 Seconds: When No Human Reads Your Application - SmarterArticles S1E22](https://dev.to/rawveg/rejected-in-30-seconds-when-no-human-reads-your-application-smarterarticles-s1e22-d4)
 - [When AI Files Your Taxes](https://dev.to/rawveg/when-ai-files-your-taxes-5cfp)
 - [Social Junk Food: Why AI Companions Deepen the Loneliness They Soothe](https://smarterarticles.co.uk/social-junk-food-why-ai-companions-deepen-the-loneliness-they-soothe?pk_campaign=rss-feed)
-- [Talked Out of Reality](https://dev.to/rawveg/talked-out-of-reality-2kf0)
 <!-- BLOG-POST-LIST:END -->
