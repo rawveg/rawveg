@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Whose Displacement Counts](https://dev.to/rawveg/whose-displacement-counts-2po6)
 - [AI Agents Did Not Invent a Secret Language: The Problem Is Worse](https://smarterarticles.co.uk/ai-agents-did-not-invent-a-secret-language-the-problem-is-worse?pk_campaign=rss-feed)
 - [Surveillance Pricing](https://dev.to/rawveg/surveillance-pricing-2b4b)
 - [Meta Built Face Recognition for Smart Glasses: No Law Protects Bystanders](https://smarterarticles.co.uk/meta-built-face-recognition-for-smart-glasses-no-law-protects-bystanders?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Slop as a Weapon](https://dev.to/rawveg/ai-slop-as-a-weapon-2bg3)
 - [Dolly Parton and the Tribute Flood: How Fakes Rewrite Memory](https://smarterarticles.co.uk/dolly-parton-and-the-tribute-flood-how-fakes-rewrite-memory?pk_campaign=rss-feed)
 - [Rejected in 30 Seconds: When No Human Reads Your Application - SmarterArticles S1E22](https://dev.to/rawveg/rejected-in-30-seconds-when-no-human-reads-your-application-smarterarticles-s1e22-d4)
-- [When AI Files Your Taxes](https://dev.to/rawveg/when-ai-files-your-taxes-5cfp)
 <!-- BLOG-POST-LIST:END -->
