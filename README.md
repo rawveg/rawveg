@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Agents Did Not Invent a Secret Language: The Problem Is Worse](https://smarterarticles.co.uk/ai-agents-did-not-invent-a-secret-language-the-problem-is-worse?pk_campaign=rss-feed)
 - [Surveillance Pricing](https://dev.to/rawveg/surveillance-pricing-2b4b)
 - [Meta Built Face Recognition for Smart Glasses: No Law Protects Bystanders](https://smarterarticles.co.uk/meta-built-face-recognition-for-smart-glasses-no-law-protects-bystanders?pk_campaign=rss-feed)
 - [The Dark Side of AI Companionship: A Cautionary Study - SmarterArticles S1E23](https://dev.to/rawveg/the-dark-side-of-ai-companionship-a-cautionary-study-smarterarticles-s1e23-5hi6)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Dolly Parton and the Tribute Flood: How Fakes Rewrite Memory](https://smarterarticles.co.uk/dolly-parton-and-the-tribute-flood-how-fakes-rewrite-memory?pk_campaign=rss-feed)
 - [Rejected in 30 Seconds: When No Human Reads Your Application - SmarterArticles S1E22](https://dev.to/rawveg/rejected-in-30-seconds-when-no-human-reads-your-application-smarterarticles-s1e22-d4)
 - [When AI Files Your Taxes](https://dev.to/rawveg/when-ai-files-your-taxes-5cfp)
-- [Social Junk Food: Why AI Companions Deepen the Loneliness They Soothe](https://smarterarticles.co.uk/social-junk-food-why-ai-companions-deepen-the-loneliness-they-soothe?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
