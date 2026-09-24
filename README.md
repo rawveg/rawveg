@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [A Number Is Not Evidence](https://dev.to/rawveg/a-number-is-not-evidence-4p3o)
 - [Deepfakes Did Not Steal Your Face: They Stole the Consent Assumption](https://smarterarticles.co.uk/deepfakes-did-not-steal-your-face-they-stole-the-consent-assumption?pk_campaign=rss-feed)
 - [Whose Displacement Counts](https://dev.to/rawveg/whose-displacement-counts-2po6)
 - [AI Agents Did Not Invent a Secret Language: The Problem Is Worse](https://smarterarticles.co.uk/ai-agents-did-not-invent-a-secret-language-the-problem-is-worse?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Borrowed Friend](https://dev.to/rawveg/the-borrowed-friend-43dk)
 - [The Price of Dread Collapsed: How a Cartoon Cat Locked Down Schools](https://smarterarticles.co.uk/the-price-of-dread-collapsed-how-a-cartoon-cat-locked-down-schools?pk_campaign=rss-feed)
 - [AI Slop as a Weapon](https://dev.to/rawveg/ai-slop-as-a-weapon-2bg3)
-- [Dolly Parton and the Tribute Flood: How Fakes Rewrite Memory](https://smarterarticles.co.uk/dolly-parton-and-the-tribute-flood-how-fakes-rewrite-memory?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
