@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Too Average to Be Real: How Generated Faces Skew Police Lineups](https://smarterarticles.co.uk/too-average-to-be-real-how-generated-faces-skew-police-lineups?pk_campaign=rss-feed)
 - [A Number Is Not Evidence](https://dev.to/rawveg/a-number-is-not-evidence-4p3o)
 - [Deepfakes Did Not Steal Your Face: They Stole the Consent Assumption](https://smarterarticles.co.uk/deepfakes-did-not-steal-your-face-they-stole-the-consent-assumption?pk_campaign=rss-feed)
 - [Whose Displacement Counts](https://dev.to/rawveg/whose-displacement-counts-2po6)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Value of Your Absence: Inside the San Francisco Rent Emergency](https://smarterarticles.co.uk/the-value-of-your-absence-inside-the-san-francisco-rent-emergency?pk_campaign=rss-feed)
 - [The Borrowed Friend](https://dev.to/rawveg/the-borrowed-friend-43dk)
 - [The Price of Dread Collapsed: How a Cartoon Cat Locked Down Schools](https://smarterarticles.co.uk/the-price-of-dread-collapsed-how-a-cartoon-cat-locked-down-schools?pk_campaign=rss-feed)
-- [AI Slop as a Weapon](https://dev.to/rawveg/ai-slop-as-a-weapon-2bg3)
 <!-- BLOG-POST-LIST:END -->
