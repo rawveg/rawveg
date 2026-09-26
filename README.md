@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Did Not Take Your Job](https://dev.to/rawveg/ai-did-not-take-your-job-4g8h)
 - [Three Years to Adopt, One Summer to Undo: Banning Student AI](https://smarterarticles.co.uk/three-years-to-adopt-one-summer-to-undo-banning-student-ai?pk_campaign=rss-feed)
 - [Nobody to Blame](https://dev.to/rawveg/nobody-to-blame-3n4n)
 - [Too Average to Be Real: How Generated Faces Skew Police Lineups](https://smarterarticles.co.uk/too-average-to-be-real-how-generated-faces-skew-police-lineups?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Fake Songs, Real Theft](https://dev.to/rawveg/fake-songs-real-theft-12ni)
 - [Dismissed Before Dawn: Who Really Pays for the AI Buildout](https://smarterarticles.co.uk/dismissed-before-dawn-who-really-pays-for-the-ai-buildout?pk_campaign=rss-feed)
 - [Paid to Disappear](https://dev.to/rawveg/paid-to-disappear-21ag)
-- [The Value of Your Absence: Inside the San Francisco Rent Emergency](https://smarterarticles.co.uk/the-value-of-your-absence-inside-the-san-francisco-rent-emergency?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
