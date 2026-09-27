@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Whose Lungs Pay for AI](https://dev.to/rawveg/whose-lungs-pay-for-ai-35l4)
 - [Romance Fraud Targets Gen Z: Why Platforms Should Do the Checking](https://smarterarticles.co.uk/romance-fraud-targets-gen-z-why-platforms-should-do-the-checking?pk_campaign=rss-feed)
 - [AI Did Not Take Your Job](https://dev.to/rawveg/ai-did-not-take-your-job-4g8h)
 - [Three Years to Adopt, One Summer to Undo: Banning Student AI](https://smarterarticles.co.uk/three-years-to-adopt-one-summer-to-undo-banning-student-ai?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When AI Sees Guns Everywhere](https://dev.to/rawveg/when-ai-sees-guns-everywhere-1ko6)
 - [Indian Protests Did Not Stop the Data Centres: They Repriced Them](https://smarterarticles.co.uk/indian-protests-did-not-stop-the-data-centres-they-repriced-them?pk_campaign=rss-feed)
 - [Fake Songs, Real Theft](https://dev.to/rawveg/fake-songs-real-theft-12ni)
-- [Dismissed Before Dawn: Who Really Pays for the AI Buildout](https://smarterarticles.co.uk/dismissed-before-dawn-who-really-pays-for-the-ai-buildout?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
