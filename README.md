@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling the Hidden Labor of Botsitting in AI Workplaces - SmarterArticles S1E24](https://dev.to/rawveg/unveiling-the-hidden-labor-of-botsitting-in-ai-workplaces-smarterarticles-s1e24-12ce)
 - [220 Per Cent More Code: Why Meta Stopped Replacing Staff With AI](https://smarterarticles.co.uk/220-per-cent-more-code-why-meta-stopped-replacing-staff-with-ai?pk_campaign=rss-feed)
 - [The Vanished Hello: What Voice Cloning Costs Trust Between Strangers](https://smarterarticles.co.uk/the-vanished-hello-what-voice-cloning-costs-trust-between-strangers?pk_campaign=rss-feed)
 - [AI Runs on Water](https://dev.to/rawveg/ai-runs-on-water-3d70)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Score You Never See](https://dev.to/rawveg/the-score-you-never-see-336h)
 - [The Fraud Nobody Counts: When Deepfakes Trigger Psychotic Relapse](https://smarterarticles.co.uk/the-fraud-nobody-counts-when-deepfakes-trigger-psychotic-relapse?pk_campaign=rss-feed)
 - [The Right to Your Own Face](https://dev.to/rawveg/the-right-to-your-own-face-2bn5)
-- [Your Face Is Not Yours: The Legal Hole Under Deepfake Law](https://smarterarticles.co.uk/your-face-is-not-yours-the-legal-hole-under-deepfake-law?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
