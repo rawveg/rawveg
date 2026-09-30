@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Fifteen Jobs on Brick Lane: What Data Centres Owe Communities](https://smarterarticles.co.uk/fifteen-jobs-on-brick-lane-what-data-centres-owe-communities?pk_campaign=rss-feed)
 - [The Deskilling Trap](https://dev.to/rawveg/the-deskilling-trap-4bfi)
 - [Unveiling the Hidden Labor of Botsitting in AI Workplaces - SmarterArticles S1E24](https://dev.to/rawveg/unveiling-the-hidden-labor-of-botsitting-in-ai-workplaces-smarterarticles-s1e24-12ce)
 - [220 Per Cent More Code: Why Meta Stopped Replacing Staff With AI](https://smarterarticles.co.uk/220-per-cent-more-code-why-meta-stopped-replacing-staff-with-ai?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Meta Built Face Recognition for Smart Glasses: No Law Protects Bystanders](https://smarterarticles.co.uk/meta-built-face-recognition-for-smart-glasses-no-law-protects-bystanders?pk_campaign=rss-feed)
 - [The Dark Side of AI Companionship: A Cautionary Study - SmarterArticles S1E23](https://dev.to/rawveg/the-dark-side-of-ai-companionship-a-cautionary-study-smarterarticles-s1e23-5hi6)
 - [The Score You Never See](https://dev.to/rawveg/the-score-you-never-see-336h)
-- [The Fraud Nobody Counts: When Deepfakes Trigger Psychotic Relapse](https://smarterarticles.co.uk/the-fraud-nobody-counts-when-deepfakes-trigger-psychotic-relapse?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
