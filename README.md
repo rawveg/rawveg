@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Ten Thousand Tasmanians Said Wait: AI Data Centres Kept Building Anyway](https://smarterarticles.co.uk/ten-thousand-tasmanians-said-wait-ai-data-centres-kept-building-anyway?pk_campaign=rss-feed)
 - [The Stranger at Your Door](https://dev.to/rawveg/the-stranger-at-your-door-4ama)
 - [Fifteen Jobs on Brick Lane: What Data Centres Owe Communities](https://smarterarticles.co.uk/fifteen-jobs-on-brick-lane-what-data-centres-owe-communities?pk_campaign=rss-feed)
 - [The Deskilling Trap](https://dev.to/rawveg/the-deskilling-trap-4bfi)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Agents Did Not Invent a Secret Language: The Problem Is Worse](https://smarterarticles.co.uk/ai-agents-did-not-invent-a-secret-language-the-problem-is-worse?pk_campaign=rss-feed)
 - [Surveillance Pricing](https://dev.to/rawveg/surveillance-pricing-2b4b)
 - [Meta Built Face Recognition for Smart Glasses: No Law Protects Bystanders](https://smarterarticles.co.uk/meta-built-face-recognition-for-smart-glasses-no-law-protects-bystanders?pk_campaign=rss-feed)
-- [The Dark Side of AI Companionship: A Cautionary Study - SmarterArticles S1E23](https://dev.to/rawveg/the-dark-side-of-ai-companionship-a-cautionary-study-smarterarticles-s1e23-5hi6)
 <!-- BLOG-POST-LIST:END -->
