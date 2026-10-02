@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Comfortably Numb by Design](https://dev.to/rawveg/comfortably-numb-by-design-117l)
 - [When Postcode Means Race](https://dev.to/rawveg/when-postcode-means-race-1928)
 - [Ten Thousand Tasmanians Said Wait: AI Data Centres Kept Building Anyway](https://smarterarticles.co.uk/ten-thousand-tasmanians-said-wait-ai-data-centres-kept-building-anyway?pk_campaign=rss-feed)
 - [The Stranger at Your Door](https://dev.to/rawveg/the-stranger-at-your-door-4ama)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Deepfakes Did Not Steal Your Face: They Stole the Consent Assumption](https://smarterarticles.co.uk/deepfakes-did-not-steal-your-face-they-stole-the-consent-assumption?pk_campaign=rss-feed)
 - [Whose Displacement Counts](https://dev.to/rawveg/whose-displacement-counts-2po6)
 - [AI Agents Did Not Invent a Secret Language: The Problem Is Worse](https://smarterarticles.co.uk/ai-agents-did-not-invent-a-secret-language-the-problem-is-worse?pk_campaign=rss-feed)
-- [Surveillance Pricing](https://dev.to/rawveg/surveillance-pricing-2b4b)
 <!-- BLOG-POST-LIST:END -->
