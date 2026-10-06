@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Mental Health Crisis](https://dev.to/rawveg/ai-mental-health-crisis-2bp4)
 - [The Dead Have No Lawyer](https://dev.to/rawveg/the-dead-have-no-lawyer-2492)
 - [When AI Decides Who Survives](https://dev.to/rawveg/when-ai-decides-who-survives-30ip)
 - [Cognitive Stunting](https://dev.to/rawveg/cognitive-stunting-2k14)
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
 - [Romance Fraud Targets Gen Z: Why Platforms Should Do the Checking](https://smarterarticles.co.uk/romance-fraud-targets-gen-z-why-platforms-should-do-the-checking?pk_campaign=rss-feed)
 - [AI Did Not Take Your Job](https://dev.to/rawveg/ai-did-not-take-your-job-4g8h)
 - [Three Years to Adopt, One Summer to Undo: Banning Student AI](https://smarterarticles.co.uk/three-years-to-adopt-one-summer-to-undo-banning-student-ai?pk_campaign=rss-feed)
-- [Nobody to Blame](https://dev.to/rawveg/nobody-to-blame-3n4n)
 - [Too Average to Be Real: How Generated Faces Skew Police Lineups](https://smarterarticles.co.uk/too-average-to-be-real-how-generated-faces-skew-police-lineups?pk_campaign=rss-feed)
 - [Deepfakes Did Not Steal Your Face: They Stole the Consent Assumption](https://smarterarticles.co.uk/deepfakes-did-not-steal-your-face-they-stole-the-consent-assumption?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
