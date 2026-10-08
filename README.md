@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Labels Will Not Stop Housefishing: Renters Need the Original Photograph](https://smarterarticles.co.uk/labels-will-not-stop-housefishing-renters-need-the-original-photograph?pk_campaign=rss-feed)
 - [The Leveller That Multiplies](https://dev.to/rawveg/the-leveller-that-multiplies-3880)
 - [Unveiled by a Prompt: AI Strips Hijabs but Refuses to Remove Dresses](https://smarterarticles.co.uk/unveiled-by-a-prompt-ai-strips-hijabs-but-refuses-to-remove-dresses?pk_campaign=rss-feed)
 - [AI Mental Health Crisis](https://dev.to/rawveg/ai-mental-health-crisis-2bp4)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Whose Lungs Pay for AI](https://dev.to/rawveg/whose-lungs-pay-for-ai-35l4)
 - [Romance Fraud Targets Gen Z: Why Platforms Should Do the Checking](https://smarterarticles.co.uk/romance-fraud-targets-gen-z-why-platforms-should-do-the-checking?pk_campaign=rss-feed)
 - [Three Years to Adopt, One Summer to Undo: Banning Student AI](https://smarterarticles.co.uk/three-years-to-adopt-one-summer-to-undo-banning-student-ai?pk_campaign=rss-feed)
-- [Too Average to Be Real: How Generated Faces Skew Police Lineups](https://smarterarticles.co.uk/too-average-to-be-real-how-generated-faces-skew-police-lineups?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
