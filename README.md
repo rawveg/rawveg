@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Cost of Yes](https://dev.to/rawveg/the-cost-of-yes-390n)
 - [Labels Will Not Stop Housefishing: Renters Need the Original Photograph](https://smarterarticles.co.uk/labels-will-not-stop-housefishing-renters-need-the-original-photograph?pk_campaign=rss-feed)
 - [The Leveller That Multiplies](https://dev.to/rawveg/the-leveller-that-multiplies-3880)
 - [Unveiled by a Prompt: AI Strips Hijabs but Refuses to Remove Dresses](https://smarterarticles.co.uk/unveiled-by-a-prompt-ai-strips-hijabs-but-refuses-to-remove-dresses?pk_campaign=rss-feed)
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
 - [220 Per Cent More Code: Why Meta Stopped Replacing Staff With AI](https://smarterarticles.co.uk/220-per-cent-more-code-why-meta-stopped-replacing-staff-with-ai?pk_campaign=rss-feed)
 - [The Vanished Hello: What Voice Cloning Costs Trust Between Strangers](https://smarterarticles.co.uk/the-vanished-hello-what-voice-cloning-costs-trust-between-strangers?pk_campaign=rss-feed)
 - [AI Runs on Water](https://dev.to/rawveg/ai-runs-on-water-3d70)
-- [Whose Lungs Pay for AI](https://dev.to/rawveg/whose-lungs-pay-for-ai-35l4)
 - [Romance Fraud Targets Gen Z: Why Platforms Should Do the Checking](https://smarterarticles.co.uk/romance-fraud-targets-gen-z-why-platforms-should-do-the-checking?pk_campaign=rss-feed)
 - [Three Years to Adopt, One Summer to Undo: Banning Student AI](https://smarterarticles.co.uk/three-years-to-adopt-one-summer-to-undo-banning-student-ai?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
