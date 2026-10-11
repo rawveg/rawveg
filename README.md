@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Experiment Already Running: OpenAI Pays to Study Teens It Enrolled](https://smarterarticles.co.uk/the-experiment-already-running-openai-pays-to-study-teens-it-enrolled?pk_campaign=rss-feed)
 - [The False Friend at Work](https://dev.to/rawveg/the-false-friend-at-work-1bbd)
 - [The Loneliness Divide: AI Companions Help the Connected, Trap the Isolated](https://smarterarticles.co.uk/the-loneliness-divide-ai-companions-help-the-connected-trap-the-isolated?pk_campaign=rss-feed)
 - [The Three-Second Theft](https://dev.to/rawveg/the-three-second-theft-41j7)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Fifteen Jobs on Brick Lane: What Data Centres Owe Communities](https://smarterarticles.co.uk/fifteen-jobs-on-brick-lane-what-data-centres-owe-communities?pk_campaign=rss-feed)
 - [The Deskilling Trap](https://dev.to/rawveg/the-deskilling-trap-4bfi)
 - [220 Per Cent More Code: Why Meta Stopped Replacing Staff With AI](https://smarterarticles.co.uk/220-per-cent-more-code-why-meta-stopped-replacing-staff-with-ai?pk_campaign=rss-feed)
-- [The Vanished Hello: What Voice Cloning Costs Trust Between Strangers](https://smarterarticles.co.uk/the-vanished-hello-what-voice-cloning-costs-trust-between-strangers?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
