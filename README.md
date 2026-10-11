@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Information Underclass](https://dev.to/rawveg/the-information-underclass-3pkm)
 - [The Experiment Already Running: OpenAI Pays to Study Teens It Enrolled](https://smarterarticles.co.uk/the-experiment-already-running-openai-pays-to-study-teens-it-enrolled?pk_campaign=rss-feed)
 - [The False Friend at Work](https://dev.to/rawveg/the-false-friend-at-work-1bbd)
 - [The Loneliness Divide: AI Companions Help the Connected, Trap the Isolated](https://smarterarticles.co.uk/the-loneliness-divide-ai-companions-help-the-connected-trap-the-isolated?pk_campaign=rss-feed)
@@ -33,6 +34,5 @@ Here are some ideas to get you started:
 - [Ten Thousand Tasmanians Said Wait: AI Data Centres Kept Building Anyway](https://smarterarticles.co.uk/ten-thousand-tasmanians-said-wait-ai-data-centres-kept-building-anyway?pk_campaign=rss-feed)
 - [The Stranger at Your Door](https://dev.to/rawveg/the-stranger-at-your-door-4ama)
 - [Fifteen Jobs on Brick Lane: What Data Centres Owe Communities](https://smarterarticles.co.uk/fifteen-jobs-on-brick-lane-what-data-centres-owe-communities?pk_campaign=rss-feed)
-- [The Deskilling Trap](https://dev.to/rawveg/the-deskilling-trap-4bfi)
 - [220 Per Cent More Code: Why Meta Stopped Replacing Staff With AI](https://smarterarticles.co.uk/220-per-cent-more-code-why-meta-stopped-replacing-staff-with-ai?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
