@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Meta&#39;s Project OT: Lessons from AI Missteps - SmarterArticles S1E25](https://dev.to/rawveg/metas-project-ot-lessons-from-ai-missteps-smarterarticles-s1e25-58j7)
 - [Skin AI and Consent](https://dev.to/rawveg/skin-ai-and-consent-59jh)
 - [Most Americans Fear AI Extinction: So Why Has Nobody Moved?](https://smarterarticles.co.uk/most-americans-fear-ai-extinction-so-why-has-nobody-moved?pk_campaign=rss-feed)
 - [The Information Underclass](https://dev.to/rawveg/the-information-underclass-3pkm)
@@ -32,7 +33,6 @@ Here are some ideas to get you started:
 - [When AI Decides Who Survives](https://dev.to/rawveg/when-ai-decides-who-survives-30ip)
 - [Cognitive Stunting](https://dev.to/rawveg/cognitive-stunting-2k14)
 - [Comfortably Numb by Design](https://dev.to/rawveg/comfortably-numb-by-design-117l)
-- [When Postcode Means Race](https://dev.to/rawveg/when-postcode-means-race-1928)
 - [Ten Thousand Tasmanians Said Wait: AI Data Centres Kept Building Anyway](https://smarterarticles.co.uk/ten-thousand-tasmanians-said-wait-ai-data-centres-kept-building-anyway?pk_campaign=rss-feed)
 - [Fifteen Jobs on Brick Lane: What Data Centres Owe Communities](https://smarterarticles.co.uk/fifteen-jobs-on-brick-lane-what-data-centres-owe-communities?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
