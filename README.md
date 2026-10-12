@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Skin AI and Consent](https://dev.to/rawveg/skin-ai-and-consent-59jh)
 - [Most Americans Fear AI Extinction: So Why Has Nobody Moved?](https://smarterarticles.co.uk/most-americans-fear-ai-extinction-so-why-has-nobody-moved?pk_campaign=rss-feed)
 - [The Information Underclass](https://dev.to/rawveg/the-information-underclass-3pkm)
 - [The Experiment Already Running: OpenAI Pays to Study Teens It Enrolled](https://smarterarticles.co.uk/the-experiment-already-running-openai-pays-to-study-teens-it-enrolled?pk_campaign=rss-feed)
@@ -33,6 +34,5 @@ Here are some ideas to get you started:
 - [Comfortably Numb by Design](https://dev.to/rawveg/comfortably-numb-by-design-117l)
 - [When Postcode Means Race](https://dev.to/rawveg/when-postcode-means-race-1928)
 - [Ten Thousand Tasmanians Said Wait: AI Data Centres Kept Building Anyway](https://smarterarticles.co.uk/ten-thousand-tasmanians-said-wait-ai-data-centres-kept-building-anyway?pk_campaign=rss-feed)
-- [The Stranger at Your Door](https://dev.to/rawveg/the-stranger-at-your-door-4ama)
 - [Fifteen Jobs on Brick Lane: What Data Centres Owe Communities](https://smarterarticles.co.uk/fifteen-jobs-on-brick-lane-what-data-centres-owe-communities?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
