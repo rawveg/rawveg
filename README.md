@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI and the Jobs Never Posted: Why Young Workers Pay First](https://smarterarticles.co.uk/ai-and-the-jobs-never-posted-why-young-workers-pay-first?pk_campaign=rss-feed)
 - [Meta&#39;s Project OT: Lessons from AI Missteps - SmarterArticles S1E25](https://dev.to/rawveg/metas-project-ot-lessons-from-ai-missteps-smarterarticles-s1e25-58j7)
 - [Skin AI and Consent](https://dev.to/rawveg/skin-ai-and-consent-59jh)
 - [Most Americans Fear AI Extinction: So Why Has Nobody Moved?](https://smarterarticles.co.uk/most-americans-fear-ai-extinction-so-why-has-nobody-moved?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Cognitive Stunting](https://dev.to/rawveg/cognitive-stunting-2k14)
 - [Comfortably Numb by Design](https://dev.to/rawveg/comfortably-numb-by-design-117l)
 - [Ten Thousand Tasmanians Said Wait: AI Data Centres Kept Building Anyway](https://smarterarticles.co.uk/ten-thousand-tasmanians-said-wait-ai-data-centres-kept-building-anyway?pk_campaign=rss-feed)
-- [Fifteen Jobs on Brick Lane: What Data Centres Owe Communities](https://smarterarticles.co.uk/fifteen-jobs-on-brick-lane-what-data-centres-owe-communities?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
