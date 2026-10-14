@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Invisible Builders of AI](https://dev.to/rawveg/the-invisible-builders-of-ai-44km)
 - [Digital Natives Are Not Fraud-Proof: How AI Turned Fluency Into Exposure](https://smarterarticles.co.uk/digital-natives-are-not-fraud-proof-how-ai-turned-fluency-into-exposure?pk_campaign=rss-feed)
 - [The Beautiful Lie of AI Images](https://dev.to/rawveg/the-beautiful-lie-of-ai-images-50o9)
 - [AI and the Jobs Never Posted: Why Young Workers Pay First](https://smarterarticles.co.uk/ai-and-the-jobs-never-posted-why-young-workers-pay-first?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Mental Health Crisis](https://dev.to/rawveg/ai-mental-health-crisis-2bp4)
 - [The Dead Have No Lawyer](https://dev.to/rawveg/the-dead-have-no-lawyer-2492)
 - [When AI Decides Who Survives](https://dev.to/rawveg/when-ai-decides-who-survives-30ip)
-- [Cognitive Stunting](https://dev.to/rawveg/cognitive-stunting-2k14)
 <!-- BLOG-POST-LIST:END -->
