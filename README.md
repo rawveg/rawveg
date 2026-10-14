@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Digital Natives Are Not Fraud-Proof: How AI Turned Fluency Into Exposure](https://smarterarticles.co.uk/digital-natives-are-not-fraud-proof-how-ai-turned-fluency-into-exposure?pk_campaign=rss-feed)
 - [The Beautiful Lie of AI Images](https://dev.to/rawveg/the-beautiful-lie-of-ai-images-50o9)
 - [AI and the Jobs Never Posted: Why Young Workers Pay First](https://smarterarticles.co.uk/ai-and-the-jobs-never-posted-why-young-workers-pay-first?pk_campaign=rss-feed)
 - [Meta&#39;s Project OT: Lessons from AI Missteps - SmarterArticles S1E25](https://dev.to/rawveg/metas-project-ot-lessons-from-ai-missteps-smarterarticles-s1e25-58j7)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Dead Have No Lawyer](https://dev.to/rawveg/the-dead-have-no-lawyer-2492)
 - [When AI Decides Who Survives](https://dev.to/rawveg/when-ai-decides-who-survives-30ip)
 - [Cognitive Stunting](https://dev.to/rawveg/cognitive-stunting-2k14)
-- [Ten Thousand Tasmanians Said Wait: AI Data Centres Kept Building Anyway](https://smarterarticles.co.uk/ten-thousand-tasmanians-said-wait-ai-data-centres-kept-building-anyway?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
