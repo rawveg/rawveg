@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Rent Versus Obsolescence](https://dev.to/rawveg/rent-versus-obsolescence-15j5)
 - [Fake Case Law, Real Gag: When a Parole Board Trusted AI](https://smarterarticles.co.uk/fake-case-law-real-gag-when-a-parole-board-trusted-ai?pk_campaign=rss-feed)
 - [The Invisible Builders of AI](https://dev.to/rawveg/the-invisible-builders-of-ai-44km)
 - [Digital Natives Are Not Fraud-Proof: How AI Turned Fluency Into Exposure](https://smarterarticles.co.uk/digital-natives-are-not-fraud-proof-how-ai-turned-fluency-into-exposure?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Leveller That Multiplies](https://dev.to/rawveg/the-leveller-that-multiplies-3880)
 - [Unveiled by a Prompt: AI Strips Hijabs but Refuses to Remove Dresses](https://smarterarticles.co.uk/unveiled-by-a-prompt-ai-strips-hijabs-but-refuses-to-remove-dresses?pk_campaign=rss-feed)
 - [AI Mental Health Crisis](https://dev.to/rawveg/ai-mental-health-crisis-2bp4)
-- [The Dead Have No Lawyer](https://dev.to/rawveg/the-dead-have-no-lawyer-2492)
 <!-- BLOG-POST-LIST:END -->
