@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Facial Recognition and Wrongful Arrest](https://dev.to/rawveg/facial-recognition-and-wrongful-arrest-21ao)
 - [Greta Garbo Asked to Be Let Alone: AI Made Her Sell Bearings](https://smarterarticles.co.uk/greta-garbo-asked-to-be-let-alone-ai-made-her-sell-bearings?pk_campaign=rss-feed)
 - [Rent Versus Obsolescence](https://dev.to/rawveg/rent-versus-obsolescence-15j5)
 - [Fake Case Law, Real Gag: When a Parole Board Trusted AI](https://smarterarticles.co.uk/fake-case-law-real-gag-when-a-parole-board-trusted-ai?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Cost of Yes](https://dev.to/rawveg/the-cost-of-yes-390n)
 - [Labels Will Not Stop Housefishing: Renters Need the Original Photograph](https://smarterarticles.co.uk/labels-will-not-stop-housefishing-renters-need-the-original-photograph?pk_campaign=rss-feed)
 - [The Leveller That Multiplies](https://dev.to/rawveg/the-leveller-that-multiplies-3880)
-- [Unveiled by a Prompt: AI Strips Hijabs but Refuses to Remove Dresses](https://smarterarticles.co.uk/unveiled-by-a-prompt-ai-strips-hijabs-but-refuses-to-remove-dresses?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
