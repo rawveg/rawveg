@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Nobody Checked the Medical AI](https://dev.to/rawveg/nobody-checked-the-medical-ai-34k7)
 - [AI Models and Body Image: Fix the Default, Not the Label](https://smarterarticles.co.uk/ai-models-and-body-image-fix-the-default-not-the-label?pk_campaign=rss-feed)
 - [Facial Recognition and Wrongful Arrest](https://dev.to/rawveg/facial-recognition-and-wrongful-arrest-21ao)
 - [Greta Garbo Asked to Be Let Alone: AI Made Her Sell Bearings](https://smarterarticles.co.uk/greta-garbo-asked-to-be-let-alone-ai-made-her-sell-bearings?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Three-Second Theft](https://dev.to/rawveg/the-three-second-theft-41j7)
 - [AI Drones and Police Warnings: Necessary Imagination or Fearmongering?](https://smarterarticles.co.uk/ai-drones-and-police-warnings-necessary-imagination-or-fearmongering?pk_campaign=rss-feed)
 - [The Cost of Yes](https://dev.to/rawveg/the-cost-of-yes-390n)
-- [Labels Will Not Stop Housefishing: Renters Need the Original Photograph](https://smarterarticles.co.uk/labels-will-not-stop-housefishing-renters-need-the-original-photograph?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
