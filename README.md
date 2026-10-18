@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Better Father](https://dev.to/rawveg/the-better-father-1bgn)
 - [Oracle Layoffs Barely Fund AI: Workers Carry Its Risk Instead](https://smarterarticles.co.uk/oracle-layoffs-barely-fund-ai-workers-carry-its-risk-instead?pk_campaign=rss-feed)
 - [Nobody Checked the Medical AI](https://dev.to/rawveg/nobody-checked-the-medical-ai-34k7)
 - [AI Models and Body Image: Fix the Default, Not the Label](https://smarterarticles.co.uk/ai-models-and-body-image-fix-the-default-not-the-label?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The False Friend at Work](https://dev.to/rawveg/the-false-friend-at-work-1bbd)
 - [The Loneliness Divide: AI Companions Help the Connected, Trap the Isolated](https://smarterarticles.co.uk/the-loneliness-divide-ai-companions-help-the-connected-trap-the-isolated?pk_campaign=rss-feed)
 - [The Three-Second Theft](https://dev.to/rawveg/the-three-second-theft-41j7)
-- [AI Drones and Police Warnings: Necessary Imagination or Fearmongering?](https://smarterarticles.co.uk/ai-drones-and-police-warnings-necessary-imagination-or-fearmongering?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
