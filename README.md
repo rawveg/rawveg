@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [A Chatbot Is Not an Appeal: Fixing Account Bans at Meta](https://smarterarticles.co.uk/a-chatbot-is-not-an-appeal-fixing-account-bans-at-meta?pk_campaign=rss-feed)
 - [The Better Father](https://dev.to/rawveg/the-better-father-1bgn)
 - [Oracle Layoffs Barely Fund AI: Workers Carry Its Risk Instead](https://smarterarticles.co.uk/oracle-layoffs-barely-fund-ai-workers-carry-its-risk-instead?pk_campaign=rss-feed)
 - [Nobody Checked the Medical AI](https://dev.to/rawveg/nobody-checked-the-medical-ai-34k7)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Experiment Already Running: OpenAI Pays to Study Teens It Enrolled](https://smarterarticles.co.uk/the-experiment-already-running-openai-pays-to-study-teens-it-enrolled?pk_campaign=rss-feed)
 - [The False Friend at Work](https://dev.to/rawveg/the-false-friend-at-work-1bbd)
 - [The Loneliness Divide: AI Companions Help the Connected, Trap the Isolated](https://smarterarticles.co.uk/the-loneliness-divide-ai-companions-help-the-connected-trap-the-isolated?pk_campaign=rss-feed)
-- [The Three-Second Theft](https://dev.to/rawveg/the-three-second-theft-41j7)
 <!-- BLOG-POST-LIST:END -->
