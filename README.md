@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Emotion Recognition in Hiring](https://dev.to/rawveg/emotion-recognition-in-hiring-318c)
 - [AI Bias: The Ethics of Editing Religious Attire - SmarterArticles S1E26](https://dev.to/rawveg/ai-bias-the-ethics-of-editing-religious-attire-smarterarticles-s1e26-3po0)
 - [AI Summaries Rewrite Memory: Who Answers When the Recap Is Wrong?](https://smarterarticles.co.uk/ai-summaries-rewrite-memory-who-answers-when-the-recap-is-wrong?pk_campaign=rss-feed)
 - [Pixels Are Easier Than Surgery](https://dev.to/rawveg/pixels-are-easier-than-surgery-31k2)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Meta&#39;s Project OT: Lessons from AI Missteps - SmarterArticles S1E25](https://dev.to/rawveg/metas-project-ot-lessons-from-ai-missteps-smarterarticles-s1e25-58j7)
 - [Skin AI and Consent](https://dev.to/rawveg/skin-ai-and-consent-59jh)
 - [Most Americans Fear AI Extinction: So Why Has Nobody Moved?](https://smarterarticles.co.uk/most-americans-fear-ai-extinction-so-why-has-nobody-moved?pk_campaign=rss-feed)
-- [The Information Underclass](https://dev.to/rawveg/the-information-underclass-3pkm)
 <!-- BLOG-POST-LIST:END -->
