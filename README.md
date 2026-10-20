@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Summaries Rewrite Memory: Who Answers When the Recap Is Wrong?](https://smarterarticles.co.uk/ai-summaries-rewrite-memory-who-answers-when-the-recap-is-wrong?pk_campaign=rss-feed)
 - [Pixels Are Easier Than Surgery](https://dev.to/rawveg/pixels-are-easier-than-surgery-31k2)
 - [A Chatbot Is Not an Appeal: Fixing Account Bans at Meta](https://smarterarticles.co.uk/a-chatbot-is-not-an-appeal-fixing-account-bans-at-meta?pk_campaign=rss-feed)
 - [The Better Father](https://dev.to/rawveg/the-better-father-1bgn)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Most Americans Fear AI Extinction: So Why Has Nobody Moved?](https://smarterarticles.co.uk/most-americans-fear-ai-extinction-so-why-has-nobody-moved?pk_campaign=rss-feed)
 - [The Information Underclass](https://dev.to/rawveg/the-information-underclass-3pkm)
 - [The Experiment Already Running: OpenAI Pays to Study Teens It Enrolled](https://smarterarticles.co.uk/the-experiment-already-running-openai-pays-to-study-teens-it-enrolled?pk_campaign=rss-feed)
-- [The False Friend at Work](https://dev.to/rawveg/the-false-friend-at-work-1bbd)
 <!-- BLOG-POST-LIST:END -->
