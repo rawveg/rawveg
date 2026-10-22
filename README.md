@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Smart Glasses Film Strangers: Can Europe Make Manufacturers Answer for It?](https://smarterarticles.co.uk/smart-glasses-film-strangers-can-europe-make-manufacturers-answer-for-it?pk_campaign=rss-feed)
 - [Opt-Out Is Not Consent](https://dev.to/rawveg/opt-out-is-not-consent-3ejk)
 - [When Help Makes Things Up: AI Accessibility and the Reliability Gap](https://smarterarticles.co.uk/when-help-makes-things-up-ai-accessibility-and-the-reliability-gap?pk_campaign=rss-feed)
 - [Emotion Recognition in Hiring](https://dev.to/rawveg/emotion-recognition-in-hiring-318c)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Digital Natives Are Not Fraud-Proof: How AI Turned Fluency Into Exposure](https://smarterarticles.co.uk/digital-natives-are-not-fraud-proof-how-ai-turned-fluency-into-exposure?pk_campaign=rss-feed)
 - [The Beautiful Lie of AI Images](https://dev.to/rawveg/the-beautiful-lie-of-ai-images-50o9)
 - [AI and the Jobs Never Posted: Why Young Workers Pay First](https://smarterarticles.co.uk/ai-and-the-jobs-never-posted-why-young-workers-pay-first?pk_campaign=rss-feed)
-- [Meta&#39;s Project OT: Lessons from AI Missteps - SmarterArticles S1E25](https://dev.to/rawveg/metas-project-ot-lessons-from-ai-missteps-smarterarticles-s1e25-58j7)
 <!-- BLOG-POST-LIST:END -->
