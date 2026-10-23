@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Stop Detecting Deepfakes](https://dev.to/rawveg/stop-detecting-deepfakes-2o2c)
 - [Anthropic Bans Cruelty to Claude: Who Is the Rule Protecting?](https://smarterarticles.co.uk/anthropic-bans-cruelty-to-claude-who-is-the-rule-protecting?pk_campaign=rss-feed)
 - [Fraud-as-a-Service](https://dev.to/rawveg/fraud-as-a-service-30em)
 - [Smart Glasses Film Strangers: Can Europe Make Manufacturers Answer for It?](https://smarterarticles.co.uk/smart-glasses-film-strangers-can-europe-make-manufacturers-answer-for-it?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Rent Versus Obsolescence](https://dev.to/rawveg/rent-versus-obsolescence-15j5)
 - [Fake Case Law, Real Gag: When a Parole Board Trusted AI](https://smarterarticles.co.uk/fake-case-law-real-gag-when-a-parole-board-trusted-ai?pk_campaign=rss-feed)
 - [The Invisible Builders of AI](https://dev.to/rawveg/the-invisible-builders-of-ai-44km)
-- [Digital Natives Are Not Fraud-Proof: How AI Turned Fluency Into Exposure](https://smarterarticles.co.uk/digital-natives-are-not-fraud-proof-how-ai-turned-fluency-into-exposure?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
