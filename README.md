@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Loudest Voice in the Room: How AI Teammates Quiet Colleagues](https://smarterarticles.co.uk/the-loudest-voice-in-the-room-how-ai-teammates-quiet-colleagues?pk_campaign=rss-feed)
 - [Stop Detecting Deepfakes](https://dev.to/rawveg/stop-detecting-deepfakes-2o2c)
 - [Anthropic Bans Cruelty to Claude: Who Is the Rule Protecting?](https://smarterarticles.co.uk/anthropic-bans-cruelty-to-claude-who-is-the-rule-protecting?pk_campaign=rss-feed)
 - [Fraud-as-a-Service](https://dev.to/rawveg/fraud-as-a-service-30em)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Greta Garbo Asked to Be Let Alone: AI Made Her Sell Bearings](https://smarterarticles.co.uk/greta-garbo-asked-to-be-let-alone-ai-made-her-sell-bearings?pk_campaign=rss-feed)
 - [Rent Versus Obsolescence](https://dev.to/rawveg/rent-versus-obsolescence-15j5)
 - [Fake Case Law, Real Gag: When a Parole Board Trusted AI](https://smarterarticles.co.uk/fake-case-law-real-gag-when-a-parole-board-trusted-ai?pk_campaign=rss-feed)
-- [The Invisible Builders of AI](https://dev.to/rawveg/the-invisible-builders-of-ai-44km)
 <!-- BLOG-POST-LIST:END -->
