@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Rental Chatbots Get It Wrong: Who Pays When Renters Believe Them](https://smarterarticles.co.uk/rental-chatbots-get-it-wrong-who-pays-when-renters-believe-them?pk_campaign=rss-feed)
 - [Machines That Never Push Back](https://dev.to/rawveg/machines-that-never-push-back-1n1g)
 - [The Loudest Voice in the Room: How AI Teammates Quiet Colleagues](https://smarterarticles.co.uk/the-loudest-voice-in-the-room-how-ai-teammates-quiet-colleagues?pk_campaign=rss-feed)
 - [Stop Detecting Deepfakes](https://dev.to/rawveg/stop-detecting-deepfakes-2o2c)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Models and Body Image: Fix the Default, Not the Label](https://smarterarticles.co.uk/ai-models-and-body-image-fix-the-default-not-the-label?pk_campaign=rss-feed)
 - [Facial Recognition and Wrongful Arrest](https://dev.to/rawveg/facial-recognition-and-wrongful-arrest-21ao)
 - [Greta Garbo Asked to Be Let Alone: AI Made Her Sell Bearings](https://smarterarticles.co.uk/greta-garbo-asked-to-be-let-alone-ai-made-her-sell-bearings?pk_campaign=rss-feed)
-- [Rent Versus Obsolescence](https://dev.to/rawveg/rent-versus-obsolescence-15j5)
 <!-- BLOG-POST-LIST:END -->
