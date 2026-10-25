@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Gen Z Knows AI Best and Trusts It Least](https://dev.to/rawveg/gen-z-knows-ai-best-and-trusts-it-least-ijd)
 - [AI Police Reports and Fair Trials: The Draft Nobody Can Cross-Examine](https://smarterarticles.co.uk/ai-police-reports-and-fair-trials-the-draft-nobody-can-cross-examine?pk_campaign=rss-feed)
 - [Rental Chatbots Get It Wrong: Who Pays When Renters Believe Them](https://smarterarticles.co.uk/rental-chatbots-get-it-wrong-who-pays-when-renters-believe-them?pk_campaign=rss-feed)
 - [Machines That Never Push Back](https://dev.to/rawveg/machines-that-never-push-back-1n1g)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Oracle Layoffs Barely Fund AI: Workers Carry Its Risk Instead](https://smarterarticles.co.uk/oracle-layoffs-barely-fund-ai-workers-carry-its-risk-instead?pk_campaign=rss-feed)
 - [Nobody Checked the Medical AI](https://dev.to/rawveg/nobody-checked-the-medical-ai-34k7)
 - [AI Models and Body Image: Fix the Default, Not the Label](https://smarterarticles.co.uk/ai-models-and-body-image-fix-the-default-not-the-label?pk_campaign=rss-feed)
-- [Facial Recognition and Wrongful Arrest](https://dev.to/rawveg/facial-recognition-and-wrongful-arrest-21ao)
 <!-- BLOG-POST-LIST:END -->
