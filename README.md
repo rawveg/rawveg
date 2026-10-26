@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Voluntary Until It Is Not: Facial Recognition at the Dorm Door](https://smarterarticles.co.uk/voluntary-until-it-is-not-facial-recognition-at-the-dorm-door?pk_campaign=rss-feed)
 - [Gen Z Knows AI Best and Trusts It Least](https://dev.to/rawveg/gen-z-knows-ai-best-and-trusts-it-least-ijd)
 - [AI Police Reports and Fair Trials: The Draft Nobody Can Cross-Examine](https://smarterarticles.co.uk/ai-police-reports-and-fair-trials-the-draft-nobody-can-cross-examine?pk_campaign=rss-feed)
 - [Rental Chatbots Get It Wrong: Who Pays When Renters Believe Them](https://smarterarticles.co.uk/rental-chatbots-get-it-wrong-who-pays-when-renters-believe-them?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Better Father](https://dev.to/rawveg/the-better-father-1bgn)
 - [Oracle Layoffs Barely Fund AI: Workers Carry Its Risk Instead](https://smarterarticles.co.uk/oracle-layoffs-barely-fund-ai-workers-carry-its-risk-instead?pk_campaign=rss-feed)
 - [Nobody Checked the Medical AI](https://dev.to/rawveg/nobody-checked-the-medical-ai-34k7)
-- [AI Models and Body Image: Fix the Default, Not the Label](https://smarterarticles.co.uk/ai-models-and-body-image-fix-the-default-not-the-label?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
