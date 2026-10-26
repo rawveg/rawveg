@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Agents Create Their Own Language: A New Era of Communication - SmarterArticles S1E27](https://dev.to/rawveg/ai-agents-create-their-own-language-a-new-era-of-communication-smarterarticles-s1e27-53if)
 - [Scraped Without Asking](https://dev.to/rawveg/scraped-without-asking-1bf7)
 - [Voluntary Until It Is Not: Facial Recognition at the Dorm Door](https://smarterarticles.co.uk/voluntary-until-it-is-not-facial-recognition-at-the-dorm-door?pk_campaign=rss-feed)
 - [Gen Z Knows AI Best and Trusts It Least](https://dev.to/rawveg/gen-z-knows-ai-best-and-trusts-it-least-ijd)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Pixels Are Easier Than Surgery](https://dev.to/rawveg/pixels-are-easier-than-surgery-31k2)
 - [A Chatbot Is Not an Appeal: Fixing Account Bans at Meta](https://smarterarticles.co.uk/a-chatbot-is-not-an-appeal-fixing-account-bans-at-meta?pk_campaign=rss-feed)
 - [The Better Father](https://dev.to/rawveg/the-better-father-1bgn)
-- [Oracle Layoffs Barely Fund AI: Workers Carry Its Risk Instead](https://smarterarticles.co.uk/oracle-layoffs-barely-fund-ai-workers-carry-its-risk-instead?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
