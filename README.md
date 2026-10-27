@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The AI Fraud Factory: Why Spotting Deepfakes Will Not Save You](https://smarterarticles.co.uk/the-ai-fraud-factory-why-spotting-deepfakes-will-not-save-you?pk_campaign=rss-feed)
 - [AI Agents Create Their Own Language: A New Era of Communication - SmarterArticles S1E27](https://dev.to/rawveg/ai-agents-create-their-own-language-a-new-era-of-communication-smarterarticles-s1e27-53if)
 - [Scraped Without Asking](https://dev.to/rawveg/scraped-without-asking-1bf7)
 - [Voluntary Until It Is Not: Facial Recognition at the Dorm Door](https://smarterarticles.co.uk/voluntary-until-it-is-not-facial-recognition-at-the-dorm-door?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Summaries Rewrite Memory: Who Answers When the Recap Is Wrong?](https://smarterarticles.co.uk/ai-summaries-rewrite-memory-who-answers-when-the-recap-is-wrong?pk_campaign=rss-feed)
 - [Pixels Are Easier Than Surgery](https://dev.to/rawveg/pixels-are-easier-than-surgery-31k2)
 - [A Chatbot Is Not an Appeal: Fixing Account Bans at Meta](https://smarterarticles.co.uk/a-chatbot-is-not-an-appeal-fixing-account-bans-at-meta?pk_campaign=rss-feed)
-- [The Better Father](https://dev.to/rawveg/the-better-father-1bgn)
 <!-- BLOG-POST-LIST:END -->
