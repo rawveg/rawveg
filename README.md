@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Cut Apart for AI Training: Millions of Books and No Record Kept](https://smarterarticles.co.uk/cut-apart-for-ai-training-millions-of-books-and-no-record-kept?pk_campaign=rss-feed)
 - [AI &amp; The Permanent Hum](https://dev.to/rawveg/ai-the-permanent-hum-p4e)
 - [The AI Fraud Factory: Why Spotting Deepfakes Will Not Save You](https://smarterarticles.co.uk/the-ai-fraud-factory-why-spotting-deepfakes-will-not-save-you?pk_campaign=rss-feed)
 - [AI Agents Create Their Own Language: A New Era of Communication - SmarterArticles S1E27](https://dev.to/rawveg/ai-agents-create-their-own-language-a-new-era-of-communication-smarterarticles-s1e27-53if)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Emotion Recognition in Hiring](https://dev.to/rawveg/emotion-recognition-in-hiring-318c)
 - [AI Bias: The Ethics of Editing Religious Attire - SmarterArticles S1E26](https://dev.to/rawveg/ai-bias-the-ethics-of-editing-religious-attire-smarterarticles-s1e26-3po0)
 - [AI Summaries Rewrite Memory: Who Answers When the Recap Is Wrong?](https://smarterarticles.co.uk/ai-summaries-rewrite-memory-who-answers-when-the-recap-is-wrong?pk_campaign=rss-feed)
-- [Pixels Are Easier Than Surgery](https://dev.to/rawveg/pixels-are-easier-than-surgery-31k2)
 <!-- BLOG-POST-LIST:END -->
