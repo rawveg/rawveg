@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Candidates Do Not Hate AI Interviews](https://dev.to/rawveg/candidates-do-not-hate-ai-interviews-22p3)
 - [Slot Machines in the Classroom: Who Must Prove Learning Apps Teach?](https://smarterarticles.co.uk/slot-machines-in-the-classroom-who-must-prove-learning-apps-teach?pk_campaign=rss-feed)
 - [The Deleted Face](https://dev.to/rawveg/the-deleted-face-31c8)
 - [Cut Apart for AI Training: Millions of Books and No Record Kept](https://smarterarticles.co.uk/cut-apart-for-ai-training-millions-of-books-and-no-record-kept?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Smart Glasses Film Strangers: Can Europe Make Manufacturers Answer for It?](https://smarterarticles.co.uk/smart-glasses-film-strangers-can-europe-make-manufacturers-answer-for-it?pk_campaign=rss-feed)
 - [Opt-Out Is Not Consent](https://dev.to/rawveg/opt-out-is-not-consent-3ejk)
 - [When Help Makes Things Up: AI Accessibility and the Reliability Gap](https://smarterarticles.co.uk/when-help-makes-things-up-ai-accessibility-and-the-reliability-gap?pk_campaign=rss-feed)
-- [Emotion Recognition in Hiring](https://dev.to/rawveg/emotion-recognition-in-hiring-318c)
 <!-- BLOG-POST-LIST:END -->
