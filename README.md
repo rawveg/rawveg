@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Slot Machines in the Classroom: Who Must Prove Learning Apps Teach?](https://smarterarticles.co.uk/slot-machines-in-the-classroom-who-must-prove-learning-apps-teach?pk_campaign=rss-feed)
 - [The Deleted Face](https://dev.to/rawveg/the-deleted-face-31c8)
 - [Cut Apart for AI Training: Millions of Books and No Record Kept](https://smarterarticles.co.uk/cut-apart-for-ai-training-millions-of-books-and-no-record-kept?pk_campaign=rss-feed)
 - [AI &amp; The Permanent Hum](https://dev.to/rawveg/ai-the-permanent-hum-p4e)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Opt-Out Is Not Consent](https://dev.to/rawveg/opt-out-is-not-consent-3ejk)
 - [When Help Makes Things Up: AI Accessibility and the Reliability Gap](https://smarterarticles.co.uk/when-help-makes-things-up-ai-accessibility-and-the-reliability-gap?pk_campaign=rss-feed)
 - [Emotion Recognition in Hiring](https://dev.to/rawveg/emotion-recognition-in-hiring-318c)
-- [AI Bias: The Ethics of Editing Religious Attire - SmarterArticles S1E26](https://dev.to/rawveg/ai-bias-the-ethics-of-editing-religious-attire-smarterarticles-s1e26-3po0)
 <!-- BLOG-POST-LIST:END -->
