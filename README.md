@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Automating the Joy Out of Work: Why Workers Need a Binding Say](https://smarterarticles.co.uk/automating-the-joy-out-of-work-why-workers-need-a-binding-say?pk_campaign=rss-feed)
 - [Candidates Do Not Hate AI Interviews](https://dev.to/rawveg/candidates-do-not-hate-ai-interviews-22p3)
 - [Slot Machines in the Classroom: Who Must Prove Learning Apps Teach?](https://smarterarticles.co.uk/slot-machines-in-the-classroom-who-must-prove-learning-apps-teach?pk_campaign=rss-feed)
 - [The Deleted Face](https://dev.to/rawveg/the-deleted-face-31c8)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Fraud-as-a-Service](https://dev.to/rawveg/fraud-as-a-service-30em)
 - [Smart Glasses Film Strangers: Can Europe Make Manufacturers Answer for It?](https://smarterarticles.co.uk/smart-glasses-film-strangers-can-europe-make-manufacturers-answer-for-it?pk_campaign=rss-feed)
 - [Opt-Out Is Not Consent](https://dev.to/rawveg/opt-out-is-not-consent-3ejk)
-- [When Help Makes Things Up: AI Accessibility and the Reliability Gap](https://smarterarticles.co.uk/when-help-makes-things-up-ai-accessibility-and-the-reliability-gap?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
