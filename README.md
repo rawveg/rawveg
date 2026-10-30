@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [When the FBI Cannot Prove It Is the FBI](https://dev.to/rawveg/when-the-fbi-cannot-prove-it-is-the-fbi-4b93)
 - [Automating the Joy Out of Work: Why Workers Need a Binding Say](https://smarterarticles.co.uk/automating-the-joy-out-of-work-why-workers-need-a-binding-say?pk_campaign=rss-feed)
 - [Candidates Do Not Hate AI Interviews](https://dev.to/rawveg/candidates-do-not-hate-ai-interviews-22p3)
 - [Slot Machines in the Classroom: Who Must Prove Learning Apps Teach?](https://smarterarticles.co.uk/slot-machines-in-the-classroom-who-must-prove-learning-apps-teach?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Anthropic Bans Cruelty to Claude: Who Is the Rule Protecting?](https://smarterarticles.co.uk/anthropic-bans-cruelty-to-claude-who-is-the-rule-protecting?pk_campaign=rss-feed)
 - [Fraud-as-a-Service](https://dev.to/rawveg/fraud-as-a-service-30em)
 - [Smart Glasses Film Strangers: Can Europe Make Manufacturers Answer for It?](https://smarterarticles.co.uk/smart-glasses-film-strangers-can-europe-make-manufacturers-answer-for-it?pk_campaign=rss-feed)
-- [Opt-Out Is Not Consent](https://dev.to/rawveg/opt-out-is-not-consent-3ejk)
 <!-- BLOG-POST-LIST:END -->
