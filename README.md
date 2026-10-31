@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Four Million Dollars a Day](https://dev.to/rawveg/four-million-dollars-a-day-2o7m)
 - [AI-Rich, Experience-Poor: The Apprentice Without a Mentor](https://smarterarticles.co.uk/ai-rich-experience-poor-the-apprentice-without-a-mentor?pk_campaign=rss-feed)
 - [When the FBI Cannot Prove It Is the FBI](https://dev.to/rawveg/when-the-fbi-cannot-prove-it-is-the-fbi-4b93)
 - [Automating the Joy Out of Work: Why Workers Need a Binding Say](https://smarterarticles.co.uk/automating-the-joy-out-of-work-why-workers-need-a-binding-say?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Loudest Voice in the Room: How AI Teammates Quiet Colleagues](https://smarterarticles.co.uk/the-loudest-voice-in-the-room-how-ai-teammates-quiet-colleagues?pk_campaign=rss-feed)
 - [Stop Detecting Deepfakes](https://dev.to/rawveg/stop-detecting-deepfakes-2o2c)
 - [Anthropic Bans Cruelty to Claude: Who Is the Rule Protecting?](https://smarterarticles.co.uk/anthropic-bans-cruelty-to-claude-who-is-the-rule-protecting?pk_campaign=rss-feed)
-- [Fraud-as-a-Service](https://dev.to/rawveg/fraud-as-a-service-30em)
 <!-- BLOG-POST-LIST:END -->
