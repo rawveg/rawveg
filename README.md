@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI-Rich, Experience-Poor: The Apprentice Without a Mentor](https://smarterarticles.co.uk/ai-rich-experience-poor-the-apprentice-without-a-mentor?pk_campaign=rss-feed)
 - [When the FBI Cannot Prove It Is the FBI](https://dev.to/rawveg/when-the-fbi-cannot-prove-it-is-the-fbi-4b93)
 - [Automating the Joy Out of Work: Why Workers Need a Binding Say](https://smarterarticles.co.uk/automating-the-joy-out-of-work-why-workers-need-a-binding-say?pk_campaign=rss-feed)
 - [Candidates Do Not Hate AI Interviews](https://dev.to/rawveg/candidates-do-not-hate-ai-interviews-22p3)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Stop Detecting Deepfakes](https://dev.to/rawveg/stop-detecting-deepfakes-2o2c)
 - [Anthropic Bans Cruelty to Claude: Who Is the Rule Protecting?](https://smarterarticles.co.uk/anthropic-bans-cruelty-to-claude-who-is-the-rule-protecting?pk_campaign=rss-feed)
 - [Fraud-as-a-Service](https://dev.to/rawveg/fraud-as-a-service-30em)
-- [Smart Glasses Film Strangers: Can Europe Make Manufacturers Answer for It?](https://smarterarticles.co.uk/smart-glasses-film-strangers-can-europe-make-manufacturers-answer-for-it?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
