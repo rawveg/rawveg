@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Speed Without Stability](https://dev.to/rawveg/speed-without-stability-34f1)
 - [Mum or the Machine: Children Now Ask AI About People](https://smarterarticles.co.uk/mum-or-the-machine-children-now-ask-ai-about-people?pk_campaign=rss-feed)
 - [Four Million Dollars a Day](https://dev.to/rawveg/four-million-dollars-a-day-2o7m)
 - [AI-Rich, Experience-Poor: The Apprentice Without a Mentor](https://smarterarticles.co.uk/ai-rich-experience-poor-the-apprentice-without-a-mentor?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Rental Chatbots Get It Wrong: Who Pays When Renters Believe Them](https://smarterarticles.co.uk/rental-chatbots-get-it-wrong-who-pays-when-renters-believe-them?pk_campaign=rss-feed)
 - [Machines That Never Push Back](https://dev.to/rawveg/machines-that-never-push-back-1n1g)
 - [The Loudest Voice in the Room: How AI Teammates Quiet Colleagues](https://smarterarticles.co.uk/the-loudest-voice-in-the-room-how-ai-teammates-quiet-colleagues?pk_campaign=rss-feed)
-- [Stop Detecting Deepfakes](https://dev.to/rawveg/stop-detecting-deepfakes-2o2c)
 <!-- BLOG-POST-LIST:END -->
