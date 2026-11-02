@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Hiring by Vibes](https://dev.to/rawveg/hiring-by-vibes-1h4e)
 - [A Million Crisis Chats Weekly: AI Becomes a Public Health Issue](https://smarterarticles.co.uk/a-million-crisis-chats-weekly-ai-becomes-a-public-health-issue?pk_campaign=rss-feed)
 - [Speed Without Stability](https://dev.to/rawveg/speed-without-stability-34f1)
 - [Mum or the Machine: Children Now Ask AI About People](https://smarterarticles.co.uk/mum-or-the-machine-children-now-ask-ai-about-people?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Gen Z Knows AI Best and Trusts It Least](https://dev.to/rawveg/gen-z-knows-ai-best-and-trusts-it-least-ijd)
 - [AI Police Reports and Fair Trials: The Draft Nobody Can Cross-Examine](https://smarterarticles.co.uk/ai-police-reports-and-fair-trials-the-draft-nobody-can-cross-examine?pk_campaign=rss-feed)
 - [Rental Chatbots Get It Wrong: Who Pays When Renters Believe Them](https://smarterarticles.co.uk/rental-chatbots-get-it-wrong-who-pays-when-renters-believe-them?pk_campaign=rss-feed)
-- [Machines That Never Push Back](https://dev.to/rawveg/machines-that-never-push-back-1n1g)
 <!-- BLOG-POST-LIST:END -->
