@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Comfortable Exit: How AI Summaries Let Us Quietly Leave the News](https://smarterarticles.co.uk/the-comfortable-exit-how-ai-summaries-let-us-quietly-leave-the-news?pk_campaign=rss-feed)
 - [Oracle&#39;s AI Shift: Who Really Pays the Price? - SmarterArticles S1E28](https://dev.to/rawveg/oracles-ai-shift-who-really-pays-the-price-smarterarticles-s1e28-5hjh)
 - [Hiring by Vibes](https://dev.to/rawveg/hiring-by-vibes-1h4e)
 - [A Million Crisis Chats Weekly: AI Becomes a Public Health Issue](https://smarterarticles.co.uk/a-million-crisis-chats-weekly-ai-becomes-a-public-health-issue?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Scraped Without Asking](https://dev.to/rawveg/scraped-without-asking-1bf7)
 - [Voluntary Until It Is Not: Facial Recognition at the Dorm Door](https://smarterarticles.co.uk/voluntary-until-it-is-not-facial-recognition-at-the-dorm-door?pk_campaign=rss-feed)
 - [Gen Z Knows AI Best and Trusts It Least](https://dev.to/rawveg/gen-z-knows-ai-best-and-trusts-it-least-ijd)
-- [AI Police Reports and Fair Trials: The Draft Nobody Can Cross-Examine](https://smarterarticles.co.uk/ai-police-reports-and-fair-trials-the-draft-nobody-can-cross-examine?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
