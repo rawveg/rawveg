@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The AI Was the Conservative Part](https://dev.to/rawveg/the-ai-was-the-conservative-part-2mfh)
 - [The Comfortable Exit: How AI Summaries Let Us Quietly Leave the News](https://smarterarticles.co.uk/the-comfortable-exit-how-ai-summaries-let-us-quietly-leave-the-news?pk_campaign=rss-feed)
 - [Oracle&#39;s AI Shift: Who Really Pays the Price? - SmarterArticles S1E28](https://dev.to/rawveg/oracles-ai-shift-who-really-pays-the-price-smarterarticles-s1e28-5hjh)
 - [Hiring by Vibes](https://dev.to/rawveg/hiring-by-vibes-1h4e)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Agents Create Their Own Language: A New Era of Communication - SmarterArticles S1E27](https://dev.to/rawveg/ai-agents-create-their-own-language-a-new-era-of-communication-smarterarticles-s1e27-53if)
 - [Scraped Without Asking](https://dev.to/rawveg/scraped-without-asking-1bf7)
 - [Voluntary Until It Is Not: Facial Recognition at the Dorm Door](https://smarterarticles.co.uk/voluntary-until-it-is-not-facial-recognition-at-the-dorm-door?pk_campaign=rss-feed)
-- [Gen Z Knows AI Best and Trusts It Least](https://dev.to/rawveg/gen-z-knows-ai-best-and-trusts-it-least-ijd)
 <!-- BLOG-POST-LIST:END -->
