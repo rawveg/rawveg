@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Suspicion Engine: How Flock Cameras Decide Who Police Should Watch](https://smarterarticles.co.uk/the-suspicion-engine-how-flock-cameras-decide-who-police-should-watch?pk_campaign=rss-feed)
 - [Handed the Pen, Students Chose Restrictions](https://dev.to/rawveg/handed-the-pen-students-chose-restrictions-2ege)
 - [Your Face on File: How Smart Doorbells Name the Strangers Passing By](https://smarterarticles.co.uk/your-face-on-file-how-smart-doorbells-name-the-strangers-passing-by?pk_campaign=rss-feed)
 - [The AI Was the Conservative Part](https://dev.to/rawveg/the-ai-was-the-conservative-part-2mfh)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Cut Apart for AI Training: Millions of Books and No Record Kept](https://smarterarticles.co.uk/cut-apart-for-ai-training-millions-of-books-and-no-record-kept?pk_campaign=rss-feed)
 - [AI &amp; The Permanent Hum](https://dev.to/rawveg/ai-the-permanent-hum-p4e)
 - [The AI Fraud Factory: Why Spotting Deepfakes Will Not Save You](https://smarterarticles.co.uk/the-ai-fraud-factory-why-spotting-deepfakes-will-not-save-you?pk_campaign=rss-feed)
-- [AI Agents Create Their Own Language: A New Era of Communication - SmarterArticles S1E27](https://dev.to/rawveg/ai-agents-create-their-own-language-a-new-era-of-communication-smarterarticles-s1e27-53if)
 <!-- BLOG-POST-LIST:END -->
