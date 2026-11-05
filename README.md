@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Baby Monitors and Consent](https://dev.to/rawveg/ai-baby-monitors-and-consent-3665)
 - [The Suspicion Engine: How Flock Cameras Decide Who Police Should Watch](https://smarterarticles.co.uk/the-suspicion-engine-how-flock-cameras-decide-who-police-should-watch?pk_campaign=rss-feed)
 - [Handed the Pen, Students Chose Restrictions](https://dev.to/rawveg/handed-the-pen-students-chose-restrictions-2ege)
 - [Your Face on File: How Smart Doorbells Name the Strangers Passing By](https://smarterarticles.co.uk/your-face-on-file-how-smart-doorbells-name-the-strangers-passing-by?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Deleted Face](https://dev.to/rawveg/the-deleted-face-31c8)
 - [Cut Apart for AI Training: Millions of Books and No Record Kept](https://smarterarticles.co.uk/cut-apart-for-ai-training-millions-of-books-and-no-record-kept?pk_campaign=rss-feed)
 - [AI &amp; The Permanent Hum](https://dev.to/rawveg/ai-the-permanent-hum-p4e)
-- [The AI Fraud Factory: Why Spotting Deepfakes Will Not Save You](https://smarterarticles.co.uk/the-ai-fraud-factory-why-spotting-deepfakes-will-not-save-you?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
