@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Removed by a Forecast](https://dev.to/rawveg/removed-by-a-forecast-15fe)
 - [The Hollow Explanation: How AI Rejections Satisfy the Law but Not You](https://smarterarticles.co.uk/the-hollow-explanation-how-ai-rejections-satisfy-the-law-but-not-you?pk_campaign=rss-feed)
 - [AI Baby Monitors and Consent](https://dev.to/rawveg/ai-baby-monitors-and-consent-3665)
 - [The Suspicion Engine: How Flock Cameras Decide Who Police Should Watch](https://smarterarticles.co.uk/the-suspicion-engine-how-flock-cameras-decide-who-police-should-watch?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Candidates Do Not Hate AI Interviews](https://dev.to/rawveg/candidates-do-not-hate-ai-interviews-22p3)
 - [Slot Machines in the Classroom: Who Must Prove Learning Apps Teach?](https://smarterarticles.co.uk/slot-machines-in-the-classroom-who-must-prove-learning-apps-teach?pk_campaign=rss-feed)
 - [The Deleted Face](https://dev.to/rawveg/the-deleted-face-31c8)
-- [Cut Apart for AI Training: Millions of Books and No Record Kept](https://smarterarticles.co.uk/cut-apart-for-ai-training-millions-of-books-and-no-record-kept?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
