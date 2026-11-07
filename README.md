@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Third Listener: How AI Scribes Decide What Your Doctor Records](https://smarterarticles.co.uk/the-third-listener-how-ai-scribes-decide-what-your-doctor-records?pk_campaign=rss-feed)
 - [Removed by a Forecast](https://dev.to/rawveg/removed-by-a-forecast-15fe)
 - [The Hollow Explanation: How AI Rejections Satisfy the Law but Not You](https://smarterarticles.co.uk/the-hollow-explanation-how-ai-rejections-satisfy-the-law-but-not-you?pk_campaign=rss-feed)
 - [AI Baby Monitors and Consent](https://dev.to/rawveg/ai-baby-monitors-and-consent-3665)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Automating the Joy Out of Work: Why Workers Need a Binding Say](https://smarterarticles.co.uk/automating-the-joy-out-of-work-why-workers-need-a-binding-say?pk_campaign=rss-feed)
 - [Candidates Do Not Hate AI Interviews](https://dev.to/rawveg/candidates-do-not-hate-ai-interviews-22p3)
 - [Slot Machines in the Classroom: Who Must Prove Learning Apps Teach?](https://smarterarticles.co.uk/slot-machines-in-the-classroom-who-must-prove-learning-apps-teach?pk_campaign=rss-feed)
-- [The Deleted Face](https://dev.to/rawveg/the-deleted-face-31c8)
 <!-- BLOG-POST-LIST:END -->
