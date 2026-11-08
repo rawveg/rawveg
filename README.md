@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Price You Alone Pay](https://dev.to/rawveg/the-price-you-alone-pay-3l2i)
 - [When AI Should Not Explain Itself: Designing for Calibrated Trust](https://smarterarticles.co.uk/when-ai-should-not-explain-itself-designing-for-calibrated-trust?pk_campaign=rss-feed)
 - [Who Decides Where Data Centres Go](https://dev.to/rawveg/who-decides-where-data-centres-go-10m4)
 - [The Third Listener: How AI Scribes Decide What Your Doctor Records](https://smarterarticles.co.uk/the-third-listener-how-ai-scribes-decide-what-your-doctor-records?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Four Million Dollars a Day](https://dev.to/rawveg/four-million-dollars-a-day-2o7m)
 - [AI-Rich, Experience-Poor: The Apprentice Without a Mentor](https://smarterarticles.co.uk/ai-rich-experience-poor-the-apprentice-without-a-mentor?pk_campaign=rss-feed)
 - [When the FBI Cannot Prove It Is the FBI](https://dev.to/rawveg/when-the-fbi-cannot-prove-it-is-the-fbi-4b93)
-- [Automating the Joy Out of Work: Why Workers Need a Binding Say](https://smarterarticles.co.uk/automating-the-joy-out-of-work-why-workers-need-a-binding-say?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
