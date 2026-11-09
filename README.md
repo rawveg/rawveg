@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI and the Graduate Premium: Knowledge Gets Cheaper, Judgement Gets Dearer](https://smarterarticles.co.uk/ai-and-the-graduate-premium-knowledge-gets-cheaper-judgement-gets-dearer?pk_campaign=rss-feed)
 - [The Price You Alone Pay](https://dev.to/rawveg/the-price-you-alone-pay-3l2i)
 - [When AI Should Not Explain Itself: Designing for Calibrated Trust](https://smarterarticles.co.uk/when-ai-should-not-explain-itself-designing-for-calibrated-trust?pk_campaign=rss-feed)
 - [Who Decides Where Data Centres Go](https://dev.to/rawveg/who-decides-where-data-centres-go-10m4)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Mum or the Machine: Children Now Ask AI About People](https://smarterarticles.co.uk/mum-or-the-machine-children-now-ask-ai-about-people?pk_campaign=rss-feed)
 - [Four Million Dollars a Day](https://dev.to/rawveg/four-million-dollars-a-day-2o7m)
 - [AI-Rich, Experience-Poor: The Apprentice Without a Mentor](https://smarterarticles.co.uk/ai-rich-experience-poor-the-apprentice-without-a-mentor?pk_campaign=rss-feed)
-- [When the FBI Cannot Prove It Is the FBI](https://dev.to/rawveg/when-the-fbi-cannot-prove-it-is-the-fbi-4b93)
 <!-- BLOG-POST-LIST:END -->
