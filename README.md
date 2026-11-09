@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Companions: Bridging or Widening Social Inequality? - SmarterArticles S1E29](https://dev.to/rawveg/ai-companions-bridging-or-widening-social-inequality-smarterarticles-s1e29-199i)
 - [The Age Check Backfire](https://dev.to/rawveg/the-age-check-backfire-431b)
 - [AI and the Graduate Premium: Knowledge Gets Cheaper, Judgement Gets Dearer](https://smarterarticles.co.uk/ai-and-the-graduate-premium-knowledge-gets-cheaper-judgement-gets-dearer?pk_campaign=rss-feed)
 - [The Price You Alone Pay](https://dev.to/rawveg/the-price-you-alone-pay-3l2i)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [A Million Crisis Chats Weekly: AI Becomes a Public Health Issue](https://smarterarticles.co.uk/a-million-crisis-chats-weekly-ai-becomes-a-public-health-issue?pk_campaign=rss-feed)
 - [Speed Without Stability](https://dev.to/rawveg/speed-without-stability-34f1)
 - [Mum or the Machine: Children Now Ask AI About People](https://smarterarticles.co.uk/mum-or-the-machine-children-now-ask-ai-about-people?pk_campaign=rss-feed)
-- [Four Million Dollars a Day](https://dev.to/rawveg/four-million-dollars-a-day-2o7m)
 <!-- BLOG-POST-LIST:END -->
