@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your Coding Agent Thinks It Has Finished. Make It Prove It.](https://dev.to/rawveg/your-coding-agent-thinks-it-has-finished-make-it-prove-it-2bg)
 - [When Nobody Asks the Basic Question: Where Future Experts Come From](https://smarterarticles.co.uk/when-nobody-asks-the-basic-question-where-future-experts-come-from?pk_campaign=rss-feed)
 - [AI Companions: Bridging or Widening Social Inequality? - SmarterArticles S1E29](https://dev.to/rawveg/ai-companions-bridging-or-widening-social-inequality-smarterarticles-s1e29-199i)
 - [The Age Check Backfire](https://dev.to/rawveg/the-age-check-backfire-431b)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Oracle&#39;s AI Shift: Who Really Pays the Price? - SmarterArticles S1E28](https://dev.to/rawveg/oracles-ai-shift-who-really-pays-the-price-smarterarticles-s1e28-5hjh)
 - [Hiring by Vibes](https://dev.to/rawveg/hiring-by-vibes-1h4e)
 - [A Million Crisis Chats Weekly: AI Becomes a Public Health Issue](https://smarterarticles.co.uk/a-million-crisis-chats-weekly-ai-becomes-a-public-health-issue?pk_campaign=rss-feed)
-- [Speed Without Stability](https://dev.to/rawveg/speed-without-stability-34f1)
 <!-- BLOG-POST-LIST:END -->
