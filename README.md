@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Dead Did Not Say That: AI Griefbots and Memory](https://smarterarticles.co.uk/the-dead-did-not-say-that-ai-griefbots-and-memory?pk_campaign=rss-feed)
 - [Fifty-Seven Million Cases](https://dev.to/rawveg/fifty-seven-million-cases-3g6g)
 - [What a Basic Income Cannot Buy: Work, Meaning and the AI Shock](https://smarterarticles.co.uk/what-a-basic-income-cannot-buy-work-meaning-and-the-ai-shock?pk_campaign=rss-feed)
 - [Grief for Sale](https://dev.to/rawveg/grief-for-sale-31k6)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Handed the Pen, Students Chose Restrictions](https://dev.to/rawveg/handed-the-pen-students-chose-restrictions-2ege)
 - [Your Face on File: How Smart Doorbells Name the Strangers Passing By](https://smarterarticles.co.uk/your-face-on-file-how-smart-doorbells-name-the-strangers-passing-by?pk_campaign=rss-feed)
 - [The AI Was the Conservative Part](https://dev.to/rawveg/the-ai-was-the-conservative-part-2mfh)
-- [The Comfortable Exit: How AI Summaries Let Us Quietly Leave the News](https://smarterarticles.co.uk/the-comfortable-exit-how-ai-summaries-let-us-quietly-leave-the-news?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
