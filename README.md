@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Moral Crumple Zone: Why Workers Absorb Blame for AI Agents](https://smarterarticles.co.uk/the-moral-crumple-zone-why-workers-absorb-blame-for-ai-agents?pk_campaign=rss-feed)
 - [AI &amp; The Harvested Field](https://dev.to/rawveg/ai-the-harvested-field-4jhk)
 - [The Dead Did Not Say That: AI Griefbots and Memory](https://smarterarticles.co.uk/the-dead-did-not-say-that-ai-griefbots-and-memory?pk_campaign=rss-feed)
 - [Fifty-Seven Million Cases](https://dev.to/rawveg/fifty-seven-million-cases-3g6g)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Baby Monitors and Consent](https://dev.to/rawveg/ai-baby-monitors-and-consent-3665)
 - [The Suspicion Engine: How Flock Cameras Decide Who Police Should Watch](https://smarterarticles.co.uk/the-suspicion-engine-how-flock-cameras-decide-who-police-should-watch?pk_campaign=rss-feed)
 - [Handed the Pen, Students Chose Restrictions](https://dev.to/rawveg/handed-the-pen-students-chose-restrictions-2ege)
-- [Your Face on File: How Smart Doorbells Name the Strangers Passing By](https://smarterarticles.co.uk/your-face-on-file-how-smart-doorbells-name-the-strangers-passing-by?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
