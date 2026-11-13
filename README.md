@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your Face Was the Ticket](https://dev.to/rawveg/your-face-was-the-ticket-2o92)
 - [The Moral Crumple Zone: Why Workers Absorb Blame for AI Agents](https://smarterarticles.co.uk/the-moral-crumple-zone-why-workers-absorb-blame-for-ai-agents?pk_campaign=rss-feed)
 - [AI &amp; The Harvested Field](https://dev.to/rawveg/ai-the-harvested-field-4jhk)
 - [The Dead Did Not Say That: AI Griefbots and Memory](https://smarterarticles.co.uk/the-dead-did-not-say-that-ai-griefbots-and-memory?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Hollow Explanation: How AI Rejections Satisfy the Law but Not You](https://smarterarticles.co.uk/the-hollow-explanation-how-ai-rejections-satisfy-the-law-but-not-you?pk_campaign=rss-feed)
 - [AI Baby Monitors and Consent](https://dev.to/rawveg/ai-baby-monitors-and-consent-3665)
 - [The Suspicion Engine: How Flock Cameras Decide Who Police Should Watch](https://smarterarticles.co.uk/the-suspicion-engine-how-flock-cameras-decide-who-police-should-watch?pk_campaign=rss-feed)
-- [Handed the Pen, Students Chose Restrictions](https://dev.to/rawveg/handed-the-pen-students-chose-restrictions-2ege)
 <!-- BLOG-POST-LIST:END -->
