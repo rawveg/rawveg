@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Same Question, Smaller Answer: The Hidden Bias in AI Money Advice](https://smarterarticles.co.uk/same-question-smaller-answer-the-hidden-bias-in-ai-money-advice?pk_campaign=rss-feed)
 - [Your Face Was the Ticket](https://dev.to/rawveg/your-face-was-the-ticket-2o92)
 - [The Moral Crumple Zone: Why Workers Absorb Blame for AI Agents](https://smarterarticles.co.uk/the-moral-crumple-zone-why-workers-absorb-blame-for-ai-agents?pk_campaign=rss-feed)
 - [AI &amp; The Harvested Field](https://dev.to/rawveg/ai-the-harvested-field-4jhk)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Removed by a Forecast](https://dev.to/rawveg/removed-by-a-forecast-15fe)
 - [The Hollow Explanation: How AI Rejections Satisfy the Law but Not You](https://smarterarticles.co.uk/the-hollow-explanation-how-ai-rejections-satisfy-the-law-but-not-you?pk_campaign=rss-feed)
 - [AI Baby Monitors and Consent](https://dev.to/rawveg/ai-baby-monitors-and-consent-3665)
-- [The Suspicion Engine: How Flock Cameras Decide Who Police Should Watch](https://smarterarticles.co.uk/the-suspicion-engine-how-flock-cameras-decide-who-police-should-watch?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
