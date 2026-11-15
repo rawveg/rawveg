@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Your Commits Are for Sale: Who Owns Code History Sold to AI](https://smarterarticles.co.uk/your-commits-are-for-sale-who-owns-code-history-sold-to-ai?pk_campaign=rss-feed)
 - [The Most Expensive Private School in Oklahoma](https://dev.to/rawveg/the-most-expensive-private-school-in-oklahoma-bdh)
 - [Same Question, Smaller Answer: The Hidden Bias in AI Money Advice](https://smarterarticles.co.uk/same-question-smaller-answer-the-hidden-bias-in-ai-money-advice?pk_campaign=rss-feed)
 - [Your Face Was the Ticket](https://dev.to/rawveg/your-face-was-the-ticket-2o92)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Who Decides Where Data Centres Go](https://dev.to/rawveg/who-decides-where-data-centres-go-10m4)
 - [The Third Listener: How AI Scribes Decide What Your Doctor Records](https://smarterarticles.co.uk/the-third-listener-how-ai-scribes-decide-what-your-doctor-records?pk_campaign=rss-feed)
 - [Removed by a Forecast](https://dev.to/rawveg/removed-by-a-forecast-15fe)
-- [The Hollow Explanation: How AI Rejections Satisfy the Law but Not You](https://smarterarticles.co.uk/the-hollow-explanation-how-ai-rejections-satisfy-the-law-but-not-you?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
