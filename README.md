@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Meta Pays 567 Million Dollars](https://dev.to/rawveg/meta-pays-567-million-dollars-29ii)
 - [Your Commits Are for Sale: Who Owns Code History Sold to AI](https://smarterarticles.co.uk/your-commits-are-for-sale-who-owns-code-history-sold-to-ai?pk_campaign=rss-feed)
 - [The Most Expensive Private School in Oklahoma](https://dev.to/rawveg/the-most-expensive-private-school-in-oklahoma-bdh)
 - [Same Question, Smaller Answer: The Hidden Bias in AI Money Advice](https://smarterarticles.co.uk/same-question-smaller-answer-the-hidden-bias-in-ai-money-advice?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [When AI Should Not Explain Itself: Designing for Calibrated Trust](https://smarterarticles.co.uk/when-ai-should-not-explain-itself-designing-for-calibrated-trust?pk_campaign=rss-feed)
 - [Who Decides Where Data Centres Go](https://dev.to/rawveg/who-decides-where-data-centres-go-10m4)
 - [The Third Listener: How AI Scribes Decide What Your Doctor Records](https://smarterarticles.co.uk/the-third-listener-how-ai-scribes-decide-what-your-doctor-records?pk_campaign=rss-feed)
-- [Removed by a Forecast](https://dev.to/rawveg/removed-by-a-forecast-15fe)
 <!-- BLOG-POST-LIST:END -->
