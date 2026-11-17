@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Google Gemini in Classrooms: Who Consents for an Eleven-Year-Old?](https://smarterarticles.co.uk/google-gemini-in-classrooms-who-consents-for-an-eleven-year-old?pk_campaign=rss-feed)
 - [Navigating the Ethics of AI Treatment and Cruelty - SmarterArticles S1E30](https://dev.to/rawveg/navigating-the-ethics-of-ai-treatment-and-cruelty-smarterarticles-s1e30-1hii)
 - [95% Solved](https://dev.to/rawveg/95-solved-33fp)
 - [Guilty Until Proven Human: How AI Suspicion Broke Book Publishing](https://smarterarticles.co.uk/guilty-until-proven-human-how-ai-suspicion-broke-book-publishing?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [AI Companions: Bridging or Widening Social Inequality? - SmarterArticles S1E29](https://dev.to/rawveg/ai-companions-bridging-or-widening-social-inequality-smarterarticles-s1e29-199i)
 - [The Age Check Backfire](https://dev.to/rawveg/the-age-check-backfire-431b)
 - [AI and the Graduate Premium: Knowledge Gets Cheaper, Judgement Gets Dearer](https://smarterarticles.co.uk/ai-and-the-graduate-premium-knowledge-gets-cheaper-judgement-gets-dearer?pk_campaign=rss-feed)
-- [The Price You Alone Pay](https://dev.to/rawveg/the-price-you-alone-pay-3l2i)
 <!-- BLOG-POST-LIST:END -->
