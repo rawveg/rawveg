@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Faking Is Free](https://dev.to/rawveg/faking-is-free-4728)
 - [Pervert Glasses, Real Harm: The Disabled Users Paying for the Panic](https://smarterarticles.co.uk/pervert-glasses-real-harm-the-disabled-users-paying-for-the-panic?pk_campaign=rss-feed)
 - [Your AI Agent Will Be Compromised](https://dev.to/rawveg/your-ai-agent-will-be-compromised-42af)
 - [Google Gemini in Classrooms: Who Consents for an Eleven-Year-Old?](https://smarterarticles.co.uk/google-gemini-in-classrooms-who-consents-for-an-eleven-year-old?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Grief for Sale](https://dev.to/rawveg/grief-for-sale-31k6)
 - [Your Coding Agent Thinks It Has Finished. Make It Prove It.](https://dev.to/rawveg/your-coding-agent-thinks-it-has-finished-make-it-prove-it-2bg)
 - [When Nobody Asks the Basic Question: Where Future Experts Come From](https://smarterarticles.co.uk/when-nobody-asks-the-basic-question-where-future-experts-come-from?pk_campaign=rss-feed)
-- [AI Companions: Bridging or Widening Social Inequality? - SmarterArticles S1E29](https://dev.to/rawveg/ai-companions-bridging-or-widening-social-inequality-smarterarticles-s1e29-199i)
 <!-- BLOG-POST-LIST:END -->
