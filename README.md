@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Barren Mountain Got a Data Centre](https://dev.to/rawveg/the-barren-mountain-got-a-data-centre-4mge)
 - [Kindly Do the Needful: The Words That AI Writing Tools Delete First](https://smarterarticles.co.uk/kindly-do-the-needful-the-words-that-ai-writing-tools-delete-first?pk_campaign=rss-feed)
 - [Faking Is Free](https://dev.to/rawveg/faking-is-free-4728)
 - [Pervert Glasses, Real Harm: The Disabled Users Paying for the Panic](https://smarterarticles.co.uk/pervert-glasses-real-harm-the-disabled-users-paying-for-the-panic?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Fifty-Seven Million Cases](https://dev.to/rawveg/fifty-seven-million-cases-3g6g)
 - [What a Basic Income Cannot Buy: Work, Meaning and the AI Shock](https://smarterarticles.co.uk/what-a-basic-income-cannot-buy-work-meaning-and-the-ai-shock?pk_campaign=rss-feed)
 - [Grief for Sale](https://dev.to/rawveg/grief-for-sale-31k6)
-- [Your Coding Agent Thinks It Has Finished. Make It Prove It.](https://dev.to/rawveg/your-coding-agent-thinks-it-has-finished-make-it-prove-it-2bg)
 <!-- BLOG-POST-LIST:END -->
