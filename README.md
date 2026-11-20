@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Mass AI Job Losses Have Not Arrived: The Fear Has](https://smarterarticles.co.uk/mass-ai-job-losses-have-not-arrived-the-fear-has?pk_campaign=rss-feed)
 - [The Barren Mountain Got a Data Centre](https://dev.to/rawveg/the-barren-mountain-got-a-data-centre-4mge)
 - [Kindly Do the Needful: The Words That AI Writing Tools Delete First](https://smarterarticles.co.uk/kindly-do-the-needful-the-words-that-ai-writing-tools-delete-first?pk_campaign=rss-feed)
 - [Faking Is Free](https://dev.to/rawveg/faking-is-free-4728)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Dead Did Not Say That: AI Griefbots and Memory](https://smarterarticles.co.uk/the-dead-did-not-say-that-ai-griefbots-and-memory?pk_campaign=rss-feed)
 - [Fifty-Seven Million Cases](https://dev.to/rawveg/fifty-seven-million-cases-3g6g)
 - [What a Basic Income Cannot Buy: Work, Meaning and the AI Shock](https://smarterarticles.co.uk/what-a-basic-income-cannot-buy-work-meaning-and-the-ai-shock?pk_campaign=rss-feed)
-- [Grief for Sale](https://dev.to/rawveg/grief-for-sale-31k6)
 <!-- BLOG-POST-LIST:END -->
