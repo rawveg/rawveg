@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Rebounding: Why Companies Are Rehiring the Workers They Cut](https://smarterarticles.co.uk/ai-rebounding-why-companies-are-rehiring-the-workers-they-cut?pk_campaign=rss-feed)
 - [The Age Penalty](https://dev.to/rawveg/the-age-penalty-3ke7)
 - [Mass AI Job Losses Have Not Arrived: The Fear Has](https://smarterarticles.co.uk/mass-ai-job-losses-have-not-arrived-the-fear-has?pk_campaign=rss-feed)
 - [The Barren Mountain Got a Data Centre](https://dev.to/rawveg/the-barren-mountain-got-a-data-centre-4mge)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Moral Crumple Zone: Why Workers Absorb Blame for AI Agents](https://smarterarticles.co.uk/the-moral-crumple-zone-why-workers-absorb-blame-for-ai-agents?pk_campaign=rss-feed)
 - [AI &amp; The Harvested Field](https://dev.to/rawveg/ai-the-harvested-field-4jhk)
 - [The Dead Did Not Say That: AI Griefbots and Memory](https://smarterarticles.co.uk/the-dead-did-not-say-that-ai-griefbots-and-memory?pk_campaign=rss-feed)
-- [Fifty-Seven Million Cases](https://dev.to/rawveg/fifty-seven-million-cases-3g6g)
 <!-- BLOG-POST-LIST:END -->
