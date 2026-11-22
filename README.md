@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [No Robo Bosses Act: Why a Human Signature Is Not a Decision](https://smarterarticles.co.uk/no-robo-bosses-act-why-a-human-signature-is-not-a-decision?pk_campaign=rss-feed)
 - [Six Words and a Login](https://dev.to/rawveg/six-words-and-a-login-4p1e)
 - [AI Rebounding: Why Companies Are Rehiring the Workers They Cut](https://smarterarticles.co.uk/ai-rebounding-why-companies-are-rehiring-the-workers-they-cut?pk_campaign=rss-feed)
 - [The Age Penalty](https://dev.to/rawveg/the-age-penalty-3ke7)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Same Question, Smaller Answer: The Hidden Bias in AI Money Advice](https://smarterarticles.co.uk/same-question-smaller-answer-the-hidden-bias-in-ai-money-advice?pk_campaign=rss-feed)
 - [Your Face Was the Ticket](https://dev.to/rawveg/your-face-was-the-ticket-2o92)
 - [The Moral Crumple Zone: Why Workers Absorb Blame for AI Agents](https://smarterarticles.co.uk/the-moral-crumple-zone-why-workers-absorb-blame-for-ai-agents?pk_campaign=rss-feed)
-- [AI &amp; The Harvested Field](https://dev.to/rawveg/ai-the-harvested-field-4jhk)
 <!-- BLOG-POST-LIST:END -->
