@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Digital Natives: Vulnerable Targets in a Scam-Filled World - SmarterArticles S1E31](https://dev.to/rawveg/digital-natives-vulnerable-targets-in-a-scam-filled-world-smarterarticles-s1e31-51fm)
 - [Botsitting](https://dev.to/rawveg/botsitting-1e)
 - [Who Draws the Next Gruffalo: Why AI Cannot Replace the Illustrator](https://smarterarticles.co.uk/who-draws-the-next-gruffalo-why-ai-cannot-replace-the-illustrator?pk_campaign=rss-feed)
 - [No Better Than a Notebook](https://dev.to/rawveg/no-better-than-a-notebook-3i3b)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Guilty Until Proven Human: How AI Suspicion Broke Book Publishing](https://smarterarticles.co.uk/guilty-until-proven-human-how-ai-suspicion-broke-book-publishing?pk_campaign=rss-feed)
 - [Meta Pays 567 Million Dollars](https://dev.to/rawveg/meta-pays-567-million-dollars-29ii)
 - [Your Commits Are for Sale: Who Owns Code History Sold to AI](https://smarterarticles.co.uk/your-commits-are-for-sale-who-owns-code-history-sold-to-ai?pk_campaign=rss-feed)
-- [The Most Expensive Private School in Oklahoma](https://dev.to/rawveg/the-most-expensive-private-school-in-oklahoma-bdh)
 <!-- BLOG-POST-LIST:END -->
