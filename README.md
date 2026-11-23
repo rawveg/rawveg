@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Botsitting](https://dev.to/rawveg/botsitting-1e)
 - [Who Draws the Next Gruffalo: Why AI Cannot Replace the Illustrator](https://smarterarticles.co.uk/who-draws-the-next-gruffalo-why-ai-cannot-replace-the-illustrator?pk_campaign=rss-feed)
 - [No Better Than a Notebook](https://dev.to/rawveg/no-better-than-a-notebook-3i3b)
 - [No Robo Bosses Act: Why a Human Signature Is Not a Decision](https://smarterarticles.co.uk/no-robo-bosses-act-why-a-human-signature-is-not-a-decision?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Meta Pays 567 Million Dollars](https://dev.to/rawveg/meta-pays-567-million-dollars-29ii)
 - [Your Commits Are for Sale: Who Owns Code History Sold to AI](https://smarterarticles.co.uk/your-commits-are-for-sale-who-owns-code-history-sold-to-ai?pk_campaign=rss-feed)
 - [The Most Expensive Private School in Oklahoma](https://dev.to/rawveg/the-most-expensive-private-school-in-oklahoma-bdh)
-- [Same Question, Smaller Answer: The Hidden Bias in AI Money Advice](https://smarterarticles.co.uk/same-question-smaller-answer-the-hidden-bias-in-ai-money-advice?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
