@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Forty Perfect Scores](https://dev.to/rawveg/forty-perfect-scores-2784)
 - [Your Doctor Is Being Cloned: Who Should Pay for the Fake](https://smarterarticles.co.uk/your-doctor-is-being-cloned-who-should-pay-for-the-fake?pk_campaign=rss-feed)
 - [Digital Natives: Vulnerable Targets in a Scam-Filled World - SmarterArticles S1E31](https://dev.to/rawveg/digital-natives-vulnerable-targets-in-a-scam-filled-world-smarterarticles-s1e31-51fm)
 - [Botsitting](https://dev.to/rawveg/botsitting-1e)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Navigating the Ethics of AI Treatment and Cruelty - SmarterArticles S1E30](https://dev.to/rawveg/navigating-the-ethics-of-ai-treatment-and-cruelty-smarterarticles-s1e30-1hii)
 - [95% Solved](https://dev.to/rawveg/95-solved-33fp)
 - [Guilty Until Proven Human: How AI Suspicion Broke Book Publishing](https://smarterarticles.co.uk/guilty-until-proven-human-how-ai-suspicion-broke-book-publishing?pk_campaign=rss-feed)
-- [Meta Pays 567 Million Dollars](https://dev.to/rawveg/meta-pays-567-million-dollars-29ii)
 <!-- BLOG-POST-LIST:END -->
