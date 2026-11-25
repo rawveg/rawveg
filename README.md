@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Grief Nobody Counted](https://dev.to/rawveg/the-grief-nobody-counted-1o3e)
 - [A Trailer, a Cover, a Voice: The Rights You Never Bought](https://smarterarticles.co.uk/a-trailer-a-cover-a-voice-the-rights-you-never-bought?pk_campaign=rss-feed)
 - [Forty Perfect Scores](https://dev.to/rawveg/forty-perfect-scores-2784)
 - [Your Doctor Is Being Cloned: Who Should Pay for the Fake](https://smarterarticles.co.uk/your-doctor-is-being-cloned-who-should-pay-for-the-fake?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Your AI Agent Will Be Compromised](https://dev.to/rawveg/your-ai-agent-will-be-compromised-42af)
 - [Google Gemini in Classrooms: Who Consents for an Eleven-Year-Old?](https://smarterarticles.co.uk/google-gemini-in-classrooms-who-consents-for-an-eleven-year-old?pk_campaign=rss-feed)
 - [Navigating the Ethics of AI Treatment and Cruelty - SmarterArticles S1E30](https://dev.to/rawveg/navigating-the-ethics-of-ai-treatment-and-cruelty-smarterarticles-s1e30-1hii)
-- [95% Solved](https://dev.to/rawveg/95-solved-33fp)
 <!-- BLOG-POST-LIST:END -->
