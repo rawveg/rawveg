@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Fluency Trap](https://dev.to/rawveg/the-fluency-trap-29b7)
 - [Medical AI Passed the Audit: The Team Still Sorted Patients by Race](https://smarterarticles.co.uk/medical-ai-passed-the-audit-the-team-still-sorted-patients-by-race?pk_campaign=rss-feed)
 - [The Grief Nobody Counted](https://dev.to/rawveg/the-grief-nobody-counted-1o3e)
 - [A Trailer, a Cover, a Voice: The Rights You Never Bought](https://smarterarticles.co.uk/a-trailer-a-cover-a-voice-the-rights-you-never-bought?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [Faking Is Free](https://dev.to/rawveg/faking-is-free-4728)
 - [Pervert Glasses, Real Harm: The Disabled Users Paying for the Panic](https://smarterarticles.co.uk/pervert-glasses-real-harm-the-disabled-users-paying-for-the-panic?pk_campaign=rss-feed)
 - [Your AI Agent Will Be Compromised](https://dev.to/rawveg/your-ai-agent-will-be-compromised-42af)
-- [Google Gemini in Classrooms: Who Consents for an Eleven-Year-Old?](https://smarterarticles.co.uk/google-gemini-in-classrooms-who-consents-for-an-eleven-year-old?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
