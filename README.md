@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [The Exported Thirst](https://dev.to/rawveg/the-exported-thirst-163i)
 - [AI Agents Overstep One in Five: Why Prompts Cannot Hold the Line](https://smarterarticles.co.uk/ai-agents-overstep-one-in-five-why-prompts-cannot-hold-the-line?pk_campaign=rss-feed)
 - [The Fluency Trap](https://dev.to/rawveg/the-fluency-trap-29b7)
 - [Medical AI Passed the Audit: The Team Still Sorted Patients by Race](https://smarterarticles.co.uk/medical-ai-passed-the-audit-the-team-still-sorted-patients-by-race?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Barren Mountain Got a Data Centre](https://dev.to/rawveg/the-barren-mountain-got-a-data-centre-4mge)
 - [Kindly Do the Needful: The Words That AI Writing Tools Delete First](https://smarterarticles.co.uk/kindly-do-the-needful-the-words-that-ai-writing-tools-delete-first?pk_campaign=rss-feed)
 - [Faking Is Free](https://dev.to/rawveg/faking-is-free-4728)
-- [Pervert Glasses, Real Harm: The Disabled Users Paying for the Panic](https://smarterarticles.co.uk/pervert-glasses-real-harm-the-disabled-users-paying-for-the-panic?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
