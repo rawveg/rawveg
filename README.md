@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [No Attacker, No Provider](https://dev.to/rawveg/no-attacker-no-provider-1j0c)
 - [AI in Schools Without Rules: Why Student Data Is Already Exposed](https://smarterarticles.co.uk/ai-in-schools-without-rules-why-student-data-is-already-exposed?pk_campaign=rss-feed)
 - [The Exported Thirst](https://dev.to/rawveg/the-exported-thirst-163i)
 - [AI Agents Overstep One in Five: Why Prompts Cannot Hold the Line](https://smarterarticles.co.uk/ai-agents-overstep-one-in-five-why-prompts-cannot-hold-the-line?pk_campaign=rss-feed)
@@ -34,5 +35,4 @@ Here are some ideas to get you started:
 - [The Age Penalty](https://dev.to/rawveg/the-age-penalty-3ke7)
 - [Mass AI Job Losses Have Not Arrived: The Fear Has](https://smarterarticles.co.uk/mass-ai-job-losses-have-not-arrived-the-fear-has?pk_campaign=rss-feed)
 - [The Barren Mountain Got a Data Centre](https://dev.to/rawveg/the-barren-mountain-got-a-data-centre-4mge)
-- [Kindly Do the Needful: The Words That AI Writing Tools Delete First](https://smarterarticles.co.uk/kindly-do-the-needful-the-words-that-ai-writing-tools-delete-first?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
